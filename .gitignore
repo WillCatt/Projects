@@ -3,4 +3,6 @@ __pycache__/
 .env/
 .vscode/
 *.ipynb_checkpoints/
-.DS_Store
+.DS_Storecd ~/Projects
+rm -rf .git
+git init
