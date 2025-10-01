@@ -1,8 +1,0 @@
-*.pyc
-__pycache__/
-.env/
-.vscode/
-*.ipynb_checkpoints/
-.DS_Storecd ~/Projects
-rm -rf .git
-git init
