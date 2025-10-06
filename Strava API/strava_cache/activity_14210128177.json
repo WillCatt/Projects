@@ -1,0 +1,1233 @@
+{
+  "cached_at": "2025-10-06T16:15:52.905707",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Afternoon Run",
+    "distance": 7411.4,
+    "moving_time": 2665,
+    "elapsed_time": 2843,
+    "total_elevation_gain": 75.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 14210128177,
+    "start_date": "2025-04-18T06:50:04Z",
+    "start_date_local": "2025-04-18T15:50:04Z",
+    "timezone": "(GMT+09:00) Asia/Seoul",
+    "utc_offset": 32400.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 8,
+    "kudos_count": 3,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a14210128177",
+      "polyline": "mcruE_}hsWdStCiANUXGLIDaB@yAA_ASLUAK}@g@XEHS@i@Eg@@Ah@Pn@]D?\\v@x@jCTb@X~@h@xAt@z@b@~@?p@Eb@?p@J`@HFtBc@nAOnABVPP@f@Jp@\\NPb@RJ@PLLDf@DNABEV?ZJNKXHDLTJp@TJ?NFJAHD\\HXPR`@ITq@z@O^Ov@UPc@j@SDAAMFIPOFICa@?OCG@cA[YEs@a@[[U]K]{@kB]g@Oa@i@k@IWSYWo@EQKDiB\\[Ba@JSJBCIQFmANuA@u@GSWc@o@e@Wo@GA?S}AqDUo@_AwCWg@a@sA{@{DsA{JS}BIk@Gm@EQQyA?k@Kc@WcBAeCWmE?gADuAB_DASBkACm@Bm@?uBEWp@aGFm@FWZo@DOd@_@`AsAVw@\\c@Vi@KHYPq@n@MXGTQ\\]`@ENe@`AQj@]b@UtAG~@Ad@F~AIpB@fBCl@BHEl@Bl@AzCIpCL`A@n@N|BBbANvADt@JZXnEPnALjAPbAPnABn@Lj@Hv@TvAh@`Cr@dCdAxCXj@DDJb@f@|AZv@T~@f@r@\\Z`@t@?b@Ip@Bt@Fd@RFXA|AUh@AhAKv@BZD^PfCpA^Fb@Bl@LpAd@h@L`A?\\VDZOr@g@rASZUV_@r@a@b@_@Fg@I]OYIi@GYIaAo@aAcBK]c@y@Wu@}@iAc@_A[[[MK?_BXc@BJwBBQDo@EMYe@_A}@QWI]a@gA_@{@ODw@j@mAr@QFI?EAAEA}ADo@CKM?e@Ng@Ce@@KGa@EkAKa@K",
+      "resource_state": 3,
+      "summary_polyline": "mcruE_}hsWdStCiANUXGLIDaB@yAA_ASLUAK}@g@XEHS@i@Eg@@Ah@Pn@]D?\\v@x@jCTb@X~@h@xAt@z@b@~@?p@Eb@?p@J`@HFtBc@nAOnABVPP@f@Jp@\\NPb@RJ@PLLDf@DNABEV?ZJNKXHDLTJp@TJ?NFJAHD\\HXPR`@ITq@z@O^Ov@UPc@j@SDAAMFIPOFICa@?OCG@cA[YEs@a@[[U]K]{@kB]g@Oa@i@k@IWSYWo@EQKDiB\\[Ba@JSJBCIQFmANuA@u@GSWc@o@e@Wo@GA?S}AqDUo@_AwCWg@a@sA{@{DsA{JS}BIk@Gm@EQQyA?k@Kc@WcBAeCWmE?gADuAB_DASBkACm@Bm@?uBEWp@aGFm@FWZo@DOd@_@`AsAVw@\\c@Vi@KHYPq@n@MXGTQ\\]`@ENe@`AQj@]b@UtAG~@Ad@F~AIpB@fBCl@BHEl@Bl@AzCIpCL`A@n@N|BBbANvADt@JZXnEPnALjAPbAPnABn@Lj@Hv@TvAh@`Cr@dCdAxCXj@DDJb@f@|AZv@T~@f@r@\\Z`@t@?b@Ip@Bt@Fd@RFXA|AUh@AhAKv@BZD^PfCpA^Fb@Bl@LpAd@h@L`A?\\VDZOr@g@rASZUV_@r@a@b@_@Fg@I]OYIi@GYIaAo@aAcBK]c@y@Wu@}@iAc@_A[[[MK?_BXc@BJwBBQDo@EMYe@_A}@QWI]a@gA_@{@ODw@j@mAr@QFI?EAAEA}ADo@CKM?e@Ng@Ce@@KGa@EkAKa@K"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      35.159752,
+      129.156807
+    ],
+    "end_latlng": [
+      35.159903,
+      129.156277
+    ],
+    "average_speed": 2.781,
+    "max_speed": 7.143,
+    "average_cadence": 79.8,
+    "average_temp": 25,
+    "has_heartrate": true,
+    "average_heartrate": 150.9,
+    "max_heartrate": 173.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 34.8,
+    "elev_low": 10.2,
+    "upload_id": 15165533762,
+    "upload_id_str": "15165533762",
+    "external_id": "garmin_ping_430223585663",
+    "from_accepted_tag": false,
+    "pr_count": 3,
+    "total_photo_count": 3,
+    "has_kudoed": false,
+    "description": "",
+    "calories": 468.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [
+      {
+        "id": 3348218736282526310,
+        "resource_state": 2,
+        "name": "Beach stretch",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 563,
+        "moving_time": 558,
+        "start_date": "2025-04-18T07:03:21Z",
+        "start_date_local": "2025-04-18T16:03:21Z",
+        "distance": 1547.9,
+        "start_index": 204,
+        "end_index": 319,
+        "average_cadence": 78.3,
+        "device_watts": false,
+        "average_heartrate": 151.5,
+        "max_heartrate": 167.0,
+        "segment": {
+          "id": 14319772,
+          "resource_state": 2,
+          "name": "Beach stretch",
+          "activity_type": "Run",
+          "distance": 1547.9,
+          "average_grade": -0.2,
+          "maximum_grade": 2.3,
+          "elevation_high": 15.0,
+          "elevation_low": 10.4,
+          "start_latlng": [
+            35.156566,
+            129.153786
+          ],
+          "end_latlng": [
+            35.159227,
+            129.16976
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Busan",
+          "state": null,
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3348218736281420390,
+        "resource_state": 2,
+        "name": "kids playparc straight",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 98,
+        "moving_time": 93,
+        "start_date": "2025-04-18T07:03:49Z",
+        "start_date_local": "2025-04-18T16:03:49Z",
+        "distance": 260.6,
+        "start_index": 209,
+        "end_index": 229,
+        "average_cadence": 72.2,
+        "device_watts": false,
+        "average_heartrate": 141.3,
+        "max_heartrate": 143.0,
+        "segment": {
+          "id": 14319773,
+          "resource_state": 2,
+          "name": "kids playparc straight",
+          "activity_type": "Run",
+          "distance": 260.6,
+          "average_grade": -0.4,
+          "maximum_grade": 0.5,
+          "elevation_high": 14.8,
+          "elevation_low": 12.8,
+          "start_latlng": [
+            35.156608,
+            129.15447
+          ],
+          "end_latlng": [
+            35.157947,
+            129.156786
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Busan",
+          "state": null,
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3348218736282013286,
+        "resource_state": 2,
+        "name": "Beach Front Eastbound",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 335,
+        "moving_time": 335,
+        "start_date": "2025-04-18T07:05:34Z",
+        "start_date_local": "2025-04-18T16:05:34Z",
+        "distance": 945.8,
+        "start_index": 230,
+        "end_index": 296,
+        "average_cadence": 79.6,
+        "device_watts": false,
+        "average_heartrate": 153.7,
+        "max_heartrate": 167.0,
+        "segment": {
+          "id": 14319778,
+          "resource_state": 2,
+          "name": "Beach Front Eastbound",
+          "activity_type": "Run",
+          "distance": 945.8,
+          "average_grade": -0.1,
+          "maximum_grade": 1.3,
+          "elevation_high": 12.2,
+          "elevation_low": 10.4,
+          "start_latlng": [
+            35.157842,
+            129.15696
+          ],
+          "end_latlng": [
+            35.159538,
+            129.166984
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Busan",
+          "state": null,
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3348218736283106918,
+        "resource_state": 2,
+        "name": "Aquarium  straight eastbound",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 114,
+        "moving_time": 114,
+        "start_date": "2025-04-18T07:05:34Z",
+        "start_date_local": "2025-04-18T16:05:34Z",
+        "distance": 308.8,
+        "start_index": 230,
+        "end_index": 249,
+        "average_cadence": 79.3,
+        "device_watts": false,
+        "average_heartrate": 147.9,
+        "max_heartrate": 151.0,
+        "segment": {
+          "id": 14319782,
+          "resource_state": 2,
+          "name": "Aquarium  straight eastbound",
+          "activity_type": "Run",
+          "distance": 308.8,
+          "average_grade": -0.3,
+          "maximum_grade": 0.3,
+          "elevation_high": 12.2,
+          "elevation_low": 11.0,
+          "start_latlng": [
+            35.157842,
+            129.15696
+          ],
+          "end_latlng": [
+            35.158828,
+            129.160111
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Busan",
+          "state": null,
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3348218736283388518,
+        "resource_state": 2,
+        "name": "Sea Life East",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 230,
+        "moving_time": 230,
+        "start_date": "2025-04-18T07:07:44Z",
+        "start_date_local": "2025-04-18T16:07:44Z",
+        "distance": 646.5,
+        "start_index": 252,
+        "end_index": 301,
+        "average_cadence": 79.6,
+        "device_watts": false,
+        "average_heartrate": 157.4,
+        "max_heartrate": 167.0,
+        "segment": {
+          "id": 14319785,
+          "resource_state": 2,
+          "name": "Sea Life East",
+          "activity_type": "Run",
+          "distance": 646.5,
+          "average_grade": -0.1,
+          "maximum_grade": 1.4,
+          "elevation_high": 12.0,
+          "elevation_low": 10.4,
+          "start_latlng": [
+            35.159001,
+            129.160707
+          ],
+          "end_latlng": [
+            35.159438,
+            129.167708
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Busan",
+          "state": null,
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3348218736282371686,
+        "resource_state": 2,
+        "name": "Test segment",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 44,
+        "moving_time": 44,
+        "start_date": "2025-04-18T07:09:18Z",
+        "start_date_local": "2025-04-18T16:09:18Z",
+        "distance": 131.0,
+        "start_index": 271,
+        "end_index": 280,
+        "average_cadence": 80.1,
+        "device_watts": false,
+        "average_heartrate": 158.1,
+        "max_heartrate": 167.0,
+        "segment": {
+          "id": 14318382,
+          "resource_state": 2,
+          "name": "Test segment",
+          "activity_type": "Run",
+          "distance": 131.0,
+          "average_grade": 0.2,
+          "maximum_grade": 0.5,
+          "elevation_high": 1.2,
+          "elevation_low": 0.8,
+          "start_latlng": [
+            35.159641,
+            129.163303
+          ],
+          "end_latlng": [
+            35.159743,
+            129.164719
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Busan",
+          "state": null,
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3348218736282801766,
+        "resource_state": 2,
+        "name": "Haeundae beach Run EW",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 543,
+        "moving_time": 543,
+        "start_date": "2025-04-18T07:15:18Z",
+        "start_date_local": "2025-04-18T16:15:18Z",
+        "distance": 1455.9,
+        "start_index": 351,
+        "end_index": 451,
+        "average_cadence": 79.0,
+        "device_watts": false,
+        "average_heartrate": 154.5,
+        "max_heartrate": 164.0,
+        "segment": {
+          "id": 13564856,
+          "resource_state": 2,
+          "name": "Haeundae beach Run EW",
+          "activity_type": "Run",
+          "distance": 1455.9,
+          "average_grade": -0.7,
+          "maximum_grade": 158.2,
+          "elevation_high": 29.0,
+          "elevation_low": 0.0,
+          "start_latlng": [
+            35.159312,
+            129.169597
+          ],
+          "end_latlng": [
+            35.156587,
+            129.154505
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Busan",
+          "state": null,
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3348218736280946278,
+        "resource_state": 2,
+        "name": "West to Sea Life",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 253,
+        "moving_time": 253,
+        "start_date": "2025-04-18T07:16:28Z",
+        "start_date_local": "2025-04-18T16:16:28Z",
+        "distance": 673.4,
+        "start_index": 361,
+        "end_index": 406,
+        "average_cadence": 77.6,
+        "device_watts": false,
+        "average_heartrate": 152.9,
+        "max_heartrate": 155.0,
+        "segment": {
+          "id": 14319791,
+          "resource_state": 2,
+          "name": "West to Sea Life",
+          "activity_type": "Run",
+          "distance": 673.4,
+          "average_grade": 0.1,
+          "maximum_grade": 1.4,
+          "elevation_high": 12.2,
+          "elevation_low": 9.8,
+          "start_latlng": [
+            35.159509,
+            129.167675
+          ],
+          "end_latlng": [
+            35.15903,
+            129.160371
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Busan",
+          "state": null,
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3348218736279987814,
+        "resource_state": 2,
+        "name": "Sealife towards Park Westbound",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 206,
+        "moving_time": 206,
+        "start_date": "2025-04-18T07:20:23Z",
+        "start_date_local": "2025-04-18T16:20:23Z",
+        "distance": 574.5,
+        "start_index": 403,
+        "end_index": 445,
+        "average_cadence": 80.4,
+        "device_watts": false,
+        "average_heartrate": 155.4,
+        "max_heartrate": 162.0,
+        "segment": {
+          "id": 14319796,
+          "resource_state": 2,
+          "name": "Sealife towards Park Westbound",
+          "activity_type": "Run",
+          "distance": 574.5,
+          "average_grade": 0.3,
+          "maximum_grade": 2.8,
+          "elevation_high": 13.6,
+          "elevation_low": 10.6,
+          "start_latlng": [
+            35.159133,
+            129.160803
+          ],
+          "end_latlng": [
+            35.15708,
+            129.155078
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Busan",
+          "state": null,
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.8,
+        "elapsed_time": 289,
+        "elevation_difference": 8.4,
+        "moving_time": 259,
+        "split": 1,
+        "average_speed": 3.87,
+        "average_grade_adjusted_speed": 3.98,
+        "average_heartrate": 139.7012987012987,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.2,
+        "elapsed_time": 406,
+        "elevation_difference": 8.6,
+        "moving_time": 406,
+        "split": 2,
+        "average_speed": 2.47,
+        "average_grade_adjusted_speed": 2.57,
+        "average_heartrate": 146.55555555555554,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.4,
+        "elapsed_time": 405,
+        "elevation_difference": -11.4,
+        "moving_time": 383,
+        "split": 3,
+        "average_speed": 2.61,
+        "average_grade_adjusted_speed": 2.56,
+        "average_heartrate": 143.00817438692098,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.2,
+        "elapsed_time": 370,
+        "elevation_difference": -1.0,
+        "moving_time": 370,
+        "split": 4,
+        "average_speed": 2.7,
+        "average_grade_adjusted_speed": 2.7,
+        "average_heartrate": 156.5391061452514,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.7,
+        "elapsed_time": 371,
+        "elevation_difference": 0.4,
+        "moving_time": 371,
+        "split": 5,
+        "average_speed": 2.69,
+        "average_grade_adjusted_speed": 2.71,
+        "average_heartrate": 152.6010781671159,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.7,
+        "elapsed_time": 367,
+        "elevation_difference": 18.8,
+        "moving_time": 367,
+        "split": 6,
+        "average_speed": 2.72,
+        "average_grade_adjusted_speed": 2.92,
+        "average_heartrate": 161.03542234332426,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1002.0,
+        "elapsed_time": 345,
+        "elevation_difference": -14.8,
+        "moving_time": 345,
+        "split": 7,
+        "average_speed": 2.9,
+        "average_grade_adjusted_speed": 2.83,
+        "average_heartrate": 157.60289855072463,
+        "pace_zone": 0
+      },
+      {
+        "distance": 409.4,
+        "elapsed_time": 292,
+        "elevation_difference": -3.4,
+        "moving_time": 166,
+        "split": 8,
+        "average_speed": 2.47,
+        "average_grade_adjusted_speed": 2.48,
+        "average_heartrate": 141.8060606060606,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1611.8,
+        "elapsed_time": 536,
+        "elevation_difference": 20.2,
+        "moving_time": 506,
+        "split": 1,
+        "average_speed": 3.19,
+        "average_grade_adjusted_speed": 3.34,
+        "average_heartrate": 143.8765690376569,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1621.9,
+        "elapsed_time": 647,
+        "elevation_difference": -14.2,
+        "moving_time": 625,
+        "split": 2,
+        "average_speed": 2.6,
+        "average_grade_adjusted_speed": 2.56,
+        "average_heartrate": 145.16118421052633,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1597.7,
+        "elapsed_time": 594,
+        "elevation_difference": -0.2,
+        "moving_time": 594,
+        "split": 3,
+        "average_speed": 2.69,
+        "average_grade_adjusted_speed": 2.7,
+        "average_heartrate": 154.5807560137457,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1614.1,
+        "elapsed_time": 591,
+        "elevation_difference": 18.8,
+        "moving_time": 591,
+        "split": 4,
+        "average_speed": 2.73,
+        "average_grade_adjusted_speed": 2.86,
+        "average_heartrate": 159.7580372250423,
+        "pace_zone": 0
+      },
+      {
+        "distance": 965.9,
+        "elapsed_time": 477,
+        "elevation_difference": -19.0,
+        "moving_time": 351,
+        "split": 5,
+        "average_speed": 2.75,
+        "average_grade_adjusted_speed": 2.68,
+        "average_heartrate": 149.20857142857142,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 50456076158,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 286,
+        "moving_time": 257,
+        "start_date": "2025-04-18T06:50:04Z",
+        "start_date_local": "2025-04-18T15:50:04Z",
+        "distance": 1000.0,
+        "average_speed": 3.89,
+        "max_speed": 7.143,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 67,
+        "total_elevation_gain": 8.4,
+        "average_cadence": 79.9,
+        "device_watts": false,
+        "average_heartrate": 139.7,
+        "max_heartrate": 148.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 50456076161,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 405,
+        "moving_time": 405,
+        "start_date": "2025-04-18T06:54:55Z",
+        "start_date_local": "2025-04-18T15:54:55Z",
+        "distance": 1000.0,
+        "average_speed": 2.47,
+        "max_speed": 4.129,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 68,
+        "end_index": 180,
+        "total_elevation_gain": 16.8,
+        "average_cadence": 78.7,
+        "device_watts": false,
+        "average_heartrate": 146.5,
+        "max_heartrate": 157.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 50456076168,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 405,
+        "moving_time": 383,
+        "start_date": "2025-04-18T07:01:45Z",
+        "start_date_local": "2025-04-18T16:01:45Z",
+        "distance": 1000.0,
+        "average_speed": 2.61,
+        "max_speed": 3.65,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 181,
+        "end_index": 262,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 79.4,
+        "device_watts": false,
+        "average_heartrate": 143.2,
+        "max_heartrate": 157.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 50456076175,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 370,
+        "moving_time": 370,
+        "start_date": "2025-04-18T07:08:39Z",
+        "start_date_local": "2025-04-18T16:08:39Z",
+        "distance": 1000.0,
+        "average_speed": 2.7,
+        "max_speed": 3.325,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 263,
+        "end_index": 341,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 79.7,
+        "device_watts": false,
+        "average_heartrate": 156.5,
+        "max_heartrate": 167.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 50456076180,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 371,
+        "moving_time": 371,
+        "start_date": "2025-04-18T07:14:38Z",
+        "start_date_local": "2025-04-18T16:14:38Z",
+        "distance": 1000.0,
+        "average_speed": 2.7,
+        "max_speed": 3.211,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 342,
+        "end_index": 408,
+        "total_elevation_gain": 2.8,
+        "average_cadence": 80.4,
+        "device_watts": false,
+        "average_heartrate": 152.6,
+        "max_heartrate": 156.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 50456076184,
+        "resource_state": 2,
+        "name": "Lap 6",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 367,
+        "moving_time": 367,
+        "start_date": "2025-04-18T07:20:58Z",
+        "start_date_local": "2025-04-18T16:20:58Z",
+        "distance": 1000.0,
+        "average_speed": 2.72,
+        "max_speed": 3.355,
+        "lap_index": 6,
+        "split": 6,
+        "start_index": 409,
+        "end_index": 490,
+        "total_elevation_gain": 19.4,
+        "average_cadence": 80.2,
+        "device_watts": false,
+        "average_heartrate": 161.5,
+        "max_heartrate": 173.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 50456076186,
+        "resource_state": 2,
+        "name": "Lap 7",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 344,
+        "moving_time": 344,
+        "start_date": "2025-04-18T07:27:06Z",
+        "start_date_local": "2025-04-18T16:27:06Z",
+        "distance": 1000.0,
+        "average_speed": 2.91,
+        "max_speed": 3.963,
+        "lap_index": 7,
+        "split": 7,
+        "start_index": 491,
+        "end_index": 568,
+        "total_elevation_gain": 4.4,
+        "average_cadence": 80.7,
+        "device_watts": false,
+        "average_heartrate": 157.2,
+        "max_heartrate": 167.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 50456076190,
+        "resource_state": 2,
+        "name": "Lap 8",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 292,
+        "moving_time": 165,
+        "start_date": "2025-04-18T07:32:48Z",
+        "start_date_local": "2025-04-18T16:32:48Z",
+        "distance": 411.38,
+        "average_speed": 2.49,
+        "max_speed": 3.7,
+        "lap_index": 8,
+        "split": 8,
+        "start_index": 569,
+        "end_index": 617,
+        "total_elevation_gain": 3.6,
+        "average_cadence": 79.8,
+        "device_watts": false,
+        "average_heartrate": 140.9,
+        "max_heartrate": 154.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 59925853992,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 8,
+        "moving_time": 8,
+        "start_date": "2025-04-18T06:50:04Z",
+        "start_date_local": "2025-04-18T15:50:04Z",
+        "distance": 400,
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "start_index": 1,
+        "end_index": 4
+      },
+      {
+        "id": 59925853993,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 204,
+        "moving_time": 204,
+        "start_date": "2025-04-18T06:50:04Z",
+        "start_date_local": "2025-04-18T15:50:04Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1,
+        "end_index": 49
+      },
+      {
+        "id": 59925853994,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 288,
+        "moving_time": 288,
+        "start_date": "2025-04-18T06:50:04Z",
+        "start_date_local": "2025-04-18T15:50:04Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1,
+        "end_index": 67
+      },
+      {
+        "id": 59925853989,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 535,
+        "moving_time": 535,
+        "start_date": "2025-04-18T06:50:04Z",
+        "start_date_local": "2025-04-18T15:50:04Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1,
+        "end_index": 138
+      },
+      {
+        "id": 59925853990,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1176,
+        "moving_time": 1176,
+        "start_date": "2025-04-18T06:50:04Z",
+        "start_date_local": "2025-04-18T15:50:04Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 323,
+        "end_index": 568
+      },
+      {
+        "id": 59925853991,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 14210128177,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1834,
+        "moving_time": 1834,
+        "start_date": "2025-04-18T06:50:04Z",
+        "start_date_local": "2025-04-18T15:50:04Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 186,
+        "end_index": 569
+      }
+    ],
+    "photos": {
+      "primary": {
+        "unique_id": "8D519C6A-B697-44AD-A312-60016FECC1A6",
+        "urls": {
+          "600": "https://dgtzuqphqg23d.cloudfront.net/iqrm2nrXv5gZKFzjOQXolOLqUUwg5ICJ1IOxEPNDFzw-576x768.jpg",
+          "100": "https://dgtzuqphqg23d.cloudfront.net/iqrm2nrXv5gZKFzjOQXolOLqUUwg5ICJ1IOxEPNDFzw-96x128.jpg"
+        },
+        "source": 1,
+        "media_type": 1
+      },
+      "use_primary_photo": true,
+      "count": 3
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "3eec37ce29095f9079927fcc868793316960176a",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.781013133208255,
+      "min_average_speed": 2.781013133208255,
+      "mid_average_speed": 2.781013133208255,
+      "max_average_speed": 2.781013133208255,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.781013133208255
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.781013133208255,
+        "mid_speed": 2.781013133208255,
+        "max_speed": 2.781013133208255,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

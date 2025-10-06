@@ -1,0 +1,1581 @@
+{
+  "cached_at": "2025-10-06T16:14:22.162069",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Fountains abbey ParkRun!",
+    "distance": 5024.5,
+    "moving_time": 1574,
+    "elapsed_time": 1683,
+    "total_elevation_gain": 38.3,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 15874374586,
+    "start_date": "2025-09-20T08:01:23Z",
+    "start_date_local": "2025-09-20T09:01:23Z",
+    "timezone": "(GMT+00:00) Europe/London",
+    "utc_offset": 3600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 8,
+    "kudos_count": 6,
+    "comment_count": 2,
+    "athlete_count": 38,
+    "photo_count": 0,
+    "map": {
+      "id": "a15874374586",
+      "polyline": "sggiIvmtHBJQkCGc@c@oA[o@c@{Ai@}CKoA?cAG_A?{GKaEK}AU_FM}AWyCc@cDo@yCk@oBe@e@a@LKRG?KOk@yA_@kAQ}@OqA?kABqBLeARq@~AaAHAP?|@`@^b@NXN^\\zAFz@@hGVzBPt@P`Cl@xD^pDd@xHNx@N~BN|@l@dAn@`EZl@^f@Vd@Rt@VtBN~@Dn@E`A_@bBB`AG~@]h@_@d@i@@e@a@_@g@KWk@sA[qAUiA]}BGg@K_DBaCGqCQaEAaAMkDg@cIe@yCgAsEMy@M[KOIEIAUFUf@Mn@Yv@a@d@GFiAf@e@ZgAjAi@|@a@Vc@Hg@@e@Mg@W_@k@Sy@Ws@e@Sc@Hc@Vi@FkBLc@CUs@{@sDEaAJ}@f@Kb@Db@Ld@Bb@S`@g@t@s@b@Yd@Oh@Gf@@n@JnAf@jAPjAF\\S^e@Ts@BcCB}@NaAPu@Zg@d@]f@Id@Dd@L^^^f@Zj@Lb@L~@JzAB|@?`AHtB^|CHbApApJBbAN`BDdCX|BRz@@PFF",
+      "resource_state": 3,
+      "summary_polyline": "sggiIvmtHBJQkCGc@c@oA[o@c@{Ai@}CKoA?cAG_A?{GKaEK}AU_FM}AWyCc@cDo@yCk@oBe@e@a@LKRG?KOk@yA_@kAQ}@OqA?kABqBLeARq@~AaAHAP?|@`@^b@NXN^\\zAFz@@hGVzBPt@P`Cl@xD^pDd@xHNx@N~BN|@l@dAn@`EZl@^f@Vd@Rt@VtBN~@Dn@E`A_@bBB`AG~@]h@_@d@i@@e@a@_@g@KWk@sA[qAUiA]}BGg@K_DBaCGqCQaEAaAMkDg@cIe@yCgAsEMy@M[KOIEIAUFUf@Mn@Yv@a@d@GFiAf@e@ZgAjAi@|@a@Vc@Hg@@e@Mg@W_@k@Sy@Ws@e@Sc@Hc@Vi@FkBLc@CUs@{@sDEaAJ}@f@Kb@Db@Ld@Bb@S`@g@t@s@b@Yd@Oh@Gf@@n@JnAf@jAPjAF\\S^e@Ts@BcCB}@NaAPu@Zg@d@]f@Id@Dd@L^^^f@Zj@Lb@L~@JzAB|@?`AHtB^|CHbApApJBbAN`BDdCX|BRz@@PFF"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      54.10954,
+      -1.584439
+    ],
+    "end_latlng": [
+      54.109809,
+      -1.578186
+    ],
+    "average_speed": 3.192,
+    "max_speed": 4.625,
+    "average_cadence": 85.2,
+    "has_heartrate": true,
+    "average_heartrate": 167.9,
+    "max_heartrate": 185.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 93.6,
+    "elev_low": 71.7,
+    "upload_id": 16953308276,
+    "upload_id_str": "16953308276",
+    "external_id": "garmin_ping_482270582686",
+    "from_accepted_tag": false,
+    "pr_count": 4,
+    "total_photo_count": 4,
+    "has_kudoed": false,
+    "description": "",
+    "calories": 377.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3404433832840003056,
+        "resource_state": 2,
+        "name": "Fountains Abbey parkrun - The First Lap",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 721,
+        "moving_time": 721,
+        "start_date": "2025-09-20T08:03:26Z",
+        "start_date_local": "2025-09-20T09:03:26Z",
+        "distance": 2238.5,
+        "start_index": 5,
+        "end_index": 143,
+        "average_cadence": 85.5,
+        "device_watts": false,
+        "average_heartrate": 159.4,
+        "max_heartrate": 177.0,
+        "segment": {
+          "id": 38395585,
+          "resource_state": 2,
+          "name": "Fountains Abbey parkrun - The First Lap",
+          "activity_type": "Run",
+          "distance": 2238.5,
+          "average_grade": -0.0,
+          "maximum_grade": 9.8,
+          "elevation_high": 93.6,
+          "elevation_low": 75.7,
+          "start_latlng": [
+            54.109586,
+            -1.58425
+          ],
+          "end_latlng": [
+            54.109631,
+            -1.583573
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832836585968,
+        "resource_state": 2,
+        "name": "Fountains Abbey parkrun",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1539,
+        "moving_time": 1539,
+        "start_date": "2025-09-20T08:03:37Z",
+        "start_date_local": "2025-09-20T09:03:37Z",
+        "distance": 4902.0,
+        "start_index": 9,
+        "end_index": 293,
+        "average_cadence": 84.6,
+        "device_watts": false,
+        "average_heartrate": 168.8,
+        "max_heartrate": 185.0,
+        "segment": {
+          "id": 6774114,
+          "resource_state": 2,
+          "name": "Fountains Abbey parkrun",
+          "activity_type": "Run",
+          "distance": 4902.0,
+          "average_grade": 0.4,
+          "maximum_grade": 15.6,
+          "elevation_high": 105.7,
+          "elevation_low": 78.2,
+          "start_latlng": [
+            54.109571,
+            -1.583712
+          ],
+          "end_latlng": [
+            54.109902,
+            -1.578067
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "North Yorkshire HG4, UK",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832835882480,
+        "resource_state": 2,
+        "name": "Abbey Bypass ",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 211,
+        "moving_time": 211,
+        "start_date": "2025-09-20T08:03:45Z",
+        "start_date_local": "2025-09-20T09:03:45Z",
+        "distance": 701.9,
+        "start_index": 14,
+        "end_index": 58,
+        "average_cadence": 86.6,
+        "device_watts": false,
+        "average_heartrate": 148.1,
+        "max_heartrate": 161.0,
+        "segment": {
+          "id": 32908995,
+          "resource_state": 2,
+          "name": "Abbey Bypass ",
+          "activity_type": "Run",
+          "distance": 701.9,
+          "average_grade": -0.6,
+          "maximum_grade": 9.2,
+          "elevation_high": 96.0,
+          "elevation_low": 87.0,
+          "start_latlng": [
+            54.109653,
+            -1.583343
+          ],
+          "end_latlng": [
+            54.111381,
+            -1.57341
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Ripon",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832836856304,
+        "resource_state": 2,
+        "name": "Jessicas Sprint",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 66,
+        "moving_time": 66,
+        "start_date": "2025-09-20T08:07:53Z",
+        "start_date_local": "2025-09-20T09:07:53Z",
+        "distance": 224.1,
+        "start_index": 64,
+        "end_index": 78,
+        "average_cadence": 84.7,
+        "device_watts": false,
+        "average_heartrate": 159.4,
+        "max_heartrate": 167.0,
+        "segment": {
+          "id": 7822805,
+          "resource_state": 2,
+          "name": "Jessicas Sprint",
+          "activity_type": "Run",
+          "distance": 224.1,
+          "average_grade": -2.6,
+          "maximum_grade": 6.3,
+          "elevation_high": 95.6,
+          "elevation_low": 86.6,
+          "start_latlng": [
+            54.112027,
+            -1.573374
+          ],
+          "end_latlng": [
+            54.112544,
+            -1.570373
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "North Yorkshire HG4, UK",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832836839920,
+        "resource_state": 2,
+        "name": "Around the bend",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 241,
+        "moving_time": 241,
+        "start_date": "2025-09-20T08:08:32Z",
+        "start_date_local": "2025-09-20T09:08:32Z",
+        "distance": 745.6,
+        "start_index": 73,
+        "end_index": 115,
+        "average_cadence": 85.2,
+        "device_watts": false,
+        "average_heartrate": 163.5,
+        "max_heartrate": 171.0,
+        "segment": {
+          "id": 13112489,
+          "resource_state": 2,
+          "name": "Around the bend",
+          "activity_type": "Run",
+          "distance": 745.6,
+          "average_grade": 2.8,
+          "maximum_grade": 12.1,
+          "elevation_high": 108.0,
+          "elevation_low": 87.0,
+          "start_latlng": [
+            54.112606,
+            -1.571543
+          ],
+          "end_latlng": [
+            54.109796,
+            -1.577698
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Ripon",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832838975984,
+        "resource_state": 2,
+        "name": "Extended it\u2019s only a hill",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 200,
+        "moving_time": 200,
+        "start_date": "2025-09-20T08:10:41Z",
+        "start_date_local": "2025-09-20T09:10:41Z",
+        "distance": 616.4,
+        "start_index": 97,
+        "end_index": 129,
+        "average_cadence": 84.7,
+        "device_watts": false,
+        "average_heartrate": 169.3,
+        "max_heartrate": 177.0,
+        "segment": {
+          "id": 36271821,
+          "resource_state": 2,
+          "name": "Extended it\u2019s only a hill",
+          "activity_type": "Run",
+          "distance": 616.4,
+          "average_grade": 2.9,
+          "maximum_grade": 12.6,
+          "elevation_high": 99.4,
+          "elevation_low": 81.6,
+          "start_latlng": [
+            54.110833,
+            -1.572474
+          ],
+          "end_latlng": [
+            54.108796,
+            -1.580943
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832836031984,
+        "resource_state": 2,
+        "name": "Olivias Hill",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 117,
+        "moving_time": 117,
+        "start_date": "2025-09-20T08:10:48Z",
+        "start_date_local": "2025-09-20T09:10:48Z",
+        "distance": 398.5,
+        "start_index": 98,
+        "end_index": 117,
+        "average_cadence": 85.2,
+        "device_watts": false,
+        "average_heartrate": 167.9,
+        "max_heartrate": 172.0,
+        "segment": {
+          "id": 7822780,
+          "resource_state": 2,
+          "name": "Olivias Hill",
+          "activity_type": "Run",
+          "distance": 398.5,
+          "average_grade": 1.7,
+          "maximum_grade": 6.8,
+          "elevation_high": 105.6,
+          "elevation_low": 94.6,
+          "start_latlng": [
+            54.110917,
+            -1.572777
+          ],
+          "end_latlng": [
+            54.109967,
+            -1.578306
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "North Yorkshire HG4, UK",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832838645232,
+        "resource_state": 2,
+        "name": "Its only a hill.",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 113,
+        "moving_time": 113,
+        "start_date": "2025-09-20T08:12:13Z",
+        "start_date_local": "2025-09-20T09:12:13Z",
+        "distance": 321.0,
+        "start_index": 112,
+        "end_index": 130,
+        "average_cadence": 84.2,
+        "device_watts": false,
+        "average_heartrate": 171.4,
+        "max_heartrate": 177.0,
+        "segment": {
+          "id": 15432268,
+          "resource_state": 2,
+          "name": "Its only a hill.",
+          "activity_type": "Run",
+          "distance": 321.0,
+          "average_grade": 1.0,
+          "maximum_grade": 12.1,
+          "elevation_high": 103.0,
+          "elevation_low": 96.3,
+          "start_latlng": [
+            54.109982,
+            -1.5768
+          ],
+          "end_latlng": [
+            54.108708,
+            -1.581198
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Ripon",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832836616688,
+        "resource_state": 2,
+        "name": "Lap-1-finish to actually-finished",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 992,
+        "moving_time": 992,
+        "start_date": "2025-09-20T08:12:39Z",
+        "start_date_local": "2025-09-20T09:12:39Z",
+        "distance": 3249.2,
+        "start_index": 116,
+        "end_index": 292,
+        "average_cadence": 84.4,
+        "device_watts": false,
+        "average_heartrate": 175.2,
+        "max_heartrate": 185.0,
+        "segment": {
+          "id": 13219310,
+          "resource_state": 2,
+          "name": "Lap-1-finish to actually-finished",
+          "activity_type": "Run",
+          "distance": 3249.2,
+          "average_grade": 0.0,
+          "maximum_grade": 15.5,
+          "elevation_high": 106.8,
+          "elevation_low": 77.9,
+          "start_latlng": [
+            54.10987,
+            -1.578047
+          ],
+          "end_latlng": [
+            54.109892,
+            -1.577968
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Ripon",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832835913200,
+        "resource_state": 2,
+        "name": "Bridge to footbridge",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 452,
+        "moving_time": 452,
+        "start_date": "2025-09-20T08:15:08Z",
+        "start_date_local": "2025-09-20T09:15:08Z",
+        "distance": 1517.0,
+        "start_index": 140,
+        "end_index": 225,
+        "average_cadence": 84.9,
+        "device_watts": false,
+        "average_heartrate": 172.7,
+        "max_heartrate": 181.0,
+        "segment": {
+          "id": 10704511,
+          "resource_state": 2,
+          "name": "Bridge to footbridge",
+          "activity_type": "Run",
+          "distance": 1517.0,
+          "average_grade": -0.6,
+          "maximum_grade": 7.0,
+          "elevation_high": 102.0,
+          "elevation_low": 77.8,
+          "start_latlng": [
+            54.109137,
+            -1.583841
+          ],
+          "end_latlng": [
+            54.11666,
+            -1.572735
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Ripon",
+          "state": null,
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832836358640,
+        "resource_state": 2,
+        "name": "Abbey Bypass ",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 198,
+        "moving_time": 198,
+        "start_date": "2025-09-20T08:15:30Z",
+        "start_date_local": "2025-09-20T09:15:30Z",
+        "distance": 701.9,
+        "start_index": 144,
+        "end_index": 181,
+        "average_cadence": 84.9,
+        "device_watts": false,
+        "average_heartrate": 171.3,
+        "max_heartrate": 177.0,
+        "segment": {
+          "id": 32908995,
+          "resource_state": 2,
+          "name": "Abbey Bypass ",
+          "activity_type": "Run",
+          "distance": 701.9,
+          "average_grade": -0.6,
+          "maximum_grade": 9.2,
+          "elevation_high": 96.0,
+          "elevation_low": 87.0,
+          "start_latlng": [
+            54.109653,
+            -1.583343
+          ],
+          "end_latlng": [
+            54.111381,
+            -1.57341
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Ripon",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832837679600,
+        "resource_state": 2,
+        "name": "Moving Like a Monk",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 189,
+        "moving_time": 189,
+        "start_date": "2025-09-20T08:19:24Z",
+        "start_date_local": "2025-09-20T09:19:24Z",
+        "distance": 655.2,
+        "start_index": 191,
+        "end_index": 224,
+        "average_cadence": 85.0,
+        "device_watts": false,
+        "average_heartrate": 175.2,
+        "max_heartrate": 181.0,
+        "segment": {
+          "id": 11543112,
+          "resource_state": 2,
+          "name": "Moving Like a Monk",
+          "activity_type": "Run",
+          "distance": 655.2,
+          "average_grade": -2.6,
+          "maximum_grade": 10.8,
+          "elevation_high": 102.8,
+          "elevation_low": 77.7,
+          "start_latlng": [
+            54.111946,
+            -1.573437
+          ],
+          "end_latlng": [
+            54.116635,
+            -1.572865
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Ripon",
+          "state": null,
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832835988976,
+        "resource_state": 2,
+        "name": "Fountains Abbey parkrun - The Water Gardens",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 327,
+        "moving_time": 327,
+        "start_date": "2025-09-20T08:19:31Z",
+        "start_date_local": "2025-09-20T09:19:31Z",
+        "distance": 1096.7,
+        "start_index": 192,
+        "end_index": 249,
+        "average_cadence": 85.0,
+        "device_watts": false,
+        "average_heartrate": 176.3,
+        "max_heartrate": 181.0,
+        "segment": {
+          "id": 38395596,
+          "resource_state": 2,
+          "name": "Fountains Abbey parkrun - The Water Gardens",
+          "activity_type": "Run",
+          "distance": 1096.7,
+          "average_grade": -0.3,
+          "maximum_grade": 5.8,
+          "elevation_high": 81.8,
+          "elevation_low": 71.5,
+          "start_latlng": [
+            54.112075,
+            -1.573759
+          ],
+          "end_latlng": [
+            54.112783,
+            -1.572034
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832836227568,
+        "resource_state": 2,
+        "name": "Post-bridge segment",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 144,
+        "moving_time": 144,
+        "start_date": "2025-09-20T08:22:40Z",
+        "start_date_local": "2025-09-20T09:22:40Z",
+        "distance": 490.8,
+        "start_index": 225,
+        "end_index": 250,
+        "average_cadence": 84.9,
+        "device_watts": false,
+        "average_heartrate": 178.0,
+        "max_heartrate": 181.0,
+        "segment": {
+          "id": 8852003,
+          "resource_state": 2,
+          "name": "Post-bridge segment",
+          "activity_type": "Run",
+          "distance": 490.8,
+          "average_grade": 1.5,
+          "maximum_grade": 18.3,
+          "elevation_high": 88.7,
+          "elevation_low": 79.4,
+          "start_latlng": [
+            54.116665,
+            -1.57275
+          ],
+          "end_latlng": [
+            54.112602,
+            -1.571689
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Ripon",
+          "state": null,
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832838263280,
+        "resource_state": 2,
+        "name": "bridge to finish",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 386,
+        "moving_time": 386,
+        "start_date": "2025-09-20T08:22:40Z",
+        "start_date_local": "2025-09-20T09:22:40Z",
+        "distance": 1252.2,
+        "start_index": 225,
+        "end_index": 291,
+        "average_cadence": 84.9,
+        "device_watts": false,
+        "average_heartrate": 179.4,
+        "max_heartrate": 185.0,
+        "segment": {
+          "id": 9829407,
+          "resource_state": 2,
+          "name": "bridge to finish",
+          "activity_type": "Run",
+          "distance": 1252.2,
+          "average_grade": 2.2,
+          "maximum_grade": 13.0,
+          "elevation_high": 107.5,
+          "elevation_low": 80.3,
+          "start_latlng": [
+            54.116653,
+            -1.572681
+          ],
+          "end_latlng": [
+            54.10982,
+            -1.577719
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Ripon",
+          "state": null,
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832837277168,
+        "resource_state": 2,
+        "name": "Around the bend",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 236,
+        "moving_time": 236,
+        "start_date": "2025-09-20T08:25:10Z",
+        "start_date_local": "2025-09-20T09:25:10Z",
+        "distance": 745.6,
+        "start_index": 251,
+        "end_index": 291,
+        "average_cadence": 84.9,
+        "device_watts": false,
+        "average_heartrate": 180.3,
+        "max_heartrate": 185.0,
+        "segment": {
+          "id": 13112489,
+          "resource_state": 2,
+          "name": "Around the bend",
+          "activity_type": "Run",
+          "distance": 745.6,
+          "average_grade": 2.8,
+          "maximum_grade": 12.1,
+          "elevation_high": 108.0,
+          "elevation_low": 87.0,
+          "start_latlng": [
+            54.112606,
+            -1.571543
+          ],
+          "end_latlng": [
+            54.109796,
+            -1.577698
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Ripon",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3404433832839561712,
+        "resource_state": 2,
+        "name": "Olivias Hill",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 127,
+        "moving_time": 127,
+        "start_date": "2025-09-20T08:27:15Z",
+        "start_date_local": "2025-09-20T09:27:15Z",
+        "distance": 398.5,
+        "start_index": 272,
+        "end_index": 294,
+        "average_cadence": 74.0,
+        "device_watts": false,
+        "average_heartrate": 181.5,
+        "max_heartrate": 185.0,
+        "segment": {
+          "id": 7822780,
+          "resource_state": 2,
+          "name": "Olivias Hill",
+          "activity_type": "Run",
+          "distance": 398.5,
+          "average_grade": 1.7,
+          "maximum_grade": 6.8,
+          "elevation_high": 105.6,
+          "elevation_low": 94.6,
+          "start_latlng": [
+            54.110917,
+            -1.572777
+          ],
+          "end_latlng": [
+            54.109967,
+            -1.578306
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "North Yorkshire HG4, UK",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1002.2,
+        "elapsed_time": 438,
+        "elevation_difference": -10.4,
+        "moving_time": 329,
+        "split": 1,
+        "average_speed": 3.05,
+        "average_grade_adjusted_speed": 3.01,
+        "average_heartrate": 147.96625766871165,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.8,
+        "elapsed_time": 325,
+        "elevation_difference": 17.7,
+        "moving_time": 325,
+        "split": 2,
+        "average_speed": 3.08,
+        "average_grade_adjusted_speed": 3.25,
+        "average_heartrate": 166.19384615384615,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.1,
+        "elapsed_time": 294,
+        "elevation_difference": -9.8,
+        "moving_time": 294,
+        "split": 3,
+        "average_speed": 3.4,
+        "average_grade_adjusted_speed": 3.37,
+        "average_heartrate": 170.79931972789115,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.6,
+        "elapsed_time": 299,
+        "elevation_difference": -9.6,
+        "moving_time": 299,
+        "split": 4,
+        "average_speed": 3.34,
+        "average_grade_adjusted_speed": 3.29,
+        "average_heartrate": 175.2943143812709,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.3,
+        "elapsed_time": 307,
+        "elevation_difference": 11.8,
+        "moving_time": 307,
+        "split": 5,
+        "average_speed": 3.26,
+        "average_grade_adjusted_speed": 3.36,
+        "average_heartrate": 180.09446254071662,
+        "pace_zone": 0
+      },
+      {
+        "distance": 23.5,
+        "elapsed_time": 21,
+        "elevation_difference": 0.1,
+        "moving_time": 21,
+        "split": 6,
+        "average_speed": 1.12,
+        "average_grade_adjusted_speed": 1.13,
+        "average_heartrate": 177.16666666666666,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1609.4,
+        "elapsed_time": 629,
+        "elevation_difference": -3.5,
+        "moving_time": 520,
+        "split": 1,
+        "average_speed": 3.1,
+        "average_grade_adjusted_speed": 3.11,
+        "average_heartrate": 153.49129593810446,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1612.2,
+        "elapsed_time": 494,
+        "elevation_difference": -2.1,
+        "moving_time": 494,
+        "split": 2,
+        "average_speed": 3.26,
+        "average_grade_adjusted_speed": 3.32,
+        "average_heartrate": 171.32388663967612,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1607.6,
+        "elapsed_time": 484,
+        "elevation_difference": 0.8,
+        "moving_time": 484,
+        "split": 3,
+        "average_speed": 3.32,
+        "average_grade_adjusted_speed": 3.33,
+        "average_heartrate": 177.5702479338843,
+        "pace_zone": 0
+      },
+      {
+        "distance": 195.3,
+        "elapsed_time": 77,
+        "elevation_difference": 4.6,
+        "moving_time": 77,
+        "split": 4,
+        "average_speed": 2.54,
+        "average_grade_adjusted_speed": 2.71,
+        "average_heartrate": 181.3918918918919,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 56538337456,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 437,
+        "moving_time": 328,
+        "start_date": "2025-09-20T08:01:23Z",
+        "start_date_local": "2025-09-20T09:01:23Z",
+        "distance": 1000.0,
+        "average_speed": 3.05,
+        "max_speed": 4.02,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 75,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 86.1,
+        "device_watts": false,
+        "average_heartrate": 148.0,
+        "max_heartrate": 167.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 56538337463,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 325,
+        "moving_time": 325,
+        "start_date": "2025-09-20T08:08:48Z",
+        "start_date_local": "2025-09-20T09:08:48Z",
+        "distance": 1000.0,
+        "average_speed": 3.08,
+        "max_speed": 4.625,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 76,
+        "end_index": 131,
+        "total_elevation_gain": 17.2,
+        "average_cadence": 84.9,
+        "device_watts": false,
+        "average_heartrate": 166.6,
+        "max_heartrate": 177.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 56538337470,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 293,
+        "moving_time": 293,
+        "start_date": "2025-09-20T08:14:19Z",
+        "start_date_local": "2025-09-20T09:14:19Z",
+        "distance": 1000.0,
+        "average_speed": 3.41,
+        "max_speed": 3.922,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 132,
+        "end_index": 184,
+        "total_elevation_gain": 4.4,
+        "average_cadence": 84.9,
+        "device_watts": false,
+        "average_heartrate": 170.7,
+        "max_heartrate": 177.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 56538337477,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 299,
+        "moving_time": 299,
+        "start_date": "2025-09-20T08:19:04Z",
+        "start_date_local": "2025-09-20T09:19:04Z",
+        "distance": 1000.0,
+        "average_speed": 3.34,
+        "max_speed": 4.42,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 185,
+        "end_index": 239,
+        "total_elevation_gain": 5.0,
+        "average_cadence": 85.0,
+        "device_watts": false,
+        "average_heartrate": 175.4,
+        "max_heartrate": 181.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 56538337484,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 306,
+        "moving_time": 306,
+        "start_date": "2025-09-20T08:24:09Z",
+        "start_date_local": "2025-09-20T09:24:09Z",
+        "distance": 1000.0,
+        "average_speed": 3.27,
+        "max_speed": 3.69,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 240,
+        "end_index": 292,
+        "total_elevation_gain": 11.6,
+        "average_cadence": 84.8,
+        "device_watts": false,
+        "average_heartrate": 180.2,
+        "max_heartrate": 185.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 56538337489,
+        "resource_state": 2,
+        "name": "Lap 6",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 20,
+        "moving_time": 20,
+        "start_date": "2025-09-20T08:29:16Z",
+        "start_date_local": "2025-09-20T09:29:16Z",
+        "distance": 24.5,
+        "average_speed": 1.23,
+        "max_speed": 1.3,
+        "lap_index": 6,
+        "split": 6,
+        "start_index": 293,
+        "end_index": 296,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 0.0,
+        "device_watts": false,
+        "average_heartrate": 174.3,
+        "max_heartrate": 178.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 66610597608,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 115,
+        "moving_time": 115,
+        "start_date": "2025-09-20T08:01:23Z",
+        "start_date_local": "2025-09-20T09:01:23Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 146,
+        "end_index": 168
+      },
+      {
+        "id": 66610597609,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 234,
+        "moving_time": 234,
+        "start_date": "2025-09-20T08:01:23Z",
+        "start_date_local": "2025-09-20T09:01:23Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 128,
+        "end_index": 170
+      },
+      {
+        "id": 66610597610,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 291,
+        "moving_time": 291,
+        "start_date": "2025-09-20T08:01:23Z",
+        "start_date_local": "2025-09-20T09:01:23Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 128,
+        "end_index": 180
+      },
+      {
+        "id": 66610597605,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 475,
+        "moving_time": 475,
+        "start_date": "2025-09-20T08:01:23Z",
+        "start_date_local": "2025-09-20T09:01:23Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 128,
+        "end_index": 217
+      },
+      {
+        "id": 66610597606,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 976,
+        "moving_time": 976,
+        "start_date": "2025-09-20T08:01:23Z",
+        "start_date_local": "2025-09-20T09:01:23Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 99,
+        "end_index": 271
+      },
+      {
+        "id": 66610597607,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 15874374586,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1552,
+        "moving_time": 1552,
+        "start_date": "2025-09-20T08:01:23Z",
+        "start_date_local": "2025-09-20T09:01:23Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 3,
+        "end_index": 291
+      }
+    ],
+    "photos": {
+      "primary": {
+        "unique_id": "308EDFD9-ED94-4CCB-BBD7-29944CC92F09",
+        "urls": {
+          "600": "https://dgtzuqphqg23d.cloudfront.net/h_tjZt_VxaDPZB3HGtOGKa6L5VD-MpI6gKiMXNC-0tg-768x170.jpg",
+          "100": "https://dgtzuqphqg23d.cloudfront.net/h_tjZt_VxaDPZB3HGtOGKa6L5VD-MpI6gKiMXNC-0tg-128x28.jpg"
+        },
+        "source": 1,
+        "media_type": 1
+      },
+      "use_primary_photo": true,
+      "count": 4
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 735XT",
+    "embed_token": "e77adefcdd35f1ef065eecf968c7ae510f214832",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 3.1921855146124525,
+      "min_average_speed": 3.1921855146124525,
+      "mid_average_speed": 3.1921855146124525,
+      "max_average_speed": 3.1921855146124525,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          3.1921855146124525
+        ],
+        "current_activity_index": 0,
+        "min_speed": 3.1921855146124525,
+        "mid_speed": 3.1921855146124525,
+        "max_speed": 3.1921855146124525,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

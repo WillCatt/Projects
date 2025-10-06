@@ -1,0 +1,129 @@
+{
+  "cached_at": "2025-10-06T16:15:47.764573",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Evening Rock Climb",
+    "distance": 0.0,
+    "moving_time": 11107,
+    "elapsed_time": 11107,
+    "total_elevation_gain": 0,
+    "type": "RockClimbing",
+    "sport_type": "RockClimbing",
+    "workout_type": 28,
+    "id": 14262577280,
+    "start_date": "2025-04-23T10:46:46Z",
+    "start_date_local": "2025-04-23T19:46:46Z",
+    "timezone": "(GMT+09:00) Asia/Chita",
+    "utc_offset": 32400.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 2,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a14262577280",
+      "polyline": "",
+      "resource_state": 3,
+      "summary_polyline": ""
+    },
+    "trainer": true,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [],
+    "end_latlng": [],
+    "average_speed": 0.0,
+    "max_speed": 0.0,
+    "average_temp": 29,
+    "has_heartrate": true,
+    "average_heartrate": 92.0,
+    "max_heartrate": 137.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": -12.6,
+    "elev_low": -36.4,
+    "upload_id": 15220442929,
+    "upload_id_str": "15220442929",
+    "external_id": "garmin_ping_431871451717",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 256.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [],
+    "laps": [
+      {
+        "id": 50657228568,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 14262577280,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 11107,
+        "moving_time": 11106,
+        "start_date": "2025-04-23T10:46:46Z",
+        "start_date_local": "2025-04-23T19:46:46Z",
+        "distance": 0.0,
+        "average_speed": 0.0,
+        "max_speed": 0.0,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1835,
+        "total_elevation_gain": 0,
+        "device_watts": false,
+        "average_heartrate": 92.0,
+        "max_heartrate": 137.0
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "7a24edfa3753eb02bb7143a06cc0bde87b13f4c1",
+    "available_zones": []
+  }
+}

@@ -1,0 +1,1727 @@
+{
+  "cached_at": "2025-10-06T16:16:45.868045",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Afternoon Run",
+    "distance": 9302.9,
+    "moving_time": 4503,
+    "elapsed_time": 4503,
+    "total_elevation_gain": 20.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": null,
+    "id": 11949048462,
+    "start_date": "2024-07-22T04:15:34Z",
+    "start_date_local": "2024-07-22T14:15:34Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 2,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a11949048462",
+      "polyline": "|g{fFu|otZLCb@JDTMVKv@KHGVEDW?EFCb@a@jAd@t@JTDlACLSd@MR[Xm@NY?WAu@]KIWa@I]AU@k@Nu@\\_@r@e@\\[`@aA@IHiBDc@@a@KWAs@XsE@]Dq@^_FOm@VmD?OEMAi@^e@HYBi@Gy@IWKOQM[Q]EU@a@Hc@RONQXSd@In@?HHl@R^RPd@Nj@DTE`@Q^]Zi@Je@@g@CUEUMUKOQMUKc@Ea@Bc@NUNSVQ\\M^Ed@Bb@H^FNRPRJ`AFXA`@QXUT[V}@@QAk@Qc@OQ_@WUGQAe@Bg@NYT[f@EJK`@CXFt@FRRZXN\\FV@`@A\\Od@[NSTk@D[Ae@Ii@Q[[Ui@Ma@?]HYJQN[f@Sh@E`@Bn@BNLTXXZL^Dh@Al@YTONSRg@Ho@Ck@M_@Ya@e@U_@Ee@DYH[RY`@Wl@Gr@B^F\\FLb@^p@LX?d@GHE\\W\\g@Po@B]Eq@EQOUQSg@Qc@Cc@Fc@RWT]l@Mj@@t@Jf@Z^\\Lh@F`@C\\Mf@[T]Pa@Di@A_@G[Q_@WSa@QICc@?i@J_@VY\\MVOj@A^Dh@HTNT\\Th@J^AXCd@Yf@o@JWLs@Go@ESMSi@_@ICm@Cm@H[P]`@Ud@Kf@?j@Hd@\\d@`@Pt@FXE`@Sj@g@Pa@Hg@Au@IYGM[_@c@Oc@C_@Ba@Ni@l@Uh@Kj@@^F^R^ZTTHr@@\\ELE\\UX]P]Hg@?a@Ge@GUUYo@YUCU?e@H[R]^Yp@CRAd@B`@Lb@PTb@P`@BX?h@Kb@YVa@Ri@De@A]G_@S_@[Yk@Ke@@a@H[T[^Wr@G\\?VHr@LTXXXHn@Dd@Ed@WZ]Tc@Jy@Cg@Kc@Y]SO[KYA]B]LSL]^EHWv@C\\Bl@Rf@JN\\Nx@Hj@G^W^_@Vo@@Y?k@Ic@KSUWWOc@IU?i@LSL_@`@OZQp@A^@`@J\\JNJJf@Pl@B^A^SZ[\\k@DQDi@Eg@Me@WYa@Qc@GM@q@L[RUXOVK^Gl@B\\Ld@V^TJZDb@@ZCXId@_@\\s@Ji@?i@Sm@OSUUe@Mc@?UDWL]XSZSf@Gp@@VF\\Rb@JHd@Nh@BNAj@O\\[Va@Ni@@a@C]So@Y[e@Qi@C[He@VSVQZSx@Af@BRPh@LNNH^Jn@?TA^OZ[PURq@Dc@Cc@I]S[WQm@Oo@Fc@N[^Wd@Mn@A\\Df@N`@NNj@Rb@@\\AVM`@YR[LUHc@@a@Ce@K_@MSg@Y]GIAo@FWNg@b@Sd@IZEZ@j@L`@X^RLLBf@B\\?ZMp@c@JPS^BXPj@NRBLFj@EZIHO^Ix@u@`NS~BCxAbBX\\B",
+      "resource_state": 3,
+      "summary_polyline": "|g{fFu|otZp@FDTMVKv@KHGVc@LCb@a@jAp@jADlAIZk@|@y@Vy@Ey@c@Wa@Ks@@k@Ji@`@k@pAaAb@kAPoDKWAs@`AcOOm@VmDGgAf@w@Dq@Ac@Om@y@o@s@Ca@Hs@b@e@bAIt@Hl@f@p@pATv@W`@a@Xe@LmAIk@k@s@eAQeA\\o@z@SdATrAf@\\zAD`Am@\\s@Jq@Ak@Qc@WYa@ScAAaAd@[f@Ql@CXFt@Th@f@XtA@`Ao@`@y@D[Cu@Yu@a@WeAKiAd@g@~@Mr@Bn@Pd@f@`@~@Jf@Ir@a@b@{@Ho@Ck@M_@Ya@k@W_A@u@\\q@nAG`AR|@`@\\^Hb@Dn@Gx@s@\\aAAoAM]Y]g@QgAB_An@Yf@Mj@@t@Jf@Z^fATj@E`@S`@]^u@BiAY{@cAi@mAJy@t@]bABhAXj@\\Tz@Jr@MZSd@m@XkAMcAMSo@a@{@E_AZs@fAKf@?j@Hd@\\d@`@PfADhAq@\\o@Jw@Ce@Qg@[_@c@OcA?s@`@m@dAKj@@^Z~@p@^pACj@[X]ZeAGgAWi@w@a@cABYJk@j@Yt@EhALh@T\\v@ThAGj@]\\i@La@BcAG_@S_@[Yc@K}@Bm@\\[^[|@A`ALh@TXlAXv@Iv@q@Tc@Js@Cm@Kc@Y]w@[mANq@l@]`AAbA`@~@\\Nj@Fx@Ex@o@\\w@@eAIc@a@k@{@Y_ALs@n@a@lA?`AVl@r@\\lA@z@o@b@}@Di@Eg@Me@WYeAY_ANq@l@Wl@Ib@@p@Ld@\\b@nANt@Md@_@Vc@Py@?i@Qi@g@m@iAMm@Rq@t@Sf@Gp@Ht@^l@nARz@Qj@m@Xy@CeAMe@]_@gAUq@NYRc@p@U~@Bt@Ph@\\XnAJt@Ql@q@Rq@Dc@MaAk@m@m@OsAVs@dAMn@BdA^p@j@Rb@@t@Ot@u@Vy@AgASm@YS{@Us@H{@p@Sd@Ov@@j@L`@l@l@rAFlAq@JPS^BXd@lAFj@EZYh@Ix@mAzT`C\\"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.991823283955455,
+      145.0850733742118
+    ],
+    "end_latlng": [
+      -37.9919402115047,
+      145.08443986997008
+    ],
+    "average_speed": 2.066,
+    "max_speed": 4.352,
+    "average_cadence": 82.4,
+    "average_temp": 21,
+    "has_heartrate": true,
+    "average_heartrate": 157.7,
+    "max_heartrate": 181.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 27.2,
+    "elev_low": 13.2,
+    "upload_id": 12740202845,
+    "upload_id_str": "12740202845",
+    "external_id": "garmin_ping_356706148497",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 721.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3250346791687152198,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 211,
+        "moving_time": 211,
+        "start_date": "2024-07-22T04:25:14Z",
+        "start_date_local": "2024-07-22T14:25:14Z",
+        "distance": 423.5,
+        "start_index": 193,
+        "end_index": 237,
+        "average_cadence": 82.8,
+        "device_watts": false,
+        "average_heartrate": 169.7,
+        "max_heartrate": 181.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791686829638,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 210,
+        "moving_time": 210,
+        "start_date": "2024-07-22T04:28:45Z",
+        "start_date_local": "2024-07-22T14:28:45Z",
+        "distance": 423.5,
+        "start_index": 237,
+        "end_index": 290,
+        "average_cadence": 82.1,
+        "device_watts": false,
+        "average_heartrate": 168.8,
+        "max_heartrate": 180.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791687685702,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 210,
+        "moving_time": 210,
+        "start_date": "2024-07-22T04:32:18Z",
+        "start_date_local": "2024-07-22T14:32:18Z",
+        "distance": 423.5,
+        "start_index": 291,
+        "end_index": 351,
+        "average_cadence": 81.9,
+        "device_watts": false,
+        "average_heartrate": 154.1,
+        "max_heartrate": 172.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791686311494,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 207,
+        "moving_time": 207,
+        "start_date": "2024-07-22T04:35:52Z",
+        "start_date_local": "2024-07-22T14:35:52Z",
+        "distance": 423.5,
+        "start_index": 352,
+        "end_index": 408,
+        "average_cadence": 82.5,
+        "device_watts": false,
+        "average_heartrate": 149.4,
+        "max_heartrate": 166.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791689435718,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 210,
+        "moving_time": 210,
+        "start_date": "2024-07-22T04:39:19Z",
+        "start_date_local": "2024-07-22T14:39:19Z",
+        "distance": 423.5,
+        "start_index": 408,
+        "end_index": 457,
+        "average_cadence": 82.2,
+        "device_watts": false,
+        "average_heartrate": 163.8,
+        "max_heartrate": 172.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791685730886,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 203,
+        "moving_time": 203,
+        "start_date": "2024-07-22T04:42:53Z",
+        "start_date_local": "2024-07-22T14:42:53Z",
+        "distance": 423.5,
+        "start_index": 458,
+        "end_index": 498,
+        "average_cadence": 82.7,
+        "device_watts": false,
+        "average_heartrate": 160.6,
+        "max_heartrate": 173.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791687102022,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 208,
+        "moving_time": 208,
+        "start_date": "2024-07-22T04:46:24Z",
+        "start_date_local": "2024-07-22T14:46:24Z",
+        "distance": 423.5,
+        "start_index": 499,
+        "end_index": 542,
+        "average_cadence": 82.3,
+        "device_watts": false,
+        "average_heartrate": 158.7,
+        "max_heartrate": 170.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791687080518,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 215,
+        "moving_time": 215,
+        "start_date": "2024-07-22T04:49:52Z",
+        "start_date_local": "2024-07-22T14:49:52Z",
+        "distance": 423.5,
+        "start_index": 542,
+        "end_index": 590,
+        "average_cadence": 82.0,
+        "device_watts": false,
+        "average_heartrate": 157.7,
+        "max_heartrate": 167.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791688074822,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 207,
+        "moving_time": 207,
+        "start_date": "2024-07-22T04:53:27Z",
+        "start_date_local": "2024-07-22T14:53:27Z",
+        "distance": 423.5,
+        "start_index": 590,
+        "end_index": 636,
+        "average_cadence": 82.1,
+        "device_watts": false,
+        "average_heartrate": 157.1,
+        "max_heartrate": 170.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791686267462,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 205,
+        "moving_time": 205,
+        "start_date": "2024-07-22T04:56:57Z",
+        "start_date_local": "2024-07-22T14:56:57Z",
+        "distance": 423.5,
+        "start_index": 638,
+        "end_index": 691,
+        "average_cadence": 82.0,
+        "device_watts": false,
+        "average_heartrate": 156.9,
+        "max_heartrate": 169.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791687691846,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 204,
+        "moving_time": 204,
+        "start_date": "2024-07-22T05:00:31Z",
+        "start_date_local": "2024-07-22T15:00:31Z",
+        "distance": 423.5,
+        "start_index": 692,
+        "end_index": 733,
+        "average_cadence": 82.3,
+        "device_watts": false,
+        "average_heartrate": 162.9,
+        "max_heartrate": 173.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791689375302,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 204,
+        "moving_time": 204,
+        "start_date": "2024-07-22T05:03:55Z",
+        "start_date_local": "2024-07-22T15:03:55Z",
+        "distance": 423.5,
+        "start_index": 733,
+        "end_index": 780,
+        "average_cadence": 82.4,
+        "device_watts": false,
+        "average_heartrate": 160.5,
+        "max_heartrate": 168.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791688030790,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 205,
+        "moving_time": 205,
+        "start_date": "2024-07-22T05:07:23Z",
+        "start_date_local": "2024-07-22T15:07:23Z",
+        "distance": 423.5,
+        "start_index": 781,
+        "end_index": 817,
+        "average_cadence": 82.4,
+        "device_watts": false,
+        "average_heartrate": 159.4,
+        "max_heartrate": 165.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791687987782,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 195,
+        "moving_time": 195,
+        "start_date": "2024-07-22T05:10:48Z",
+        "start_date_local": "2024-07-22T15:10:48Z",
+        "distance": 423.5,
+        "start_index": 817,
+        "end_index": 861,
+        "average_cadence": 82.5,
+        "device_watts": false,
+        "average_heartrate": 158.5,
+        "max_heartrate": 166.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791686469190,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 184,
+        "moving_time": 184,
+        "start_date": "2024-07-22T05:14:07Z",
+        "start_date_local": "2024-07-22T15:14:07Z",
+        "distance": 423.5,
+        "start_index": 862,
+        "end_index": 900,
+        "average_cadence": 82.5,
+        "device_watts": false,
+        "average_heartrate": 158.0,
+        "max_heartrate": 167.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791687948870,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 185,
+        "moving_time": 185,
+        "start_date": "2024-07-22T05:17:20Z",
+        "start_date_local": "2024-07-22T15:17:20Z",
+        "distance": 423.5,
+        "start_index": 901,
+        "end_index": 945,
+        "average_cadence": 81.6,
+        "device_watts": false,
+        "average_heartrate": 157.9,
+        "max_heartrate": 168.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3250346791686114886,
+        "resource_state": 2,
+        "name": "Walter Galt Oval Track Anti-Clockwise",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 197,
+        "moving_time": 197,
+        "start_date": "2024-07-22T05:20:25Z",
+        "start_date_local": "2024-07-22T15:20:25Z",
+        "distance": 423.5,
+        "start_index": 945,
+        "end_index": 993,
+        "average_cadence": 82.4,
+        "device_watts": false,
+        "average_heartrate": 154.4,
+        "max_heartrate": 165.0,
+        "segment": {
+          "id": 25335838,
+          "resource_state": 2,
+          "name": "Walter Galt Oval Track Anti-Clockwise",
+          "activity_type": "Run",
+          "distance": 423.5,
+          "average_grade": -0.4,
+          "maximum_grade": 3.6,
+          "elevation_high": 15.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.991656,
+            145.090772
+          ],
+          "end_latlng": [
+            -37.991692,
+            145.090726
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1000.1,
+        "elapsed_time": 480,
+        "elevation_difference": -3.4,
+        "moving_time": 480,
+        "split": 1,
+        "average_speed": 2.08,
+        "average_grade_adjusted_speed": 2.09,
+        "average_heartrate": 142.89979123173276,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.0,
+        "elapsed_time": 506,
+        "elevation_difference": 1.0,
+        "moving_time": 506,
+        "split": 2,
+        "average_speed": 1.98,
+        "average_grade_adjusted_speed": 1.99,
+        "average_heartrate": 168.53359683794466,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.1,
+        "elapsed_time": 492,
+        "elevation_difference": 0.6,
+        "moving_time": 492,
+        "split": 3,
+        "average_speed": 2.03,
+        "average_grade_adjusted_speed": 2.05,
+        "average_heartrate": 153.33739837398375,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.9,
+        "elapsed_time": 492,
+        "elevation_difference": -0.8,
+        "moving_time": 492,
+        "split": 4,
+        "average_speed": 2.03,
+        "average_grade_adjusted_speed": 2.04,
+        "average_heartrate": 160.71747967479675,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.6,
+        "elapsed_time": 499,
+        "elevation_difference": 1.4,
+        "moving_time": 499,
+        "split": 5,
+        "average_speed": 2.01,
+        "average_grade_adjusted_speed": 2.02,
+        "average_heartrate": 158.08617234468937,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.7,
+        "elapsed_time": 488,
+        "elevation_difference": -0.6,
+        "moving_time": 488,
+        "split": 6,
+        "average_speed": 2.05,
+        "average_grade_adjusted_speed": 2.06,
+        "average_heartrate": 159.0,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.8,
+        "elapsed_time": 481,
+        "elevation_difference": 0.2,
+        "moving_time": 481,
+        "split": 7,
+        "average_speed": 2.08,
+        "average_grade_adjusted_speed": 2.09,
+        "average_heartrate": 160.22453222453223,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.3,
+        "elapsed_time": 452,
+        "elevation_difference": -0.2,
+        "moving_time": 452,
+        "split": 8,
+        "average_speed": 2.21,
+        "average_grade_adjusted_speed": 2.22,
+        "average_heartrate": 157.91150442477877,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.3,
+        "elapsed_time": 470,
+        "elevation_difference": -0.6,
+        "moving_time": 470,
+        "split": 9,
+        "average_speed": 2.13,
+        "average_grade_adjusted_speed": 2.14,
+        "average_heartrate": 157.67446808510638,
+        "pace_zone": 0
+      },
+      {
+        "distance": 302.1,
+        "elapsed_time": 143,
+        "elevation_difference": 7.0,
+        "moving_time": 143,
+        "split": 10,
+        "average_speed": 2.11,
+        "average_grade_adjusted_speed": 2.26,
+        "average_heartrate": 159.27972027972027,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1618.2,
+        "elapsed_time": 797,
+        "elevation_difference": -1.8,
+        "moving_time": 797,
+        "split": 1,
+        "average_speed": 2.03,
+        "average_grade_adjusted_speed": 2.04,
+        "average_heartrate": 152.97613065326632,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1600.8,
+        "elapsed_time": 790,
+        "elevation_difference": 0.0,
+        "moving_time": 790,
+        "split": 2,
+        "average_speed": 2.03,
+        "average_grade_adjusted_speed": 2.04,
+        "average_heartrate": 159.0126582278481,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1618.7,
+        "elapsed_time": 802,
+        "elevation_difference": -0.6,
+        "moving_time": 802,
+        "split": 3,
+        "average_speed": 2.02,
+        "average_grade_adjusted_speed": 2.03,
+        "average_heartrate": 158.3279301745636,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1602.7,
+        "elapsed_time": 782,
+        "elevation_difference": 0.6,
+        "moving_time": 782,
+        "split": 4,
+        "average_speed": 2.05,
+        "average_grade_adjusted_speed": 2.06,
+        "average_heartrate": 160.06649616368287,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1621.6,
+        "elapsed_time": 746,
+        "elevation_difference": -0.2,
+        "moving_time": 746,
+        "split": 5,
+        "average_speed": 2.17,
+        "average_grade_adjusted_speed": 2.18,
+        "average_heartrate": 157.8190348525469,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1240.9,
+        "elapsed_time": 586,
+        "elevation_difference": 6.6,
+        "moving_time": 586,
+        "split": 6,
+        "average_speed": 2.12,
+        "average_grade_adjusted_speed": 2.17,
+        "average_heartrate": 158.3174061433447,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 41786223282,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 479,
+        "moving_time": 479,
+        "start_date": "2024-07-22T04:15:34Z",
+        "start_date_local": "2024-07-22T14:15:34Z",
+        "distance": 1000.0,
+        "average_speed": 2.09,
+        "max_speed": 4.352,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 167,
+        "total_elevation_gain": 8.8,
+        "average_cadence": 83.3,
+        "device_watts": false,
+        "average_heartrate": 142.9,
+        "max_heartrate": 169.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 41786223284,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 506,
+        "moving_time": 506,
+        "start_date": "2024-07-22T04:23:38Z",
+        "start_date_local": "2024-07-22T14:23:38Z",
+        "distance": 1000.0,
+        "average_speed": 1.98,
+        "max_speed": 2.27,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 168,
+        "end_index": 287,
+        "total_elevation_gain": 2.4,
+        "average_cadence": 82.6,
+        "device_watts": false,
+        "average_heartrate": 168.5,
+        "max_heartrate": 181.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 41786223285,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 491,
+        "moving_time": 491,
+        "start_date": "2024-07-22T04:32:10Z",
+        "start_date_local": "2024-07-22T14:32:10Z",
+        "distance": 1000.0,
+        "average_speed": 2.04,
+        "max_speed": 2.36,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 288,
+        "end_index": 420,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 82.2,
+        "device_watts": false,
+        "average_heartrate": 153.3,
+        "max_heartrate": 172.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 41786223288,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 491,
+        "moving_time": 491,
+        "start_date": "2024-07-22T04:40:24Z",
+        "start_date_local": "2024-07-22T14:40:24Z",
+        "distance": 1000.0,
+        "average_speed": 2.04,
+        "max_speed": 2.205,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 421,
+        "end_index": 523,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 82.5,
+        "device_watts": false,
+        "average_heartrate": 160.6,
+        "max_heartrate": 173.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 41786223289,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 498,
+        "moving_time": 498,
+        "start_date": "2024-07-22T04:48:33Z",
+        "start_date_local": "2024-07-22T14:48:33Z",
+        "distance": 1000.0,
+        "average_speed": 2.01,
+        "max_speed": 2.247,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 524,
+        "end_index": 633,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 82.1,
+        "device_watts": false,
+        "average_heartrate": 157.9,
+        "max_heartrate": 170.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 41786223291,
+        "resource_state": 2,
+        "name": "Lap 6",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 488,
+        "moving_time": 488,
+        "start_date": "2024-07-22T04:56:48Z",
+        "start_date_local": "2024-07-22T14:56:48Z",
+        "distance": 1000.0,
+        "average_speed": 2.05,
+        "max_speed": 2.27,
+        "lap_index": 6,
+        "split": 6,
+        "start_index": 634,
+        "end_index": 753,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 82.2,
+        "device_watts": false,
+        "average_heartrate": 159.1,
+        "max_heartrate": 173.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 41786223292,
+        "resource_state": 2,
+        "name": "Lap 7",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 480,
+        "moving_time": 480,
+        "start_date": "2024-07-22T05:04:56Z",
+        "start_date_local": "2024-07-22T15:04:56Z",
+        "distance": 1000.0,
+        "average_speed": 2.08,
+        "max_speed": 2.264,
+        "lap_index": 7,
+        "split": 7,
+        "start_index": 754,
+        "end_index": 846,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 82.4,
+        "device_watts": false,
+        "average_heartrate": 160.3,
+        "max_heartrate": 168.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 41786223294,
+        "resource_state": 2,
+        "name": "Lap 8",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 452,
+        "moving_time": 452,
+        "start_date": "2024-07-22T05:12:59Z",
+        "start_date_local": "2024-07-22T15:12:59Z",
+        "distance": 1000.0,
+        "average_speed": 2.21,
+        "max_speed": 2.544,
+        "lap_index": 8,
+        "split": 8,
+        "start_index": 847,
+        "end_index": 945,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 82.2,
+        "device_watts": false,
+        "average_heartrate": 157.8,
+        "max_heartrate": 168.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 41786223296,
+        "resource_state": 2,
+        "name": "Lap 9",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 470,
+        "moving_time": 470,
+        "start_date": "2024-07-22T05:20:32Z",
+        "start_date_local": "2024-07-22T15:20:32Z",
+        "distance": 1000.0,
+        "average_speed": 2.13,
+        "max_speed": 2.362,
+        "lap_index": 9,
+        "split": 9,
+        "start_index": 946,
+        "end_index": 1069,
+        "total_elevation_gain": 3.0,
+        "average_cadence": 82.3,
+        "device_watts": false,
+        "average_heartrate": 157.7,
+        "max_heartrate": 171.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 41786223298,
+        "resource_state": 2,
+        "name": "Lap 10",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 140,
+        "moving_time": 140,
+        "start_date": "2024-07-22T05:28:18Z",
+        "start_date_local": "2024-07-22T15:28:18Z",
+        "distance": 298.73,
+        "average_speed": 2.13,
+        "max_speed": 2.34,
+        "lap_index": 10,
+        "split": 10,
+        "start_index": 1070,
+        "end_index": 1105,
+        "total_elevation_gain": 7.0,
+        "average_cadence": 83.4,
+        "device_watts": false,
+        "average_heartrate": 159.3,
+        "max_heartrate": 164.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 50979436774,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 179,
+        "moving_time": 179,
+        "start_date": "2024-07-22T04:15:34Z",
+        "start_date_local": "2024-07-22T14:15:34Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 928,
+        "end_index": 970
+      },
+      {
+        "id": 50979436775,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 362,
+        "moving_time": 362,
+        "start_date": "2024-07-22T04:15:34Z",
+        "start_date_local": "2024-07-22T14:15:34Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 890,
+        "end_index": 971
+      },
+      {
+        "id": 50979436776,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 452,
+        "moving_time": 452,
+        "start_date": "2024-07-22T04:15:34Z",
+        "start_date_local": "2024-07-22T14:15:34Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 856,
+        "end_index": 955
+      },
+      {
+        "id": 50979436771,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 735,
+        "moving_time": 735,
+        "start_date": "2024-07-22T04:15:34Z",
+        "start_date_local": "2024-07-22T14:15:34Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 806,
+        "end_index": 964
+      },
+      {
+        "id": 50979436772,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1506,
+        "moving_time": 1506,
+        "start_date": "2024-07-22T04:15:34Z",
+        "start_date_local": "2024-07-22T14:15:34Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 740,
+        "end_index": 1086
+      },
+      {
+        "id": 50979436773,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 11949048462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 2385,
+        "moving_time": 2385,
+        "start_date": "2024-07-22T04:15:34Z",
+        "start_date_local": "2024-07-22T14:15:34Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 543,
+        "end_index": 1090
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "36b6e70ac9494d55d317fc066024627f93bf9ba2",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.0659338218965133,
+      "min_average_speed": 2.0659338218965133,
+      "mid_average_speed": 2.0659338218965133,
+      "max_average_speed": 2.0659338218965133,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.0659338218965133
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.0659338218965133,
+        "mid_speed": 2.0659338218965133,
+        "max_speed": 2.0659338218965133,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

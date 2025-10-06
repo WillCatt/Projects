@@ -1,0 +1,1644 @@
+{
+  "cached_at": "2025-10-06T16:16:34.099577",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Afternoon Run",
+    "distance": 7743.6,
+    "moving_time": 2593,
+    "elapsed_time": 2596,
+    "total_elevation_gain": 48.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": null,
+    "id": 12193337142,
+    "start_date": "2024-08-20T06:52:39Z",
+    "start_date_local": "2024-08-20T16:52:39Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 3,
+    "comment_count": 1,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a12193337142",
+      "polyline": "|i{fFmzotZiAbAl@a@B?EDCNCBOBOLQEY`@GVB|@^bAHf@Ap@Ql@k@r@k@Pm@Bm@Mi@a@Ui@Sw@m@k@G]W_AIi@Fc@HuA^a@DMHy@?c@Fy@Hc@NaCD_APgCBq@NcB@_@?OKc@[q@CM@a@Hm@RSf@Cp@Fb@Cv@]RSw@Ti@@c@EWGUOQe@E_@?YHi@Xg@VYj@Wb@El@FLFZ^Nj@@ZAVI`@]j@e@`@G@i@Dg@EICc@SGGMa@Em@Ho@LWZa@ZWb@Kf@Af@LZVRj@Ff@ATETUh@]^e@TQ@c@?c@Ga@SMQMm@Ds@FQP_@Za@LId@QPCd@?ND`@VFHNZHj@Gx@[l@e@^UHUBc@A]E[MKKUg@Ck@Js@Ze@`@a@JE`@OXAd@FTLVXRt@Al@Up@W^i@\\_@DQ?e@E[ISOUk@Cw@Rm@`@m@NM`@UPCh@?f@NFDXb@Lp@Ir@Wp@c@`@YN]BU?k@ISK[c@I[AUHq@Xo@`@_@JGd@Od@A\\F^ZVl@Dp@Kj@_@n@ONa@R]Fc@Cg@KIE[c@Io@Be@DSRi@HI\\[JEf@Oj@?\\J\\ZTx@@LC\\ETKXW`@k@`@_@Fa@Ao@KWWM]Gc@Bk@Vs@h@i@^Qn@E^FNFRPTd@Hd@Er@Yl@]^KFe@N_@?[Ce@O_@k@Im@?IJk@Tg@`@_@`@Up@Eh@FNHXd@DLFl@Iv@Sd@]\\WNc@Hs@EQEa@WSq@?o@@MJ_@\\k@d@]\\IJAh@@JBb@ZVj@D\\A^ETIZYb@e@Zg@Hg@Ce@IYYISIk@H_AVe@\\]l@Yf@CPBb@RLNNZHV@XIr@Yn@]ZSJi@Hq@Ea@SYg@Gs@@UH_@Re@f@g@HEd@K^?VDb@VTh@Hn@AXKd@QX[Zc@Tm@BSAa@IKGSWMk@?q@Nk@PYVY`@STGb@Cf@LXXVr@Ax@Yx@Y^IDe@RQ@e@Cc@Ic@]GKEq@Dm@Vq@b@e@f@UXC^@h@PDDTb@Ln@Cf@]x@KN_@ZIDe@Fo@CQE_@YYq@Ao@Nm@h@s@^Wl@ITAPBd@TVb@Lj@?JA\\GZUf@a@b@QHg@Ji@CKCc@UUe@E[?[Fi@HYNUb@e@\\OXEV?ND\\LZ^L^DXEp@Sl@Wb@IvAEdBKxARF@BCh@",
+      "resource_state": 3,
+      "summary_polyline": "|i{fFmzotZiAbAp@a@EDGROBOLQEY`@If@Dl@^bAHf@Ap@Mh@[b@WTg@Nm@Bm@Mi@a@Ui@Sw@m@k@g@yBNgCd@o@H}AVmC`@yGBq@PcCKs@[q@CM@a@Hm@RSf@Cp@Fb@Cv@]RSw@Ti@@i@Eg@WQe@E_@?YHi@Xg@VY`@S|@Ij@NZ^Nj@?r@I`@]j@m@b@i@Dg@Em@WUi@Em@Ho@LWZa@ZWb@Kb@Aj@LZVRj@Ff@AT[~@]^e@Te@BcAOQMMQMs@Dm@Xq@h@k@v@Ud@?NDh@`@NZHr@Kv@Wf@e@^k@LaAG[MKKS]Eu@Js@Ze@`@a@l@UXAd@FTLRRVz@Al@Oj@g@n@_@R_@D}@EUISOUk@Co@Ru@`@m@p@c@`ACh@TXb@Lp@Kz@Uh@YXc@V]B_@Au@S[c@I[AUHq@Xo@l@g@d@Od@A\\F^ZVl@Dp@Kj@_@n@q@b@]Fc@Cq@Q[c@Io@?OHi@Ri@f@e@x@Wd@@VFf@f@Nh@BTC\\Qn@a@h@a@X_@Fa@Ao@KWWM]Gc@Fs@J]X_@VW^Qz@EXH\\VTd@Hd@Er@Yl@]^q@V{@Ck@UYe@Im@Ju@Xm@\\Yl@Wd@Ch@FNHXd@Lz@Iv@Sd@]\\WNc@HeAKe@]Ok@?o@Lm@\\k@d@]\\I`ABb@ZXp@B^Gl@IZYb@e@Zg@Hg@Cm@OQSISIk@H_AVe@\\]l@Yf@Ct@VLNXr@@XIr@Yn@]ZSJc@Hk@Cm@UYg@Gs@@UH_@Re@p@m@d@K^?VDb@VTh@Hn@Ef@GVW`@WTa@RaA@m@QSWMk@?q@Nk@PYVYl@Yl@Ef@LXXXz@Ev@Wr@Y^o@Xi@?q@Kc@]GKEa@D}@Zw@d@c@`@Qx@An@VTb@Ln@Cf@]x@KNi@`@k@F{@I_@YYq@Ao@Tu@b@k@^Wl@If@@d@TVb@Lv@A\\GZUf@s@l@g@Ji@Co@YUe@E[?[Fi@HYl@w@b@SXEf@D\\LZ^Rx@Ep@Sl@Wb@O|DKxATJCh@"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.99214246682823,
+      145.08471630513668
+    ],
+    "end_latlng": [
+      -37.9915482737124,
+      145.0879865884781
+    ],
+    "average_speed": 2.986,
+    "max_speed": 6.408,
+    "average_cadence": 82.0,
+    "average_temp": 21,
+    "has_heartrate": true,
+    "average_heartrate": 157.5,
+    "max_heartrate": 176.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 26.2,
+    "elev_low": 13.6,
+    "upload_id": 12999445883,
+    "upload_id_str": "12999445883",
+    "external_id": "garmin_ping_363849522476",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 494.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3260880962787512652,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 156,
+        "moving_time": 156,
+        "start_date": "2024-08-20T07:01:14Z",
+        "start_date_local": "2024-08-20T17:01:14Z",
+        "distance": 418.0,
+        "start_index": 120,
+        "end_index": 152,
+        "average_cadence": 81.1,
+        "device_watts": false,
+        "average_heartrate": 146.2,
+        "max_heartrate": 150.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962788018508,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 154,
+        "moving_time": 154,
+        "start_date": "2024-08-20T07:03:42Z",
+        "start_date_local": "2024-08-20T17:03:42Z",
+        "distance": 418.0,
+        "start_index": 151,
+        "end_index": 184,
+        "average_cadence": 81.0,
+        "device_watts": false,
+        "average_heartrate": 145.8,
+        "max_heartrate": 152.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962790626636,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 122,
+        "moving_time": 122,
+        "start_date": "2024-08-20T07:06:15Z",
+        "start_date_local": "2024-08-20T17:06:15Z",
+        "distance": 418.0,
+        "start_index": 183,
+        "end_index": 215,
+        "average_cadence": 82.8,
+        "device_watts": false,
+        "average_heartrate": 156.4,
+        "max_heartrate": 166.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962790335820,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 120,
+        "moving_time": 120,
+        "start_date": "2024-08-20T07:08:12Z",
+        "start_date_local": "2024-08-20T17:08:12Z",
+        "distance": 418.0,
+        "start_index": 214,
+        "end_index": 245,
+        "average_cadence": 83.2,
+        "device_watts": false,
+        "average_heartrate": 169.8,
+        "max_heartrate": 174.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962787674444,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 126,
+        "moving_time": 126,
+        "start_date": "2024-08-20T07:10:06Z",
+        "start_date_local": "2024-08-20T17:10:06Z",
+        "distance": 418.0,
+        "start_index": 244,
+        "end_index": 276,
+        "average_cadence": 81.9,
+        "device_watts": false,
+        "average_heartrate": 169.7,
+        "max_heartrate": 172.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962787386700,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 117,
+        "moving_time": 117,
+        "start_date": "2024-08-20T07:12:09Z",
+        "start_date_local": "2024-08-20T17:12:09Z",
+        "distance": 418.0,
+        "start_index": 275,
+        "end_index": 303,
+        "average_cadence": 83.1,
+        "device_watts": false,
+        "average_heartrate": 168.7,
+        "max_heartrate": 172.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962787985740,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 131,
+        "moving_time": 131,
+        "start_date": "2024-08-20T07:14:06Z",
+        "start_date_local": "2024-08-20T17:14:06Z",
+        "distance": 418.0,
+        "start_index": 303,
+        "end_index": 337,
+        "average_cadence": 82.0,
+        "device_watts": false,
+        "average_heartrate": 172.9,
+        "max_heartrate": 176.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962788278604,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 151,
+        "moving_time": 151,
+        "start_date": "2024-08-20T07:16:13Z",
+        "start_date_local": "2024-08-20T17:16:13Z",
+        "distance": 418.0,
+        "start_index": 336,
+        "end_index": 373,
+        "average_cadence": 83.5,
+        "device_watts": false,
+        "average_heartrate": 158.5,
+        "max_heartrate": 166.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962788397388,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 114,
+        "moving_time": 114,
+        "start_date": "2024-08-20T07:18:44Z",
+        "start_date_local": "2024-08-20T17:18:44Z",
+        "distance": 418.0,
+        "start_index": 373,
+        "end_index": 403,
+        "average_cadence": 83.0,
+        "device_watts": false,
+        "average_heartrate": 169.2,
+        "max_heartrate": 173.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962789713228,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 125,
+        "moving_time": 125,
+        "start_date": "2024-08-20T07:20:38Z",
+        "start_date_local": "2024-08-20T17:20:38Z",
+        "distance": 418.0,
+        "start_index": 403,
+        "end_index": 435,
+        "average_cadence": 82.0,
+        "device_watts": false,
+        "average_heartrate": 171.3,
+        "max_heartrate": 173.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962788131148,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 115,
+        "moving_time": 115,
+        "start_date": "2024-08-20T07:22:43Z",
+        "start_date_local": "2024-08-20T17:22:43Z",
+        "distance": 418.0,
+        "start_index": 435,
+        "end_index": 464,
+        "average_cadence": 83.4,
+        "device_watts": false,
+        "average_heartrate": 170.1,
+        "max_heartrate": 174.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962787076428,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 176,
+        "moving_time": 176,
+        "start_date": "2024-08-20T07:24:38Z",
+        "start_date_local": "2024-08-20T17:24:38Z",
+        "distance": 418.0,
+        "start_index": 464,
+        "end_index": 504,
+        "average_cadence": 71.5,
+        "device_watts": false,
+        "average_heartrate": 158.1,
+        "max_heartrate": 174.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962788403532,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 123,
+        "moving_time": 123,
+        "start_date": "2024-08-20T07:27:33Z",
+        "start_date_local": "2024-08-20T17:27:33Z",
+        "distance": 418.0,
+        "start_index": 503,
+        "end_index": 537,
+        "average_cadence": 84.3,
+        "device_watts": false,
+        "average_heartrate": 157.1,
+        "max_heartrate": 164.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962787912012,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 119,
+        "moving_time": 119,
+        "start_date": "2024-08-20T07:29:34Z",
+        "start_date_local": "2024-08-20T17:29:34Z",
+        "distance": 418.0,
+        "start_index": 536,
+        "end_index": 568,
+        "average_cadence": 83.5,
+        "device_watts": false,
+        "average_heartrate": 167.8,
+        "max_heartrate": 171.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3260880962789870924,
+        "resource_state": 2,
+        "name": "Newly Re-surfaced!",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 125,
+        "moving_time": 125,
+        "start_date": "2024-08-20T07:31:33Z",
+        "start_date_local": "2024-08-20T17:31:33Z",
+        "distance": 418.0,
+        "start_index": 568,
+        "end_index": 597,
+        "average_cadence": 83.1,
+        "device_watts": false,
+        "average_heartrate": 170.5,
+        "max_heartrate": 175.0,
+        "segment": {
+          "id": 8697309,
+          "resource_state": 2,
+          "name": "Newly Re-surfaced!",
+          "activity_type": "Run",
+          "distance": 418.0,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 13.7,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.990637,
+            145.089982
+          ],
+          "end_latlng": [
+            -37.990561,
+            145.090054
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.4,
+        "elapsed_time": 403,
+        "elevation_difference": -3.4,
+        "moving_time": 403,
+        "split": 1,
+        "average_speed": 2.48,
+        "average_grade_adjusted_speed": 2.49,
+        "average_heartrate": 133.18481012658228,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.2,
+        "elapsed_time": 381,
+        "elevation_difference": 1.4,
+        "moving_time": 381,
+        "split": 2,
+        "average_speed": 2.62,
+        "average_grade_adjusted_speed": 2.64,
+        "average_heartrate": 143.384,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.5,
+        "elapsed_time": 293,
+        "elevation_difference": 1.2,
+        "moving_time": 293,
+        "split": 3,
+        "average_speed": 3.41,
+        "average_grade_adjusted_speed": 3.43,
+        "average_heartrate": 162.2320819112628,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1018.5,
+        "elapsed_time": 300,
+        "elevation_difference": -3.4,
+        "moving_time": 300,
+        "split": 4,
+        "average_speed": 3.4,
+        "average_grade_adjusted_speed": 3.38,
+        "average_heartrate": 170.65,
+        "pace_zone": 0
+      },
+      {
+        "distance": 982.3,
+        "elapsed_time": 330,
+        "elevation_difference": 1.2,
+        "moving_time": 330,
+        "split": 5,
+        "average_speed": 2.98,
+        "average_grade_adjusted_speed": 2.99,
+        "average_heartrate": 164.64848484848486,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1002.5,
+        "elapsed_time": 330,
+        "elevation_difference": -0.2,
+        "moving_time": 330,
+        "split": 6,
+        "average_speed": 3.04,
+        "average_grade_adjusted_speed": 3.06,
+        "average_heartrate": 169.14242424242425,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1006.2,
+        "elapsed_time": 325,
+        "elevation_difference": -0.4,
+        "moving_time": 325,
+        "split": 7,
+        "average_speed": 3.1,
+        "average_grade_adjusted_speed": 3.13,
+        "average_heartrate": 159.30769230769232,
+        "pace_zone": 0
+      },
+      {
+        "distance": 734.0,
+        "elapsed_time": 237,
+        "elevation_difference": 0.4,
+        "moving_time": 233,
+        "split": 8,
+        "average_speed": 3.15,
+        "average_grade_adjusted_speed": 3.18,
+        "average_heartrate": 169.7456896551724,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1630.7,
+        "elapsed_time": 645,
+        "elevation_difference": -2.6,
+        "moving_time": 645,
+        "split": 1,
+        "average_speed": 2.53,
+        "average_grade_adjusted_speed": 2.53,
+        "average_heartrate": 136.74009508716324,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1596.9,
+        "elapsed_time": 502,
+        "elevation_difference": 0.8,
+        "moving_time": 502,
+        "split": 2,
+        "average_speed": 3.18,
+        "average_grade_adjusted_speed": 3.2,
+        "average_heartrate": 158.41434262948206,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1604.0,
+        "elapsed_time": 508,
+        "elevation_difference": -2.4,
+        "moving_time": 508,
+        "split": 3,
+        "average_speed": 3.16,
+        "average_grade_adjusted_speed": 3.16,
+        "average_heartrate": 166.7775590551181,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1606.2,
+        "elapsed_time": 538,
+        "elevation_difference": 0.0,
+        "moving_time": 538,
+        "split": 4,
+        "average_speed": 2.99,
+        "average_grade_adjusted_speed": 3.01,
+        "average_heartrate": 163.9182156133829,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1305.8,
+        "elapsed_time": 406,
+        "elevation_difference": 1.0,
+        "moving_time": 402,
+        "split": 5,
+        "average_speed": 3.25,
+        "average_grade_adjusted_speed": 3.29,
+        "average_heartrate": 168.8154613466334,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 42681661812,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 401,
+        "moving_time": 401,
+        "start_date": "2024-08-20T06:52:39Z",
+        "start_date_local": "2024-08-20T16:52:39Z",
+        "distance": 1000.0,
+        "average_speed": 2.49,
+        "max_speed": 6.408,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 97,
+        "total_elevation_gain": 7.6,
+        "average_cadence": 83.5,
+        "device_watts": false,
+        "average_heartrate": 133.2,
+        "max_heartrate": 144.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 42681661817,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 380,
+        "moving_time": 380,
+        "start_date": "2024-08-20T06:59:30Z",
+        "start_date_local": "2024-08-20T16:59:30Z",
+        "distance": 1000.0,
+        "average_speed": 2.63,
+        "max_speed": 3.08,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 98,
+        "end_index": 176,
+        "total_elevation_gain": 4.8,
+        "average_cadence": 81.1,
+        "device_watts": false,
+        "average_heartrate": 143.6,
+        "max_heartrate": 150.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 42681661819,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 117,
+        "moving_time": 117,
+        "start_date": "2024-08-20T07:05:50Z",
+        "start_date_local": "2024-08-20T17:05:50Z",
+        "distance": 354.15,
+        "average_speed": 3.03,
+        "max_speed": 4.12,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 177,
+        "end_index": 205,
+        "total_elevation_gain": 2.2,
+        "average_cadence": 80.9,
+        "device_watts": false,
+        "average_heartrate": 153.5,
+        "max_heartrate": 157.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 42681661823,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 284,
+        "moving_time": 284,
+        "start_date": "2024-08-20T07:07:49Z",
+        "start_date_local": "2024-08-20T17:07:49Z",
+        "distance": 1000.0,
+        "average_speed": 3.52,
+        "max_speed": 4.336,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 206,
+        "end_index": 281,
+        "total_elevation_gain": 7.8,
+        "average_cadence": 83.0,
+        "device_watts": false,
+        "average_heartrate": 168.9,
+        "max_heartrate": 174.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 42681661825,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 195,
+        "moving_time": 195,
+        "start_date": "2024-08-20T07:12:32Z",
+        "start_date_local": "2024-08-20T17:12:32Z",
+        "distance": 681.14,
+        "average_speed": 3.49,
+        "max_speed": 3.872,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 282,
+        "end_index": 332,
+        "total_elevation_gain": 3.0,
+        "average_cadence": 82.7,
+        "device_watts": false,
+        "average_heartrate": 171.8,
+        "max_heartrate": 176.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 42681661826,
+        "resource_state": 2,
+        "name": "Lap 6",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 119,
+        "moving_time": 120,
+        "start_date": "2024-08-20T07:15:52Z",
+        "start_date_local": "2024-08-20T17:15:52Z",
+        "distance": 253.06,
+        "average_speed": 2.11,
+        "max_speed": 2.48,
+        "lap_index": 6,
+        "split": 6,
+        "start_index": 333,
+        "end_index": 356,
+        "total_elevation_gain": 2.0,
+        "average_cadence": 82.0,
+        "device_watts": false,
+        "average_heartrate": 160.1,
+        "max_heartrate": 173.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 42681661831,
+        "resource_state": 2,
+        "name": "Lap 7",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 293,
+        "moving_time": 293,
+        "start_date": "2024-08-20T07:17:43Z",
+        "start_date_local": "2024-08-20T17:17:43Z",
+        "distance": 1000.0,
+        "average_speed": 3.41,
+        "max_speed": 3.961,
+        "lap_index": 7,
+        "split": 7,
+        "start_index": 357,
+        "end_index": 434,
+        "total_elevation_gain": 5.2,
+        "average_cadence": 83.1,
+        "device_watts": false,
+        "average_heartrate": 168.2,
+        "max_heartrate": 173.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 42681661835,
+        "resource_state": 2,
+        "name": "Lap 8",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 186,
+        "moving_time": 186,
+        "start_date": "2024-08-20T07:22:43Z",
+        "start_date_local": "2024-08-20T17:22:43Z",
+        "distance": 638.44,
+        "average_speed": 3.43,
+        "max_speed": 3.995,
+        "lap_index": 8,
+        "split": 8,
+        "start_index": 435,
+        "end_index": 480,
+        "total_elevation_gain": 5.6,
+        "average_cadence": 82.8,
+        "device_watts": false,
+        "average_heartrate": 171.0,
+        "max_heartrate": 174.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 42681661838,
+        "resource_state": 2,
+        "name": "Lap 9",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 119,
+        "moving_time": 120,
+        "start_date": "2024-08-20T07:25:51Z",
+        "start_date_local": "2024-08-20T17:25:51Z",
+        "distance": 200.63,
+        "average_speed": 1.67,
+        "max_speed": 2.421,
+        "lap_index": 9,
+        "split": 9,
+        "start_index": 481,
+        "end_index": 505,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 66.5,
+        "device_watts": false,
+        "average_heartrate": 147.7,
+        "max_heartrate": 171.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 42681661840,
+        "resource_state": 2,
+        "name": "Lap 10",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 297,
+        "moving_time": 297,
+        "start_date": "2024-08-20T07:27:42Z",
+        "start_date_local": "2024-08-20T17:27:42Z",
+        "distance": 1000.0,
+        "average_speed": 3.37,
+        "max_speed": 3.776,
+        "lap_index": 10,
+        "split": 10,
+        "start_index": 506,
+        "end_index": 584,
+        "total_elevation_gain": 11.8,
+        "average_cadence": 83.7,
+        "device_watts": false,
+        "average_heartrate": 164.7,
+        "max_heartrate": 172.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 42681661845,
+        "resource_state": 2,
+        "name": "Lap 11",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 182,
+        "moving_time": 182,
+        "start_date": "2024-08-20T07:32:46Z",
+        "start_date_local": "2024-08-20T17:32:46Z",
+        "distance": 589.41,
+        "average_speed": 3.24,
+        "max_speed": 3.76,
+        "lap_index": 11,
+        "split": 11,
+        "start_index": 585,
+        "end_index": 628,
+        "total_elevation_gain": 3.8,
+        "average_cadence": 83.1,
+        "device_watts": false,
+        "average_heartrate": 169.7,
+        "max_heartrate": 175.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 42681661847,
+        "resource_state": 2,
+        "name": "Lap 12",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 16,
+        "moving_time": 13,
+        "start_date": "2024-08-20T07:35:46Z",
+        "start_date_local": "2024-08-20T17:35:46Z",
+        "distance": 26.8,
+        "average_speed": 2.06,
+        "max_speed": 2.262,
+        "lap_index": 12,
+        "split": 12,
+        "start_index": 629,
+        "end_index": 633,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 83.0,
+        "device_watts": false,
+        "average_heartrate": 166.0,
+        "max_heartrate": 168.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 51917312125,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 106,
+        "moving_time": 106,
+        "start_date": "2024-08-20T06:52:39Z",
+        "start_date_local": "2024-08-20T16:52:39Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 204,
+        "end_index": 232
+      },
+      {
+        "id": 51917312126,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 223,
+        "moving_time": 223,
+        "start_date": "2024-08-20T06:52:39Z",
+        "start_date_local": "2024-08-20T16:52:39Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 202,
+        "end_index": 262
+      },
+      {
+        "id": 51917312127,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 285,
+        "moving_time": 285,
+        "start_date": "2024-08-20T06:52:39Z",
+        "start_date_local": "2024-08-20T16:52:39Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 201,
+        "end_index": 278
+      },
+      {
+        "id": 51917312122,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 460,
+        "moving_time": 460,
+        "start_date": "2024-08-20T06:52:39Z",
+        "start_date_local": "2024-08-20T16:52:39Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 201,
+        "end_index": 323
+      },
+      {
+        "id": 51917312123,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 975,
+        "moving_time": 975,
+        "start_date": "2024-08-20T06:52:39Z",
+        "start_date_local": "2024-08-20T16:52:39Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 203,
+        "end_index": 454
+      },
+      {
+        "id": 51917312124,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 12193337142,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1566,
+        "moving_time": 1566,
+        "start_date": "2024-08-20T06:52:39Z",
+        "start_date_local": "2024-08-20T16:52:39Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 202,
+        "end_index": 598
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "e57f1f2df6d121b688398bde8c7aef9b1f717987",
+    "similar_activities": {
+      "effort_count": 3,
+      "average_speed": 2.7803988009904863,
+      "min_average_speed": 2.382543103448276,
+      "mid_average_speed": 2.667634412063023,
+      "max_average_speed": 3.030226480836237,
+      "pr_rank": 2,
+      "frequency_milestone": 3,
+      "trend": {
+        "speeds": [
+          3.0302264808362374,
+          2.667634412063023,
+          2.766034698553825
+        ],
+        "current_activity_index": 2,
+        "min_speed": 2.382543103448276,
+        "mid_speed": 2.667634412063023,
+        "max_speed": 3.030226480836237,
+        "direction": 1
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

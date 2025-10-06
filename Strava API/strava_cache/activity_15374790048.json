@@ -1,0 +1,398 @@
+{
+  "cached_at": "2025-10-06T16:14:42.130569",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Lunch Trail Run",
+    "distance": 1914.4,
+    "moving_time": 1201,
+    "elapsed_time": 1528,
+    "total_elevation_gain": 163.5,
+    "type": "Run",
+    "sport_type": "TrailRun",
+    "workout_type": 0,
+    "id": 15374790048,
+    "start_date": "2025-08-07T10:17:34Z",
+    "start_date_local": "2025-08-07T12:17:34Z",
+    "timezone": "(GMT+01:00) Europe/Zurich",
+    "utc_offset": 7200.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 3,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a15374790048",
+      "polyline": "ohh{Gguso@CYBGCUDk@Ko@?s@n@m@TGRa@HIL[P@DIAQDQHKJKB?FFLIDKVEBEASM_@AQFqAG]@m@E[?OCIBQMaA?KD_@GKB]KIGWIM_@QOMWCCCABGGC@EE?KFMAOD]?CMEAC@YPiAL]B[He@?GCEASMOCE@YCKCWCCAUE_@BQCICi@KKKU?IIKAKEC[o@EEAKKOKCGGAIGIQI]AUMIKSFCCMOCUECG@MMM@UOE?GSIMCYMICGO_AEIBMLCBILEFB\\ORCJHBPL@@FA@BCC@F?FGHADJN@FFHPPBBHJD@HNDPNRETH@D@AFBJJF@XVB?BED@DA?E@@?CDGD@NZ`@VRHTZJBDALDBHHF?BPPD?RXBNDBNp@FNB`@DHHf@HFDP@A@KB?B^FH?JJ`@L^RZJh@@CHTTL@@XH@BJD@D@C@@C?LP?VDD@J?TAVEJC^CNCv@@REDDX?f@DR?LBJCb@@d@GLDPC\\P\\LFPPFLJDHDTSBI",
+      "resource_state": 3,
+      "summary_polyline": "ohh{Gguso@CYBGCUDk@Ko@?s@n@m@TGRa@HIL[P@DIAQDQHKJKB?FFLIDKVEBEASM_@AQFqAG]@m@E[?OCIBQMaA?KD_@GKB]KIGWIM_@QOMWCCCABGGC@EE?KFMAOD]?CMEAC@YPiAL]B[He@?GCEASMOCE@YCKCWCCAUE_@BQCICi@KKKU?IIKAKEC[o@EEAKKOKCGGAIGIQI]AUMIKSFCCMOCUECG@MMM@UOE?GSIMCYMICGO_AEIBMLCBILEFB\\ORCJHBPL@@FA@BCC@F?FGHADJN@FFHPPBBHJD@HNDPNRETH@D@AFBJJF@XVB?BED@DA?E@@?CDGD@NZ`@VRHTZJBDALDBHHF?BPPD?RXBNDBNp@FNB`@DHHf@HFDP@A@KB?B^FH?JJ`@L^RZJh@@CHTTL@@XH@BJD@D@C@@C?LP?VDD@J?TAVEJC^CNCv@@REDDX?f@DR?LBJCb@@d@GLDPC\\P\\LFPPFLJDHDTSBI"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      46.578168,
+      7.970287
+    ],
+    "end_latlng": [
+      46.575206,
+      7.973758
+    ],
+    "average_speed": 1.594,
+    "max_speed": 3.75,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 2322.7,
+    "elev_low": 2165.0,
+    "upload_id": 16419172157,
+    "upload_id_str": "16419172157",
+    "external_id": "0AEC4DBD-6E30-41F3-A5E0-C298219F07B0-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "",
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3388488395639995154,
+        "resource_state": 2,
+        "name": "Salzegg Climb",
+        "activity": {
+          "id": 15374790048,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 858,
+        "moving_time": 244,
+        "start_date": "2025-08-07T10:26:34Z",
+        "start_date_local": "2025-08-07T12:26:34Z",
+        "distance": 673.713,
+        "start_index": 535,
+        "end_index": 1060,
+        "device_watts": false,
+        "segment": {
+          "id": 2567761,
+          "resource_state": 2,
+          "name": "Salzegg Climb",
+          "activity_type": "Run",
+          "distance": 673.713,
+          "average_grade": 16.0,
+          "maximum_grade": 60.5,
+          "elevation_high": 2346.2,
+          "elevation_low": 2238.6,
+          "start_latlng": [
+            46.58020114435438,
+            7.98046599061613
+          ],
+          "end_latlng": [
+            46.57560944571091,
+            7.976301504977005
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 1,
+          "city": "Grindelwald",
+          "state": "Bern",
+          "country": "Switzerland",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3388488395638193938,
+        "resource_state": 2,
+        "name": "last meters",
+        "activity": {
+          "id": 15374790048,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 781,
+        "moving_time": 217,
+        "start_date": "2025-08-07T10:29:26Z",
+        "start_date_local": "2025-08-07T12:29:26Z",
+        "distance": 571.9,
+        "start_index": 706,
+        "end_index": 1154,
+        "device_watts": false,
+        "segment": {
+          "id": 33048158,
+          "resource_state": 2,
+          "name": "last meters",
+          "activity_type": "Run",
+          "distance": 571.9,
+          "average_grade": 14.0,
+          "maximum_grade": 63.6,
+          "elevation_high": 2287.2,
+          "elevation_low": 2207.4,
+          "start_latlng": [
+            46.577871,
+            7.97939
+          ],
+          "end_latlng": [
+            46.575649,
+            7.973988
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Grindelwald",
+          "state": "Bern",
+          "country": "Switzerland",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1000.1,
+        "elapsed_time": 518,
+        "elevation_difference": 58.3,
+        "moving_time": 518,
+        "split": 1,
+        "average_speed": 1.93,
+        "average_grade_adjusted_speed": 2.57,
+        "pace_zone": 0
+      },
+      {
+        "distance": 914.3,
+        "elapsed_time": 1010,
+        "elevation_difference": 82.7,
+        "moving_time": 683,
+        "split": 2,
+        "average_speed": 1.34,
+        "average_grade_adjusted_speed": 2.33,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1611.8,
+        "elapsed_time": 1362,
+        "elevation_difference": 154.8,
+        "moving_time": 1035,
+        "split": 1,
+        "average_speed": 1.56,
+        "average_grade_adjusted_speed": 2.46,
+        "pace_zone": 0
+      },
+      {
+        "distance": 302.6,
+        "elapsed_time": 166,
+        "elevation_difference": -13.8,
+        "moving_time": 166,
+        "split": 2,
+        "average_speed": 1.82,
+        "average_grade_adjusted_speed": 2.24,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 54710920949,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 15374790048,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1536,
+        "moving_time": 1201,
+        "start_date": "2025-08-07T10:17:34Z",
+        "start_date_local": "2025-08-07T12:17:34Z",
+        "distance": 1914.45,
+        "average_speed": 1.59,
+        "max_speed": 3.75,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1189,
+        "total_elevation_gain": 163.5,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 64465108887,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 15374790048,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 170,
+        "moving_time": 170,
+        "start_date": "2025-08-07T10:17:34Z",
+        "start_date_local": "2025-08-07T12:17:34Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 6,
+        "end_index": 174
+      },
+      {
+        "id": 64465108888,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 15374790048,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 422,
+        "moving_time": 422,
+        "start_date": "2025-08-07T10:17:34Z",
+        "start_date_local": "2025-08-07T12:17:34Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 6,
+        "end_index": 424
+      },
+      {
+        "id": 64465108889,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 15374790048,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 518,
+        "moving_time": 518,
+        "start_date": "2025-08-07T10:17:34Z",
+        "start_date_local": "2025-08-07T12:17:34Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 0,
+        "end_index": 514
+      },
+      {
+        "id": 64465108886,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 15374790048,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1360,
+        "moving_time": 1360,
+        "start_date": "2025-08-07T10:17:34Z",
+        "start_date_local": "2025-08-07T12:17:34Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 6,
+        "end_index": 1028
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava iPhone App",
+    "embed_token": "c73e23f812d5ee2f2d5e9502662979e4c22e0689",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 1.5940049958368028,
+      "min_average_speed": 1.5940049958368028,
+      "mid_average_speed": 1.5940049958368028,
+      "max_average_speed": 1.5940049958368028,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          1.5940049958368028
+        ],
+        "current_activity_index": 0,
+        "min_speed": 1.5940049958368028,
+        "mid_speed": 1.5940049958368028,
+        "max_speed": 1.5940049958368028,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

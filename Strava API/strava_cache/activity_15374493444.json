@@ -1,0 +1,183 @@
+{
+  "cached_at": "2025-10-06T16:14:43.165983",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Lunch Walk",
+    "distance": 2839.0,
+    "moving_time": 2291,
+    "elapsed_time": 3240,
+    "total_elevation_gain": 8.8,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 15374493444,
+    "start_date": "2025-08-07T09:20:35Z",
+    "start_date_local": "2025-08-07T11:20:35Z",
+    "timezone": "(GMT+01:00) Europe/Zurich",
+    "utc_offset": 7200.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 4,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a15374493444",
+      "polyline": "uxg{Gyjto@CIGe@CARVCAEMG_@C_A@@@c@Cc@@UAe@AE@e@EU?OEAAEF[N_@@MDEDUEMGI@MGOAMFB?DNRAA@?E?HAC@@DI?BC?B@GA?@B?ED@IC@EC?@GCAAQEAA?B@GE?CABAA@AC@GEB@C@GKKIi@[[aAOUISOq@EKG]A@?HS_@SqAEGEYQa@GUEAAGYQEOICEIOGKBIQWKCISAEKOAAGKQIAA@HN@LA@_As@q@UWAMGACKCEMUOOIEKKGC?KGG?CCEFEACBCIE?CE?@?IOc@SKAZONM?IHG?IDIXZpAHLBPFNNT?FDADDd@@BDLDDF?NHLJDLGNLABH@HFHANDHALFRf@D?Z\\Vn@FF@HFFHXFFFL?ZBNCP?TBLANFR?P?MBPAL@NJP@n@Gb@D@?JEF@?CPIJGVKx@?P@I?LBFD@EPBVE^D?B??B?AJDH@?CABJA?@B?BCAANNZLHNNb@DBFHCZDTEBANDp@FPA\\BJATDF@JCFBZAPDPAZEV@NAR@NL\\?JEFSFSNG@CEEAQX?HCZIBO?K\\GFCHCBKLKDGH[NSNKLALBJFFB`@DB@PGl@@v@Ft@?XEJHRBDBHBz@AIGZCFWDMJS`@AJGNAHGBCJMT@JGBS\\C?QXIB?b@Bd@?EAAAr@HjADFD@GNLVFjAER?NG@ANK@IHI@KD_@BKSICQUOGDFDAAEIA[[SQEMAg@D[CEAMA@@D?CHGBMACAB@E@FACCB@EBFH@@C@KA@B?CYJYDc@AMPm@TIt@k@RILDFR?FCb@@b@ED@ABLCV@BFE@?DGCHEBGABGC[DOASDc@DEBOJEJMDM",
+      "resource_state": 3,
+      "summary_polyline": "uxg{Gyjto@CIGe@CARVCAEMG_@C_A@@@c@Cc@@UAe@AE@e@EU?OEAAEF[N_@@MDEDUEMGI@MGOAMFB?DNRAA@?E?HAC@@DI?BC?B@GA?@B?ED@IC@EC?@GCAAQEAA?B@GE?CABAA@AC@GEB@C@GKKIi@[[aAOUISOq@EKG]A@?HCAO]SqAEGEYQa@GUEAAGYQEOICEIOGKBIQWKCISAEKOAAGKQIAA@HN@LA@_As@q@UWAMGACKCEMUOOIEKKGC?KGG?CCEFEACBCIE?CE?@?IOc@SKAZONM?GHI?KFGVZpAHLBPFNNT?FDADDd@@BDLDDF?NHLJDLGNLABH@HFHANDHALFRf@D?Z\\Vn@FF@HFFHXHJDH?ZBNCP?TBLANFR?P?MBPAL@NJP@n@Gb@D@?JEF@?CPIJGVKx@?P@I?LBFD@EPBVE^D?B??B?AJDH@?CABJA?@B?BCAANNZLHNNb@DBFHCZDTEBANDp@FPA\\BJATDF@JCFBZAPDPAZEV@NAR@NL\\?JEFSFSNG@CEEAQX?HCZIBO?K\\GFCHCBKLKDGH[NSNKLALBJFFB`@DB@PGl@@v@Ft@?XEJHRBDBHBz@AIGZCFWDMJS`@AJGNAHGBCJMT@JGBS\\C?QXIB?b@Bd@?EAAAr@HjADFD@GNLVFjAER?NG@ANK@IHI@OD[BKSICQUOGDFDAAEIA[[SQEMAg@D[CEAMA@@D?CHGBMACAB@E@FACCB@EBFH@@C@KA@B?CYJYDc@AMPm@TIt@k@RIH@DDDXCb@@b@EDDJCH@PFE@?DGCFEDGABGC[DOASDc@DEBOJEJMDM"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      46.57563,
+      7.973736
+    ],
+    "end_latlng": [
+      46.578634,
+      7.968528
+    ],
+    "average_speed": 1.239,
+    "max_speed": 3.385,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 2322.9,
+    "elev_low": 2143.7,
+    "upload_id": 16418858852,
+    "upload_id_str": "16418858852",
+    "external_id": "DA07E6A2-0496-4AA0-AF1C-7A4515ADB497-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "",
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [],
+    "splits_metric": [
+      {
+        "distance": 1002.6,
+        "elapsed_time": 1352,
+        "elevation_difference": -102.3,
+        "moving_time": 899,
+        "split": 1,
+        "average_speed": 1.12,
+        "average_grade_adjusted_speed": 1.16,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.4,
+        "elapsed_time": 733,
+        "elevation_difference": -56.6,
+        "moving_time": 705,
+        "split": 2,
+        "average_speed": 1.42,
+        "average_grade_adjusted_speed": 1.39,
+        "pace_zone": 0
+      },
+      {
+        "distance": 836.0,
+        "elapsed_time": 1155,
+        "elevation_difference": -18.5,
+        "moving_time": 687,
+        "split": 3,
+        "average_speed": 1.22,
+        "average_grade_adjusted_speed": 1.21,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1609.4,
+        "elapsed_time": 1833,
+        "elevation_difference": -137.7,
+        "moving_time": 1352,
+        "split": 1,
+        "average_speed": 1.19,
+        "average_grade_adjusted_speed": 1.22,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1229.6,
+        "elapsed_time": 1407,
+        "elevation_difference": -39.7,
+        "moving_time": 939,
+        "split": 2,
+        "average_speed": 1.31,
+        "average_grade_adjusted_speed": 1.28,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 54709870505,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 15374493444,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 3247,
+        "moving_time": 3240,
+        "start_date": "2025-08-07T09:20:35Z",
+        "start_date_local": "2025-08-07T11:20:35Z",
+        "distance": 2839.01,
+        "average_speed": 0.88,
+        "max_speed": 3.385,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 3233,
+        "total_elevation_gain": 8.8,
+        "device_watts": false
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava iPhone App",
+    "embed_token": "3bf337ab9ad93993d6812df50cbf36a9a5f7dc39",
+    "available_zones": []
+  }
+}

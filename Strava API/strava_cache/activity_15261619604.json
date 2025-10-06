@@ -1,0 +1,1787 @@
+{
+  "cached_at": "2025-10-06T16:14:49.888328",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Margaret island",
+    "distance": 11041.0,
+    "moving_time": 4612,
+    "elapsed_time": 4864,
+    "total_elevation_gain": 43.2,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 15261619604,
+    "start_date": "2025-07-28T08:30:33Z",
+    "start_date_local": "2025-07-28T10:30:33Z",
+    "timezone": "(GMT+01:00) Europe/Budapest",
+    "utc_offset": 7200.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 2,
+    "kudos_count": 4,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a15261619604",
+      "polyline": "qv}`H_qisBM@GFs@jACX[|@CEC?K?KDOVSNKb@KNSNQXc@tAMPBSAFCCEBYYKSG?SVs@Pk@JMPIX[R[HGF[nAINQf@CR@DQr@Gp@KNCXGTCFE@EFCRGVKn@Ob@Ub@ONs@bAe@~AKVSTEPCVD`@ARe@lAKf@_@lAGh@Ql@G\\E`@S^?PUv@Ij@]x@[`@Uz@ARQx@Uf@Ah@Gb@a@z@Sj@?TA?ECBED@@EBZACKBMV@l@MRM`@a@fBs@lCMn@Ob@Kf@_@vAYpASj@[bA]tAGJKA]G[O}@QKIaAUOIw@IYOG]MWc@SKMc@[gBs@WQe@Y_@Yc@U]Y[QUQgAm@a@QgAcAu@i@IA_@U[Yu@g@W[sBcAQKOQo@g@s@Ww@i@cAe@QCu@g@a@OiAgAu@YWSSC}@c@]WaAk@MK_Aa@k@QMGMMG@GRIECOKMs@a@mAe@c@[s@UOKKEa@EQIQC_@O]Ee@YKAc@WkAe@a@MQ?EESK]K]Wk@MIFCP@CGQMMOK]KSMi@GYISMu@Mc@QcAWy@Yk@Ge@KECSAe@Se@IMAw@S[M_@Ia@EiAUo@KQ?y@Qc@CEBq@II?_@Mm@KM@oAUUAq@M_ACe@I_AEo@OWCKBGJYlAEh@Kp@KZ@JG?xBtAv@n@lAlApAbAXLz@fAtAzAn@x@^VVVF@LI@IGKC[CIG?CECk@GWWYQCi@]US?GD_@Qo@?a@Uo@EWIAGJO`@Yb@GX?HLNZFTLPRP\\RFTTF\\VDDBDN?X@FFFJ@NHBLJB@BDVJNKTJPd@l@vAfAV\\rAlAnAtA`@\\lClChAbAzAfA`Af@\\TNFh@j@RN^NlBvA`BbAj@f@jAn@VTbBz@z@ZfAn@ZL|@d@VFj@Z\\LhAh@XJx@`@n@TbCdAbA^NPTJTBf@NrARRHj@DXLj@DRDj@AbAF`@FfAE^MTCX?t@E`@HZ@v@Cd@Ir@E~@Cf@Iz@WZEz@Sp@EdAOX@n@Md@Sp@SbBa@ZKh@Id@_@FA@ENARQO?CCe@aA[Uq@YMOi@Oi@WWGg@Qq@c@_@KQKKAYASMMAQSYKG?QFIL@Hn@z@p@`@n@P\\NDDT\\HHRFFJTAfA\\j@Td@DXJn@D`@LP?ZFb@HHHDN@XAnAFnB@jKBbAC`ABf@ChA@`@CIG@AA?OF_@BEHAr@FCAD?LQCDJH?HCv@ECEUIkA@gAIsB@_AE}@?uICuCPw@Fk@X_ANw@Pi@lB{Hr@{Bf@kCLYNGJ?HMDSKQ?KTs@Da@PmAVkAN_@JcALa@Fc@ByAVAHIZs@Jm@FGNc@TaA?MLc@HOPi@XsCDQEGb@aAFc@Ps@Fe@TOHKL[H]B[PYPQN[BOPUPm@@KJMJ]Di@VkAPU@IFEB_@V]DM@OFG?K^q@N_AL_@TYDIFEn@GLWHWLS@MXYXg@Pi@LOBMFKD?ZYd@{@DQHGNCFIp@qA`@i@FYLW`@k@HU^u@Ha@B?VYFCNYHEv@cA^y@Fc@Pi@RGTQTFL?j@Kb@QRNTX",
+      "resource_state": 3,
+      "summary_polyline": "qv}`H_qisBM@GFs@jACX[|@GEWDOVSNKb@KNSNQXc@tAMPBSAFI?YYKSG?SV_B\\Wj@[R[HGF[nA[v@AXQr@Gp@KNKn@OPWzAe@fAcArAe@~AKVSTIh@D`@ARe@lAKf@_@lAGh@YjAE`@S^?PUv@Ij@]x@[`@Uz@ARQx@Uf@Ah@Gb@u@fB?TGCJIBZM?MV@l@[t@uAtFMn@Ob@k@~BYpASj@y@xCGJi@IwDkAw@IYOG]MWc@So@i@gBs@qEyCiB_AgAcAu@i@i@W[Yu@g@W[sBcAqAeAs@Ww@i@uAi@u@g@a@OiAgAaBq@}@c@mBoAkBs@[UG@GRIECOKMaCgAc@[oAg@cCi@e@Y{B_Aa@MQ?w@]]Wk@MIFCPEUMMaAe@i@Gm@Wu@MgBi@y@YkBYe@Ss@KsBk@gFy@eBI_@MkC_@mFc@gASKBGJYlAEh@Kp@KZ@JG?xBtAdC|BpAbAXL`E|Ev@n@F@LI@IGKAWEMKECk@GWWYQC_Aq@Dg@Qo@?a@Uo@EWIAGJO`@Yb@GX?HLNp@Tb@p@RFTTF\\\\HDN?X@Fb@RBLLFDVJNKTJPd@l@vAfAjBjBnAtAnDjDhAbAzAfAnBdA|@z@^NlBvA`BbAj@f@bBdAbBz@z@Z`DbBVFfF`CvFzBNPTJdDp@j@DXL~@Jj@AvBNt@Et@QnAE|@Jv@Cd@InBI~D{@vBUdAIzAi@hDw@l@a@@ENARQSCe@aAmAo@MOsCaAq@c@q@We@CSMMAQSYKYFIPp@`Ap@`@lA`@Zb@\\PFJTArBr@d@DXJn@DnATb@HHHFh@AnAFnB@jKBbACrDB^OG?OF_@BE|@DCARQCDJH?HCv@KYIkA@gAMqF?uICuCPw@Fk@X_ANw@Pi@lB{Hr@{Bf@kCLYZGHMDSKQ?KTs@VoBVkAN_@JcALa@Fc@ByAVAHIZs@Jm@FGNc@ToAh@}AXsCDQEGb@aA`@}B^[Vy@B[PYPQN[BOPUPm@@KVk@Di@VkAZe@B_@V]F]FG?K^q@N_AL_@b@i@n@Gd@cA@MXYXg@Pi@LOBMh@e@j@mA`@Up@qA`@i@FYLW`@k@h@kAHa@B?^]NYHEv@cA^y@Fc@Pi@RGTQb@Fj@Kb@QRNTX"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      47.50713,
+      19.059526
+    ],
+    "end_latlng": [
+      47.504847,
+      19.062843
+    ],
+    "average_speed": 2.394,
+    "max_speed": 4.78,
+    "average_cadence": 80.3,
+    "has_heartrate": true,
+    "average_heartrate": 141.5,
+    "max_heartrate": 158.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 118.1,
+    "elev_low": 100.1,
+    "upload_id": 16298243646,
+    "upload_id_str": "16298243646",
+    "external_id": "garmin_ping_463619762308",
+    "from_accepted_tag": false,
+    "pr_count": 1,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "I actually felt good",
+    "calories": 750.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3384861544974233250,
+        "resource_state": 2,
+        "name": "Jaszai > Sziget (Hid)",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 92,
+        "moving_time": 92,
+        "start_date": "2025-07-28T08:43:06Z",
+        "start_date_local": "2025-07-28T10:43:06Z",
+        "distance": 228.2,
+        "start_index": 667,
+        "end_index": 759,
+        "average_cadence": 80.5,
+        "device_watts": false,
+        "average_heartrate": 139.2,
+        "max_heartrate": 149.0,
+        "segment": {
+          "id": 12905550,
+          "resource_state": 2,
+          "name": "Jaszai > Sziget (Hid)",
+          "activity_type": "Run",
+          "distance": 228.2,
+          "average_grade": -0.2,
+          "maximum_grade": 0.0,
+          "elevation_high": 96.4,
+          "elevation_low": 96.0,
+          "start_latlng": [
+            47.513748,
+            19.046323
+          ],
+          "end_latlng": [
+            47.514743,
+            19.043681
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": null,
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544973086370,
+        "resource_state": 2,
+        "name": "Margit Island",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 2526,
+        "moving_time": 2365,
+        "start_date": "2025-07-28T08:45:56Z",
+        "start_date_local": "2025-07-28T10:45:56Z",
+        "distance": 5305.19,
+        "start_index": 837,
+        "end_index": 3243,
+        "average_cadence": 77.3,
+        "device_watts": false,
+        "average_heartrate": 143.0,
+        "max_heartrate": 158.0,
+        "segment": {
+          "id": 1875511,
+          "resource_state": 2,
+          "name": "Margit Island",
+          "activity_type": "Run",
+          "distance": 5305.19,
+          "average_grade": -0.1,
+          "maximum_grade": 4.3,
+          "elevation_high": 108.1,
+          "elevation_low": 100.2,
+          "start_latlng": [
+            47.516483,
+            19.044274
+          ],
+          "end_latlng": [
+            47.516414,
+            19.044395
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": "Budapest",
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544977201826,
+        "resource_state": 2,
+        "name": "1/3 Sprint",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 133,
+        "moving_time": 133,
+        "start_date": "2025-07-28T08:46:05Z",
+        "start_date_local": "2025-07-28T10:46:05Z",
+        "distance": 339.9,
+        "start_index": 846,
+        "end_index": 979,
+        "average_cadence": 79.7,
+        "device_watts": false,
+        "average_heartrate": 151.3,
+        "max_heartrate": 152.0,
+        "segment": {
+          "id": 25015578,
+          "resource_state": 2,
+          "name": "1/3 Sprint",
+          "activity_type": "Run",
+          "distance": 339.9,
+          "average_grade": 0.0,
+          "maximum_grade": 8.3,
+          "elevation_high": 114.3,
+          "elevation_low": 112.3,
+          "start_latlng": [
+            47.516565,
+            19.044495
+          ],
+          "end_latlng": [
+            47.519302,
+            19.04642
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": null,
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544975243938,
+        "resource_state": 2,
+        "name": "Margit east side",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 937,
+        "moving_time": 920,
+        "start_date": "2025-07-28T08:46:14Z",
+        "start_date_local": "2025-07-28T10:46:14Z",
+        "distance": 2335.2,
+        "start_index": 855,
+        "end_index": 1792,
+        "average_cadence": 78.3,
+        "device_watts": false,
+        "average_heartrate": 148.9,
+        "max_heartrate": 155.0,
+        "segment": {
+          "id": 5648510,
+          "resource_state": 2,
+          "name": "Margit east side",
+          "activity_type": "Run",
+          "distance": 2335.2,
+          "average_grade": 0.1,
+          "maximum_grade": 10.8,
+          "elevation_high": 109.5,
+          "elevation_low": 96.3,
+          "start_latlng": [
+            47.516731,
+            19.044643
+          ],
+          "end_latlng": [
+            47.536415,
+            19.054334
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": "Budapest",
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544973703842,
+        "resource_state": 2,
+        "name": "Finish a Grand Hotelt\u0151l",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 240,
+        "moving_time": 240,
+        "start_date": "2025-07-28T08:58:23Z",
+        "start_date_local": "2025-07-28T10:58:23Z",
+        "distance": 591.3,
+        "start_index": 1584,
+        "end_index": 1824,
+        "average_cadence": 80.3,
+        "device_watts": false,
+        "average_heartrate": 153.1,
+        "max_heartrate": 155.0,
+        "segment": {
+          "id": 14843225,
+          "resource_state": 2,
+          "name": "Finish a Grand Hotelt\u0151l",
+          "activity_type": "Run",
+          "distance": 591.3,
+          "average_grade": -2.1,
+          "maximum_grade": 5.3,
+          "elevation_high": 111.0,
+          "elevation_low": 98.0,
+          "start_latlng": [
+            47.531808,
+            19.05318
+          ],
+          "end_latlng": [
+            47.536925,
+            19.053925
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": null,
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544976366242,
+        "resource_state": 2,
+        "name": "Margaret Island west side",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1274,
+        "moving_time": 1265,
+        "start_date": "2025-07-28T09:03:25Z",
+        "start_date_local": "2025-07-28T11:03:25Z",
+        "distance": 2565.75,
+        "start_index": 1886,
+        "end_index": 3160,
+        "average_cadence": 79.6,
+        "device_watts": false,
+        "average_heartrate": 142.0,
+        "max_heartrate": 158.0,
+        "segment": {
+          "id": 3192991,
+          "resource_state": 2,
+          "name": "Margaret Island west side",
+          "activity_type": "Run",
+          "distance": 2565.75,
+          "average_grade": 0.0,
+          "maximum_grade": 8.5,
+          "elevation_high": 101.6,
+          "elevation_low": 96.0,
+          "start_latlng": [
+            47.536636646836996,
+            19.052654737606645
+          ],
+          "end_latlng": [
+            47.515483405441046,
+            19.043332301080227
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": "Budapest",
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544974914210,
+        "resource_state": 2,
+        "name": "Bring\u00f3-sportuszoda",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 649,
+        "moving_time": 649,
+        "start_date": "2025-07-28T09:10:13Z",
+        "start_date_local": "2025-07-28T11:10:13Z",
+        "distance": 1625.4,
+        "start_index": 2294,
+        "end_index": 2943,
+        "average_cadence": 80.5,
+        "device_watts": false,
+        "average_heartrate": 132.2,
+        "max_heartrate": 157.0,
+        "segment": {
+          "id": 8927753,
+          "resource_state": 2,
+          "name": "Bring\u00f3-sportuszoda",
+          "activity_type": "Run",
+          "distance": 1625.4,
+          "average_grade": -0.1,
+          "maximum_grade": 6.0,
+          "elevation_high": 102.5,
+          "elevation_low": 96.0,
+          "start_latlng": [
+            47.533556,
+            19.049988
+          ],
+          "end_latlng": [
+            47.520243,
+            19.042321
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": "Budapest",
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544977138338,
+        "resource_state": 2,
+        "name": "INEOS 1:59 Pace Challenge",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 140,
+        "moving_time": 140,
+        "start_date": "2025-07-28T09:10:15Z",
+        "start_date_local": "2025-07-28T11:10:15Z",
+        "distance": 352.8,
+        "start_index": 2296,
+        "end_index": 2436,
+        "average_cadence": 80.9,
+        "device_watts": false,
+        "average_heartrate": 122.3,
+        "max_heartrate": 134.0,
+        "segment": {
+          "id": 35648000,
+          "resource_state": 2,
+          "name": "INEOS 1:59 Pace Challenge",
+          "activity_type": "Run",
+          "distance": 352.8,
+          "average_grade": 0.5,
+          "maximum_grade": 3.4,
+          "elevation_high": 99.3,
+          "elevation_low": 97.5,
+          "start_latlng": [
+            47.533536,
+            19.049856
+          ],
+          "end_latlng": [
+            47.530878,
+            19.047311
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": "Central Hungary",
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544975442594,
+        "resource_state": 2,
+        "name": "Soromp\u00f3-K\u00f6rforgalom lejt\u0151",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 131,
+        "moving_time": 131,
+        "start_date": "2025-07-28T09:27:32Z",
+        "start_date_local": "2025-07-28T11:27:32Z",
+        "distance": 264.1,
+        "start_index": 3213,
+        "end_index": 3344,
+        "average_cadence": 80.0,
+        "device_watts": false,
+        "average_heartrate": 113.8,
+        "max_heartrate": 114.0,
+        "segment": {
+          "id": 37405814,
+          "resource_state": 2,
+          "name": "Soromp\u00f3-K\u00f6rforgalom lejt\u0151",
+          "activity_type": "Run",
+          "distance": 264.1,
+          "average_grade": -2.8,
+          "maximum_grade": -0.9,
+          "elevation_high": 111.0,
+          "elevation_low": 103.6,
+          "start_latlng": [
+            47.515798,
+            19.043896
+          ],
+          "end_latlng": [
+            47.518035,
+            19.044894
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": "Central Hungary",
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544974660258,
+        "resource_state": 2,
+        "name": "Margit-h\u00eddra fel",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 100,
+        "moving_time": 97,
+        "start_date": "2025-07-28T09:29:51Z",
+        "start_date_local": "2025-07-28T11:29:51Z",
+        "distance": 232.4,
+        "start_index": 3352,
+        "end_index": 3452,
+        "average_cadence": 75.1,
+        "device_watts": false,
+        "average_heartrate": 140.8,
+        "max_heartrate": 152.0,
+        "segment": {
+          "id": 15334863,
+          "resource_state": 2,
+          "name": "Margit-h\u00eddra fel",
+          "activity_type": "Run",
+          "distance": 232.4,
+          "average_grade": -2.4,
+          "maximum_grade": 4.4,
+          "elevation_high": 107.0,
+          "elevation_low": 98.7,
+          "start_latlng": [
+            47.517829,
+            19.044411
+          ],
+          "end_latlng": [
+            47.515817,
+            19.043832
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": null,
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544974116514,
+        "resource_state": 2,
+        "name": "Margit Bridge start to finish",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 205,
+        "moving_time": 195,
+        "start_date": "2025-07-28T09:36:32Z",
+        "start_date_local": "2025-07-28T11:36:32Z",
+        "distance": 511.1,
+        "start_index": 3753,
+        "end_index": 3958,
+        "average_cadence": 77.2,
+        "device_watts": false,
+        "average_heartrate": 118.7,
+        "max_heartrate": 150.0,
+        "segment": {
+          "id": 14249983,
+          "resource_state": 2,
+          "name": "Margit Bridge start to finish",
+          "activity_type": "Run",
+          "distance": 511.1,
+          "average_grade": 0.9,
+          "maximum_grade": 8.5,
+          "elevation_high": 108.7,
+          "elevation_low": 96.0,
+          "start_latlng": [
+            47.514584,
+            19.040149
+          ],
+          "end_latlng": [
+            47.513592,
+            19.046513
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": null,
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544974909090,
+        "resource_state": 2,
+        "name": "Margit Bridge - half way sprint",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 113,
+        "moving_time": 103,
+        "start_date": "2025-07-28T09:36:32Z",
+        "start_date_local": "2025-07-28T11:36:32Z",
+        "distance": 254.5,
+        "start_index": 3753,
+        "end_index": 3866,
+        "average_cadence": 74.5,
+        "device_watts": false,
+        "average_heartrate": 113.1,
+        "max_heartrate": 119.0,
+        "segment": {
+          "id": 14250005,
+          "resource_state": 2,
+          "name": "Margit Bridge - half way sprint",
+          "activity_type": "Run",
+          "distance": 254.5,
+          "average_grade": -3.1,
+          "maximum_grade": 0.0,
+          "elevation_high": 103.9,
+          "elevation_low": 96.0,
+          "start_latlng": [
+            47.514584,
+            19.040149
+          ],
+          "end_latlng": [
+            47.514608,
+            19.043494
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": null,
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544973376162,
+        "resource_state": 2,
+        "name": "Budapest Bridge KOM",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 57,
+        "moving_time": 57,
+        "start_date": "2025-07-28T09:38:34Z",
+        "start_date_local": "2025-07-28T11:38:34Z",
+        "distance": 160.4,
+        "start_index": 3875,
+        "end_index": 3932,
+        "average_cadence": 80.8,
+        "device_watts": false,
+        "average_heartrate": 117.7,
+        "max_heartrate": 144.0,
+        "segment": {
+          "id": 14618382,
+          "resource_state": 2,
+          "name": "Budapest Bridge KOM",
+          "activity_type": "Run",
+          "distance": 160.4,
+          "average_grade": 4.9,
+          "maximum_grade": 9.5,
+          "elevation_high": 104.5,
+          "elevation_low": 96.6,
+          "start_latlng": [
+            47.514508,
+            19.0438
+          ],
+          "end_latlng": [
+            47.51387,
+            19.045711
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": null,
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544976046754,
+        "resource_state": 2,
+        "name": "Margitje",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 324,
+        "moving_time": 265,
+        "start_date": "2025-07-28T09:40:07Z",
+        "start_date_local": "2025-07-28T11:40:07Z",
+        "distance": 748.4,
+        "start_index": 3968,
+        "end_index": 4242,
+        "average_cadence": 64.7,
+        "device_watts": false,
+        "average_heartrate": 145.4,
+        "max_heartrate": 152.0,
+        "segment": {
+          "id": 13065602,
+          "resource_state": 2,
+          "name": "Margitje",
+          "activity_type": "Run",
+          "distance": 748.4,
+          "average_grade": 1.9,
+          "maximum_grade": 16.6,
+          "elevation_high": 122.6,
+          "elevation_low": 100.9,
+          "start_latlng": [
+            47.513668,
+            19.04696
+          ],
+          "end_latlng": [
+            47.510644,
+            19.054956
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": null,
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544974070434,
+        "resource_state": 2,
+        "name": "Bridge to Oktogon",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 660,
+        "moving_time": 572,
+        "start_date": "2025-07-28T09:40:14Z",
+        "start_date_local": "2025-07-28T11:40:14Z",
+        "distance": 1537.1,
+        "start_index": 3975,
+        "end_index": 4565,
+        "average_cadence": 68.3,
+        "device_watts": false,
+        "average_heartrate": 146.4,
+        "max_heartrate": 154.0,
+        "segment": {
+          "id": 20171244,
+          "resource_state": 2,
+          "name": "Bridge to Oktogon",
+          "activity_type": "Run",
+          "distance": 1537.1,
+          "average_grade": -0.5,
+          "maximum_grade": 5.0,
+          "elevation_high": 203.8,
+          "elevation_low": 194.6,
+          "start_latlng": [
+            47.513421,
+            19.047063
+          ],
+          "end_latlng": [
+            47.505481,
+            19.06299
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": null,
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3384861544973128354,
+        "resource_state": 2,
+        "name": "Vaci Ut to Oktogon",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 309,
+        "moving_time": 280,
+        "start_date": "2025-07-28T09:46:15Z",
+        "start_date_local": "2025-07-28T11:46:15Z",
+        "distance": 774.6,
+        "start_index": 4286,
+        "end_index": 4575,
+        "average_cadence": 71.1,
+        "device_watts": false,
+        "average_heartrate": 146.6,
+        "max_heartrate": 154.0,
+        "segment": {
+          "id": 9101405,
+          "resource_state": 2,
+          "name": "Vaci Ut to Oktogon",
+          "activity_type": "Run",
+          "distance": 774.6,
+          "average_grade": -0.1,
+          "maximum_grade": 8.3,
+          "elevation_high": 119.9,
+          "elevation_low": 111.8,
+          "start_latlng": [
+            47.510199,
+            19.056178
+          ],
+          "end_latlng": [
+            47.505197,
+            19.06326
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Budapest",
+          "state": null,
+          "country": "Hungary",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.1,
+        "elapsed_time": 447,
+        "elevation_difference": -1.7,
+        "moving_time": 447,
+        "split": 1,
+        "average_speed": 2.24,
+        "average_grade_adjusted_speed": 2.24,
+        "average_heartrate": 140.31742243436753,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.3,
+        "elapsed_time": 475,
+        "elevation_difference": -4.2,
+        "moving_time": 412,
+        "split": 2,
+        "average_speed": 2.43,
+        "average_grade_adjusted_speed": 2.43,
+        "average_heartrate": 138.21197007481297,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.8,
+        "elapsed_time": 385,
+        "elevation_difference": -5.5,
+        "moving_time": 385,
+        "split": 3,
+        "average_speed": 2.6,
+        "average_grade_adjusted_speed": 2.61,
+        "average_heartrate": 151.25974025974025,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.0,
+        "elapsed_time": 412,
+        "elevation_difference": 0.7,
+        "moving_time": 412,
+        "split": 4,
+        "average_speed": 2.42,
+        "average_grade_adjusted_speed": 2.43,
+        "average_heartrate": 145.13670886075948,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.4,
+        "elapsed_time": 432,
+        "elevation_difference": 2.9,
+        "moving_time": 432,
+        "split": 5,
+        "average_speed": 2.31,
+        "average_grade_adjusted_speed": 2.36,
+        "average_heartrate": 152.49882352941177,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.0,
+        "elapsed_time": 440,
+        "elevation_difference": -3.6,
+        "moving_time": 440,
+        "split": 6,
+        "average_speed": 2.27,
+        "average_grade_adjusted_speed": 2.27,
+        "average_heartrate": 143.0392609699769,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.6,
+        "elapsed_time": 402,
+        "elevation_difference": -0.5,
+        "moving_time": 402,
+        "split": 7,
+        "average_speed": 2.49,
+        "average_grade_adjusted_speed": 2.49,
+        "average_heartrate": 133.46019900497512,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.9,
+        "elapsed_time": 553,
+        "elevation_difference": 3.3,
+        "moving_time": 433,
+        "split": 8,
+        "average_speed": 2.31,
+        "average_grade_adjusted_speed": 2.35,
+        "average_heartrate": 134.12056737588654,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.3,
+        "elapsed_time": 464,
+        "elevation_difference": 10.2,
+        "moving_time": 464,
+        "split": 9,
+        "average_speed": 2.16,
+        "average_grade_adjusted_speed": 2.32,
+        "average_heartrate": 136.66819221967964,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.9,
+        "elapsed_time": 437,
+        "elevation_difference": -4.3,
+        "moving_time": 387,
+        "split": 10,
+        "average_speed": 2.58,
+        "average_grade_adjusted_speed": 2.57,
+        "average_heartrate": 133.82539682539684,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1003.1,
+        "elapsed_time": 404,
+        "elevation_difference": 0.5,
+        "moving_time": 384,
+        "split": 11,
+        "average_speed": 2.61,
+        "average_grade_adjusted_speed": 2.62,
+        "average_heartrate": 148.192,
+        "pace_zone": 0
+      },
+      {
+        "distance": 37.6,
+        "elapsed_time": 12,
+        "elevation_difference": 0.0,
+        "moving_time": 12,
+        "split": 12,
+        "average_speed": 3.13,
+        "average_grade_adjusted_speed": 3.14,
+        "average_heartrate": 134.66666666666666,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1610.9,
+        "elapsed_time": 767,
+        "elevation_difference": 1.2,
+        "moving_time": 704,
+        "split": 1,
+        "average_speed": 2.29,
+        "average_grade_adjusted_speed": 2.3,
+        "average_heartrate": 140.3563909774436,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.9,
+        "elapsed_time": 638,
+        "elevation_difference": -12.5,
+        "moving_time": 638,
+        "split": 2,
+        "average_speed": 2.52,
+        "average_grade_adjusted_speed": 2.52,
+        "average_heartrate": 147.0079872204473,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.0,
+        "elapsed_time": 661,
+        "elevation_difference": -0.1,
+        "moving_time": 661,
+        "split": 3,
+        "average_speed": 2.43,
+        "average_grade_adjusted_speed": 2.45,
+        "average_heartrate": 148.16589861751152,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.3,
+        "elapsed_time": 700,
+        "elevation_difference": -0.3,
+        "moving_time": 700,
+        "split": 4,
+        "average_speed": 2.3,
+        "average_grade_adjusted_speed": 2.32,
+        "average_heartrate": 144.49638205499275,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.6,
+        "elapsed_time": 804,
+        "elevation_difference": 3.9,
+        "moving_time": 684,
+        "split": 5,
+        "average_speed": 2.35,
+        "average_grade_adjusted_speed": 2.38,
+        "average_heartrate": 130.7700296735905,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.8,
+        "elapsed_time": 751,
+        "elevation_difference": 5.0,
+        "moving_time": 701,
+        "split": 6,
+        "average_speed": 2.3,
+        "average_grade_adjusted_speed": 2.39,
+        "average_heartrate": 133.01203007518797,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1383.5,
+        "elapsed_time": 542,
+        "elevation_difference": 0.6,
+        "moving_time": 522,
+        "split": 7,
+        "average_speed": 2.65,
+        "average_grade_adjusted_speed": 2.66,
+        "average_heartrate": 148.44249512670567,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 54301778908,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 447,
+        "moving_time": 447,
+        "start_date": "2025-07-28T08:30:33Z",
+        "start_date_local": "2025-07-28T10:30:33Z",
+        "distance": 1000.0,
+        "average_speed": 2.24,
+        "max_speed": 4.44,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 425,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 80.8,
+        "device_watts": false,
+        "average_heartrate": 140.3,
+        "max_heartrate": 150.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 54301778912,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 475,
+        "moving_time": 412,
+        "start_date": "2025-07-28T08:38:02Z",
+        "start_date_local": "2025-07-28T10:38:02Z",
+        "distance": 1000.0,
+        "average_speed": 2.43,
+        "max_speed": 3.26,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 426,
+        "end_index": 837,
+        "total_elevation_gain": 6.6,
+        "average_cadence": 79.9,
+        "device_watts": false,
+        "average_heartrate": 138.2,
+        "max_heartrate": 152.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 54301778915,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 384,
+        "moving_time": 384,
+        "start_date": "2025-07-28T08:45:57Z",
+        "start_date_local": "2025-07-28T10:45:57Z",
+        "distance": 1000.0,
+        "average_speed": 2.6,
+        "max_speed": 3.22,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 838,
+        "end_index": 1222,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 80.0,
+        "device_watts": false,
+        "average_heartrate": 151.3,
+        "max_heartrate": 153.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 54301778921,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 412,
+        "moving_time": 412,
+        "start_date": "2025-07-28T08:52:22Z",
+        "start_date_local": "2025-07-28T10:52:22Z",
+        "distance": 1000.0,
+        "average_speed": 2.43,
+        "max_speed": 3.12,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 1223,
+        "end_index": 1634,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 80.2,
+        "device_watts": false,
+        "average_heartrate": 145.1,
+        "max_heartrate": 154.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 54301778926,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 432,
+        "moving_time": 432,
+        "start_date": "2025-07-28T08:59:14Z",
+        "start_date_local": "2025-07-28T10:59:14Z",
+        "distance": 1000.0,
+        "average_speed": 2.31,
+        "max_speed": 2.78,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 1635,
+        "end_index": 2066,
+        "total_elevation_gain": 6.5,
+        "average_cadence": 80.2,
+        "device_watts": false,
+        "average_heartrate": 152.5,
+        "max_heartrate": 156.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 54301778928,
+        "resource_state": 2,
+        "name": "Lap 6",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 440,
+        "moving_time": 440,
+        "start_date": "2025-07-28T09:06:26Z",
+        "start_date_local": "2025-07-28T11:06:26Z",
+        "distance": 1000.0,
+        "average_speed": 2.27,
+        "max_speed": 2.94,
+        "lap_index": 6,
+        "split": 6,
+        "start_index": 2067,
+        "end_index": 2506,
+        "total_elevation_gain": 0.6,
+        "average_cadence": 80.1,
+        "device_watts": false,
+        "average_heartrate": 143.0,
+        "max_heartrate": 158.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 54301778932,
+        "resource_state": 2,
+        "name": "Lap 7",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 402,
+        "moving_time": 402,
+        "start_date": "2025-07-28T09:13:46Z",
+        "start_date_local": "2025-07-28T11:13:46Z",
+        "distance": 1000.0,
+        "average_speed": 2.49,
+        "max_speed": 2.96,
+        "lap_index": 7,
+        "split": 7,
+        "start_index": 2507,
+        "end_index": 2908,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 80.5,
+        "device_watts": false,
+        "average_heartrate": 133.3,
+        "max_heartrate": 157.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 54301778936,
+        "resource_state": 2,
+        "name": "Lap 8",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 553,
+        "moving_time": 433,
+        "start_date": "2025-07-28T09:20:28Z",
+        "start_date_local": "2025-07-28T11:20:28Z",
+        "distance": 1000.0,
+        "average_speed": 2.31,
+        "max_speed": 3.04,
+        "lap_index": 8,
+        "split": 8,
+        "start_index": 2909,
+        "end_index": 3341,
+        "total_elevation_gain": 4.8,
+        "average_cadence": 80.0,
+        "device_watts": false,
+        "average_heartrate": 134.2,
+        "max_heartrate": 155.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 54301778941,
+        "resource_state": 2,
+        "name": "Lap 9",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 463,
+        "moving_time": 463,
+        "start_date": "2025-07-28T09:29:41Z",
+        "start_date_local": "2025-07-28T11:29:41Z",
+        "distance": 1000.0,
+        "average_speed": 2.16,
+        "max_speed": 2.94,
+        "lap_index": 9,
+        "split": 9,
+        "start_index": 3342,
+        "end_index": 3805,
+        "total_elevation_gain": 21.8,
+        "average_cadence": 80.0,
+        "device_watts": false,
+        "average_heartrate": 136.7,
+        "max_heartrate": 152.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 54301778945,
+        "resource_state": 2,
+        "name": "Lap 10",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 437,
+        "moving_time": 387,
+        "start_date": "2025-07-28T09:37:25Z",
+        "start_date_local": "2025-07-28T11:37:25Z",
+        "distance": 1000.0,
+        "average_speed": 2.58,
+        "max_speed": 3.54,
+        "lap_index": 10,
+        "split": 10,
+        "start_index": 3806,
+        "end_index": 4192,
+        "total_elevation_gain": 2.8,
+        "average_cadence": 80.8,
+        "device_watts": false,
+        "average_heartrate": 134.0,
+        "max_heartrate": 151.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 54301778948,
+        "resource_state": 2,
+        "name": "Lap 11",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 403,
+        "moving_time": 383,
+        "start_date": "2025-07-28T09:44:42Z",
+        "start_date_local": "2025-07-28T11:44:42Z",
+        "distance": 1000.0,
+        "average_speed": 2.61,
+        "max_speed": 4.78,
+        "lap_index": 11,
+        "split": 11,
+        "start_index": 4193,
+        "end_index": 4576,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 81.0,
+        "device_watts": false,
+        "average_heartrate": 148.1,
+        "max_heartrate": 154.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 54301778951,
+        "resource_state": 2,
+        "name": "Lap 12",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 13,
+        "moving_time": 13,
+        "start_date": "2025-07-28T09:51:26Z",
+        "start_date_local": "2025-07-28T11:51:26Z",
+        "distance": 42.92,
+        "average_speed": 3.3,
+        "max_speed": 3.46,
+        "lap_index": 12,
+        "split": 12,
+        "start_index": 4577,
+        "end_index": 4587,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 81.2,
+        "device_watts": false,
+        "average_heartrate": 134.3,
+        "max_heartrate": 136.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 64024098185,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 132,
+        "moving_time": 132,
+        "start_date": "2025-07-28T08:30:33Z",
+        "start_date_local": "2025-07-28T10:30:33Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 4449,
+        "end_index": 4581
+      },
+      {
+        "id": 64024098186,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 305,
+        "moving_time": 305,
+        "start_date": "2025-07-28T08:30:33Z",
+        "start_date_local": "2025-07-28T10:30:33Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 922,
+        "end_index": 1227
+      },
+      {
+        "id": 64024098187,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 380,
+        "moving_time": 380,
+        "start_date": "2025-07-28T08:30:33Z",
+        "start_date_local": "2025-07-28T10:30:33Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 864,
+        "end_index": 1244
+      },
+      {
+        "id": 64024098181,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 626,
+        "moving_time": 626,
+        "start_date": "2025-07-28T08:30:33Z",
+        "start_date_local": "2025-07-28T10:30:33Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 624,
+        "end_index": 1250
+      },
+      {
+        "id": 64024098182,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1297,
+        "moving_time": 1297,
+        "start_date": "2025-07-28T08:30:33Z",
+        "start_date_local": "2025-07-28T10:30:33Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 704,
+        "end_index": 2001
+      },
+      {
+        "id": 64024098183,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 2065,
+        "moving_time": 2065,
+        "start_date": "2025-07-28T08:30:33Z",
+        "start_date_local": "2025-07-28T10:30:33Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 712,
+        "end_index": 2777
+      },
+      {
+        "id": 64024098184,
+        "resource_state": 2,
+        "name": "10K",
+        "activity": {
+          "id": 15261619604,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 4401,
+        "moving_time": 4401,
+        "start_date": "2025-07-28T08:30:33Z",
+        "start_date_local": "2025-07-28T10:30:33Z",
+        "distance": 10000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 436,
+        "end_index": 4584
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 35",
+    "embed_token": "a8b8cb07cfd477cd2c6d803215496a0eacec7e89",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.3939722463139637,
+      "min_average_speed": 2.3939722463139637,
+      "mid_average_speed": 2.3939722463139637,
+      "max_average_speed": 2.3939722463139637,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.3939722463139637
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.3939722463139637,
+        "mid_speed": 2.3939722463139637,
+        "max_speed": 2.3939722463139637,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "cached_at": "2025-10-06T16:15:29.618931",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Lunch Rock Climb",
+    "distance": 0.0,
+    "moving_time": 11392,
+    "elapsed_time": 11392,
+    "total_elevation_gain": 0,
+    "type": "RockClimbing",
+    "sport_type": "RockClimbing",
+    "workout_type": 28,
+    "id": 14569608833,
+    "start_date": "2025-05-23T09:19:22Z",
+    "start_date_local": "2025-05-23T11:19:22Z",
+    "timezone": "(GMT+02:00) Africa/Blantyre",
+    "utc_offset": 7200.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 2,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a14569608833",
+      "polyline": "",
+      "resource_state": 3,
+      "summary_polyline": ""
+    },
+    "trainer": true,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [],
+    "end_latlng": [],
+    "average_speed": 0.0,
+    "max_speed": 0.0,
+    "average_temp": 29,
+    "has_heartrate": true,
+    "average_heartrate": 117.6,
+    "max_heartrate": 167.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 178.8,
+    "elev_low": 165.8,
+    "upload_id": 15546480811,
+    "upload_id_str": "15546480811",
+    "external_id": "garmin_ping_441519808594",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 973.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [],
+    "laps": [
+      {
+        "id": 51790312251,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 14569608833,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 11392,
+        "moving_time": 11392,
+        "start_date": "2025-05-23T09:19:22Z",
+        "start_date_local": "2025-05-23T11:19:22Z",
+        "distance": 0.0,
+        "average_speed": 0.0,
+        "max_speed": 0.0,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 5166,
+        "total_elevation_gain": 0,
+        "device_watts": false,
+        "average_heartrate": 117.6,
+        "max_heartrate": 167.0
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "24d28be85d7b2b1c552fa3b669b023778748cfec",
+    "available_zones": []
+  }
+}

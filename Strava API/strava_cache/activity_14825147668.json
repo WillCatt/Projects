@@ -1,0 +1,1631 @@
+{
+  "cached_at": "2025-10-06T16:15:22.163845",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Morning Run",
+    "distance": 7093.7,
+    "moving_time": 2679,
+    "elapsed_time": 2822,
+    "total_elevation_gain": 22.9,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": null,
+    "id": 14825147668,
+    "start_date": "2025-06-17T08:01:43Z",
+    "start_date_local": "2025-06-17T09:01:43Z",
+    "timezone": "(GMT+00:00) Europe/London",
+    "utc_offset": 3600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 2,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a14825147668",
+      "polyline": "gauyHbZTh@FHPDLXL|@V~@Jj@X`@BPHBh@GRQTAFGTKZIZMf@WTA`AYH?HAHG^_@HGJAPOv@WD?Cx@DHJ@JAd@BNC`AJNDZ@h@ER?f@JNIZIn@IR?BCLCJ@TEZBNCT?NEHKJAr@HDFDPND~@e@VWPYb@g@^STEMP@FV?FE\\CZlCLl@JFB?d@OHHL`AHXFz@Nt@n@pCHj@Pj@B`@Nl@LjACb@BFTVTb@Rr@NdAVz@Xj@\\j@RPBVEf@D\\`@z@F@PR\\VJND`@Lb@Zn@XZNFHHTh@BPCVD^T\\BTNb@\\`@\\r@JTDR?JDJHHJBFb@b@\\JNtBbH~BbJJFREl@QFMRKx@KX@J@dA@@@`AGP@XCh@BhANb@@^CFC`@[VKf@ClA_@?B@CBBA@NUf@_@Fc@BYVh@H\\Dh@Pt@Vv@Z\\ZRXJf@BXXPJNNB@NAFBVZGh@n@lAHV@XEjB@l@ATEF{@Fc@Gq@A{AFQBIFa@@iAf@CB?DOJk@VSRc@VKB_Av@[\\SBSFWRWHOL[Jc@@q@LaA\\i@ToAf@EE?AMPWP_BxAuAxBiA`BQXk@t@m@n@sAjBu@z@y@hA_@^a@r@UT@LKPUPOREBEC[d@s@b@IJcAr@sBbCa@\\QXqAxAe@r@mAnAu@hAi@b@AJY^QLk@~@YPYXyAr@mA|@QHkA^u@b@IGEOKu@Mk@UsBEa@?g@@EScEK_BUgGM_Aq@iDWwE@a@Lg@l@iAzAiDl@aEx@{CdA_HLeA?]KiAGy@DYLa@GUA@DO?UUu@KQaBsBaAaAw@_AIMAKFSAMSMa@Gw@y@QOg@s@Wi@W[GESCIGQSQ]a@k@i@c@MOc@q@g@oA_@mA?MFSAMi@mAImANiBN}@Bq@AOIQEQF}A?g@KeAAi@EUSe@COBa@CUk@oBIo@BWFWJSl@o@BMAMSq@u@qBW{@SeAKQSOKMY{@U}@WWEKYw@Mi@Ug@a@uA?@",
+      "resource_state": 3,
+      "summary_polyline": "gauyHbZTh@FHPDLXL|@V~@Jj@X`@BPHBh@GRQTAFGTKZIZMf@WTA`AYH?HAHG^_@HGJAPOv@WD?Cx@DHJ@JAd@BNC`AJNDZ@h@ER?f@JNIZIn@IR?BCLCJ@TEZBNCT?NEHKJAr@HDFDPND~@e@VWPYb@g@^STEMP@FV?FE\\CZlCLl@JFB?d@OHHL`AHXFz@Nt@n@pCHj@Pj@B`@Nl@LjACb@BFTVTb@Rr@NdAVz@Xj@\\j@RPBVEf@D\\`@z@F@PR\\VJND`@Lb@Zn@XZNFHHTh@BPCVD^T\\BTNb@\\`@\\r@JTDR?JDJHHJBFb@b@\\JNtBbH~BbJJFREl@QFMRKx@KX@J@dA@@@`AGP@XCh@BhANb@@^CFC`@[VKf@ClA_@?B@CBBA@NUf@_@Fc@BYVh@H\\Dh@Pt@Vv@Z\\ZRNFZFT?XXPJNNB@NAFBVZGh@n@lAHV@XEjB@l@ATEF{@Fc@Gk@Aq@BOB_@?QBIFa@@iAf@CB?DOJk@VSRc@VKB_Av@[\\SBSFWRWHOL[Jc@@q@LaA\\i@ToAf@EE?AMPWP_BxAuAxBiA`BQXk@t@m@n@sAjBu@z@y@hA_@^a@r@UT@LKPUPOREBEC[d@s@b@IJcAr@sBbCa@\\QXqAxAe@r@mAnAu@hAi@b@AJY^QLk@~@YPYXyAr@mA|@QHkA^u@b@IGEOKu@Ke@WyBEa@?g@@EScEK_BUgGM_Aq@iDWwE@a@Lg@l@iAzAiDl@aEx@{CdA_HLeA?]KiAGy@DYLa@GUA@DO?UUu@KQaBsBaAaAw@_AIMAKFSAMSMa@Gw@y@QOg@s@Wi@W[GESCIGQSQ]a@k@i@c@MOc@q@g@oA_@mA?MFSAMi@mAImANiBN}@Bq@AOIQEQF}A?g@KeAAi@EUSe@COBa@CUk@oBIo@BWFWJSl@o@BMAMSq@u@qBW{@SeAKQSOKMY{@U}@WWEKYw@Mi@Ug@a@uA?@"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      51.558768,
+      -0.004332
+    ],
+    "end_latlng": [
+      51.558907,
+      -0.004482
+    ],
+    "average_speed": 2.648,
+    "max_speed": 5.417,
+    "average_cadence": 80.9,
+    "has_heartrate": true,
+    "average_heartrate": 145.5,
+    "max_heartrate": 170.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 14.8,
+    "elev_low": 5.8,
+    "upload_id": 15822069382,
+    "upload_id_str": "15822069382",
+    "external_id": "garmin_ping_449954675915",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 666.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3369978265113212754,
+        "resource_state": 2,
+        "name": "Leyton to Cobham Academy",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 306,
+        "moving_time": 304,
+        "start_date": "2025-06-17T08:03:42Z",
+        "start_date_local": "2025-06-17T09:03:42Z",
+        "distance": 747.9,
+        "start_index": 119,
+        "end_index": 424,
+        "average_cadence": 80.9,
+        "device_watts": false,
+        "average_heartrate": 129.5,
+        "max_heartrate": 136.0,
+        "segment": {
+          "id": 17001143,
+          "resource_state": 2,
+          "name": "Leyton to Cobham Academy",
+          "activity_type": "Run",
+          "distance": 747.9,
+          "average_grade": -0.7,
+          "maximum_grade": 5.3,
+          "elevation_high": 12.1,
+          "elevation_low": 7.0,
+          "start_latlng": [
+            51.55654,
+            -0.005738
+          ],
+          "end_latlng": [
+            51.550637,
+            -0.005788
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265111610194,
+        "resource_state": 2,
+        "name": "SLOTH slope",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 70,
+        "moving_time": 70,
+        "start_date": "2025-06-17T08:06:42Z",
+        "start_date_local": "2025-06-17T09:06:42Z",
+        "distance": 146.0,
+        "start_index": 298,
+        "end_index": 368,
+        "average_cadence": 81.1,
+        "device_watts": false,
+        "average_heartrate": 131.1,
+        "max_heartrate": 135.0,
+        "segment": {
+          "id": 29992042,
+          "resource_state": 2,
+          "name": "SLOTH slope",
+          "activity_type": "Run",
+          "distance": 146.0,
+          "average_grade": 2.6,
+          "maximum_grade": 6.0,
+          "elevation_high": -4.8,
+          "elevation_low": -9.2,
+          "start_latlng": [
+            51.552479,
+            -0.005144
+          ],
+          "end_latlng": [
+            51.551249,
+            -0.004556
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265112520530,
+        "resource_state": 2,
+        "name": "Honour Lea Ave",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 220,
+        "moving_time": 216,
+        "start_date": "2025-06-17T08:07:50Z",
+        "start_date_local": "2025-06-17T09:07:50Z",
+        "distance": 554.3,
+        "start_index": 366,
+        "end_index": 584,
+        "average_cadence": 78.2,
+        "device_watts": false,
+        "average_heartrate": 136.8,
+        "max_heartrate": 145.0,
+        "segment": {
+          "id": 7081851,
+          "resource_state": 2,
+          "name": "Honour Lea Ave",
+          "activity_type": "Run",
+          "distance": 554.3,
+          "average_grade": -0.2,
+          "maximum_grade": 2.4,
+          "elevation_high": 8.9,
+          "elevation_low": 5.7,
+          "start_latlng": [
+            51.550939,
+            -0.00421
+          ],
+          "end_latlng": [
+            51.54887,
+            -0.010895
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265114671954,
+        "resource_state": 2,
+        "name": "Honour Lea Ave",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 140,
+        "moving_time": 140,
+        "start_date": "2025-06-17T08:10:50Z",
+        "start_date_local": "2025-06-17T09:10:50Z",
+        "distance": 402.2,
+        "start_index": 544,
+        "end_index": 682,
+        "average_cadence": 81.1,
+        "device_watts": false,
+        "average_heartrate": 141.2,
+        "max_heartrate": 146.0,
+        "segment": {
+          "id": 23848924,
+          "resource_state": 2,
+          "name": "Honour Lea Ave",
+          "activity_type": "Run",
+          "distance": 402.2,
+          "average_grade": -0.0,
+          "maximum_grade": 1.5,
+          "elevation_high": 12.5,
+          "elevation_low": 12.0,
+          "start_latlng": [
+            51.549373,
+            -0.009584
+          ],
+          "end_latlng": [
+            51.547274,
+            -0.014015
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265115036498,
+        "resource_state": 2,
+        "name": "his own lunchtime",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 116,
+        "moving_time": 106,
+        "start_date": "2025-06-17T08:11:41Z",
+        "start_date_local": "2025-06-17T09:11:41Z",
+        "distance": 303.8,
+        "start_index": 595,
+        "end_index": 706,
+        "average_cadence": 74.7,
+        "device_watts": false,
+        "average_heartrate": 141.3,
+        "max_heartrate": 146.0,
+        "segment": {
+          "id": 29735235,
+          "resource_state": 2,
+          "name": "his own lunchtime",
+          "activity_type": "Run",
+          "distance": 303.8,
+          "average_grade": -0.0,
+          "maximum_grade": 0.3,
+          "elevation_high": 12.7,
+          "elevation_low": 12.3,
+          "start_latlng": [
+            51.548667,
+            -0.010995
+          ],
+          "end_latlng": [
+            51.54701,
+            -0.014424
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265113120594,
+        "resource_state": 2,
+        "name": "Bridge Sprint",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 80,
+        "moving_time": 74,
+        "start_date": "2025-06-17T08:13:54Z",
+        "start_date_local": "2025-06-17T09:13:54Z",
+        "distance": 215.6,
+        "start_index": 722,
+        "end_index": 794,
+        "average_cadence": 74.8,
+        "device_watts": false,
+        "average_heartrate": 139.6,
+        "max_heartrate": 145.0,
+        "segment": {
+          "id": 7575493,
+          "resource_state": 2,
+          "name": "Bridge Sprint",
+          "activity_type": "Run",
+          "distance": 215.6,
+          "average_grade": 1.3,
+          "maximum_grade": 1.6,
+          "elevation_high": 11.2,
+          "elevation_low": 8.4,
+          "start_latlng": [
+            51.5468,
+            -0.014945
+          ],
+          "end_latlng": [
+            51.545736,
+            -0.01754
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265111467858,
+        "resource_state": 2,
+        "name": "Cafe to Olympic Stadium Approach",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 241,
+        "moving_time": 229,
+        "start_date": "2025-06-17T08:13:55Z",
+        "start_date_local": "2025-06-17T09:13:55Z",
+        "distance": 651.4,
+        "start_index": 723,
+        "end_index": 936,
+        "average_cadence": 76.6,
+        "device_watts": false,
+        "average_heartrate": 143.7,
+        "max_heartrate": 156.0,
+        "segment": {
+          "id": 7500297,
+          "resource_state": 2,
+          "name": "Cafe to Olympic Stadium Approach",
+          "activity_type": "Run",
+          "distance": 651.4,
+          "average_grade": 0.8,
+          "maximum_grade": 30.5,
+          "elevation_high": 29.8,
+          "elevation_low": 14.6,
+          "start_latlng": [
+            51.546921,
+            -0.015125
+          ],
+          "end_latlng": [
+            51.542169,
+            -0.017099
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265112322898,
+        "resource_state": 2,
+        "name": "Waterden Road to London Stadium, miss thing",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 214,
+        "moving_time": 160,
+        "start_date": "2025-06-17T08:16:29Z",
+        "start_date_local": "2025-06-17T09:16:29Z",
+        "distance": 386.9,
+        "start_index": 861,
+        "end_index": 1048,
+        "average_cadence": 62.9,
+        "device_watts": false,
+        "average_heartrate": 136.7,
+        "max_heartrate": 156.0,
+        "segment": {
+          "id": 24662137,
+          "resource_state": 2,
+          "name": "Waterden Road to London Stadium, miss thing",
+          "activity_type": "Run",
+          "distance": 386.9,
+          "average_grade": -0.8,
+          "maximum_grade": 3.1,
+          "elevation_high": 15.1,
+          "elevation_low": 10.3,
+          "start_latlng": [
+            51.544196,
+            -0.017615
+          ],
+          "end_latlng": [
+            51.540966,
+            -0.017314
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265111898962,
+        "resource_state": 2,
+        "name": "Great British Garden",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 101,
+        "moving_time": 99,
+        "start_date": "2025-06-17T08:19:28Z",
+        "start_date_local": "2025-06-17T09:19:28Z",
+        "distance": 244.1,
+        "start_index": 1014,
+        "end_index": 1108,
+        "average_cadence": 78.9,
+        "device_watts": false,
+        "average_heartrate": 133.0,
+        "max_heartrate": 140.0,
+        "segment": {
+          "id": 7507913,
+          "resource_state": 2,
+          "name": "Great British Garden",
+          "activity_type": "Run",
+          "distance": 244.1,
+          "average_grade": -0.3,
+          "maximum_grade": 16.7,
+          "elevation_high": 5.0,
+          "elevation_low": 2.0,
+          "start_latlng": [
+            51.541502,
+            -0.016629
+          ],
+          "end_latlng": [
+            51.53999,
+            -0.018628
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265113670482,
+        "resource_state": 2,
+        "name": "Canal flat",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 421,
+        "moving_time": 389,
+        "start_date": "2025-06-17T08:25:02Z",
+        "start_date_local": "2025-06-17T09:25:02Z",
+        "distance": 1052.81,
+        "start_index": 1322,
+        "end_index": 1741,
+        "average_cadence": 73.6,
+        "device_watts": false,
+        "average_heartrate": 147.0,
+        "max_heartrate": 156.0,
+        "segment": {
+          "id": 2408145,
+          "resource_state": 2,
+          "name": "Canal flat",
+          "activity_type": "Run",
+          "distance": 1052.81,
+          "average_grade": 0.2,
+          "maximum_grade": 3.4,
+          "elevation_high": 10.1,
+          "elevation_low": 5.2,
+          "start_latlng": [
+            51.54368936084211,
+            -0.02196846529841423
+          ],
+          "end_latlng": [
+            51.55147866345942,
+            -0.03029479645192623
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265111456594,
+        "resource_state": 2,
+        "name": "Run past Here East like an absolute beast",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 145,
+        "moving_time": 145,
+        "start_date": "2025-06-17T08:26:39Z",
+        "start_date_local": "2025-06-17T09:26:39Z",
+        "distance": 410.6,
+        "start_index": 1417,
+        "end_index": 1562,
+        "average_cadence": 80.9,
+        "device_watts": false,
+        "average_heartrate": 145.3,
+        "max_heartrate": 154.0,
+        "segment": {
+          "id": 23512885,
+          "resource_state": 2,
+          "name": "Run past Here East like an absolute beast",
+          "activity_type": "Run",
+          "distance": 410.6,
+          "average_grade": -0.0,
+          "maximum_grade": 0.7,
+          "elevation_high": 6.5,
+          "elevation_low": 6.1,
+          "start_latlng": [
+            51.545196,
+            -0.022904
+          ],
+          "end_latlng": [
+            51.548056,
+            -0.026443
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265112299346,
+        "resource_state": 2,
+        "name": "The John Terry Run (Going through a Bridge)",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 57,
+        "moving_time": 51,
+        "start_date": "2025-06-17T08:28:48Z",
+        "start_date_local": "2025-06-17T09:28:48Z",
+        "distance": 136.3,
+        "start_index": 1546,
+        "end_index": 1603,
+        "average_cadence": 66.4,
+        "device_watts": false,
+        "average_heartrate": 148.6,
+        "max_heartrate": 152.0,
+        "segment": {
+          "id": 23512913,
+          "resource_state": 2,
+          "name": "The John Terry Run (Going through a Bridge)",
+          "activity_type": "Run",
+          "distance": 136.3,
+          "average_grade": -0.2,
+          "maximum_grade": 0.6,
+          "elevation_high": 6.4,
+          "elevation_low": 6.1,
+          "start_latlng": [
+            51.547793,
+            -0.026089
+          ],
+          "end_latlng": [
+            51.548686,
+            -0.027296
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265111453522,
+        "resource_state": 2,
+        "name": "Slippery When Wet",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 149,
+        "moving_time": 137,
+        "start_date": "2025-06-17T08:33:56Z",
+        "start_date_local": "2025-06-17T09:33:56Z",
+        "distance": 389.0,
+        "start_index": 1854,
+        "end_index": 2003,
+        "average_cadence": 72.9,
+        "device_watts": false,
+        "average_heartrate": 156.4,
+        "max_heartrate": 165.0,
+        "segment": {
+          "id": 9107457,
+          "resource_state": 2,
+          "name": "Slippery When Wet",
+          "activity_type": "Run",
+          "distance": 389.0,
+          "average_grade": -0.4,
+          "maximum_grade": 0.8,
+          "elevation_high": 8.7,
+          "elevation_low": 6.8,
+          "start_latlng": [
+            51.554011,
+            -0.031611
+          ],
+          "end_latlng": [
+            51.554715,
+            -0.026256
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": null,
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265113461586,
+        "resource_state": 2,
+        "name": "Eton Manor Sprint",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 178,
+        "moving_time": 178,
+        "start_date": "2025-06-17T08:36:52Z",
+        "start_date_local": "2025-06-17T09:36:52Z",
+        "distance": 484.8,
+        "start_index": 2030,
+        "end_index": 2208,
+        "average_cadence": 80.7,
+        "device_watts": false,
+        "average_heartrate": 158.6,
+        "max_heartrate": 166.0,
+        "segment": {
+          "id": 10837702,
+          "resource_state": 2,
+          "name": "Eton Manor Sprint",
+          "activity_type": "Run",
+          "distance": 484.8,
+          "average_grade": 0.1,
+          "maximum_grade": 3.0,
+          "elevation_high": 9.0,
+          "elevation_low": 5.9,
+          "start_latlng": [
+            51.554897,
+            -0.025324
+          ],
+          "end_latlng": [
+            51.552972,
+            -0.019278
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": null,
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265114708818,
+        "resource_state": 2,
+        "name": "post to manhole cover",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 80,
+        "moving_time": 80,
+        "start_date": "2025-06-17T08:38:02Z",
+        "start_date_local": "2025-06-17T09:38:02Z",
+        "distance": 228.9,
+        "start_index": 2100,
+        "end_index": 2180,
+        "average_cadence": 81.0,
+        "device_watts": false,
+        "average_heartrate": 160.9,
+        "max_heartrate": 166.0,
+        "segment": {
+          "id": 16148896,
+          "resource_state": 2,
+          "name": "post to manhole cover",
+          "activity_type": "Run",
+          "distance": 228.9,
+          "average_grade": -0.4,
+          "maximum_grade": 0.4,
+          "elevation_high": 8.8,
+          "elevation_low": 7.9,
+          "start_latlng": [
+            51.554057,
+            -0.022942
+          ],
+          "end_latlng": [
+            51.552976,
+            -0.020136
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": null,
+          "country": null,
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265115188050,
+        "resource_state": 2,
+        "name": "Depressing Bridge",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 76,
+        "moving_time": 76,
+        "start_date": "2025-06-17T08:42:21Z",
+        "start_date_local": "2025-06-17T09:42:21Z",
+        "distance": 212.3,
+        "start_index": 2359,
+        "end_index": 2435,
+        "average_cadence": 81.9,
+        "device_watts": false,
+        "average_heartrate": 162.5,
+        "max_heartrate": 169.0,
+        "segment": {
+          "id": 15053854,
+          "resource_state": 2,
+          "name": "Depressing Bridge",
+          "activity_type": "Run",
+          "distance": 212.3,
+          "average_grade": -0.2,
+          "maximum_grade": 6.5,
+          "elevation_high": 7.0,
+          "elevation_low": 5.0,
+          "start_latlng": [
+            51.555657,
+            -0.015669
+          ],
+          "end_latlng": [
+            51.557019,
+            -0.013802
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3369978265112645458,
+        "resource_state": 2,
+        "name": "Alexandra Road (up)",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 35,
+        "moving_time": 35,
+        "start_date": "2025-06-17T08:46:48Z",
+        "start_date_local": "2025-06-17T09:46:48Z",
+        "distance": 101.4,
+        "start_index": 2626,
+        "end_index": 2661,
+        "average_cadence": 81.2,
+        "device_watts": false,
+        "average_heartrate": 160.8,
+        "max_heartrate": 167.0,
+        "segment": {
+          "id": 8832720,
+          "resource_state": 2,
+          "name": "Alexandra Road (up)",
+          "activity_type": "Run",
+          "distance": 101.4,
+          "average_grade": 1.5,
+          "maximum_grade": 3.2,
+          "elevation_high": 13.2,
+          "elevation_low": 11.7,
+          "start_latlng": [
+            51.557374,
+            -0.008027
+          ],
+          "end_latlng": [
+            51.557857,
+            -0.006793
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "London",
+          "state": null,
+          "country": "United Kingdom",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.5,
+        "elapsed_time": 390,
+        "elevation_difference": -5.0,
+        "moving_time": 390,
+        "split": 1,
+        "average_speed": 2.57,
+        "average_grade_adjusted_speed": 2.61,
+        "average_heartrate": 124.90439276485787,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.7,
+        "elapsed_time": 386,
+        "elevation_difference": 1.8,
+        "moving_time": 372,
+        "split": 2,
+        "average_speed": 2.68,
+        "average_grade_adjusted_speed": 2.71,
+        "average_heartrate": 138.6505376344086,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.8,
+        "elapsed_time": 453,
+        "elevation_difference": -2.9,
+        "moving_time": 392,
+        "split": 3,
+        "average_speed": 2.55,
+        "average_grade_adjusted_speed": 2.57,
+        "average_heartrate": 140.5194805194805,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.1,
+        "elapsed_time": 402,
+        "elevation_difference": -0.4,
+        "moving_time": 368,
+        "split": 4,
+        "average_speed": 2.72,
+        "average_grade_adjusted_speed": 2.72,
+        "average_heartrate": 143.57765667574932,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.0,
+        "elapsed_time": 386,
+        "elevation_difference": 0.3,
+        "moving_time": 369,
+        "split": 5,
+        "average_speed": 2.71,
+        "average_grade_adjusted_speed": 2.71,
+        "average_heartrate": 153.83695652173913,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.5,
+        "elapsed_time": 374,
+        "elevation_difference": -0.8,
+        "moving_time": 370,
+        "split": 6,
+        "average_speed": 2.71,
+        "average_grade_adjusted_speed": 2.71,
+        "average_heartrate": 156.60270270270271,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.5,
+        "elapsed_time": 391,
+        "elevation_difference": 6.9,
+        "moving_time": 378,
+        "split": 7,
+        "average_speed": 2.64,
+        "average_grade_adjusted_speed": 2.69,
+        "average_heartrate": 159.68253968253967,
+        "pace_zone": 0
+      },
+      {
+        "distance": 94.9,
+        "elapsed_time": 40,
+        "elevation_difference": 0.1,
+        "moving_time": 40,
+        "split": 8,
+        "average_speed": 2.37,
+        "average_grade_adjusted_speed": 2.38,
+        "average_heartrate": 161.94736842105263,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1611.4,
+        "elapsed_time": 633,
+        "elevation_difference": -1.1,
+        "moving_time": 629,
+        "split": 1,
+        "average_speed": 2.56,
+        "average_grade_adjusted_speed": 2.6,
+        "average_heartrate": 129.95367412140575,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.8,
+        "elapsed_time": 681,
+        "elevation_difference": -5.6,
+        "moving_time": 602,
+        "split": 2,
+        "average_speed": 2.67,
+        "average_grade_adjusted_speed": 2.68,
+        "average_heartrate": 140.61111111111111,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.0,
+        "elapsed_time": 630,
+        "elevation_difference": -0.2,
+        "moving_time": 599,
+        "split": 3,
+        "average_speed": 2.69,
+        "average_grade_adjusted_speed": 2.69,
+        "average_heartrate": 148.46153846153845,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.2,
+        "elapsed_time": 616,
+        "elevation_difference": 3.8,
+        "moving_time": 600,
+        "split": 4,
+        "average_speed": 2.68,
+        "average_grade_adjusted_speed": 2.71,
+        "average_heartrate": 157.76166666666666,
+        "pace_zone": 0
+      },
+      {
+        "distance": 655.6,
+        "elapsed_time": 262,
+        "elevation_difference": 3.1,
+        "moving_time": 249,
+        "split": 5,
+        "average_speed": 2.63,
+        "average_grade_adjusted_speed": 2.66,
+        "average_heartrate": 159.78542510121457,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 52725871738,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 390,
+        "moving_time": 390,
+        "start_date": "2025-06-17T08:01:43Z",
+        "start_date_local": "2025-06-17T09:01:43Z",
+        "distance": 1000.0,
+        "average_speed": 2.56,
+        "max_speed": 3.5,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 390,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 81.4,
+        "device_watts": false,
+        "average_heartrate": 124.9,
+        "max_heartrate": 135.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 52725871741,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 386,
+        "moving_time": 386,
+        "start_date": "2025-06-17T08:08:15Z",
+        "start_date_local": "2025-06-17T09:08:15Z",
+        "distance": 1000.0,
+        "average_speed": 2.59,
+        "max_speed": 5.417,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 391,
+        "end_index": 764,
+        "total_elevation_gain": 4.9,
+        "average_cadence": 80.7,
+        "device_watts": false,
+        "average_heartrate": 138.7,
+        "max_heartrate": 146.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 52725871746,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 452,
+        "moving_time": 452,
+        "start_date": "2025-06-17T08:14:42Z",
+        "start_date_local": "2025-06-17T09:14:42Z",
+        "distance": 1000.0,
+        "average_speed": 2.21,
+        "max_speed": 4.02,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 765,
+        "end_index": 1169,
+        "total_elevation_gain": 8.1,
+        "average_cadence": 80.6,
+        "device_watts": false,
+        "average_heartrate": 140.5,
+        "max_heartrate": 156.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 52725871747,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 400,
+        "moving_time": 400,
+        "start_date": "2025-06-17T08:22:14Z",
+        "start_date_local": "2025-06-17T09:22:14Z",
+        "distance": 1000.0,
+        "average_speed": 2.5,
+        "max_speed": 3.56,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 1170,
+        "end_index": 1552,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 80.8,
+        "device_watts": false,
+        "average_heartrate": 143.6,
+        "max_heartrate": 154.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 52725871750,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 386,
+        "moving_time": 386,
+        "start_date": "2025-06-17T08:28:55Z",
+        "start_date_local": "2025-06-17T09:28:55Z",
+        "distance": 1000.0,
+        "average_speed": 2.59,
+        "max_speed": 3.78,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 1553,
+        "end_index": 1939,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 80.6,
+        "device_watts": false,
+        "average_heartrate": 153.8,
+        "max_heartrate": 165.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 52725871754,
+        "resource_state": 2,
+        "name": "Lap 6",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 373,
+        "moving_time": 373,
+        "start_date": "2025-06-17T08:35:22Z",
+        "start_date_local": "2025-06-17T09:35:22Z",
+        "distance": 1000.0,
+        "average_speed": 2.68,
+        "max_speed": 3.28,
+        "lap_index": 6,
+        "split": 6,
+        "start_index": 1940,
+        "end_index": 2313,
+        "total_elevation_gain": 2.9,
+        "average_cadence": 80.8,
+        "device_watts": false,
+        "average_heartrate": 156.6,
+        "max_heartrate": 166.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 52725871758,
+        "resource_state": 2,
+        "name": "Lap 7",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 391,
+        "moving_time": 391,
+        "start_date": "2025-06-17T08:41:36Z",
+        "start_date_local": "2025-06-17T09:41:36Z",
+        "distance": 1000.0,
+        "average_speed": 2.56,
+        "max_speed": 3.48,
+        "lap_index": 7,
+        "split": 7,
+        "start_index": 2314,
+        "end_index": 2704,
+        "total_elevation_gain": 6.9,
+        "average_cadence": 81.1,
+        "device_watts": false,
+        "average_heartrate": 159.7,
+        "max_heartrate": 170.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 52725871762,
+        "resource_state": 2,
+        "name": "Lap 8",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 40,
+        "moving_time": 40,
+        "start_date": "2025-06-17T08:48:07Z",
+        "start_date_local": "2025-06-17T09:48:07Z",
+        "distance": 95.01,
+        "average_speed": 2.38,
+        "max_speed": 2.8,
+        "lap_index": 8,
+        "split": 8,
+        "start_index": 2705,
+        "end_index": 2743,
+        "total_elevation_gain": 0.1,
+        "average_cadence": 80.3,
+        "device_watts": false,
+        "average_heartrate": 161.8,
+        "max_heartrate": 166.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 62342944410,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 139,
+        "moving_time": 139,
+        "start_date": "2025-06-17T08:01:43Z",
+        "start_date_local": "2025-06-17T09:01:43Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1401,
+        "end_index": 1540
+      },
+      {
+        "id": 62342944411,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 292,
+        "moving_time": 292,
+        "start_date": "2025-06-17T08:01:43Z",
+        "start_date_local": "2025-06-17T09:01:43Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1901,
+        "end_index": 2193
+      },
+      {
+        "id": 62342944412,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 371,
+        "moving_time": 371,
+        "start_date": "2025-06-17T08:01:43Z",
+        "start_date_local": "2025-06-17T09:01:43Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1769,
+        "end_index": 2140
+      },
+      {
+        "id": 62342944407,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 596,
+        "moving_time": 596,
+        "start_date": "2025-06-17T08:01:43Z",
+        "start_date_local": "2025-06-17T09:01:43Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1578,
+        "end_index": 2174
+      },
+      {
+        "id": 62342944408,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1224,
+        "moving_time": 1224,
+        "start_date": "2025-06-17T08:01:43Z",
+        "start_date_local": "2025-06-17T09:01:43Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1402,
+        "end_index": 2626
+      },
+      {
+        "id": 62342944409,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 14825147668,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1989,
+        "moving_time": 1989,
+        "start_date": "2025-06-17T08:01:43Z",
+        "start_date_local": "2025-06-17T09:01:43Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 511,
+        "end_index": 2422
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 35",
+    "embed_token": "3b65c52ddaff6e5cadcba3106cbd2ac07f0690d4",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.6478910041060097,
+      "min_average_speed": 2.6478910041060097,
+      "mid_average_speed": 2.6478910041060097,
+      "max_average_speed": 2.6478910041060097,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.6478910041060097
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.6478910041060097,
+        "mid_speed": 2.6478910041060097,
+        "max_speed": 2.6478910041060097,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

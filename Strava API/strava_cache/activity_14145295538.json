@@ -1,0 +1,631 @@
+{
+  "cached_at": "2025-10-06T16:15:57.970990",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Evening Hike",
+    "distance": 17681.6,
+    "moving_time": 14209,
+    "elapsed_time": 435202,
+    "total_elevation_gain": 636.0,
+    "type": "Hike",
+    "sport_type": "Hike",
+    "id": 14145295538,
+    "start_date": "2025-04-06T11:06:03Z",
+    "start_date_local": "2025-04-06T20:06:03Z",
+    "timezone": "(GMT+09:00) Asia/Seoul",
+    "utc_offset": 32400.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 3,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a14145295538",
+      "polyline": "ciruE}vksWe@e@AIM?Ud@D?c@[YASWGCGIG?OSCDG?ORSL[LYVORSEMK[DId@O\\a@d@IDc@??Fk@l@]BEJIBORQJGHMBCRg@FKEWCM@MBABGC?BEFCXKBKOCAD@OOy@k@KQKa@KKCIQGUUS[EY[_@KYy@m@CIWSYa@AM@@M_@GC[a@EAESSSGSm@_AMKq@eAICMKS]SSa@SWQMOWs@U]AQQIS@KN?FGGM_@GKIAIJNd@IHK^?DIFWDE\\GHg@LKJi@Vs@h@UF?DOD_@@SAu@JIAc@h@?DS@G?UMYWMSOIKk@c@e@_@m@@UQOQESLWTWNOPUCM?SNe@j@YJ_Ah@QP[TMNO@SDc@TOLCF_@NOh@a@PWB]RI?QHMh@[R?HMHMN]F?F?CA@?ECDCAPM_@[Cb@MNWNa@LMJYLQh@]b@IFOBS?GLUPIGA@IC[H_@POP[l@SPQZm@\\MLGB_@d@@HEFGF]FgAhAOBm@b@WJYXSFYP_@N]JW^IXQAULAGG?[XKC]@c@L{@PIB_@XI`@A^Bd@Xf@Uc@GAGHB@C?BOA_@E[i@MKBULy@XMPC@YCs@^GH]RqB`B]T[VI@GFNVa@@ULi@RWV[Js@P]AOFOJQ?SJ[Dy@ZULe@`@[`@MHUVENQRGL[t@IJo@d@KNa@F[LQPKPCHWJIHYHMFQ`@OLKP?LGGc@PSl@e@r@EXGR_@j@m@\\QROJYJYCSEYAOIMF?FEIe@P]Ha@XW\\AFIFMPq@h@GT[f@O^CZO@EAFALM?K[`@MBYEQDQLUD_@TQPg@Da@J]^WLYFc@VIJ?JDr@FVHJPJDJNBI?KHI@YCO@qA_@e@Ie@ASOU[w@Q}@oAQ?QD[Bc@I]?a@OSOOQCI?q@AGGK_@]e@Ya@QQCMIYa@u@sAg@o@OMa@e@GCQBa@NC?MJOHQBMFEAMDs@\\m@?EBS@k@He@S[SOMOWOKIAi@@SEOI]MOCe@Ao@]MMa@M{@K[OMA[@MFK?KASFIDEPINMh@KJMFGFGPGd@@FOZCHDp@KN@v@E?INSJw@~@MFCBUHGJBJTZNJTBVGTCL\\F^UVMRGBA^b@t@ND`@`@BJCJY`@I^@FK^o@P[VMPm@nAk@V]ZQLI?KFSDO?SDQLYZIFCJ?RE?DBFAHHf@z@d@JT?TNj@RVBHDHCNDTZZHbAd@TNd@NI?LBd@\\^l@N`@PNh@n@Xf@DD?BFFJ@l@TLN^Xf@XTTLDTPXVVf@RLd@p@VHXD`@Cf@L@AB?JF\\l@RPn@FTA`AHLPb@VDDPBl@RXPJRRRBHFBHJJb@Vj@D\\?VIHAFEB?FIBCF?\\Y|@@`@Jd@FHLHBJFp@FR?TOn@[Pe@MQOMDC?C@KfAf@bDVl@RVVRrAf@b@@TAZDJCh@HPFn@z@XT^b@V`@Pd@J^Xl@BLHC@EGCMSY{@CSHED@b@N@B~@GT@VLPRb@ZNFl@`@^PA@JPBXI\\BCBD@CFWPJJEDHFF@HKSAKPQDa@COHQ?IFOLGDG?KNS?e@PIDSHGDJF@HIAa@^@NG@EFAHERJFABCH]LQH[L?FA^S@Gr@QDC@GLE@CLCFEJBHAPMJU@YCIBUBC?ICA?@Aa@VKD@FE^Ij@UDINIHKCC@KFSJGACDKLO`@MF?FGn@WF?PFBE@@FCHEHMHQVUp@]B?JFJ?r@IDKLDJC^ANDGLMENEI_@@UFCFEJ?DKDWDAV@DWNS@AT@DORWB?Gi@CIQEMQBGEKAUUe@Ga@GUW]@QE}@Be@G]GGCIE@KTC?YW[i@MM}@m@YAGBi@p@QDUYQEG?II_@@WIGO@EIy@@KGSBIGS?QI_@?WDGC[DGGO@IOq@@OCCQCIGKQEAQOBKAIDKBw@FOFo@DKCYBG?a@LOBKEGAKJm@@e@GUIQSOUKCGCCCGKEGID]AGOMEe@@QAM_@_A?GIa@BAA[Jg@AICG]SEKQOAs@Lo@AOBIEEKg@OUI_@?WJ[\\q@BABIb@w@VYFWHMFED?j@g@Z?^Df@RZDPHJ@HCj@k@JOPIRS^w@BMDCVm@LMLa@HCX`@Jq@H[Xc@JE@IXOVGv@w@f@W\\CLEP[NKZg@Re@X[DIp@w@JQNODMB?HMXQF@`@U\\AHEd@IROHEZAx@OT?RQTEBMFANI`@g@JUr@[XYTKh@i@FMPKFETCpA_AHAN@HA`@Ql@]b@BPHH\\?LEPRTXD@BGDS?MIU_@?@HTJP^FJK?MS{@?_@@MH[LQ\\KZEH@HMBWNKJ@NFR@JODUHEHSRWD?X_@~BqATCLIXYR]RQRGH@DMFMF?A@Z[AIPTTl@AAx@q@BEj@[LQTOb@g@`@SD@VEHV@PJFNn@HPEFXRj@tA\\f@LDJ\\T`@BNXl@FVJH?B`@Vf@f@ZTn@Xf@d@TFXAz@T`@NPBb@?JDLCDDd@PJ@RJf@Md@FHF@DBEd@HNHLNLF^?xE|@vDJbAAh@ItAId@QLCP?d@[VM~@c@LAPGd@e@l@w@x@ITKNJHE@QEMrAcCAQMH@BACHPRD@DFNRJVCNOXs@Ru@JODCJJC@@EHDFMPOR@HE^CR]Pc@Hu@X@HTd@OPCVRN]RQRKHDDALIX_ANKN@JOb@[FKp@g@FFC??BFLPARKb@?D@HJGD@DJ@PP@@CGLFVCBBBECDHP]VIzALZDXR`@p@t@`Ax@JZ@TP~@Bf@BLE^@FIUB?SCCHYZsAd@MbA?hAACAj@L`@PLKp@IXEB?PXTLNZAj@TTO\\a@FKl@_@B]?CCC@CDCB@d@YZBMt@GHCCIF~@`@fAx@LBTCZg@TJL^@PEjA?^P~B?VDRFz@Cb@XbDWr@`@n@Rd@AA@LJf@EMK{@IOYOc@DIG_@VOVT\\H^EBRUWFBKCEI@S@KLUDQG]i@MCi@pBWPYBKDIIIAKHa@TIHSDB@JLR^D?PVD?BCTXDh@Zd@NNN\\XRLZHHNn@N|@HP?b@D@BLCLUZIDDPIR@B?JE@IGB?M^UAAB?`@EHGx@H~@N^APDNPNAh@DH?FVDRNRVFBBH",
+      "resource_state": 3,
+      "summary_polyline": "ciruE}vksWg@o@c@d@sBwAuB`B}@K{@hBm@Dk@t@iBtAqBBUh@sAkAoAgBaAoBuAkAaFcIgCwBo@cBe@GKVg@u@IJNd@Un@o@t@gDhBcCNw@p@uAcAKk@aAiBc@UsAdAc@CoEhDgA\\s@d@Oh@sBr@Mh@w@v@c@LLO_@[Cb@oBfAo@lA}C|@uC|Cc@v@}EfDkBt@a@x@aF~@i@z@@dAXf@Uc@OHCkAu@IoDvAcFvDNVuCfAcG~AeBdBeArByBjAkBtAm@nAk@HgBzDiBhAwAUwA`@eCbCw@xBU?T[[`@y@BwGzCBbBp@f@UHqEk@i@k@w@Q}@oAcDOc@a@MoAgCwAqD}E}DvAsBNqByAkDc@_By@eB]uANqA~BYrACxBkC|Bh@r@bAGT|@k@n@A^tA|A?Vm@hBkAh@{@`B{A`AmAR_ApA~@fAxDz@pDjBI?r@`@jC`EpEpCjB~B`CV|@fAfCNpCxAt@`Ah@lB[x@]bBLfAh@zBOn@[PiAWOhA~@pE~BrA|CR`CvCz@`CJIs@gBjCHjDxBBjAPY\\DNZM_@\\_Bj@_A?e@`@e@VBAa@~AId@oA`E{AJ_CpBo@bAkBhCm@fByAnCMNDGLMENEGu@ZIJc@r@k@V?\\g@k@kAaAeD?uBSo@UVaC}Ba@@{@v@yBaA[oDK_DcAs@x@mJ{AgBD]W{Ai@iBJoAy@w@L}Bk@cBJs@rBuDx@m@fDf@|AyA|AgDb@\\TmAf@s@|DqBrEqGdIwBhAwAfDeCbF{Bt@LB|@n@^[Dc@g@Tf@^FJYS{AX{@bAO\\q@n@JxAwBbD_B`AiAjAeAf@bApEsD\\Cj@zBpBvCfAtChEbD|Ep@jAd@lAE`Br@xF|@zFHdEi@|CwArA}AhBOC_@rAcCAQMHz@x@VChAiCXHX]|@Gn@wBzABVRb@o@p@QX_AhCiBJXhAMf@l@j@CDV]VIzAf@vArBnB^pBB|AYY]d@sAd@QtD^n@[`Bf@d@fARhB}A@i@n@[ZBMt@ULfCzAb@?Zg@b@j@C|Bt@nLWr@t@tAJr@[yAgAQo@n@X`ARUwAL}@u@i@pB}@ZSKkAn@zA|ADh@lBlCh@~BD`A_@`@At@YXW@MdBVpBZzAjAz@"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      35.160668,
+      129.171198
+    ],
+    "end_latlng": [
+      35.160037,
+      129.156257
+    ],
+    "average_speed": 1.244,
+    "max_speed": 6.433,
+    "average_cadence": 56.3,
+    "average_temp": 20,
+    "has_heartrate": true,
+    "average_heartrate": 103.8,
+    "max_heartrate": 146.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 612.3,
+    "elev_low": 7.4,
+    "upload_id": 15097769775,
+    "upload_id_str": "15097769775",
+    "external_id": "garmin_ping_428049812968",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 1180.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3345750832706183018,
+        "resource_state": 2,
+        "name": "\ub300\ucc9c\uacf5\uc6d0 \uc5b5\uc0c8\ubc2d",
+        "activity": {
+          "id": 14145295538,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 3414,
+        "moving_time": 3075,
+        "start_date": "2025-04-11T06:56:31Z",
+        "start_date_local": "2025-04-11T15:56:31Z",
+        "distance": 3806.6,
+        "start_index": 603,
+        "end_index": 1572,
+        "average_cadence": 45.8,
+        "device_watts": false,
+        "average_heartrate": 121.5,
+        "max_heartrate": 146.0,
+        "segment": {
+          "id": 20703977,
+          "resource_state": 2,
+          "name": "\ub300\ucc9c\uacf5\uc6d0 \uc5b5\uc0c8\ubc2d",
+          "activity_type": "Hike",
+          "distance": 3806.6,
+          "average_grade": 11.0,
+          "maximum_grade": 43.3,
+          "elevation_high": 492.7,
+          "elevation_low": 72.3,
+          "start_latlng": [
+            35.181782,
+            129.167122
+          ],
+          "end_latlng": [
+            35.201559,
+            129.155148
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 3,
+          "city": "Haeundae",
+          "state": "Busan",
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3345750832704224106,
+        "resource_state": 2,
+        "name": "\uc9c4\uc625\uc790\uc804\uac70\ucea0\ud504-\uc7a5\uc0b0(\uc7a5\uc0b0\uc0ac-\uc7a5\uc0b0\ud3ed\ud3ec)(JOBC)",
+        "activity": {
+          "id": 14145295538,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 951,
+        "moving_time": 883,
+        "start_date": "2025-04-11T06:56:56Z",
+        "start_date_local": "2025-04-11T15:56:56Z",
+        "distance": 1179.5,
+        "start_index": 607,
+        "end_index": 867,
+        "average_cadence": 50.1,
+        "device_watts": false,
+        "average_heartrate": 122.9,
+        "max_heartrate": 132.0,
+        "segment": {
+          "id": 22294661,
+          "resource_state": 2,
+          "name": "\uc9c4\uc625\uc790\uc804\uac70\ucea0\ud504-\uc7a5\uc0b0(\uc7a5\uc0b0\uc0ac-\uc7a5\uc0b0\ud3ed\ud3ec)(JOBC)",
+          "activity_type": "Hike",
+          "distance": 1179.5,
+          "average_grade": 7.5,
+          "maximum_grade": 15.2,
+          "elevation_high": 160.6,
+          "elevation_low": 72.4,
+          "start_latlng": [
+            35.181971,
+            129.16704
+          ],
+          "end_latlng": [
+            35.190416,
+            129.160341
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 1,
+          "city": "Haeundae",
+          "state": "Busan",
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3345750832706499434,
+        "resource_state": 2,
+        "name": "\uc7a5\uc0b0 - \uc911\ubd09\uc55e \uacc4\ub2e8\uae4c\uc9c0",
+        "activity": {
+          "id": 14145295538,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 3367,
+        "moving_time": 980,
+        "start_date": "2025-04-11T08:49:38Z",
+        "start_date_local": "2025-04-11T17:49:38Z",
+        "distance": 893.4,
+        "start_index": 2195,
+        "end_index": 2598,
+        "average_cadence": 10.3,
+        "device_watts": false,
+        "average_heartrate": 99.7,
+        "max_heartrate": 118.0,
+        "segment": {
+          "id": 31652450,
+          "resource_state": 2,
+          "name": "\uc7a5\uc0b0 - \uc911\ubd09\uc55e \uacc4\ub2e8\uae4c\uc9c0",
+          "activity_type": "Hike",
+          "distance": 893.4,
+          "average_grade": -22.7,
+          "maximum_grade": 12.1,
+          "elevation_high": 398.4,
+          "elevation_low": 195.4,
+          "start_latlng": [
+            35.192477,
+            129.145025
+          ],
+          "end_latlng": [
+            35.186649,
+            129.150219
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": "Busan",
+          "country": "South Korea",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1007.3,
+        "elapsed_time": 415023,
+        "elevation_difference": -1.6,
+        "moving_time": 415023,
+        "split": 1,
+        "average_speed": 0.0,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 104.12613981762918,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.0,
+        "elapsed_time": 683,
+        "elevation_difference": 19.3,
+        "moving_time": 683,
+        "split": 2,
+        "average_speed": 1.46,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 106.64893617021276,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.2,
+        "elapsed_time": 953,
+        "elevation_difference": 30.2,
+        "moving_time": 953,
+        "split": 3,
+        "average_speed": 1.05,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 108.35913312693498,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.7,
+        "elapsed_time": 937,
+        "elevation_difference": 43.1,
+        "moving_time": 937,
+        "split": 4,
+        "average_speed": 1.07,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 118.49103448275862,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.1,
+        "elapsed_time": 949,
+        "elevation_difference": 118.1,
+        "moving_time": 949,
+        "split": 5,
+        "average_speed": 1.05,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 126.50683229813664,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.4,
+        "elapsed_time": 819,
+        "elevation_difference": 117.2,
+        "moving_time": 819,
+        "split": 6,
+        "average_speed": 1.22,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 126.03861003861005,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.6,
+        "elapsed_time": 981,
+        "elevation_difference": 126.6,
+        "moving_time": 981,
+        "split": 7,
+        "average_speed": 1.02,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 116.102416570771,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.0,
+        "elapsed_time": 1016,
+        "elevation_difference": 52.3,
+        "moving_time": 1016,
+        "split": 8,
+        "average_speed": 0.98,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 99.5374149659864,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.2,
+        "elapsed_time": 2439,
+        "elevation_difference": 60.2,
+        "moving_time": 2439,
+        "split": 9,
+        "average_speed": 0.41,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 110.84763948497854,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.4,
+        "elapsed_time": 3382,
+        "elevation_difference": -198.3,
+        "moving_time": 1951,
+        "split": 10,
+        "average_speed": 0.51,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 91.9035175879397,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.1,
+        "elapsed_time": 951,
+        "elevation_difference": -193.1,
+        "moving_time": 951,
+        "split": 11,
+        "average_speed": 1.05,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 102.19575471698113,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1006.1,
+        "elapsed_time": 885,
+        "elevation_difference": -93.8,
+        "moving_time": 885,
+        "split": 12,
+        "average_speed": 1.14,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 91.69126691266912,
+        "pace_zone": 0
+      },
+      {
+        "distance": 991.9,
+        "elapsed_time": 734,
+        "elevation_difference": -37.5,
+        "moving_time": 734,
+        "split": 13,
+        "average_speed": 1.35,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 91.25136612021858,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.3,
+        "elapsed_time": 860,
+        "elevation_difference": -19.1,
+        "moving_time": 860,
+        "split": 14,
+        "average_speed": 1.17,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 94.15811373092926,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1003.0,
+        "elapsed_time": 816,
+        "elevation_difference": -30.2,
+        "moving_time": 816,
+        "split": 15,
+        "average_speed": 1.23,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 94.03734439834025,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.8,
+        "elapsed_time": 954,
+        "elevation_difference": -4.1,
+        "moving_time": 954,
+        "split": 16,
+        "average_speed": 1.04,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 93.06470588235294,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1006.9,
+        "elapsed_time": 2349,
+        "elevation_difference": -3.4,
+        "moving_time": 844,
+        "split": 17,
+        "average_speed": 1.19,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 92.16204986149584,
+        "pace_zone": 0
+      },
+      {
+        "distance": 669.6,
+        "elapsed_time": 471,
+        "elevation_difference": 0.3,
+        "moving_time": 471,
+        "split": 18,
+        "average_speed": 1.42,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 96.54017857142857,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1609.4,
+        "elapsed_time": 415440,
+        "elevation_difference": 8.8,
+        "moving_time": 415440,
+        "split": 1,
+        "average_speed": 0.0,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 104.51841359773371,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1617.7,
+        "elapsed_time": 1561,
+        "elevation_difference": 43.8,
+        "moving_time": 1561,
+        "split": 2,
+        "average_speed": 1.04,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 109.35107376283847,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1603.6,
+        "elapsed_time": 1397,
+        "elevation_difference": 131.3,
+        "moving_time": 1397,
+        "split": 3,
+        "average_speed": 1.15,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 123.52334152334153,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.5,
+        "elapsed_time": 1430,
+        "elevation_difference": 215.7,
+        "moving_time": 1430,
+        "split": 4,
+        "average_speed": 1.13,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 123.71646341463415,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.2,
+        "elapsed_time": 1583,
+        "elevation_difference": 109.1,
+        "moving_time": 1583,
+        "split": 5,
+        "average_speed": 1.02,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 104.6318407960199,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1607.5,
+        "elapsed_time": 3172,
+        "elevation_difference": -83.1,
+        "moving_time": 3172,
+        "split": 6,
+        "average_speed": 0.51,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 103.12402088772846,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.9,
+        "elapsed_time": 3833,
+        "elevation_difference": -289.2,
+        "moving_time": 2402,
+        "split": 7,
+        "average_speed": 0.67,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 97.15980795610425,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.7,
+        "elapsed_time": 1250,
+        "elevation_difference": -90.0,
+        "moving_time": 1250,
+        "split": 8,
+        "average_speed": 1.29,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 92.3586956521739,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.4,
+        "elapsed_time": 1380,
+        "elevation_difference": -45.6,
+        "moving_time": 1380,
+        "split": 9,
+        "average_speed": 1.17,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 92.98101811906817,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1613.1,
+        "elapsed_time": 1383,
+        "elevation_difference": -12.8,
+        "moving_time": 1383,
+        "split": 10,
+        "average_speed": 1.17,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 94.38321167883211,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1583.6,
+        "elapsed_time": 2773,
+        "elevation_difference": -1.8,
+        "moving_time": 1268,
+        "split": 11,
+        "average_speed": 1.25,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 93.75779162956367,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 50206711398,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 14145295538,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 20905,
+        "moving_time": 17968,
+        "start_date": "2025-04-06T11:06:03Z",
+        "start_date_local": "2025-04-06T20:06:03Z",
+        "distance": 17681.6,
+        "average_speed": 0.98,
+        "max_speed": 6.433,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 4274,
+        "total_elevation_gain": 651.4,
+        "average_cadence": 56.3,
+        "device_watts": false,
+        "average_heartrate": 103.8,
+        "max_heartrate": 146.0
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "e3ae39407e47b7437e4cbca25c8d1468fd9c4588",
+    "available_zones": []
+  }
+}

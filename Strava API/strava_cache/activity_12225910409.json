@@ -1,0 +1,185 @@
+{
+  "cached_at": "2025-10-06T16:16:31.622397",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Lunch Run",
+    "distance": 166.6,
+    "moving_time": 69,
+    "elapsed_time": 74,
+    "total_elevation_gain": 5.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": null,
+    "id": 12225910409,
+    "start_date": "2024-08-24T01:00:20Z",
+    "start_date_local": "2024-08-24T11:00:20Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 2,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a12225910409",
+      "polyline": "vi{fFmzotZDFQ\\K^QFKJUC]f@CJK|@BLb@f@",
+      "resource_state": 3,
+      "summary_polyline": "vi{fFmzotZDFQ\\K^QFKJUC]f@CJK|@BLb@f@"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.992115477100015,
+      145.08470959961414
+    ],
+    "end_latlng": [
+      -37.991702668368816,
+      145.08344150148332
+    ],
+    "average_speed": 2.415,
+    "max_speed": 4.15,
+    "average_cadence": 86.2,
+    "average_temp": 26,
+    "has_heartrate": true,
+    "average_heartrate": 111.3,
+    "max_heartrate": 129.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 21.4,
+    "elev_low": 18.2,
+    "upload_id": 13033719887,
+    "upload_id_str": "13033719887",
+    "external_id": "garmin_ping_364772921698",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 10.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [],
+    "splits_metric": [
+      {
+        "distance": 166.6,
+        "elapsed_time": 74,
+        "elevation_difference": 2.4,
+        "moving_time": 69,
+        "split": 1,
+        "average_speed": 2.41,
+        "average_grade_adjusted_speed": 2.53,
+        "average_heartrate": 111.3030303030303,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 166.6,
+        "elapsed_time": 74,
+        "elevation_difference": 2.4,
+        "moving_time": 69,
+        "split": 1,
+        "average_speed": 2.41,
+        "average_grade_adjusted_speed": 2.53,
+        "average_heartrate": 111.3030303030303,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 42800108058,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 12225910409,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 73,
+        "moving_time": 73,
+        "start_date": "2024-08-24T01:00:20Z",
+        "start_date_local": "2024-08-24T11:00:20Z",
+        "distance": 166.62,
+        "average_speed": 2.28,
+        "max_speed": 4.15,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 28,
+        "total_elevation_gain": 3.2,
+        "average_cadence": 86.2,
+        "device_watts": false,
+        "average_heartrate": 111.3,
+        "max_heartrate": 129.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "61349b2123f95bc517fc04fe2085cea4b3e26eee",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.4144927536231884,
+      "min_average_speed": 2.4144927536231884,
+      "mid_average_speed": 2.4144927536231884,
+      "max_average_speed": 2.4144927536231884,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.4144927536231884
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.4144927536231884,
+        "mid_speed": 2.4144927536231884,
+        "max_speed": 2.4144927536231884,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}
