@@ -1,0 +1,1063 @@
+{
+  "cached_at": "2025-10-06T18:44:25.441081",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Fartlek intervals",
+    "distance": 7657.8,
+    "moving_time": 2656,
+    "elapsed_time": 2702,
+    "total_elevation_gain": 67.6,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 4122570363,
+    "start_date": "2020-09-28T06:54:32Z",
+    "start_date_local": "2020-09-28T16:54:32Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 6,
+    "kudos_count": 3,
+    "comment_count": 0,
+    "athlete_count": 2,
+    "photo_count": 0,
+    "map": {
+      "id": "a4122570363",
+      "polyline": "~o{fFikotZL@DHL^T`@^d@`B~B|@xA\\`@Xj@zAvB^p@RPRC@@ENB?NUNI?DHHHV?TDFTN`@?b@G\\BfBXtE\\^LbAR^@vC^t@F`AJrCPjAJv@JPFPRBFAF@?cA~@_@`@CT?ZG\\qA`BcAxAgAnAYd@_A`AyA`Ba@b@}C|D_BfB]d@[Tu@~@_@l@q@z@sAzAaAlAm@l@_CxC]\\q@dAkBnDWXa@z@}ArCQb@uBzDc@t@Y^m@jAwD`HmE`JSf@_@t@Yt@{AfDM`@_@t@]jAMPWj@s@tBMXk@lB[t@y@`Cc@`A}BlGgAzD]n@Sh@?CL]d@_AX{@Zq@h@cBf@qArBiFjAqDxAuDXcAPe@Va@No@b@iAT{@^y@Zi@nAoCNWh@oA~BoErBsEzBgEf@gAp@eAbAkBlCqEtByDvBmDzAcBZa@Tc@pCmDXUd@e@xBqC~DqEp@{@lByBfB_CZ]\\c@Tc@PSBu@z@qAl@m@FMEIW@e@CsCOuFw@gCMuB[e@CSMKQQOyBOk@Mc@CuAO[IGGAIB_@`A_Bz@aAVa@DM[c@[ZCAAM_@M}CuEuByCYi@aA{As@aAG?mAd@E?CI@IPI",
+      "resource_state": 3,
+      "summary_polyline": "~o{fFikotZL@DHL^T`@^d@`B~B|@xA\\`@Xj@zAvB^p@RPRC@@ENB?NUNI?DHHHV?TDFTN`@?b@G\\BfBXtE\\^LbAR^@vC^t@F`AJrCPjAJv@JPFPRBFAF@?cA~@_@`@CT?ZG\\qA`BcAxAgAnAYd@_A`AyA`Ba@b@}C|D_BfB]d@[Tu@~@_@l@q@z@sAzAaAlAm@l@_CxC]\\q@dAkBnDWXa@z@}ArCQb@uBzDc@t@Y^m@jAwD`HmE`JSf@_@t@Yt@{AfDM`@_@t@]jAMPWj@s@tBMXk@lB[t@y@`Cc@`A}BlGgAzD]n@Sh@?CL]d@_AX{@Zq@h@cBf@qArBiFjAqDxAuDXcAPe@Va@No@b@iAT{@^y@Zi@nAoCNWh@oA~BoErBsEzBgEf@gAp@eAbAkBlCqEtByDvBmDzAcBZa@Tc@pCmDXUd@e@xBqC~DqEp@{@lByBfB_CZ]\\c@Tc@PSBu@z@qAl@m@FMEIW@e@CsCOuFw@gCMuB[e@CSMKQQOyBOk@Mc@CuAO[IGGAIB_@`A_Bz@aAVa@DM[c@[ZCAAM_@M}CuEuByCYi@aA{As@aAG?mAd@E?CI@IPI"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.993114,
+      145.082295
+    ],
+    "end_latlng": [
+      -37.992787,
+      145.082153
+    ],
+    "average_speed": 2.883,
+    "max_speed": 5.1,
+    "average_cadence": 83.4,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 34.2,
+    "elev_low": 18.0,
+    "upload_id": 4411224686,
+    "upload_id_str": "4411224686",
+    "external_id": "stripped_health_data_64341718_1601278836.gpx",
+    "from_accepted_tag": false,
+    "pr_count": 1,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "I don't quite know what I'm doing but I do be vibing \nBig stitch no lilo",
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [
+      {
+        "id": 2745566362206136696,
+        "resource_state": 2,
+        "name": "McIndoe Parade downhill",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 231,
+        "moving_time": 229,
+        "start_date": "2020-09-28T06:57:18Z",
+        "start_date_local": "2020-09-28T16:57:18Z",
+        "distance": 635.3,
+        "start_index": 44,
+        "end_index": 94,
+        "average_cadence": 79.2,
+        "device_watts": false,
+        "segment": {
+          "id": 11321703,
+          "resource_state": 2,
+          "name": "McIndoe Parade downhill",
+          "activity_type": "Run",
+          "distance": 635.3,
+          "average_grade": -1.0,
+          "maximum_grade": 6.3,
+          "elevation_high": 22.7,
+          "elevation_low": 10.2,
+          "start_latlng": [
+            -37.995863,
+            145.079049
+          ],
+          "end_latlng": [
+            -38.001495,
+            145.077889
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2745566362205727096,
+        "resource_state": 2,
+        "name": "Club to Shack Sprint",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 312,
+        "moving_time": 298,
+        "start_date": "2020-09-28T07:04:51Z",
+        "start_date_local": "2020-09-28T17:04:51Z",
+        "distance": 832.6,
+        "start_index": 155,
+        "end_index": 214,
+        "average_cadence": 79.8,
+        "device_watts": false,
+        "segment": {
+          "id": 8011719,
+          "resource_state": 2,
+          "name": "Club to Shack Sprint",
+          "activity_type": "Run",
+          "distance": 832.6,
+          "average_grade": -0.1,
+          "maximum_grade": 10.4,
+          "elevation_high": 10.9,
+          "elevation_low": 4.2,
+          "start_latlng": [
+            -37.997448,
+            145.072349
+          ],
+          "end_latlng": [
+            -37.992459,
+            145.065406
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2745566362206691704,
+        "resource_state": 2,
+        "name": "Mentone Edgewater Track (NoBo)",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 195,
+        "moving_time": 195,
+        "start_date": "2020-09-28T07:09:40Z",
+        "start_date_local": "2020-09-28T17:09:40Z",
+        "distance": 589.2,
+        "start_index": 210,
+        "end_index": 255,
+        "average_cadence": 85.0,
+        "device_watts": false,
+        "segment": {
+          "id": 20358261,
+          "resource_state": 2,
+          "name": "Mentone Edgewater Track (NoBo)",
+          "activity_type": "Run",
+          "distance": 589.2,
+          "average_grade": 0.6,
+          "maximum_grade": 7.0,
+          "elevation_high": 6.4,
+          "elevation_low": -2.6,
+          "start_latlng": [
+            -37.992458,
+            145.06609
+          ],
+          "end_latlng": [
+            -37.989561,
+            145.060619
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2745566362207588728,
+        "resource_state": 2,
+        "name": "Mentone Trail Down",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 60,
+        "moving_time": 60,
+        "start_date": "2020-09-28T07:12:07Z",
+        "start_date_local": "2020-09-28T17:12:07Z",
+        "distance": 183.1,
+        "start_index": 245,
+        "end_index": 259,
+        "average_cadence": 83.5,
+        "device_watts": false,
+        "segment": {
+          "id": 22995515,
+          "resource_state": 2,
+          "name": "Mentone Trail Down",
+          "activity_type": "Run",
+          "distance": 183.1,
+          "average_grade": -5.8,
+          "maximum_grade": -2.3,
+          "elevation_high": 23.8,
+          "elevation_low": 13.2,
+          "start_latlng": [
+            -37.99006,
+            145.061801
+          ],
+          "end_latlng": [
+            -37.989072,
+            145.060301
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2745566362207097208,
+        "resource_state": 2,
+        "name": "Mentone Curved Ramp",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 116,
+        "moving_time": 111,
+        "start_date": "2020-09-28T07:15:31Z",
+        "start_date_local": "2020-09-28T17:15:31Z",
+        "distance": 100.9,
+        "start_index": 295,
+        "end_index": 319,
+        "average_cadence": 77.5,
+        "device_watts": false,
+        "segment": {
+          "id": 23460379,
+          "resource_state": 2,
+          "name": "Mentone Curved Ramp",
+          "activity_type": "Run",
+          "distance": 100.9,
+          "average_grade": 11.7,
+          "maximum_grade": 22.0,
+          "elevation_high": 22.8,
+          "elevation_low": 10.6,
+          "start_latlng": [
+            -37.98744,
+            145.055714
+          ],
+          "end_latlng": [
+            -37.986805,
+            145.055109
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2862691860162674868,
+        "resource_state": 2,
+        "name": "Stups 135",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 38,
+        "moving_time": 38,
+        "start_date": "2020-09-28T07:15:31Z",
+        "start_date_local": "2020-09-28T17:15:31Z",
+        "distance": 142.2,
+        "start_index": 295,
+        "end_index": 303,
+        "average_cadence": 84.1,
+        "device_watts": false,
+        "segment": {
+          "id": 29531567,
+          "resource_state": 2,
+          "name": "Stups 135",
+          "activity_type": "Run",
+          "distance": 142.2,
+          "average_grade": 9.5,
+          "maximum_grade": 13.8,
+          "elevation_high": 21.7,
+          "elevation_low": 8.2,
+          "start_latlng": [
+            -37.987492,
+            145.055652
+          ],
+          "end_latlng": [
+            -37.986829,
+            145.054722
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2939181869158820622,
+        "resource_state": 2,
+        "name": "Running up that hill",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 149,
+        "moving_time": 149,
+        "start_date": "2020-09-28T07:19:57Z",
+        "start_date_local": "2020-09-28T17:19:57Z",
+        "distance": 341.4,
+        "start_index": 350,
+        "end_index": 379,
+        "average_cadence": 77.6,
+        "device_watts": false,
+        "segment": {
+          "id": 31255275,
+          "resource_state": 2,
+          "name": "Running up that hill",
+          "activity_type": "Run",
+          "distance": 341.4,
+          "average_grade": 2.4,
+          "maximum_grade": 4.5,
+          "elevation_high": 20.0,
+          "elevation_low": 11.4,
+          "start_latlng": [
+            -37.988752,
+            145.059574
+          ],
+          "end_latlng": [
+            -37.990442,
+            145.062801
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2745566362206040440,
+        "resource_state": 2,
+        "name": "mentone beach dirt track",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 230,
+        "moving_time": 230,
+        "start_date": "2020-09-28T07:20:38Z",
+        "start_date_local": "2020-09-28T17:20:38Z",
+        "distance": 577.9,
+        "start_index": 357,
+        "end_index": 405,
+        "average_cadence": 80.0,
+        "device_watts": false,
+        "segment": {
+          "id": 4412416,
+          "resource_state": 2,
+          "name": "mentone beach dirt track",
+          "activity_type": "Run",
+          "distance": 577.9,
+          "average_grade": 0.4,
+          "maximum_grade": 10.7,
+          "elevation_high": -13.2,
+          "elevation_low": -23.6,
+          "start_latlng": [
+            -37.989449,
+            145.060518
+          ],
+          "end_latlng": [
+            -37.992443,
+            145.065802
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2745566362205735288,
+        "resource_state": 2,
+        "name": "Club to Shack Sprint REVERSE",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 280,
+        "moving_time": 280,
+        "start_date": "2020-09-28T07:24:14Z",
+        "start_date_local": "2020-09-28T17:24:14Z",
+        "distance": 843.7,
+        "start_index": 403,
+        "end_index": 461,
+        "average_cadence": 84.8,
+        "device_watts": false,
+        "segment": {
+          "id": 20485765,
+          "resource_state": 2,
+          "name": "Club to Shack Sprint REVERSE",
+          "activity_type": "Run",
+          "distance": 843.7,
+          "average_grade": 0.0,
+          "maximum_grade": 3.7,
+          "elevation_high": 7.7,
+          "elevation_low": 5.0,
+          "start_latlng": [
+            -37.992437,
+            145.065345
+          ],
+          "end_latlng": [
+            -37.997458,
+            145.072383
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2745566362207467896,
+        "resource_state": 2,
+        "name": "Herbert St Hill",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 136,
+        "moving_time": 134,
+        "start_date": "2020-09-28T07:31:50Z",
+        "start_date_local": "2020-09-28T17:31:50Z",
+        "distance": 403.9,
+        "start_index": 503,
+        "end_index": 535,
+        "average_cadence": 84.4,
+        "device_watts": false,
+        "segment": {
+          "id": 7115759,
+          "resource_state": 2,
+          "name": "Herbert St Hill",
+          "activity_type": "Run",
+          "distance": 403.9,
+          "average_grade": 2.4,
+          "maximum_grade": 5.8,
+          "elevation_high": 21.2,
+          "elevation_low": 9.3,
+          "start_latlng": [
+            -38.000468,
+            145.076712
+          ],
+          "end_latlng": [
+            -37.996877,
+            145.0774
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2745566362206363000,
+        "resource_state": 2,
+        "name": "Herbert St Hill (short version)",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 44,
+        "moving_time": 42,
+        "start_date": "2020-09-28T07:32:36Z",
+        "start_date_local": "2020-09-28T17:32:36Z",
+        "distance": 110.0,
+        "start_index": 514,
+        "end_index": 524,
+        "average_cadence": 84.3,
+        "device_watts": false,
+        "segment": {
+          "id": 10760899,
+          "resource_state": 2,
+          "name": "Herbert St Hill (short version)",
+          "activity_type": "Run",
+          "distance": 110.0,
+          "average_grade": 3.2,
+          "maximum_grade": 4.8,
+          "elevation_high": 15.0,
+          "elevation_low": 11.5,
+          "start_latlng": [
+            -37.998999,
+            145.07701
+          ],
+          "end_latlng": [
+            -37.998014,
+            145.077155
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1007.0,
+        "elapsed_time": 370,
+        "elevation_difference": -11.8,
+        "moving_time": 361,
+        "split": 1,
+        "average_speed": 2.79,
+        "average_grade_adjusted_speed": 2.75,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.0,
+        "elapsed_time": 318,
+        "elevation_difference": 0.6,
+        "moving_time": 310,
+        "split": 2,
+        "average_speed": 3.21,
+        "average_grade_adjusted_speed": 3.23,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.6,
+        "elapsed_time": 349,
+        "elevation_difference": 11.2,
+        "moving_time": 335,
+        "split": 3,
+        "average_speed": 2.98,
+        "average_grade_adjusted_speed": 3.07,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.5,
+        "elapsed_time": 370,
+        "elevation_difference": -3.0,
+        "moving_time": 365,
+        "split": 4,
+        "average_speed": 2.74,
+        "average_grade_adjusted_speed": 2.77,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.3,
+        "elapsed_time": 369,
+        "elevation_difference": 0.0,
+        "moving_time": 369,
+        "split": 5,
+        "average_speed": 2.71,
+        "average_grade_adjusted_speed": 2.77,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.8,
+        "elapsed_time": 329,
+        "elevation_difference": -5.0,
+        "moving_time": 329,
+        "split": 6,
+        "average_speed": 3.03,
+        "average_grade_adjusted_speed": 3.01,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.9,
+        "elapsed_time": 345,
+        "elevation_difference": 5.8,
+        "moving_time": 342,
+        "split": 7,
+        "average_speed": 2.93,
+        "average_grade_adjusted_speed": 3.02,
+        "pace_zone": 0
+      },
+      {
+        "distance": 655.7,
+        "elapsed_time": 252,
+        "elevation_difference": 3.4,
+        "moving_time": 245,
+        "split": 8,
+        "average_speed": 2.68,
+        "average_grade_adjusted_speed": 2.77,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1609.5,
+        "elapsed_time": 569,
+        "elevation_difference": -11.4,
+        "moving_time": 552,
+        "split": 1,
+        "average_speed": 2.92,
+        "average_grade_adjusted_speed": 2.9,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1614.7,
+        "elapsed_time": 551,
+        "elevation_difference": 4.0,
+        "moving_time": 537,
+        "split": 2,
+        "average_speed": 3.01,
+        "average_grade_adjusted_speed": 3.03,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1612.0,
+        "elapsed_time": 594,
+        "elevation_difference": 7.8,
+        "moving_time": 589,
+        "split": 3,
+        "average_speed": 2.74,
+        "average_grade_adjusted_speed": 2.83,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.5,
+        "elapsed_time": 537,
+        "elevation_difference": -13.2,
+        "moving_time": 534,
+        "split": 4,
+        "average_speed": 3.01,
+        "average_grade_adjusted_speed": 2.97,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1212.1,
+        "elapsed_time": 451,
+        "elevation_difference": 14.0,
+        "moving_time": 444,
+        "split": 5,
+        "average_speed": 2.73,
+        "average_grade_adjusted_speed": 2.87,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 13500323505,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 2702,
+        "moving_time": 2656,
+        "start_date": "2020-09-28T06:54:32Z",
+        "start_date_local": "2020-09-28T16:54:32Z",
+        "distance": 7657.8,
+        "average_speed": 2.88,
+        "max_speed": 5.1,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 619,
+        "total_elevation_gain": 67.6,
+        "average_cadence": 83.4,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941302,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 113,
+        "moving_time": 113,
+        "start_date": "2020-09-28T07:05:29Z",
+        "start_date_local": "2020-09-28T17:05:29Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 163,
+        "end_index": 187
+      },
+      {
+        "id": 29111941441,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 247,
+        "moving_time": 247,
+        "start_date": "2020-09-28T07:02:38Z",
+        "start_date_local": "2020-09-28T17:02:38Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 125,
+        "end_index": 179
+      },
+      {
+        "id": 29111941567,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 305,
+        "moving_time": 305,
+        "start_date": "2020-09-28T07:02:11Z",
+        "start_date_local": "2020-09-28T17:02:11Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 118,
+        "end_index": 186
+      },
+      {
+        "id": 29111941703,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 516,
+        "moving_time": 516,
+        "start_date": "2020-09-28T06:59:15Z",
+        "start_date_local": "2020-09-28T16:59:15Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 65,
+        "end_index": 192
+      },
+      {
+        "id": 29111941835,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1103,
+        "moving_time": 1103,
+        "start_date": "2020-09-28T06:57:45Z",
+        "start_date_local": "2020-09-28T16:57:45Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 48,
+        "end_index": 302
+      },
+      {
+        "id": 29111941938,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 4122570363,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1725,
+        "moving_time": 1725,
+        "start_date": "2020-09-28T07:01:37Z",
+        "start_date_local": "2020-09-28T17:01:37Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 106,
+        "end_index": 481
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin v\u00edvoactive 3",
+    "embed_token": "1c8c9e6eb5c830a9c4a0a0fd27ea4819695e9dfe",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.883207831325301,
+      "min_average_speed": 2.883207831325301,
+      "mid_average_speed": 2.883207831325301,
+      "max_average_speed": 2.883207831325301,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.883207831325301
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.883207831325301,
+        "mid_speed": 2.883207831325301,
+        "max_speed": 2.883207831325301,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

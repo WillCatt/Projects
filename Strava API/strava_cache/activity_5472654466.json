@@ -1,0 +1,565 @@
+{
+  "cached_at": "2025-10-06T18:17:04.714193",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Evening Run",
+    "distance": 3999.5,
+    "moving_time": 1400,
+    "elapsed_time": 3357,
+    "total_elevation_gain": 32.6,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 5472654466,
+    "start_date": "2021-06-15T08:24:29Z",
+    "start_date_local": "2021-06-15T18:24:29Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 1,
+    "kudos_count": 3,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a5472654466",
+      "polyline": "de}eFkq_tZKD@MCEEDEAKECCi@IKAw@Js@UaAO_@Ca@M]A[Ss@s@SMYGGE?GD?C[Dc@AWIEw@@EAEIEK?OHmA?e@QqAGkA\\gBt@{APSVQNGP?h@DPJ\\\\JPb@nAT|A@zACn@EROh@S^QRg@RQBw@IkAq@SUQ[UoAGiA@_@XiA^s@LYPUj@e@XI\\CTFZVNVf@bB\\fBAfAGz@_@lAMJi@X[Hq@?{@e@_@]]u@U}@C[?sAHk@FU\\m@Xm@LSZYVKXC`@DTLXZp@pBTzAEbBIp@Sl@OV]XYJSBa@?QCo@]a@YU[Oa@Os@Ee@A_AD_@Nq@Zo@f@y@f@a@XMPAr@DpCf@rAJv@A`@F\\@VF`BRp@?r@Dh@Nb@FrABnAZ`AFLBFFDRAxAGj@MjDYvCEt@CtCCZCLIHSFqAB}AQoAQy@EgASIAICKACD?d@Ev@CDa@SHHIMJNKMJLIKHJMMBBIEDBCA?@DAKATLIGACJHGCAE",
+      "resource_state": 3,
+      "summary_polyline": "de}eFkq_tZKD@MCEEDEAKECCi@IKAw@Js@UaAO_@Ca@M]A[Ss@s@SMYGGE?GD?C[Dc@AWIEw@@EAEIEK?OHmA?e@QqAGkA\\gBt@{APSVQNGH?R?\\DPJ\\\\JPb@nAT|A@zACn@EROh@S^QRg@RQBw@IkAq@SUQ[UoAGiA@_@XiA^s@HST[j@e@XI\\CTFZVP^d@zA\\fBAfAGz@_@lAMJe@X_@Hq@?u@a@e@a@]u@U}@C[?sAHk@FU\\m@Xm@LSZYVKXC`@DTLXZp@pBTzAEbBIp@Sl@OV]XYJSBa@?QCo@]a@YU[Oa@Os@Ee@A_AD_@Nq@Zo@f@y@f@a@XMPAr@DpCf@rAJv@A`@F\\@VF`BRp@?r@Dh@Nb@FrABnAZ`AFLBFFDRAxAGj@MjDYvCEt@CtCCZCLIHSFqAB}AQoAQy@EgASIAICKACD?d@Ev@CDa@SHHIMJNKMJLIKHJMMBBIEDBCA?@DAKATLIGACJHGCAE"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.837782,
+      145.001342
+    ],
+    "end_latlng": [
+      -37.837672,
+      145.000837
+    ],
+    "average_speed": 2.857,
+    "max_speed": 5.3,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 32.7,
+    "elev_low": 12.7,
+    "upload_id": 5825953240,
+    "upload_id_str": "5825953240",
+    "external_id": "2ceffcdd-3d79-4053-bbb7-22ca598bfa4f-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [
+      {
+        "id": 2839812468441884668,
+        "resource_state": 2,
+        "name": "Como Clockwise",
+        "activity": {
+          "id": 5472654466,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 219,
+        "moving_time": 210,
+        "start_date": "2021-06-15T08:27:55Z",
+        "start_date_local": "2021-06-15T18:27:55Z",
+        "distance": 527.0,
+        "start_index": 169,
+        "end_index": 347,
+        "device_watts": false,
+        "segment": {
+          "id": 8578282,
+          "resource_state": 2,
+          "name": "Como Clockwise",
+          "activity_type": "Run",
+          "distance": 527.0,
+          "average_grade": -0.0,
+          "maximum_grade": 8.3,
+          "elevation_high": 27.0,
+          "elevation_low": 11.0,
+          "start_latlng": [
+            -37.835021,
+            145.004173
+          ],
+          "end_latlng": [
+            -37.835006,
+            145.004186
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "South Yarra",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2839812468441734140,
+        "resource_state": 2,
+        "name": "Como Clockwise",
+        "activity": {
+          "id": 5472654466,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 219,
+        "moving_time": 215,
+        "start_date": "2021-06-15T08:31:34Z",
+        "start_date_local": "2021-06-15T18:31:34Z",
+        "distance": 527.0,
+        "start_index": 347,
+        "end_index": 529,
+        "device_watts": false,
+        "segment": {
+          "id": 8578282,
+          "resource_state": 2,
+          "name": "Como Clockwise",
+          "activity_type": "Run",
+          "distance": 527.0,
+          "average_grade": -0.0,
+          "maximum_grade": 8.3,
+          "elevation_high": 27.0,
+          "elevation_low": 11.0,
+          "start_latlng": [
+            -37.835021,
+            145.004173
+          ],
+          "end_latlng": [
+            -37.835006,
+            145.004186
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "South Yarra",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2839812468441190396,
+        "resource_state": 2,
+        "name": "Como Clockwise",
+        "activity": {
+          "id": 5472654466,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 215,
+        "moving_time": 206,
+        "start_date": "2021-06-15T08:35:12Z",
+        "start_date_local": "2021-06-15T18:35:12Z",
+        "distance": 527.0,
+        "start_index": 528,
+        "end_index": 706,
+        "device_watts": false,
+        "segment": {
+          "id": 8578282,
+          "resource_state": 2,
+          "name": "Como Clockwise",
+          "activity_type": "Run",
+          "distance": 527.0,
+          "average_grade": -0.0,
+          "maximum_grade": 8.3,
+          "elevation_high": 27.0,
+          "elevation_low": 11.0,
+          "start_latlng": [
+            -37.835021,
+            145.004173
+          ],
+          "end_latlng": [
+            -37.835006,
+            145.004186
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "South Yarra",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2839812468439378940,
+        "resource_state": 2,
+        "name": "Williams Rd Climb",
+        "activity": {
+          "id": 5472654466,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 208,
+        "moving_time": 204,
+        "start_date": "2021-06-15T08:39:29Z",
+        "start_date_local": "2021-06-15T18:39:29Z",
+        "distance": 579.1,
+        "start_index": 743,
+        "end_index": 915,
+        "device_watts": false,
+        "segment": {
+          "id": 7913795,
+          "resource_state": 2,
+          "name": "Williams Rd Climb",
+          "activity_type": "Run",
+          "distance": 579.1,
+          "average_grade": 2.2,
+          "maximum_grade": 9.6,
+          "elevation_high": 31.5,
+          "elevation_low": 13.0,
+          "start_latlng": [
+            -37.835314,
+            145.005416
+          ],
+          "end_latlng": [
+            -37.840445,
+            145.004575
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": null,
+          "country": null,
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1003.7,
+        "elapsed_time": 370,
+        "elevation_difference": -13.1,
+        "moving_time": 367,
+        "split": 1,
+        "average_speed": 2.73,
+        "average_grade_adjusted_speed": 2.79,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.3,
+        "elapsed_time": 339,
+        "elevation_difference": 1.1,
+        "moving_time": 339,
+        "split": 2,
+        "average_speed": 2.94,
+        "average_grade_adjusted_speed": 2.96,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.5,
+        "elapsed_time": 345,
+        "elevation_difference": 18.4,
+        "moving_time": 345,
+        "split": 3,
+        "average_speed": 2.9,
+        "average_grade_adjusted_speed": 3.1,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.0,
+        "elapsed_time": 2303,
+        "elevation_difference": -6.0,
+        "moving_time": 349,
+        "split": 4,
+        "average_speed": 2.86,
+        "average_grade_adjusted_speed": 2.84,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1617.0,
+        "elapsed_time": 579,
+        "elevation_difference": -12.8,
+        "moving_time": 576,
+        "split": 1,
+        "average_speed": 2.81,
+        "average_grade_adjusted_speed": 2.85,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1605.4,
+        "elapsed_time": 558,
+        "elevation_difference": 13.3,
+        "moving_time": 558,
+        "split": 2,
+        "average_speed": 2.88,
+        "average_grade_adjusted_speed": 2.99,
+        "pace_zone": 0
+      },
+      {
+        "distance": 777.1,
+        "elapsed_time": 2220,
+        "elevation_difference": -0.1,
+        "moving_time": 266,
+        "split": 3,
+        "average_speed": 2.92,
+        "average_grade_adjusted_speed": 2.94,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 17806098689,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 5472654466,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 3372,
+        "moving_time": 3360,
+        "start_date": "2021-06-15T08:24:29Z",
+        "start_date_local": "2021-06-15T18:24:29Z",
+        "distance": 3999.53,
+        "average_speed": 1.19,
+        "max_speed": 5.3,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1404,
+        "total_elevation_gain": 41.7,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941341,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 5472654466,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 131,
+        "moving_time": 131,
+        "start_date": "2021-06-15T08:28:04Z",
+        "start_date_local": "2021-06-15T18:28:04Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 175,
+        "end_index": 283
+      },
+      {
+        "id": 29111941467,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 5472654466,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 267,
+        "moving_time": 267,
+        "start_date": "2021-06-15T08:35:31Z",
+        "start_date_local": "2021-06-15T18:35:31Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 543,
+        "end_index": 767
+      },
+      {
+        "id": 29111941597,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 5472654466,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 334,
+        "moving_time": 334,
+        "start_date": "2021-06-15T08:34:24Z",
+        "start_date_local": "2021-06-15T18:34:24Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 489,
+        "end_index": 767
+      },
+      {
+        "id": 29111941723,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 5472654466,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 543,
+        "moving_time": 543,
+        "start_date": "2021-06-15T08:31:46Z",
+        "start_date_local": "2021-06-15T18:31:46Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 357,
+        "end_index": 808
+      },
+      {
+        "id": 29111941833,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 5472654466,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1100,
+        "moving_time": 1100,
+        "start_date": "2021-06-15T08:27:21Z",
+        "start_date_local": "2021-06-15T18:27:21Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 141,
+        "end_index": 1052
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava Android App",
+    "embed_token": "97427f8e16d2af7c75476e7dfa2d54ce3c74805c",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.8567857142857145,
+      "min_average_speed": 2.8567857142857145,
+      "mid_average_speed": 2.8567857142857145,
+      "max_average_speed": 2.8567857142857145,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.8567857142857145
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.8567857142857145,
+        "mid_speed": 2.8567857142857145,
+        "max_speed": 2.8567857142857145,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

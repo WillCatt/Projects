@@ -1,0 +1,1468 @@
+{
+  "cached_at": "2025-10-06T17:15:22.589353",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Morning Run",
+    "distance": 4347.3,
+    "moving_time": 1605,
+    "elapsed_time": 1614,
+    "total_elevation_gain": 29.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 9364917311,
+    "start_date": "2023-06-30T22:58:41Z",
+    "start_date_local": "2023-07-01T08:58:41Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 1,
+    "kudos_count": 2,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a9364917311",
+      "polyline": "xh{fFqxotZA^DBA\\U`CEnAMtBKf@oBr@UDi@VUZUTeAl@Ut@QJCHEN[~@oEdBqAp@UN_@\\k@p@wAfAm@t@i@b@eBdBwCjCgAjAaBpAyAzAq@j@y@l@WZy@r@KNNf@`@v@FpAMd@SXUf@Cn@Jj@rChE^Jb@ENG\\e@Hk@Iq@]m@qB{Cg@Uc@F_@XUv@?JFb@|BvDZ`@FD`@Fh@QZg@Dm@Gk@_@q@mBmC]Ym@B]XQh@AX@TDPrBpDZ`@b@Jd@G`@a@Pm@Cg@Se@iBqCc@g@a@MK@e@VYh@Ap@Ld@hB|C`@h@FBd@D`@OHGRa@Fo@Ig@eAiBeA}A_@SE?c@J_@`@Mj@?RF\\Rf@xBlDFF^Df@OZc@FWB]Kk@{@}AcA}A][k@?_@TSVGVAj@Ld@x@vAhAdBJJ`@Ld@I^c@Lu@Go@Se@gC_EOOUc@IYBs@GC",
+      "resource_state": 3,
+      "summary_polyline": "xh{fFqxotZA^DBA\\U`CEnAMtBKf@oBr@UDi@VUZUTeAl@Ut@QJCHEN[~@oEdBqAp@UN_@\\k@p@wAfAm@t@i@b@eBdBwCjCgAjAaBpAyAzAq@j@y@l@WZy@r@KNNf@`@v@FpAMd@SXUf@Cn@Jj@rChE^Jb@ENG\\e@Hk@Iq@]m@qB{Cg@Uc@F_@XUv@?JFb@|BvDZ`@FD`@Fh@QZg@Dm@Gk@_@q@mBmC]Ym@B]XQh@AX@TDPrBpDZ`@b@Jd@G`@a@Pm@Cg@Se@iBqCc@g@a@MK@e@VYh@Ap@Ld@hB|C`@h@FBd@D`@OHGRa@Fo@Ig@eAiBeA}A_@SE?c@J_@`@Mj@?RF\\Rf@xBlDFF^Df@OZc@FWB]Kk@{@}AcA}A][k@?_@TSVGVAj@Ld@x@vAhAdBJJ`@Ld@I^c@Lu@Go@Se@gC_EOOUc@IYBs@GC"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.99196527339518,
+      145.08441514335573
+    ],
+    "end_latlng": [
+      -37.98375863581896,
+      145.0747586041689
+    ],
+    "average_speed": 2.709,
+    "max_speed": 4.337,
+    "average_cadence": 86.2,
+    "average_temp": 21,
+    "has_heartrate": true,
+    "average_heartrate": 157.7,
+    "max_heartrate": 173.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 29.4,
+    "elev_low": 17.6,
+    "upload_id": 10044976206,
+    "upload_id_str": "10044976206",
+    "external_id": "garmin_ping_282212995599",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "Can\u2019t escape shin splints \ud83e\udee0",
+    "calories": 316.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [
+      {
+        "id": 3110004210069702296,
+        "resource_state": 2,
+        "name": "7th to 2nd St Nepean Hwy Parkdale",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 198,
+        "moving_time": 198,
+        "start_date": "2023-06-30T23:03:49Z",
+        "start_date_local": "2023-07-01T09:03:49Z",
+        "distance": 533.4,
+        "start_index": 82,
+        "end_index": 124,
+        "average_cadence": 86.2,
+        "device_watts": false,
+        "average_heartrate": 154.8,
+        "max_heartrate": 161.0,
+        "segment": {
+          "id": 14817345,
+          "resource_state": 2,
+          "name": "7th to 2nd St Nepean Hwy Parkdale",
+          "activity_type": "Run",
+          "distance": 533.4,
+          "average_grade": 0.2,
+          "maximum_grade": 2.8,
+          "elevation_high": 26.0,
+          "elevation_low": 23.6,
+          "start_latlng": [
+            -37.9874,
+            145.078923
+          ],
+          "end_latlng": [
+            -37.983585,
+            145.075253
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210070357656,
+        "resource_state": 2,
+        "name": "1500m Mentone Athletics Track",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 642,
+        "moving_time": 642,
+        "start_date": "2023-06-30T23:08:21Z",
+        "start_date_local": "2023-07-01T09:08:21Z",
+        "distance": 1528.6,
+        "start_index": 141,
+        "end_index": 266,
+        "average_cadence": 85.8,
+        "device_watts": false,
+        "average_heartrate": 158.7,
+        "max_heartrate": 163.0,
+        "segment": {
+          "id": 10384980,
+          "resource_state": 2,
+          "name": "1500m Mentone Athletics Track",
+          "activity_type": "Run",
+          "distance": 1528.6,
+          "average_grade": -0.1,
+          "maximum_grade": 2.6,
+          "elevation_high": 21.6,
+          "elevation_low": 19.8,
+          "start_latlng": [
+            -37.983515,
+            145.073459
+          ],
+          "end_latlng": [
+            -37.984162,
+            145.07362
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210067938968,
+        "resource_state": 2,
+        "name": "Back straight 400m Mentone Athletic Track",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 172,
+        "moving_time": 172,
+        "start_date": "2023-06-30T23:09:02Z",
+        "start_date_local": "2023-07-01T09:09:02Z",
+        "distance": 394.5,
+        "start_index": 148,
+        "end_index": 181,
+        "average_cadence": 85.4,
+        "device_watts": false,
+        "average_heartrate": 158.4,
+        "max_heartrate": 161.0,
+        "segment": {
+          "id": 31142401,
+          "resource_state": 2,
+          "name": "Back straight 400m Mentone Athletic Track",
+          "activity_type": "Run",
+          "distance": 394.5,
+          "average_grade": 0.1,
+          "maximum_grade": 4.9,
+          "elevation_high": 24.4,
+          "elevation_low": 20.6,
+          "start_latlng": [
+            -37.984154,
+            145.072566
+          ],
+          "end_latlng": [
+            -37.984193,
+            145.072575
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210070699672,
+        "resource_state": 2,
+        "name": "400m Mentone Athletics Track",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 176,
+        "moving_time": 176,
+        "start_date": "2023-06-30T23:10:23Z",
+        "start_date_local": "2023-07-01T09:10:23Z",
+        "distance": 409.6,
+        "start_index": 165,
+        "end_index": 197,
+        "average_cadence": 85.4,
+        "device_watts": false,
+        "average_heartrate": 157.8,
+        "max_heartrate": 161.0,
+        "segment": {
+          "id": 10384497,
+          "resource_state": 2,
+          "name": "400m Mentone Athletics Track",
+          "activity_type": "Run",
+          "distance": 409.6,
+          "average_grade": -0.0,
+          "maximum_grade": 1.6,
+          "elevation_high": 44.8,
+          "elevation_low": 43.6,
+          "start_latlng": [
+            -37.984147,
+            145.073547
+          ],
+          "end_latlng": [
+            -37.984135,
+            145.073562
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210066863768,
+        "resource_state": 2,
+        "name": "200m Back Straight ",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 83,
+        "moving_time": 83,
+        "start_date": "2023-06-30T23:10:31Z",
+        "start_date_local": "2023-07-01T09:10:31Z",
+        "distance": 208.3,
+        "start_index": 166,
+        "end_index": 181,
+        "average_cadence": 85.2,
+        "device_watts": false,
+        "average_heartrate": 158.9,
+        "max_heartrate": 161.0,
+        "segment": {
+          "id": 11129485,
+          "resource_state": 2,
+          "name": "200m Back Straight ",
+          "activity_type": "Run",
+          "distance": 208.3,
+          "average_grade": -0.1,
+          "maximum_grade": 1.4,
+          "elevation_high": 23.5,
+          "elevation_low": 22.2,
+          "start_latlng": [
+            -37.984141,
+            145.073741
+          ],
+          "end_latlng": [
+            -37.984125,
+            145.072575
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210070148760,
+        "resource_state": 2,
+        "name": "Back straight 400m Mentone Athletic Track",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 175,
+        "moving_time": 175,
+        "start_date": "2023-06-30T23:11:54Z",
+        "start_date_local": "2023-07-01T09:11:54Z",
+        "distance": 394.5,
+        "start_index": 181,
+        "end_index": 215,
+        "average_cadence": 85.9,
+        "device_watts": false,
+        "average_heartrate": 156.9,
+        "max_heartrate": 160.0,
+        "segment": {
+          "id": 31142401,
+          "resource_state": 2,
+          "name": "Back straight 400m Mentone Athletic Track",
+          "activity_type": "Run",
+          "distance": 394.5,
+          "average_grade": 0.1,
+          "maximum_grade": 4.9,
+          "elevation_high": 24.4,
+          "elevation_low": 20.6,
+          "start_latlng": [
+            -37.984154,
+            145.072566
+          ],
+          "end_latlng": [
+            -37.984193,
+            145.072575
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210068705944,
+        "resource_state": 2,
+        "name": "400m Mentone Athletics Track",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 171,
+        "moving_time": 171,
+        "start_date": "2023-06-30T23:13:19Z",
+        "start_date_local": "2023-07-01T09:13:19Z",
+        "distance": 409.6,
+        "start_index": 197,
+        "end_index": 232,
+        "average_cadence": 85.9,
+        "device_watts": false,
+        "average_heartrate": 158.7,
+        "max_heartrate": 162.0,
+        "segment": {
+          "id": 10384497,
+          "resource_state": 2,
+          "name": "400m Mentone Athletics Track",
+          "activity_type": "Run",
+          "distance": 409.6,
+          "average_grade": -0.0,
+          "maximum_grade": 1.6,
+          "elevation_high": 44.8,
+          "elevation_low": 43.6,
+          "start_latlng": [
+            -37.984147,
+            145.073547
+          ],
+          "end_latlng": [
+            -37.984135,
+            145.073562
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210066902680,
+        "resource_state": 2,
+        "name": "200m Back Straight ",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 85,
+        "moving_time": 85,
+        "start_date": "2023-06-30T23:13:21Z",
+        "start_date_local": "2023-07-01T09:13:21Z",
+        "distance": 208.3,
+        "start_index": 198,
+        "end_index": 214,
+        "average_cadence": 86.4,
+        "device_watts": false,
+        "average_heartrate": 157.2,
+        "max_heartrate": 160.0,
+        "segment": {
+          "id": 11129485,
+          "resource_state": 2,
+          "name": "200m Back Straight ",
+          "activity_type": "Run",
+          "distance": 208.3,
+          "average_grade": -0.1,
+          "maximum_grade": 1.4,
+          "elevation_high": 23.5,
+          "elevation_low": 22.2,
+          "start_latlng": [
+            -37.984141,
+            145.073741
+          ],
+          "end_latlng": [
+            -37.984125,
+            145.072575
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210069213848,
+        "resource_state": 2,
+        "name": "Back straight 400m Mentone Athletic Track",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 171,
+        "moving_time": 171,
+        "start_date": "2023-06-30T23:14:46Z",
+        "start_date_local": "2023-07-01T09:14:46Z",
+        "distance": 394.5,
+        "start_index": 214,
+        "end_index": 249,
+        "average_cadence": 85.6,
+        "device_watts": false,
+        "average_heartrate": 160.7,
+        "max_heartrate": 163.0,
+        "segment": {
+          "id": 31142401,
+          "resource_state": 2,
+          "name": "Back straight 400m Mentone Athletic Track",
+          "activity_type": "Run",
+          "distance": 394.5,
+          "average_grade": 0.1,
+          "maximum_grade": 4.9,
+          "elevation_high": 24.4,
+          "elevation_low": 20.6,
+          "start_latlng": [
+            -37.984154,
+            145.072566
+          ],
+          "end_latlng": [
+            -37.984193,
+            145.072575
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210068777624,
+        "resource_state": 2,
+        "name": "400m Mentone Athletics Track",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 173,
+        "moving_time": 173,
+        "start_date": "2023-06-30T23:16:10Z",
+        "start_date_local": "2023-07-01T09:16:10Z",
+        "distance": 409.6,
+        "start_index": 232,
+        "end_index": 266,
+        "average_cadence": 85.8,
+        "device_watts": false,
+        "average_heartrate": 160.8,
+        "max_heartrate": 163.0,
+        "segment": {
+          "id": 10384497,
+          "resource_state": 2,
+          "name": "400m Mentone Athletics Track",
+          "activity_type": "Run",
+          "distance": 409.6,
+          "average_grade": -0.0,
+          "maximum_grade": 1.6,
+          "elevation_high": 44.8,
+          "elevation_low": 43.6,
+          "start_latlng": [
+            -37.984147,
+            145.073547
+          ],
+          "end_latlng": [
+            -37.984135,
+            145.073562
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210067191448,
+        "resource_state": 2,
+        "name": "200m Back Straight ",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 83,
+        "moving_time": 83,
+        "start_date": "2023-06-30T23:16:14Z",
+        "start_date_local": "2023-07-01T09:16:14Z",
+        "distance": 208.3,
+        "start_index": 233,
+        "end_index": 249,
+        "average_cadence": 85.8,
+        "device_watts": false,
+        "average_heartrate": 161.2,
+        "max_heartrate": 163.0,
+        "segment": {
+          "id": 11129485,
+          "resource_state": 2,
+          "name": "200m Back Straight ",
+          "activity_type": "Run",
+          "distance": 208.3,
+          "average_grade": -0.1,
+          "maximum_grade": 1.4,
+          "elevation_high": 23.5,
+          "elevation_low": 22.2,
+          "start_latlng": [
+            -37.984141,
+            145.073741
+          ],
+          "end_latlng": [
+            -37.984125,
+            145.072575
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210067758744,
+        "resource_state": 2,
+        "name": "Back straight 400m Mentone Athletic Track",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 168,
+        "moving_time": 168,
+        "start_date": "2023-06-30T23:17:37Z",
+        "start_date_local": "2023-07-01T09:17:37Z",
+        "distance": 394.5,
+        "start_index": 249,
+        "end_index": 282,
+        "average_cadence": 86.1,
+        "device_watts": false,
+        "average_heartrate": 162.3,
+        "max_heartrate": 169.0,
+        "segment": {
+          "id": 31142401,
+          "resource_state": 2,
+          "name": "Back straight 400m Mentone Athletic Track",
+          "activity_type": "Run",
+          "distance": 394.5,
+          "average_grade": 0.1,
+          "maximum_grade": 4.9,
+          "elevation_high": 24.4,
+          "elevation_low": 20.6,
+          "start_latlng": [
+            -37.984154,
+            145.072566
+          ],
+          "end_latlng": [
+            -37.984193,
+            145.072575
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210067643032,
+        "resource_state": 2,
+        "name": "400m Mentone Athletics Track",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 166,
+        "moving_time": 166,
+        "start_date": "2023-06-30T23:19:03Z",
+        "start_date_local": "2023-07-01T09:19:03Z",
+        "distance": 409.6,
+        "start_index": 266,
+        "end_index": 296,
+        "average_cadence": 86.6,
+        "device_watts": false,
+        "average_heartrate": 164.7,
+        "max_heartrate": 169.0,
+        "segment": {
+          "id": 10384497,
+          "resource_state": 2,
+          "name": "400m Mentone Athletics Track",
+          "activity_type": "Run",
+          "distance": 409.6,
+          "average_grade": -0.0,
+          "maximum_grade": 1.6,
+          "elevation_high": 44.8,
+          "elevation_low": 43.6,
+          "start_latlng": [
+            -37.984147,
+            145.073547
+          ],
+          "end_latlng": [
+            -37.984135,
+            145.073562
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210067139224,
+        "resource_state": 2,
+        "name": "200m Back Straight ",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 74,
+        "moving_time": 74,
+        "start_date": "2023-06-30T23:19:11Z",
+        "start_date_local": "2023-07-01T09:19:11Z",
+        "distance": 208.3,
+        "start_index": 267,
+        "end_index": 282,
+        "average_cadence": 86.4,
+        "device_watts": false,
+        "average_heartrate": 164.5,
+        "max_heartrate": 169.0,
+        "segment": {
+          "id": 11129485,
+          "resource_state": 2,
+          "name": "200m Back Straight ",
+          "activity_type": "Run",
+          "distance": 208.3,
+          "average_grade": -0.1,
+          "maximum_grade": 1.4,
+          "elevation_high": 23.5,
+          "elevation_low": 22.2,
+          "start_latlng": [
+            -37.984141,
+            145.073741
+          ],
+          "end_latlng": [
+            -37.984125,
+            145.072575
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210069486232,
+        "resource_state": 2,
+        "name": "Back straight 400m Mentone Athletic Track",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 168,
+        "moving_time": 168,
+        "start_date": "2023-06-30T23:20:25Z",
+        "start_date_local": "2023-07-01T09:20:25Z",
+        "distance": 394.5,
+        "start_index": 282,
+        "end_index": 313,
+        "average_cadence": 86.9,
+        "device_watts": false,
+        "average_heartrate": 166.0,
+        "max_heartrate": 170.0,
+        "segment": {
+          "id": 31142401,
+          "resource_state": 2,
+          "name": "Back straight 400m Mentone Athletic Track",
+          "activity_type": "Run",
+          "distance": 394.5,
+          "average_grade": 0.1,
+          "maximum_grade": 4.9,
+          "elevation_high": 24.4,
+          "elevation_low": 20.6,
+          "start_latlng": [
+            -37.984154,
+            145.072566
+          ],
+          "end_latlng": [
+            -37.984193,
+            145.072575
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210068950680,
+        "resource_state": 2,
+        "name": "400m Mentone Athletics Track",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 165,
+        "moving_time": 165,
+        "start_date": "2023-06-30T23:21:49Z",
+        "start_date_local": "2023-07-01T09:21:49Z",
+        "distance": 409.6,
+        "start_index": 296,
+        "end_index": 330,
+        "average_cadence": 86.7,
+        "device_watts": false,
+        "average_heartrate": 166.3,
+        "max_heartrate": 170.0,
+        "segment": {
+          "id": 10384497,
+          "resource_state": 2,
+          "name": "400m Mentone Athletics Track",
+          "activity_type": "Run",
+          "distance": 409.6,
+          "average_grade": -0.0,
+          "maximum_grade": 1.6,
+          "elevation_high": 44.8,
+          "elevation_low": 43.6,
+          "start_latlng": [
+            -37.984147,
+            145.073547
+          ],
+          "end_latlng": [
+            -37.984135,
+            145.073562
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3110004210067597976,
+        "resource_state": 2,
+        "name": "200m Back Straight ",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 84,
+        "moving_time": 84,
+        "start_date": "2023-06-30T23:21:49Z",
+        "start_date_local": "2023-07-01T09:21:49Z",
+        "distance": 208.3,
+        "start_index": 296,
+        "end_index": 313,
+        "average_cadence": 86.8,
+        "device_watts": false,
+        "average_heartrate": 166.8,
+        "max_heartrate": 170.0,
+        "segment": {
+          "id": 11129485,
+          "resource_state": 2,
+          "name": "200m Back Straight ",
+          "activity_type": "Run",
+          "distance": 208.3,
+          "average_grade": -0.1,
+          "maximum_grade": 1.4,
+          "elevation_high": 23.5,
+          "elevation_low": 22.2,
+          "start_latlng": [
+            -37.984141,
+            145.073741
+          ],
+          "end_latlng": [
+            -37.984125,
+            145.072575
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1003.0,
+        "elapsed_time": 385,
+        "elevation_difference": 11.0,
+        "moving_time": 380,
+        "split": 1,
+        "average_speed": 2.64,
+        "average_grade_adjusted_speed": 2.73,
+        "average_heartrate": 148.74142480211083,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.4,
+        "elapsed_time": 365,
+        "elevation_difference": -4.0,
+        "moving_time": 365,
+        "split": 2,
+        "average_speed": 2.73,
+        "average_grade_adjusted_speed": 2.73,
+        "average_heartrate": 156.6958904109589,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.6,
+        "elapsed_time": 363,
+        "elevation_difference": -2.2,
+        "moving_time": 363,
+        "split": 3,
+        "average_speed": 2.76,
+        "average_grade_adjusted_speed": 2.75,
+        "average_heartrate": 158.68870523415978,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.0,
+        "elapsed_time": 359,
+        "elevation_difference": -0.2,
+        "moving_time": 359,
+        "split": 4,
+        "average_speed": 2.79,
+        "average_grade_adjusted_speed": 2.8,
+        "average_heartrate": 163.94707520891365,
+        "pace_zone": 0
+      },
+      {
+        "distance": 346.3,
+        "elapsed_time": 142,
+        "elevation_difference": 3.8,
+        "moving_time": 138,
+        "split": 5,
+        "average_speed": 2.51,
+        "average_grade_adjusted_speed": 2.64,
+        "average_heartrate": 166.34782608695653,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1626.3,
+        "elapsed_time": 617,
+        "elevation_difference": 6.8,
+        "moving_time": 612,
+        "split": 1,
+        "average_speed": 2.66,
+        "average_grade_adjusted_speed": 2.71,
+        "average_heartrate": 151.44517184942717,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1605.0,
+        "elapsed_time": 581,
+        "elevation_difference": -0.6,
+        "moving_time": 581,
+        "split": 2,
+        "average_speed": 2.76,
+        "average_grade_adjusted_speed": 2.77,
+        "average_heartrate": 158.83993115318415,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1116.0,
+        "elapsed_time": 416,
+        "elevation_difference": 2.2,
+        "moving_time": 412,
+        "split": 3,
+        "average_speed": 2.71,
+        "average_grade_adjusted_speed": 2.75,
+        "average_heartrate": 165.4490291262136,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 31946769517,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 380,
+        "moving_time": 380,
+        "start_date": "2023-06-30T22:58:41Z",
+        "start_date_local": "2023-07-01T08:58:41Z",
+        "distance": 1000.0,
+        "average_speed": 2.63,
+        "max_speed": 4.337,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 98,
+        "total_elevation_gain": 11.6,
+        "average_cadence": 86.7,
+        "device_watts": false,
+        "average_heartrate": 148.7,
+        "max_heartrate": 161.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 31946769518,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 365,
+        "moving_time": 365,
+        "start_date": "2023-06-30T23:05:09Z",
+        "start_date_local": "2023-07-01T09:05:09Z",
+        "distance": 1000.0,
+        "average_speed": 2.74,
+        "max_speed": 3.679,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 99,
+        "end_index": 174,
+        "total_elevation_gain": 2.4,
+        "average_cadence": 86.2,
+        "device_watts": false,
+        "average_heartrate": 156.7,
+        "max_heartrate": 161.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 31946769521,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 362,
+        "moving_time": 362,
+        "start_date": "2023-06-30T23:11:17Z",
+        "start_date_local": "2023-07-01T09:11:17Z",
+        "distance": 1000.0,
+        "average_speed": 2.76,
+        "max_speed": 3.12,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 175,
+        "end_index": 245,
+        "total_elevation_gain": 2.2,
+        "average_cadence": 85.6,
+        "device_watts": false,
+        "average_heartrate": 158.7,
+        "max_heartrate": 163.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 31946769524,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 359,
+        "moving_time": 359,
+        "start_date": "2023-06-30T23:17:16Z",
+        "start_date_local": "2023-07-01T09:17:16Z",
+        "distance": 1000.0,
+        "average_speed": 2.79,
+        "max_speed": 3.461,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 246,
+        "end_index": 313,
+        "total_elevation_gain": 2.2,
+        "average_cadence": 86.5,
+        "device_watts": false,
+        "average_heartrate": 164.0,
+        "max_heartrate": 170.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 31946769525,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 141,
+        "moving_time": 141,
+        "start_date": "2023-06-30T23:23:21Z",
+        "start_date_local": "2023-07-01T09:23:21Z",
+        "distance": 347.34,
+        "average_speed": 2.46,
+        "max_speed": 2.976,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 314,
+        "end_index": 345,
+        "total_elevation_gain": 3.8,
+        "average_cadence": 86.2,
+        "device_watts": false,
+        "average_heartrate": 166.2,
+        "max_heartrate": 173.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 36157146412,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 141,
+        "moving_time": 141,
+        "start_date": "2023-06-30T22:58:41Z",
+        "start_date_local": "2023-07-01T08:58:41Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 151,
+        "end_index": 179
+      },
+      {
+        "id": 36157146413,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 285,
+        "moving_time": 285,
+        "start_date": "2023-06-30T22:58:41Z",
+        "start_date_local": "2023-07-01T08:58:41Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 266,
+        "end_index": 321
+      },
+      {
+        "id": 36157146414,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 358,
+        "moving_time": 358,
+        "start_date": "2023-06-30T22:58:41Z",
+        "start_date_local": "2023-07-01T08:58:41Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 252,
+        "end_index": 320
+      },
+      {
+        "id": 36157146416,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 579,
+        "moving_time": 579,
+        "start_date": "2023-06-30T22:58:41Z",
+        "start_date_local": "2023-07-01T08:58:41Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 218,
+        "end_index": 331
+      },
+      {
+        "id": 36157146419,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 9364917311,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1168,
+        "moving_time": 1168,
+        "start_date": "2023-06-30T22:58:41Z",
+        "start_date_local": "2023-07-01T08:58:41Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 98,
+        "end_index": 330
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "02229df5bc9716ff40ecdbd1a06ed32c1e035346",
+    "similar_activities": {
+      "effort_count": 2,
+      "average_speed": 2.9773569701853346,
+      "min_average_speed": 2.7085981308411218,
+      "mid_average_speed": 3.0420820312384103,
+      "max_average_speed": 3.46921322690992,
+      "pr_rank": 2,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          3.4692132269099205,
+          3.0420820312384103
+        ],
+        "current_activity_index": 1,
+        "min_speed": 2.7085981308411218,
+        "mid_speed": 3.0420820312384103,
+        "max_speed": 3.46921322690992,
+        "direction": -1
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

@@ -1,0 +1,1858 @@
+{
+  "cached_at": "2025-10-06T17:14:55.512949",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Lunch Run",
+    "distance": 5344.1,
+    "moving_time": 1764,
+    "elapsed_time": 1764,
+    "total_elevation_gain": 95.7,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 9940608083,
+    "start_date": "2023-09-29T01:14:57Z",
+    "start_date_local": "2023-09-29T11:14:57Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 1,
+    "comment_count": 0,
+    "athlete_count": 2,
+    "photo_count": 0,
+    "map": {
+      "id": "a9940608083",
+      "polyline": "|c{fFytotZVBRLVJ^d@L`@ANBJA`@Ib@EFEXg@d@YHQDIEIDM@a@C]QYWWi@G_@DkA?IGSZI@GC?@MHEJANIBEXIJ@NERAXDh@VX^LTDL?LHf@Kx@Qd@]`@OHK@OLOK[BIEUCYM]WQYMk@@o@P{@Za@ZWd@KR@^ANB^PZ`@Tj@AHBRAp@KX@FIFSd@i@Za@FGACCE@O@SIOACEGA]YKSQw@@e@URB[NWNa@V_@B?\\YLAFCb@GNB@IHFH?HHF@`@Xb@b@BN?NBF@NEt@IZIHAH[`@a@TE?MF_@@e@EGEOAQMMOMUMg@Eo@@SBSXs@TYXMp@K^?FCDDPFNLb@f@HPFb@CLBf@Uv@Y`@WPi@Li@?e@MYOQSGM?GGIGUAW@e@FS@OL[p@o@TEl@ED@@DDBFCH?PDVNJJ@FLNHZ?FDf@Cb@CNO^U\\YTIFGCGDKB]?[A]Ma@]Q[Mu@@_@F]L_@X[BILEZQZAPEb@BNDPLPNNTNf@@^AVEVM`@SZa@ZYLc@BYC_@I[UW]K]?QEW@]Tu@R]LK@En@Uf@@FBP@JHJ@XRX^Lb@B^En@Up@[\\e@Tc@D]Cc@MQICKOISe@ECEa@?k@Jg@NWFORSHCF@NIRGZCp@HJFBAFBd@l@BFHf@@x@Mf@Ub@AHCBI?GBKBEHUHSBm@CIAm@[UWK[Gg@?[Dc@Rs@j@g@h@KJAH@DE\\@LDj@b@RVHf@Bb@Gl@M`@[b@YRe@Nc@?QCSGe@YU_@Ki@AS@e@Lg@Zm@PO`@KXCp@?RHVPV\\N\\BPB\\Cf@GJCJIPOTg@\\YDMFq@Ae@SOMGCYo@Gq@Dg@Tq@PWLO^OXEr@@\\LZVXb@DXDB@P?`@Ml@Q^GBMNc@V[Fi@BOC]SEAYYQc@E]@o@BQVy@h@a@j@MF?PE@ADQEB@B",
+      "resource_state": 3,
+      "summary_polyline": "|c{fFytotZVBRLVJ^d@L`@ANBJA`@Ib@EFEXg@d@YHMBI?CCIDM@e@EYOYWWi@G_@DkA?IGSZI@GC?@MHEJANIBEXIJ@NERAXDh@VX^LTDL?LHf@Kx@Qd@]`@OHK@OLOK[BECYEYM]WQYMk@@o@P{@RWb@a@d@KR@^ANB^PZ`@Tj@AHBRAp@KX@FIFSd@i@Za@FGACCE@O@SIOACEGA]YKSQw@@e@URB[NWNa@V_@B?\\YLAFCb@GNB@IHFH?HHF@`@Xb@b@BN?NDTEv@IZIHAH[`@a@TE?MF_@@e@EGEOAQM[e@Mg@Ew@@KBSXs@TYXMx@KV?FCDDPFNLb@f@HPFb@CLBf@Uv@Y`@WPc@Li@?k@MYOQSGM?GGIGUAW@e@FS@OL[p@o@TEl@ED@@DDBFCH?PDVNJJ@FLNHZ?FDf@AZEVO^U\\YTIFGCGDi@B[A_@O_@[Q[Mu@@_@F]L_@X[BILEZQZAPEb@BNDPLPNNTNf@@^AVMh@Yj@a@ZYLe@B_@EWG[UW]K]?QEW@]Tu@R]LK@En@Uf@@FBP@JHJ@TNPPJPLb@B^En@Up@[\\]POD[B[Ce@MQICKOISe@ECEa@?k@Jg@NWFORSHCF@NIRGZCp@HJFBAFBd@l@BFHf@@x@Mf@Ub@AHCBI?GBKBEHUHo@@[Cm@[MMSe@Gg@?[Dc@Rs@j@g@h@KJAH@DE\\@LDj@b@RVHf@Bb@Gl@M`@[b@YRe@Nc@?QCSGe@YU_@Ki@AS@e@Lg@Xk@RQ`@KXCp@?RHVPV\\N\\BPB`@Cb@GJCJIPOTg@\\YDMFw@C_@QOMGCYo@Gq@Dg@Tq@RYJM^OXEr@@\\LZVXb@DXDB@P?`@Kd@Sf@GBEJOJ[Ne@H_@@OC]SEAYYQc@ESAYB_@BQVy@h@a@j@MF?PE@ADQEB@B"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.99118408001959,
+      145.08381793275476
+    ],
+    "end_latlng": [
+      -37.991199754178524,
+      145.08392865769565
+    ],
+    "average_speed": 3.03,
+    "max_speed": 6.624,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 26.9,
+    "elev_low": 18.0,
+    "upload_id": 10653268621,
+    "upload_id_str": "10653268621",
+    "external_id": "21146255-AB9E-4766-91EF-C67F3E03F045-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "Hot \nI\u2019m dying\nChest hurts",
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3142654233547321562,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 154,
+        "moving_time": 151,
+        "start_date": "2023-09-29T01:16:05Z",
+        "start_date_local": "2023-09-29T11:16:05Z",
+        "distance": 445.8,
+        "start_index": 68,
+        "end_index": 222,
+        "device_watts": false,
+        "segment": {
+          "id": 13267965,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise",
+          "activity_type": "Run",
+          "distance": 445.8,
+          "average_grade": -0.0,
+          "maximum_grade": 3.5,
+          "elevation_high": 23.9,
+          "elevation_low": 20.3,
+          "start_latlng": [
+            -37.991127,
+            145.08239
+          ],
+          "end_latlng": [
+            -37.991231,
+            145.082347
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233545884890,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise (2 laps)",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 321,
+        "moving_time": 315,
+        "start_date": "2023-09-29T01:16:14Z",
+        "start_date_local": "2023-09-29T11:16:14Z",
+        "distance": 907.2,
+        "start_index": 77,
+        "end_index": 398,
+        "device_watts": false,
+        "segment": {
+          "id": 24930505,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise (2 laps)",
+          "activity_type": "Run",
+          "distance": 907.2,
+          "average_grade": 0.1,
+          "maximum_grade": 7.3,
+          "elevation_high": 25.1,
+          "elevation_low": 17.6,
+          "start_latlng": [
+            -37.990902,
+            145.082439
+          ],
+          "end_latlng": [
+            -37.990962,
+            145.082366
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233545028826,
+        "resource_state": 2,
+        "name": "Scott Boland Wing 200",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 73,
+        "moving_time": 72,
+        "start_date": "2023-09-29T01:16:45Z",
+        "start_date_local": "2023-09-29T11:16:45Z",
+        "distance": 215.8,
+        "start_index": 108,
+        "end_index": 181,
+        "device_watts": false,
+        "segment": {
+          "id": 30698506,
+          "resource_state": 2,
+          "name": "Scott Boland Wing 200",
+          "activity_type": "Run",
+          "distance": 215.8,
+          "average_grade": -0.4,
+          "maximum_grade": 9.4,
+          "elevation_high": 28.2,
+          "elevation_low": 25.4,
+          "start_latlng": [
+            -37.990433,
+            145.083166
+          ],
+          "end_latlng": [
+            -37.991821,
+            145.083216
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233544421594,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 161,
+        "moving_time": 158,
+        "start_date": "2023-09-29T01:18:43Z",
+        "start_date_local": "2023-09-29T11:18:43Z",
+        "distance": 445.8,
+        "start_index": 226,
+        "end_index": 387,
+        "device_watts": false,
+        "segment": {
+          "id": 13267965,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise",
+          "activity_type": "Run",
+          "distance": 445.8,
+          "average_grade": -0.0,
+          "maximum_grade": 3.5,
+          "elevation_high": 23.9,
+          "elevation_low": 20.3,
+          "start_latlng": [
+            -37.991127,
+            145.08239
+          ],
+          "end_latlng": [
+            -37.991231,
+            145.082347
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233547813082,
+        "resource_state": 2,
+        "name": "Scott Boland Wing 200",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 76,
+        "moving_time": 75,
+        "start_date": "2023-09-29T01:19:26Z",
+        "start_date_local": "2023-09-29T11:19:26Z",
+        "distance": 215.8,
+        "start_index": 269,
+        "end_index": 345,
+        "device_watts": false,
+        "segment": {
+          "id": 30698506,
+          "resource_state": 2,
+          "name": "Scott Boland Wing 200",
+          "activity_type": "Run",
+          "distance": 215.8,
+          "average_grade": -0.4,
+          "maximum_grade": 9.4,
+          "elevation_high": 28.2,
+          "elevation_low": 25.4,
+          "start_latlng": [
+            -37.990433,
+            145.083166
+          ],
+          "end_latlng": [
+            -37.991821,
+            145.083216
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233545263322,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 156,
+        "moving_time": 156,
+        "start_date": "2023-09-29T01:21:29Z",
+        "start_date_local": "2023-09-29T11:21:29Z",
+        "distance": 445.8,
+        "start_index": 392,
+        "end_index": 548,
+        "device_watts": false,
+        "segment": {
+          "id": 13267965,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise",
+          "activity_type": "Run",
+          "distance": 445.8,
+          "average_grade": -0.0,
+          "maximum_grade": 3.5,
+          "elevation_high": 23.9,
+          "elevation_low": 20.3,
+          "start_latlng": [
+            -37.991127,
+            145.08239
+          ],
+          "end_latlng": [
+            -37.991231,
+            145.082347
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233544974554,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise (2 laps)",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 309,
+        "moving_time": 309,
+        "start_date": "2023-09-29T01:21:38Z",
+        "start_date_local": "2023-09-29T11:21:38Z",
+        "distance": 907.2,
+        "start_index": 401,
+        "end_index": 710,
+        "device_watts": false,
+        "segment": {
+          "id": 24930505,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise (2 laps)",
+          "activity_type": "Run",
+          "distance": 907.2,
+          "average_grade": 0.1,
+          "maximum_grade": 7.3,
+          "elevation_high": 25.1,
+          "elevation_low": 17.6,
+          "start_latlng": [
+            -37.990902,
+            145.082439
+          ],
+          "end_latlng": [
+            -37.990962,
+            145.082366
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233546201306,
+        "resource_state": 2,
+        "name": "Scott Boland Wing 200",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 69,
+        "moving_time": 69,
+        "start_date": "2023-09-29T01:22:17Z",
+        "start_date_local": "2023-09-29T11:22:17Z",
+        "distance": 215.8,
+        "start_index": 440,
+        "end_index": 509,
+        "device_watts": false,
+        "segment": {
+          "id": 30698506,
+          "resource_state": 2,
+          "name": "Scott Boland Wing 200",
+          "activity_type": "Run",
+          "distance": 215.8,
+          "average_grade": -0.4,
+          "maximum_grade": 9.4,
+          "elevation_high": 28.2,
+          "elevation_low": 25.4,
+          "start_latlng": [
+            -37.990433,
+            145.083166
+          ],
+          "end_latlng": [
+            -37.991821,
+            145.083216
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233544496346,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 148,
+        "moving_time": 148,
+        "start_date": "2023-09-29T01:24:08Z",
+        "start_date_local": "2023-09-29T11:24:08Z",
+        "distance": 445.8,
+        "start_index": 551,
+        "end_index": 699,
+        "device_watts": false,
+        "segment": {
+          "id": 13267965,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise",
+          "activity_type": "Run",
+          "distance": 445.8,
+          "average_grade": -0.0,
+          "maximum_grade": 3.5,
+          "elevation_high": 23.9,
+          "elevation_low": 20.3,
+          "start_latlng": [
+            -37.991127,
+            145.08239
+          ],
+          "end_latlng": [
+            -37.991231,
+            145.082347
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233544331482,
+        "resource_state": 2,
+        "name": "Scott Boland Wing 200",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 71,
+        "moving_time": 71,
+        "start_date": "2023-09-29T01:24:49Z",
+        "start_date_local": "2023-09-29T11:24:49Z",
+        "distance": 215.8,
+        "start_index": 592,
+        "end_index": 663,
+        "device_watts": false,
+        "segment": {
+          "id": 30698506,
+          "resource_state": 2,
+          "name": "Scott Boland Wing 200",
+          "activity_type": "Run",
+          "distance": 215.8,
+          "average_grade": -0.4,
+          "maximum_grade": 9.4,
+          "elevation_high": 28.2,
+          "elevation_low": 25.4,
+          "start_latlng": [
+            -37.990433,
+            145.083166
+          ],
+          "end_latlng": [
+            -37.991821,
+            145.083216
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233547846874,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 137,
+        "moving_time": 137,
+        "start_date": "2023-09-29T01:26:40Z",
+        "start_date_local": "2023-09-29T11:26:40Z",
+        "distance": 445.8,
+        "start_index": 703,
+        "end_index": 840,
+        "device_watts": false,
+        "segment": {
+          "id": 13267965,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise",
+          "activity_type": "Run",
+          "distance": 445.8,
+          "average_grade": -0.0,
+          "maximum_grade": 3.5,
+          "elevation_high": 23.9,
+          "elevation_low": 20.3,
+          "start_latlng": [
+            -37.991127,
+            145.08239
+          ],
+          "end_latlng": [
+            -37.991231,
+            145.082347
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233544709338,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise (2 laps)",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 279,
+        "moving_time": 277,
+        "start_date": "2023-09-29T01:26:50Z",
+        "start_date_local": "2023-09-29T11:26:50Z",
+        "distance": 907.2,
+        "start_index": 713,
+        "end_index": 990,
+        "device_watts": false,
+        "segment": {
+          "id": 24930505,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise (2 laps)",
+          "activity_type": "Run",
+          "distance": 907.2,
+          "average_grade": 0.1,
+          "maximum_grade": 7.3,
+          "elevation_high": 25.1,
+          "elevation_low": 17.6,
+          "start_latlng": [
+            -37.990902,
+            145.082439
+          ],
+          "end_latlng": [
+            -37.990962,
+            145.082366
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233546341594,
+        "resource_state": 2,
+        "name": "Scott Boland Wing 200",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 62,
+        "moving_time": 62,
+        "start_date": "2023-09-29T01:27:20Z",
+        "start_date_local": "2023-09-29T11:27:20Z",
+        "distance": 215.8,
+        "start_index": 743,
+        "end_index": 805,
+        "device_watts": false,
+        "segment": {
+          "id": 30698506,
+          "resource_state": 2,
+          "name": "Scott Boland Wing 200",
+          "activity_type": "Run",
+          "distance": 215.8,
+          "average_grade": -0.4,
+          "maximum_grade": 9.4,
+          "elevation_high": 28.2,
+          "elevation_low": 25.4,
+          "start_latlng": [
+            -37.990433,
+            145.083166
+          ],
+          "end_latlng": [
+            -37.991821,
+            145.083216
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233547806938,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 139,
+        "moving_time": 137,
+        "start_date": "2023-09-29T01:29:00Z",
+        "start_date_local": "2023-09-29T11:29:00Z",
+        "distance": 445.8,
+        "start_index": 843,
+        "end_index": 980,
+        "device_watts": false,
+        "segment": {
+          "id": 13267965,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise",
+          "activity_type": "Run",
+          "distance": 445.8,
+          "average_grade": -0.0,
+          "maximum_grade": 3.5,
+          "elevation_high": 23.9,
+          "elevation_low": 20.3,
+          "start_latlng": [
+            -37.991127,
+            145.08239
+          ],
+          "end_latlng": [
+            -37.991231,
+            145.082347
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233546106074,
+        "resource_state": 2,
+        "name": "Scott Boland Wing 200",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 65,
+        "moving_time": 64,
+        "start_date": "2023-09-29T01:29:40Z",
+        "start_date_local": "2023-09-29T11:29:40Z",
+        "distance": 215.8,
+        "start_index": 882,
+        "end_index": 947,
+        "device_watts": false,
+        "segment": {
+          "id": 30698506,
+          "resource_state": 2,
+          "name": "Scott Boland Wing 200",
+          "activity_type": "Run",
+          "distance": 215.8,
+          "average_grade": -0.4,
+          "maximum_grade": 9.4,
+          "elevation_high": 28.2,
+          "elevation_low": 25.4,
+          "start_latlng": [
+            -37.990433,
+            145.083166
+          ],
+          "end_latlng": [
+            -37.991821,
+            145.083216
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233547108570,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 147,
+        "moving_time": 146,
+        "start_date": "2023-09-29T01:31:22Z",
+        "start_date_local": "2023-09-29T11:31:22Z",
+        "distance": 445.8,
+        "start_index": 983,
+        "end_index": 1129,
+        "device_watts": false,
+        "segment": {
+          "id": 13267965,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise",
+          "activity_type": "Run",
+          "distance": 445.8,
+          "average_grade": -0.0,
+          "maximum_grade": 3.5,
+          "elevation_high": 23.9,
+          "elevation_low": 20.3,
+          "start_latlng": [
+            -37.991127,
+            145.08239
+          ],
+          "end_latlng": [
+            -37.991231,
+            145.082347
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233546620122,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise (2 laps)",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 281,
+        "moving_time": 280,
+        "start_date": "2023-09-29T01:31:31Z",
+        "start_date_local": "2023-09-29T11:31:31Z",
+        "distance": 907.2,
+        "start_index": 992,
+        "end_index": 1271,
+        "device_watts": false,
+        "segment": {
+          "id": 24930505,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise (2 laps)",
+          "activity_type": "Run",
+          "distance": 907.2,
+          "average_grade": 0.1,
+          "maximum_grade": 7.3,
+          "elevation_high": 25.1,
+          "elevation_low": 17.6,
+          "start_latlng": [
+            -37.990902,
+            145.082439
+          ],
+          "end_latlng": [
+            -37.990962,
+            145.082366
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233545702618,
+        "resource_state": 2,
+        "name": "Scott Boland Wing 200",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 68,
+        "moving_time": 67,
+        "start_date": "2023-09-29T01:32:03Z",
+        "start_date_local": "2023-09-29T11:32:03Z",
+        "distance": 215.8,
+        "start_index": 1024,
+        "end_index": 1092,
+        "device_watts": false,
+        "segment": {
+          "id": 30698506,
+          "resource_state": 2,
+          "name": "Scott Boland Wing 200",
+          "activity_type": "Run",
+          "distance": 215.8,
+          "average_grade": -0.4,
+          "maximum_grade": 9.4,
+          "elevation_high": 28.2,
+          "elevation_low": 25.4,
+          "start_latlng": [
+            -37.990433,
+            145.083166
+          ],
+          "end_latlng": [
+            -37.991821,
+            145.083216
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233544619226,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 130,
+        "moving_time": 130,
+        "start_date": "2023-09-29T01:33:52Z",
+        "start_date_local": "2023-09-29T11:33:52Z",
+        "distance": 445.8,
+        "start_index": 1132,
+        "end_index": 1261,
+        "device_watts": false,
+        "segment": {
+          "id": 13267965,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise",
+          "activity_type": "Run",
+          "distance": 445.8,
+          "average_grade": -0.0,
+          "maximum_grade": 3.5,
+          "elevation_high": 23.9,
+          "elevation_low": 20.3,
+          "start_latlng": [
+            -37.991127,
+            145.08239
+          ],
+          "end_latlng": [
+            -37.991231,
+            145.082347
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233545151706,
+        "resource_state": 2,
+        "name": "Scott Boland Wing 200",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 56,
+        "moving_time": 56,
+        "start_date": "2023-09-29T01:34:32Z",
+        "start_date_local": "2023-09-29T11:34:32Z",
+        "distance": 215.8,
+        "start_index": 1172,
+        "end_index": 1227,
+        "device_watts": false,
+        "segment": {
+          "id": 30698506,
+          "resource_state": 2,
+          "name": "Scott Boland Wing 200",
+          "activity_type": "Run",
+          "distance": 215.8,
+          "average_grade": -0.4,
+          "maximum_grade": 9.4,
+          "elevation_high": 28.2,
+          "elevation_low": 25.4,
+          "start_latlng": [
+            -37.990433,
+            145.083166
+          ],
+          "end_latlng": [
+            -37.991821,
+            145.083216
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233544507610,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 137,
+        "moving_time": 137,
+        "start_date": "2023-09-29T01:36:05Z",
+        "start_date_local": "2023-09-29T11:36:05Z",
+        "distance": 445.8,
+        "start_index": 1264,
+        "end_index": 1401,
+        "device_watts": false,
+        "segment": {
+          "id": 13267965,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise",
+          "activity_type": "Run",
+          "distance": 445.8,
+          "average_grade": -0.0,
+          "maximum_grade": 3.5,
+          "elevation_high": 23.9,
+          "elevation_low": 20.3,
+          "start_latlng": [
+            -37.991127,
+            145.08239
+          ],
+          "end_latlng": [
+            -37.991231,
+            145.082347
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233546655962,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise (2 laps)",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 279,
+        "moving_time": 279,
+        "start_date": "2023-09-29T01:36:15Z",
+        "start_date_local": "2023-09-29T11:36:15Z",
+        "distance": 907.2,
+        "start_index": 1274,
+        "end_index": 1553,
+        "device_watts": false,
+        "segment": {
+          "id": 24930505,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise (2 laps)",
+          "activity_type": "Run",
+          "distance": 907.2,
+          "average_grade": 0.1,
+          "maximum_grade": 7.3,
+          "elevation_high": 25.1,
+          "elevation_low": 17.6,
+          "start_latlng": [
+            -37.990902,
+            145.082439
+          ],
+          "end_latlng": [
+            -37.990962,
+            145.082366
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233546818778,
+        "resource_state": 2,
+        "name": "Scott Boland Wing 200",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 65,
+        "moving_time": 65,
+        "start_date": "2023-09-29T01:36:45Z",
+        "start_date_local": "2023-09-29T11:36:45Z",
+        "distance": 215.8,
+        "start_index": 1304,
+        "end_index": 1369,
+        "device_watts": false,
+        "segment": {
+          "id": 30698506,
+          "resource_state": 2,
+          "name": "Scott Boland Wing 200",
+          "activity_type": "Run",
+          "distance": 215.8,
+          "average_grade": -0.4,
+          "maximum_grade": 9.4,
+          "elevation_high": 28.2,
+          "elevation_low": 25.4,
+          "start_latlng": [
+            -37.990433,
+            145.083166
+          ],
+          "end_latlng": [
+            -37.991821,
+            145.083216
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233545283802,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 138,
+        "moving_time": 138,
+        "start_date": "2023-09-29T01:38:25Z",
+        "start_date_local": "2023-09-29T11:38:25Z",
+        "distance": 445.8,
+        "start_index": 1404,
+        "end_index": 1542,
+        "device_watts": false,
+        "segment": {
+          "id": 13267965,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise",
+          "activity_type": "Run",
+          "distance": 445.8,
+          "average_grade": -0.0,
+          "maximum_grade": 3.5,
+          "elevation_high": 23.9,
+          "elevation_low": 20.3,
+          "start_latlng": [
+            -37.991127,
+            145.08239
+          ],
+          "end_latlng": [
+            -37.991231,
+            145.082347
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233543811290,
+        "resource_state": 2,
+        "name": "Scott Boland Wing 200",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 66,
+        "moving_time": 66,
+        "start_date": "2023-09-29T01:39:04Z",
+        "start_date_local": "2023-09-29T11:39:04Z",
+        "distance": 215.8,
+        "start_index": 1443,
+        "end_index": 1509,
+        "device_watts": false,
+        "segment": {
+          "id": 30698506,
+          "resource_state": 2,
+          "name": "Scott Boland Wing 200",
+          "activity_type": "Run",
+          "distance": 215.8,
+          "average_grade": -0.4,
+          "maximum_grade": 9.4,
+          "elevation_high": 28.2,
+          "elevation_low": 25.4,
+          "start_latlng": [
+            -37.990433,
+            145.083166
+          ],
+          "end_latlng": [
+            -37.991821,
+            145.083216
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233546878170,
+        "resource_state": 2,
+        "name": "Gerry Green Clockwise",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 127,
+        "moving_time": 127,
+        "start_date": "2023-09-29T01:40:48Z",
+        "start_date_local": "2023-09-29T11:40:48Z",
+        "distance": 445.8,
+        "start_index": 1547,
+        "end_index": 1673,
+        "device_watts": false,
+        "segment": {
+          "id": 13267965,
+          "resource_state": 2,
+          "name": "Gerry Green Clockwise",
+          "activity_type": "Run",
+          "distance": 445.8,
+          "average_grade": -0.0,
+          "maximum_grade": 3.5,
+          "elevation_high": 23.9,
+          "elevation_low": 20.3,
+          "start_latlng": [
+            -37.991127,
+            145.08239
+          ],
+          "end_latlng": [
+            -37.991231,
+            145.082347
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3142654233547191514,
+        "resource_state": 2,
+        "name": "Scott Boland Wing 200",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 59,
+        "moving_time": 59,
+        "start_date": "2023-09-29T01:41:26Z",
+        "start_date_local": "2023-09-29T11:41:26Z",
+        "distance": 215.8,
+        "start_index": 1585,
+        "end_index": 1643,
+        "device_watts": false,
+        "segment": {
+          "id": 30698506,
+          "resource_state": 2,
+          "name": "Scott Boland Wing 200",
+          "activity_type": "Run",
+          "distance": 215.8,
+          "average_grade": -0.4,
+          "maximum_grade": 9.4,
+          "elevation_high": 28.2,
+          "elevation_low": 25.4,
+          "start_latlng": [
+            -37.990433,
+            145.083166
+          ],
+          "end_latlng": [
+            -37.991821,
+            145.083216
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.4,
+        "elapsed_time": 348,
+        "elevation_difference": -3.0,
+        "moving_time": 348,
+        "split": 1,
+        "average_speed": 2.88,
+        "average_grade_adjusted_speed": 3.04,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.7,
+        "elapsed_time": 344,
+        "elevation_difference": 2.8,
+        "moving_time": 344,
+        "split": 2,
+        "average_speed": 2.91,
+        "average_grade_adjusted_speed": 3.09,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.3,
+        "elapsed_time": 326,
+        "elevation_difference": 4.1,
+        "moving_time": 326,
+        "split": 3,
+        "average_speed": 3.06,
+        "average_grade_adjusted_speed": 3.27,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.7,
+        "elapsed_time": 319,
+        "elevation_difference": -3.6,
+        "moving_time": 319,
+        "split": 4,
+        "average_speed": 3.13,
+        "average_grade_adjusted_speed": 3.28,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.8,
+        "elapsed_time": 314,
+        "elevation_difference": -2.8,
+        "moving_time": 314,
+        "split": 5,
+        "average_speed": 3.18,
+        "average_grade_adjusted_speed": 3.35,
+        "pace_zone": 0
+      },
+      {
+        "distance": 343.2,
+        "elapsed_time": 113,
+        "elevation_difference": 2.8,
+        "moving_time": 113,
+        "split": 6,
+        "average_speed": 3.04,
+        "average_grade_adjusted_speed": 3.23,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1611.8,
+        "elapsed_time": 558,
+        "elevation_difference": 0.4,
+        "moving_time": 558,
+        "split": 1,
+        "average_speed": 2.89,
+        "average_grade_adjusted_speed": 3.06,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.5,
+        "elapsed_time": 532,
+        "elevation_difference": -5.1,
+        "moving_time": 532,
+        "split": 2,
+        "average_speed": 3.02,
+        "average_grade_adjusted_speed": 3.17,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.4,
+        "elapsed_time": 514,
+        "elevation_difference": 6.0,
+        "moving_time": 514,
+        "split": 3,
+        "average_speed": 3.13,
+        "average_grade_adjusted_speed": 3.34,
+        "pace_zone": 0
+      },
+      {
+        "distance": 514.4,
+        "elapsed_time": 160,
+        "elevation_difference": -1.0,
+        "moving_time": 160,
+        "split": 4,
+        "average_speed": 3.22,
+        "average_grade_adjusted_speed": 3.36,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 34062530687,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1766,
+        "moving_time": 1766,
+        "start_date": "2023-09-29T01:14:57Z",
+        "start_date_local": "2023-09-29T11:14:57Z",
+        "distance": 5344.1,
+        "average_speed": 3.03,
+        "max_speed": 6.624,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1759,
+        "total_elevation_gain": 95.7,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 43042960323,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 114,
+        "moving_time": 114,
+        "start_date": "2023-09-29T01:14:57Z",
+        "start_date_local": "2023-09-29T11:14:57Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1604,
+        "end_index": 1718
+      },
+      {
+        "id": 43042960324,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 246,
+        "moving_time": 246,
+        "start_date": "2023-09-29T01:14:57Z",
+        "start_date_local": "2023-09-29T11:14:57Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1162,
+        "end_index": 1407
+      },
+      {
+        "id": 43042960325,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 309,
+        "moving_time": 309,
+        "start_date": "2023-09-29T01:14:57Z",
+        "start_date_local": "2023-09-29T11:14:57Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1158,
+        "end_index": 1466
+      },
+      {
+        "id": 43042960320,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 498,
+        "moving_time": 498,
+        "start_date": "2023-09-29T01:14:57Z",
+        "start_date_local": "2023-09-29T11:14:57Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1163,
+        "end_index": 1659
+      },
+      {
+        "id": 43042960321,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1021,
+        "moving_time": 1021,
+        "start_date": "2023-09-29T01:14:57Z",
+        "start_date_local": "2023-09-29T11:14:57Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 721,
+        "end_index": 1737
+      },
+      {
+        "id": 43042960322,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 9940608083,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1642,
+        "moving_time": 1642,
+        "start_date": "2023-09-29T01:14:57Z",
+        "start_date_local": "2023-09-29T11:14:57Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 99,
+        "end_index": 1736
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava iPhone App",
+    "embed_token": "2f4eaa998a5c1dd14aa964acc3d769adaa31ba83",
+    "similar_activities": {
+      "effort_count": 29,
+      "average_speed": 2.766822885814837,
+      "min_average_speed": 2.1518228279386715,
+      "mid_average_speed": 2.652912693379158,
+      "max_average_speed": 3.4582202111613873,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          3.2635984122009414,
+          3.165743719807963,
+          3.0664412338343476,
+          2.8360319862271264,
+          2.6126105539956033
+        ],
+        "current_activity_index": 2,
+        "min_speed": 2.1518228279386715,
+        "mid_speed": 2.652912693379158,
+        "max_speed": 3.4582202111613873,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

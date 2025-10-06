@@ -1,0 +1,1180 @@
+{
+  "cached_at": "2025-10-06T18:17:33.375921",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Scenic run with Angus pt2 ft woolies shop",
+    "distance": 4005.6,
+    "moving_time": 1696,
+    "elapsed_time": 1866,
+    "total_elevation_gain": 26.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 4283626892,
+    "start_date": "2020-11-04T06:38:28Z",
+    "start_date_local": "2020-11-04T17:38:28Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 15,
+    "kudos_count": 6,
+    "comment_count": 0,
+    "athlete_count": 2,
+    "photo_count": 0,
+    "map": {
+      "id": "a4283626892",
+      "polyline": "nwzeFayzsZC`@CHa@v@Uj@?DDLCC?DTNQKE?QLCJE@JJb@z@L^Br@T`@Df@I`A_@`Aa@b@[hAU\\k@`@UDe@Ka@e@Ee@MWe@U_@[]e@[SUG_@Ae@BODAn@CDg@^e@?SECMVw@FoA^aATKZG`@[Xq@R[~@eAVKHMOQ?Qh@w@b@w@t@q@B?LJ?OBGXQNUTUl@[RSbAw@X]VQj@[`@Yf@s@BAz@gAl@sAXBHCFIR{@JQx@q@t@_CLuALYVuATuABg@Jq@To@Fm@@m@Ng@Dk@?e@LQZYBKAGQ_@@KMi@NqAPk@rAkCJYDIRK^a@Vc@XYb@]NUlAoANGVFVLLABCDu@FH@AE?CIDS\\o@\\Wj@Qr@a@Jk@Re@v@y@j@i@|@aA|@s@h@iA`@g@Ve@`@iAHq@h@mB`@qCJsAVeALkAXaBNqAZeBLiA@[JUB_@Lg@VSN?ZLnAAVSp@IP@LJJDHTVBX?FSTYPCROZ_@",
+      "resource_state": 3,
+      "summary_polyline": "nwzeFayzsZC`@CHa@v@Uj@?DDLCC?DTNQKE?QLCJE@JJb@z@L^Br@T`@Df@I`A_@`Aa@b@[hAU\\k@`@UDe@Ka@e@Ee@MWe@U_@[]e@[SUG_@Ae@BODAn@CDg@^e@?SECMVw@FoA^aATKZG`@[Xq@R[~@eAVKHMOQ?Qh@w@b@w@t@q@B?LJ?OBGXQNUTUl@[RSbAw@X]VQj@[`@Yf@s@BAz@gAl@sAXBHCFIR{@JQx@q@t@_CLuALYVuATuABg@Jq@To@Fm@@m@Ng@Dk@?e@LQZYBKAGQ_@@KMi@NqAPk@rAkCJYDIRK^a@Vc@XYb@]NUlAoANGVFVLLABCDu@FH@AE?CIDS\\o@\\Wj@Qr@a@Jk@Re@v@y@j@i@|@aA|@s@h@iA`@g@Ve@`@iAHq@h@mB`@qCJsAVeALkAXaBNqAZeBLiA@[JUB_@Lg@VSN?ZLnAAVSp@IP@LJJDHTVBX?FSTYPCROZ_@"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.825352,
+      144.976977
+    ],
+    "end_latlng": [
+      -37.836896,
+      144.996682
+    ],
+    "average_speed": 2.362,
+    "max_speed": 4.0,
+    "average_cadence": 79.6,
+    "has_heartrate": true,
+    "average_heartrate": 142.3,
+    "max_heartrate": 165.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 20.2,
+    "elev_low": -1.8,
+    "upload_id": 4582161718,
+    "upload_id_str": "4582161718",
+    "external_id": "garmin_push_5770684714",
+    "from_accepted_tag": false,
+    "pr_count": 4,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "",
+    "calories": 282.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [
+      {
+        "id": 2758967211671796214,
+        "resource_state": 2,
+        "name": "fear is self imposed",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 43,
+        "moving_time": 43,
+        "start_date": "2020-11-04T06:41:40Z",
+        "start_date_local": "2020-11-04T17:41:40Z",
+        "distance": 130.0,
+        "start_index": 58,
+        "end_index": 69,
+        "average_cadence": 83.4,
+        "device_watts": false,
+        "average_heartrate": 152.3,
+        "max_heartrate": 154.0,
+        "segment": {
+          "id": 22500492,
+          "resource_state": 2,
+          "name": "fear is self imposed",
+          "activity_type": "Run",
+          "distance": 130.0,
+          "average_grade": -4.0,
+          "maximum_grade": 7.2,
+          "elevation_high": 35.8,
+          "elevation_low": 27.3,
+          "start_latlng": [
+            -37.825255,
+            144.974283
+          ],
+          "end_latlng": [
+            -37.824447,
+            144.973353
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "East Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2758967211672049142,
+        "resource_state": 2,
+        "name": "The Tan Final 400m Sprint",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 168,
+        "moving_time": 158,
+        "start_date": "2020-11-04T06:44:17Z",
+        "start_date_local": "2020-11-04T17:44:17Z",
+        "distance": 417.3,
+        "start_index": 100,
+        "end_index": 151,
+        "average_cadence": 76.3,
+        "device_watts": false,
+        "average_heartrate": 150.9,
+        "max_heartrate": 156.0,
+        "segment": {
+          "id": 4826768,
+          "resource_state": 2,
+          "name": "The Tan Final 400m Sprint",
+          "activity_type": "Run",
+          "distance": 417.3,
+          "average_grade": -0.7,
+          "maximum_grade": 6.0,
+          "elevation_high": 26.8,
+          "elevation_low": 17.8,
+          "start_latlng": [
+            -37.822173,
+            144.973721
+          ],
+          "end_latlng": [
+            -37.824465,
+            144.977203
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2758967211677336054,
+        "resource_state": 2,
+        "name": "Chimp Tan Tan",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 469,
+        "moving_time": 457,
+        "start_date": "2020-11-04T06:44:19Z",
+        "start_date_local": "2020-11-04T17:44:19Z",
+        "distance": 1240.13,
+        "start_index": 102,
+        "end_index": 218,
+        "average_cadence": 80.9,
+        "device_watts": false,
+        "average_heartrate": 154.2,
+        "max_heartrate": 160.0,
+        "segment": {
+          "id": 3812091,
+          "resource_state": 2,
+          "name": "Chimp Tan Tan",
+          "activity_type": "Run",
+          "distance": 1240.13,
+          "average_grade": 0.0,
+          "maximum_grade": 13.6,
+          "elevation_high": 28.1,
+          "elevation_low": 10.6,
+          "start_latlng": [
+            -37.822117,
+            144.974077
+          ],
+          "end_latlng": [
+            -37.828459,
+            144.984658
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2758967211669498358,
+        "resource_state": 2,
+        "name": "Dash to line",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 65,
+        "moving_time": 55,
+        "start_date": "2020-11-04T06:46:06Z",
+        "start_date_local": "2020-11-04T17:46:06Z",
+        "distance": 142.5,
+        "start_index": 135,
+        "end_index": 154,
+        "average_cadence": 65.7,
+        "device_watts": false,
+        "average_heartrate": 150.9,
+        "max_heartrate": 155.0,
+        "segment": {
+          "id": 10108143,
+          "resource_state": 2,
+          "name": "Dash to line",
+          "activity_type": "Run",
+          "distance": 142.5,
+          "average_grade": 1.6,
+          "maximum_grade": 5.5,
+          "elevation_high": 24.2,
+          "elevation_low": 21.4,
+          "start_latlng": [
+            -37.823622,
+            144.976376
+          ],
+          "end_latlng": [
+            -37.824633,
+            144.977362
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2758967211669425654,
+        "resource_state": 2,
+        "name": "Tan 1st 500m ",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 170,
+        "moving_time": 170,
+        "start_date": "2020-11-04T06:46:58Z",
+        "start_date_local": "2020-11-04T17:46:58Z",
+        "distance": 481.0,
+        "start_index": 148,
+        "end_index": 188,
+        "average_cadence": 82.6,
+        "device_watts": false,
+        "average_heartrate": 156.3,
+        "max_heartrate": 160.0,
+        "segment": {
+          "id": 4323052,
+          "resource_state": 2,
+          "name": "Tan 1st 500m ",
+          "activity_type": "Run",
+          "distance": 481.0,
+          "average_grade": -2.0,
+          "maximum_grade": 7.9,
+          "elevation_high": 27.0,
+          "elevation_low": 12.7,
+          "start_latlng": [
+            -37.824328,
+            144.977215
+          ],
+          "end_latlng": [
+            -37.827439,
+            144.980877
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "East Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2758967211671814646,
+        "resource_state": 2,
+        "name": "Up the ramp to the path",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 38,
+        "moving_time": 38,
+        "start_date": "2020-11-04T06:47:01Z",
+        "start_date_local": "2020-11-04T17:47:01Z",
+        "distance": 98.7,
+        "start_index": 150,
+        "end_index": 160,
+        "average_cadence": 83.3,
+        "device_watts": false,
+        "average_heartrate": 155.7,
+        "max_heartrate": 160.0,
+        "segment": {
+          "id": 8533903,
+          "resource_state": 2,
+          "name": "Up the ramp to the path",
+          "activity_type": "Run",
+          "distance": 98.7,
+          "average_grade": 4.5,
+          "maximum_grade": 8.5,
+          "elevation_high": 33.6,
+          "elevation_low": 29.2,
+          "start_latlng": [
+            -37.82445,
+            144.977133
+          ],
+          "end_latlng": [
+            -37.82526,
+            144.977587
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2758967211672889846,
+        "resource_state": 2,
+        "name": "Tan by Yarra",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 263,
+        "moving_time": 263,
+        "start_date": "2020-11-04T06:47:39Z",
+        "start_date_local": "2020-11-04T17:47:39Z",
+        "distance": 714.84,
+        "start_index": 160,
+        "end_index": 216,
+        "average_cadence": 83.5,
+        "device_watts": false,
+        "average_heartrate": 156.0,
+        "max_heartrate": 159.0,
+        "segment": {
+          "id": 636664,
+          "resource_state": 2,
+          "name": "Tan by Yarra",
+          "activity_type": "Run",
+          "distance": 714.84,
+          "average_grade": -0.4,
+          "maximum_grade": 3.7,
+          "elevation_high": 16.0,
+          "elevation_low": 13.2,
+          "start_latlng": [
+            -37.8251359,
+            144.9778179
+          ],
+          "end_latlng": [
+            -37.828468,
+            144.984521
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne St Kilda Rd",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3393092016447015450,
+        "resource_state": 2,
+        "name": "Tan 250 - 500",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 92,
+        "moving_time": 92,
+        "start_date": "2020-11-04T06:48:23Z",
+        "start_date_local": "2020-11-04T17:48:23Z",
+        "distance": 251.8,
+        "start_index": 168,
+        "end_index": 189,
+        "average_cadence": 83.6,
+        "device_watts": false,
+        "average_heartrate": 156.5,
+        "max_heartrate": 158.0,
+        "segment": {
+          "id": 39927705,
+          "resource_state": 2,
+          "name": "Tan 250 - 500",
+          "activity_type": "Run",
+          "distance": 251.8,
+          "average_grade": -0.8,
+          "maximum_grade": 5.8,
+          "elevation_high": 16.6,
+          "elevation_low": 13.8,
+          "start_latlng": [
+            -37.826159,
+            144.978727
+          ],
+          "end_latlng": [
+            -37.827567,
+            144.980953
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2758967211674953206,
+        "resource_state": 2,
+        "name": "Alexandra Avenue",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 336,
+        "moving_time": 292,
+        "start_date": "2020-11-04T06:52:13Z",
+        "start_date_local": "2020-11-04T17:52:13Z",
+        "distance": 806.9,
+        "start_index": 220,
+        "end_index": 302,
+        "average_cadence": 69.9,
+        "device_watts": false,
+        "average_heartrate": 149.0,
+        "max_heartrate": 158.0,
+        "segment": {
+          "id": 14121177,
+          "resource_state": 2,
+          "name": "Alexandra Avenue",
+          "activity_type": "Run",
+          "distance": 806.9,
+          "average_grade": -0.2,
+          "maximum_grade": 9.5,
+          "elevation_high": 25.0,
+          "elevation_low": 15.0,
+          "start_latlng": [
+            -37.828185,
+            144.984865
+          ],
+          "end_latlng": [
+            -37.83341,
+            144.990957
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2758967211675982326,
+        "resource_state": 2,
+        "name": "Anderson to Chapel South Side",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 484,
+        "moving_time": 440,
+        "start_date": "2020-11-04T06:52:36Z",
+        "start_date_local": "2020-11-04T17:52:36Z",
+        "distance": 1228.9,
+        "start_index": 224,
+        "end_index": 348,
+        "average_cadence": 74.1,
+        "device_watts": false,
+        "average_heartrate": 148.9,
+        "max_heartrate": 164.0,
+        "segment": {
+          "id": 4610785,
+          "resource_state": 2,
+          "name": "Anderson to Chapel South Side",
+          "activity_type": "Run",
+          "distance": 1228.9,
+          "average_grade": 0.1,
+          "maximum_grade": 9.4,
+          "elevation_high": 22.7,
+          "elevation_low": 10.5,
+          "start_latlng": [
+            -37.828457,
+            144.985653
+          ],
+          "end_latlng": [
+            -37.834608,
+            144.996443
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Cremorne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2758967211676535286,
+        "resource_state": 2,
+        "name": "Punt to rail bridge",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 294,
+        "moving_time": 250,
+        "start_date": "2020-11-04T06:54:07Z",
+        "start_date_local": "2020-11-04T17:54:07Z",
+        "distance": 670.7,
+        "start_index": 247,
+        "end_index": 320,
+        "average_cadence": 68.1,
+        "device_watts": false,
+        "average_heartrate": 146.1,
+        "max_heartrate": 153.0,
+        "segment": {
+          "id": 8616931,
+          "resource_state": 2,
+          "name": "Punt to rail bridge",
+          "activity_type": "Run",
+          "distance": 670.7,
+          "average_grade": 0.3,
+          "maximum_grade": 7.5,
+          "elevation_high": 23.0,
+          "elevation_low": 15.0,
+          "start_latlng": [
+            -37.83018,
+            144.987768
+          ],
+          "end_latlng": [
+            -37.833808,
+            144.993323
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3228404295299360996,
+        "resource_state": 2,
+        "name": "Punt to MHS Gates",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 248,
+        "moving_time": 248,
+        "start_date": "2020-11-04T06:55:39Z",
+        "start_date_local": "2020-11-04T17:55:39Z",
+        "distance": 740.8,
+        "start_index": 270,
+        "end_index": 332,
+        "average_cadence": 84.1,
+        "device_watts": false,
+        "average_heartrate": 147.4,
+        "max_heartrate": 152.0,
+        "segment": {
+          "id": 36945157,
+          "resource_state": 2,
+          "name": "Punt to MHS Gates",
+          "activity_type": "Run",
+          "distance": 740.8,
+          "average_grade": -0.2,
+          "maximum_grade": 5.4,
+          "elevation_high": 16.9,
+          "elevation_low": 11.2,
+          "start_latlng": [
+            -37.830939,
+            144.988055
+          ],
+          "end_latlng": [
+            -37.834494,
+            144.994561
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1000.3,
+        "elapsed_time": 441,
+        "elevation_difference": -7.4,
+        "moving_time": 380,
+        "split": 1,
+        "average_speed": 2.63,
+        "average_grade_adjusted_speed": 2.67,
+        "average_heartrate": 149.63227513227514,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.9,
+        "elapsed_time": 364,
+        "elevation_difference": -5.8,
+        "moving_time": 354,
+        "split": 2,
+        "average_speed": 2.83,
+        "average_grade_adjusted_speed": 2.83,
+        "average_heartrate": 155.180790960452,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.3,
+        "elapsed_time": 406,
+        "elevation_difference": 0.6,
+        "moving_time": 362,
+        "split": 3,
+        "average_speed": 2.77,
+        "average_grade_adjusted_speed": 2.81,
+        "average_heartrate": 150.01388888888889,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.6,
+        "elapsed_time": 650,
+        "elevation_difference": 2.8,
+        "moving_time": 595,
+        "split": 4,
+        "average_speed": 1.68,
+        "average_grade_adjusted_speed": 1.7,
+        "average_heartrate": 125.67058823529412,
+        "pace_zone": 0
+      },
+      {
+        "distance": 5.5,
+        "elapsed_time": 5,
+        "elevation_difference": 0.2,
+        "moving_time": 5,
+        "split": 5,
+        "average_speed": 1.1,
+        "average_grade_adjusted_speed": 1.12,
+        "average_heartrate": 112.0,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1621.0,
+        "elapsed_time": 672,
+        "elevation_difference": -14.8,
+        "moving_time": 601,
+        "split": 1,
+        "average_speed": 2.7,
+        "average_grade_adjusted_speed": 2.71,
+        "average_heartrate": 151.57095158597662,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1599.0,
+        "elapsed_time": 614,
+        "elevation_difference": 3.8,
+        "moving_time": 570,
+        "split": 2,
+        "average_speed": 2.81,
+        "average_grade_adjusted_speed": 2.86,
+        "average_heartrate": 150.92077464788733,
+        "pace_zone": 0
+      },
+      {
+        "distance": 785.6,
+        "elapsed_time": 580,
+        "elevation_difference": 1.4,
+        "moving_time": 525,
+        "split": 3,
+        "average_speed": 1.5,
+        "average_grade_adjusted_speed": 1.51,
+        "average_heartrate": 122.51428571428572,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 14021067356,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 441,
+        "moving_time": 441,
+        "start_date": "2020-11-04T06:38:28Z",
+        "start_date_local": "2020-11-04T17:38:28Z",
+        "distance": 1000.0,
+        "average_speed": 2.27,
+        "max_speed": 3.6,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 127,
+        "total_elevation_gain": 11.0,
+        "average_cadence": 83.1,
+        "device_watts": false,
+        "average_heartrate": 149.6,
+        "max_heartrate": 156.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 14021067359,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 363,
+        "moving_time": 363,
+        "start_date": "2020-11-04T06:45:51Z",
+        "start_date_local": "2020-11-04T17:45:51Z",
+        "distance": 1000.0,
+        "average_speed": 2.75,
+        "max_speed": 4.0,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 128,
+        "end_index": 212,
+        "total_elevation_gain": 2.0,
+        "average_cadence": 83.5,
+        "device_watts": false,
+        "average_heartrate": 155.2,
+        "max_heartrate": 160.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 14021067362,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 405,
+        "moving_time": 405,
+        "start_date": "2020-11-04T06:51:54Z",
+        "start_date_local": "2020-11-04T17:51:54Z",
+        "distance": 1000.0,
+        "average_speed": 2.47,
+        "max_speed": 3.9,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 213,
+        "end_index": 316,
+        "total_elevation_gain": 6.0,
+        "average_cadence": 83.8,
+        "device_watts": false,
+        "average_heartrate": 150.0,
+        "max_heartrate": 158.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 14021067364,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 650,
+        "moving_time": 650,
+        "start_date": "2020-11-04T06:58:46Z",
+        "start_date_local": "2020-11-04T17:58:46Z",
+        "distance": 1000.0,
+        "average_speed": 1.54,
+        "max_speed": 3.6,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 317,
+        "end_index": 419,
+        "total_elevation_gain": 7.0,
+        "average_cadence": 67.8,
+        "device_watts": false,
+        "average_heartrate": 125.4,
+        "max_heartrate": 165.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941349,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 135,
+        "moving_time": 135,
+        "start_date": "2020-11-04T06:49:08Z",
+        "start_date_local": "2020-11-04T17:49:08Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 179,
+        "end_index": 206
+      },
+      {
+        "id": 29111941479,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 277,
+        "moving_time": 277,
+        "start_date": "2020-11-04T06:55:32Z",
+        "start_date_local": "2020-11-04T17:55:32Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 265,
+        "end_index": 338
+      },
+      {
+        "id": 29111941612,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 349,
+        "moving_time": 349,
+        "start_date": "2020-11-04T06:55:37Z",
+        "start_date_local": "2020-11-04T17:55:37Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 269,
+        "end_index": 358
+      },
+      {
+        "id": 29111941745,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 578,
+        "moving_time": 578,
+        "start_date": "2020-11-04T06:41:39Z",
+        "start_date_local": "2020-11-04T17:41:39Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 57,
+        "end_index": 205
+      },
+      {
+        "id": 29111941867,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 4283626892,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1200,
+        "moving_time": 1200,
+        "start_date": "2020-11-04T06:40:55Z",
+        "start_date_local": "2020-11-04T17:40:55Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 48,
+        "end_index": 352
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin v\u00edvoactive 3",
+    "embed_token": "47e8eaa22e419af7a4f53d80bbc515c5e8bed5ae",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.361792452830189,
+      "min_average_speed": 2.361792452830189,
+      "mid_average_speed": 2.361792452830189,
+      "max_average_speed": 2.361792452830189,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.361792452830189
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.361792452830189,
+        "mid_speed": 2.361792452830189,
+        "max_speed": 2.361792452830189,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

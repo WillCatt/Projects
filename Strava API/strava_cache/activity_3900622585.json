@@ -1,0 +1,443 @@
+{
+  "cached_at": "2025-10-06T18:45:07.145855",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Jayson",
+    "distance": 4783.3,
+    "moving_time": 1655,
+    "elapsed_time": 2400,
+    "total_elevation_gain": 0.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 3900622585,
+    "start_date": "2020-08-12T04:34:42Z",
+    "start_date_local": "2020-08-12T14:34:42Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 9,
+    "kudos_count": 2,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a3900622585",
+      "polyline": "ha`gFq{ytZL?JIPPZ@^LXARCD@XTLTRPJVBTADWJa@\\MDU@mAp@_@\\Ix@INMh@GLEBEVq@zB?XHh@Dd@Mx@M^Wh@K`@KRKd@UX_An@KP[t@@XAh@B\\?|@CRIf@M^Ud@Ol@Gt@K^Ed@]j@KJMVU^g@NMAOEYYIOYWKSEOBg@Hg@BIL{@A]KYA}@Da@JWBSCa@De@Au@Ik@@[FSL[\\[JOFg@J[@g@J[JOVQNETHL?RSLSDo@To@JOd@YNUH}@?o@F_@Xg@^i@H]N[?[BSP]X]Z_ANEHAd@]N@LATBLCXLLBb@?J@`AbAT^@JQNUDKLg@LcAp@MFKH]n@M`@YxAWl@SVCHK~@Bd@@p@[bBa@`AKZSXg@d@UJYXUt@?v@CPDl@?z@WdAk@nAK~@@j@CLIR@?DABO@w@Fk@Rq@Vm@T_ABcAEsAH_AP_@Ze@x@k@JONc@Xg@Pg@\\eB?_@Gc@BeAJ]Ze@Ti@b@gBAACHAG@I\\_@TQt@c@NMHEZINOTe@S]c@g@GAEEUDMEa@IOGS@OC_@Fg@\\WDKHU`AIZMp@Oh@_@r@U\\WXGNO~@At@Kd@OPQJa@`@GNGt@KPUTEFOh@g@^]FKDEDB@?M?DlIx@OH@?IJc@T[TOV[n@G^BbAFb@Cx@@TWt@c@z@Oh@EXAn@Od@QXENON_@^k@^ACSE[WYe@SUAIAYDSF[Hs@FMBUGe@GQCOFaAJa@Ee@",
+      "resource_state": 3,
+      "summary_polyline": "ha`gFq{ytZL?JIPPZ@^LXARCD@XTLTRPJVBTADWJa@\\MDU@mAp@_@\\Ix@INMh@GLEBEVq@zB?XHh@Dd@Mx@M^Wh@K`@KRKd@UX_An@KP[t@@XAv@BN?|@CRIf@M^Ud@Ol@Gt@K^Ed@]j@KJMVU^g@NMAOEYYIOYWKSEOBg@Hg@BIL{@A]KYA}@Da@JWBSCa@De@Au@Ik@@[FSL[\\[JOFg@J[?]BOHUJOVQNETHL?RSLSDo@To@JOd@YNUH}@?o@F_@Xg@^i@H]N[?[BSP]X]Z_ANEHAd@]N@LATBLCXLLBb@?J@`AbAT^@JQNUDKLg@LcAp@MFKH]n@M`@YxAWl@SVCHK~@Bd@@p@[bBa@`AKZSXg@d@UJYXUt@?v@CPDl@?z@WdAk@nAK~@@j@CLIR@?DABO@w@Fk@Rq@Vm@T_ABcAEsAH_AP_@Ze@x@k@JONc@Xg@Pg@\\eB?_@Gc@BeAJ]Ze@Ti@b@gBAACHAG@I\\_@TQt@c@NMHEZINOTe@S]c@g@GAEEUDMEa@IOGS@OC_@Fg@\\WDKHU`AIZMp@Oh@_@r@U\\WXGNO~@At@Kd@OPQJa@`@GNGt@KPUTEFOh@g@^]FKDEDB@?M?DlIx@OH@?IJc@T[TOV[n@G^BbAFb@Cx@@TWt@c@z@Oh@EXAn@Od@QXENON_@^k@^ACSE[WYe@SUAIAYDSF[Hs@FMBUGe@GQCOFaAJa@Ee@"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -38.016366,
+      145.136091
+    ],
+    "end_latlng": [
+      -38.013551,
+      145.130465
+    ],
+    "average_speed": 2.89,
+    "max_speed": 5.5,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 6.8,
+    "elev_low": 4.9,
+    "upload_id": 4174804822,
+    "upload_id_str": "4174804822",
+    "external_id": "86144ffa-b2a8-48e3-b6ff-f24d3df60724-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 4,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [
+      {
+        "id": 2728500659693109648,
+        "resource_state": 2,
+        "name": "Clockwise Waterways Lap",
+        "activity": {
+          "id": 3900622585,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 675,
+        "moving_time": 643,
+        "start_date": "2020-08-12T04:36:42Z",
+        "start_date_local": "2020-08-12T14:36:42Z",
+        "distance": 1872.6,
+        "start_index": 92,
+        "end_index": 599,
+        "device_watts": false,
+        "segment": {
+          "id": 11290630,
+          "resource_state": 2,
+          "name": "Clockwise Waterways Lap",
+          "activity_type": "Run",
+          "distance": 1872.6,
+          "average_grade": -0.0,
+          "maximum_grade": 5.6,
+          "elevation_high": 42.8,
+          "elevation_low": 39.4,
+          "start_latlng": [
+            -38.016302,
+            145.13411
+          ],
+          "end_latlng": [
+            -38.016316,
+            145.134093
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Waterways",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1004.1,
+        "elapsed_time": 356,
+        "elevation_difference": 0.7,
+        "moving_time": 356,
+        "split": 1,
+        "average_speed": 2.82,
+        "average_grade_adjusted_speed": 2.83,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1002.4,
+        "elapsed_time": 362,
+        "elevation_difference": -0.7,
+        "moving_time": 362,
+        "split": 2,
+        "average_speed": 2.77,
+        "average_grade_adjusted_speed": 2.77,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.4,
+        "elapsed_time": 349,
+        "elevation_difference": 0.5,
+        "moving_time": 349,
+        "split": 3,
+        "average_speed": 2.86,
+        "average_grade_adjusted_speed": 2.86,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.3,
+        "elapsed_time": 296,
+        "elevation_difference": -0.2,
+        "moving_time": 296,
+        "split": 4,
+        "average_speed": 3.37,
+        "average_grade_adjusted_speed": 3.37,
+        "pace_zone": 0
+      },
+      {
+        "distance": 783.1,
+        "elapsed_time": 1037,
+        "elevation_difference": 0.7,
+        "moving_time": 293,
+        "split": 5,
+        "average_speed": 2.67,
+        "average_grade_adjusted_speed": 2.68,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1611.4,
+        "elapsed_time": 571,
+        "elevation_difference": 0.3,
+        "moving_time": 571,
+        "split": 1,
+        "average_speed": 2.82,
+        "average_grade_adjusted_speed": 2.83,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.8,
+        "elapsed_time": 558,
+        "elevation_difference": 0.0,
+        "moving_time": 558,
+        "split": 2,
+        "average_speed": 2.88,
+        "average_grade_adjusted_speed": 2.89,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1563.1,
+        "elapsed_time": 1271,
+        "elevation_difference": 0.7,
+        "moving_time": 527,
+        "split": 3,
+        "average_speed": 2.97,
+        "average_grade_adjusted_speed": 2.97,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 12812471822,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 3900622585,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 2400,
+        "moving_time": 1655,
+        "start_date": "2020-08-12T04:34:42Z",
+        "start_date_local": "2020-08-12T14:34:42Z",
+        "distance": 4783.32,
+        "average_speed": 2.89,
+        "max_speed": 5.5,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1219,
+        "total_elevation_gain": 0.0,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941290,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 3900622585,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 106,
+        "moving_time": 106,
+        "start_date": "2020-08-12T04:51:35Z",
+        "start_date_local": "2020-08-12T14:51:35Z",
+        "distance": 400,
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "start_index": 757,
+        "end_index": 834
+      },
+      {
+        "id": 29111941423,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 3900622585,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 228,
+        "moving_time": 228,
+        "start_date": "2020-08-12T04:51:35Z",
+        "start_date_local": "2020-08-12T14:51:35Z",
+        "distance": 805,
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "start_index": 757,
+        "end_index": 920
+      },
+      {
+        "id": 29111941552,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 3900622585,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 286,
+        "moving_time": 286,
+        "start_date": "2020-08-12T04:51:36Z",
+        "start_date_local": "2020-08-12T14:51:36Z",
+        "distance": 1000,
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "start_index": 758,
+        "end_index": 962
+      },
+      {
+        "id": 29111941694,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 3900622585,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 499,
+        "moving_time": 499,
+        "start_date": "2020-08-12T04:49:37Z",
+        "start_date_local": "2020-08-12T14:49:37Z",
+        "distance": 1609,
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "start_index": 672,
+        "end_index": 1028
+      },
+      {
+        "id": 29111941826,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 3900622585,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1079,
+        "moving_time": 1079,
+        "start_date": "2020-08-12T04:39:59Z",
+        "start_date_local": "2020-08-12T14:39:59Z",
+        "distance": 3219,
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "start_index": 242,
+        "end_index": 1029
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava Android App",
+    "embed_token": "a046fe1dd1fd6239d6bc29ea013101ece888ac93",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.890211480362538,
+      "min_average_speed": 2.890211480362538,
+      "mid_average_speed": 2.890211480362538,
+      "max_average_speed": 2.890211480362538,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.890211480362538
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.890211480362538,
+        "mid_speed": 2.890211480362538,
+        "max_speed": 2.890211480362538,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

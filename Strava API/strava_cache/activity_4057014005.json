@@ -1,0 +1,1815 @@
+{
+  "cached_at": "2025-10-06T18:44:47.974525",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Post work ride",
+    "distance": 12286.2,
+    "moving_time": 1927,
+    "elapsed_time": 2039,
+    "total_elevation_gain": 75.9,
+    "type": "Ride",
+    "sport_type": "Ride",
+    "workout_type": 10,
+    "id": 4057014005,
+    "start_date": "2020-09-14T05:15:25Z",
+    "start_date_local": "2020-09-14T15:15:25Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 4,
+    "kudos_count": 8,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a4057014005",
+      "polyline": "vl{fFglotZAh@JPDBGLHC?IDCLAdAf@z@t@f@j@|CbE~AfC^f@x@x@RLAAHAE@?CHKVBD@DNNN|@Tt@XfBZzDd@zBNdCZ`MpAz@FLPA@AAQ\\[^_@d@gA`Ak@j@kEvF}AdBgCnDaBxBkBzB{CxDqCzCQJq@x@eEnFi@z@_DtFcDdGiDzGmC|E{AvCeA|BoGpMu@jBcDzJiI`Uq@xBMn@e@bHB~@PdAv@zAjAjBxCbFp@xAtAhDtA~Dj@rAh@~AbB|GjArD|@xAfAzAn@n@\\XdAp@r@Z|Af@nBbATPtMfRfAbBX`AJjA?jASx@CZQV_@z@IXg@hASp@OVk@xAi@X@CDBDUFFNc@\\uAjBkGXeAFe@CqAI{@Qs@O_@u@gAuEwFkBeCsBwC_AiASQcAi@uEkBu@_@o@g@w@kAaAaBg@gASs@Wm@Cg@Mq@_BmGw@{BoCgH]{@gAyBQSgAeBMOmAuBi@w@[q@[u@Og@EYDsAp@mHXyAf@}AN_@n@mA|@_CvD}KzB_GlBqFd@cAbGgLrEaKnBwDxGuLlBqDzB{D^g@bBiBpSqVfDaEJSASOIs@CcAKsAKaCU{@MsAKs@IMKGOOEeA?sDa@oBQgBYSAa@BIAIFKMOGS_@@GOe@k@cAgBsCaCcEaCkDcAaBUy@YM?GGE?E?BAAAKJIDSJcAFI^]`CkAD?BFFELmBJ}CZsFAOQSy@_@@@",
+      "resource_state": 3,
+      "summary_polyline": "vl{fFglotZAh@JPDBGLHC?IDCLAdAf@z@t@f@j@|CbE~AfC^f@x@x@RLAAHAE@?CHKVBD@DNNN|@Tt@XfBZzDd@zBNdCZ`MpAz@FLPA@AAQ\\[^_@d@gA`Ak@j@kEvF}AdBgCnDaBxBkBzB{CxDqCzCQJq@x@eEnFi@z@_DtFcDdGiDzGmC|E{AvCeA|BoGpMu@jBcDzJiI`Uq@xBMn@e@bHB~@PdAv@zAjAjBxCbFp@xAtAhDtA~Dj@rAh@~AbB|GjArD|@xAfAzAn@n@\\XdAp@r@Z|Af@nBbATPtMfRfAbBX`AJjA?jASx@CZQV_@z@IXg@hASp@OVk@xAi@X@CDBDUFFNc@\\uAjBkGXeAFe@CqAI{@Qs@O_@u@gAuEwFkBeCsBwC_AiASQcAi@uEkBu@_@o@g@w@kAaAaBg@gASs@Wm@Cg@Mq@_BmGw@{BoCgH]{@gAyBQSgAeBMOmAuBi@w@[q@[u@Og@EYDsAp@mHXyAf@}AN_@n@mA|@_CvD}KzB_GlBqFd@cAbGgLrEaKnBwDxGuLlBqDzB{D^g@bBiBpSqVfDaEJSASOIs@CcAKsAKaCU{@MsAKs@IMKGOOEeA?sDa@oBQgBYSAa@BIAIFKMOGS_@@GOe@k@cAgBsCaCcEaCkDcAaBUy@YM?GGE?E?BAAAKJIDSJcAFI^]`CkAD?BFFELmBJ}CZsFAOQSy@_@@@"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.992596,
+      145.082445
+    ],
+    "end_latlng": [
+      -37.991945,
+      145.084902
+    ],
+    "average_speed": 6.376,
+    "max_speed": 11.9,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 25.6,
+    "elev_low": 8.9,
+    "upload_id": 4341862397,
+    "upload_id_str": "4341862397",
+    "external_id": "48f7410a-3d9c-43a9-a07d-08e729d7a3aa-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 1,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "30 minute cross train",
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [
+      {
+        "id": 2740466680416731866,
+        "resource_state": 2,
+        "name": "Parkdale Beach Cafe to Naples Park",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 279,
+        "moving_time": 269,
+        "start_date": "2020-09-14T05:20:11Z",
+        "start_date_local": "2020-09-14T15:20:11Z",
+        "distance": 1903.5,
+        "start_index": 198,
+        "end_index": 371,
+        "device_watts": false,
+        "segment": {
+          "id": 5422777,
+          "resource_state": 2,
+          "name": "Parkdale Beach Cafe to Naples Park",
+          "activity_type": "Ride",
+          "distance": 1903.5,
+          "average_grade": -0.1,
+          "maximum_grade": 17.6,
+          "elevation_high": 14.1,
+          "elevation_low": 4.8,
+          "start_latlng": [
+            -37.999876,
+            145.075626
+          ],
+          "end_latlng": [
+            -37.98933,
+            145.06049
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680416616154,
+        "resource_state": 2,
+        "name": "The Beauy Bumps",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 364,
+        "moving_time": 364,
+        "start_date": "2020-09-14T05:23:07Z",
+        "start_date_local": "2020-09-14T15:23:07Z",
+        "distance": 2383.53,
+        "start_index": 307,
+        "end_index": 533,
+        "device_watts": false,
+        "segment": {
+          "id": 1870383,
+          "resource_state": 2,
+          "name": "The Beauy Bumps",
+          "activity_type": "Ride",
+          "distance": 2383.53,
+          "average_grade": 0.2,
+          "maximum_grade": 4.3,
+          "elevation_high": 3.6,
+          "elevation_low": -9.8,
+          "start_latlng": [
+            -37.99276817589998,
+            145.06665363907814
+          ],
+          "end_latlng": [
+            -37.99004481174052,
+            145.04366509616375
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680417375962,
+        "resource_state": 2,
+        "name": "Charming Mentone Pub",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 224,
+        "moving_time": 224,
+        "start_date": "2020-09-14T05:23:17Z",
+        "start_date_local": "2020-09-14T15:23:17Z",
+        "distance": 1430.3,
+        "start_index": 313,
+        "end_index": 453,
+        "device_watts": false,
+        "segment": {
+          "id": 7482924,
+          "resource_state": 2,
+          "name": "Charming Mentone Pub",
+          "activity_type": "Ride",
+          "distance": 1430.3,
+          "average_grade": 0.7,
+          "maximum_grade": 4.4,
+          "elevation_high": 20.4,
+          "elevation_low": 8.0,
+          "start_latlng": [
+            -37.992342,
+            145.065945
+          ],
+          "end_latlng": [
+            -37.985918,
+            145.052011
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680420219610,
+        "resource_state": 2,
+        "name": "Bay Trail Single Track (descent)",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 49,
+        "moving_time": 49,
+        "start_date": "2020-09-14T05:23:58Z",
+        "start_date_local": "2020-09-14T15:23:58Z",
+        "distance": 318.6,
+        "start_index": 339,
+        "end_index": 369,
+        "device_watts": false,
+        "segment": {
+          "id": 16202351,
+          "resource_state": 2,
+          "name": "Bay Trail Single Track (descent)",
+          "activity_type": "Ride",
+          "distance": 318.6,
+          "average_grade": -0.3,
+          "maximum_grade": 1.6,
+          "elevation_high": 13.7,
+          "elevation_low": 11.1,
+          "start_latlng": [
+            -37.991038,
+            145.063584
+          ],
+          "end_latlng": [
+            -37.989528,
+            145.060539
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680419709658,
+        "resource_state": 2,
+        "name": "LaP Charman Sprint",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 125,
+        "moving_time": 125,
+        "start_date": "2020-09-14T05:24:56Z",
+        "start_date_local": "2020-09-14T15:24:56Z",
+        "distance": 814.2,
+        "start_index": 375,
+        "end_index": 453,
+        "device_watts": false,
+        "segment": {
+          "id": 4531804,
+          "resource_state": 2,
+          "name": "LaP Charman Sprint",
+          "activity_type": "Ride",
+          "distance": 814.2,
+          "average_grade": 1.1,
+          "maximum_grade": 9.5,
+          "elevation_high": 27.2,
+          "elevation_low": 15.6,
+          "start_latlng": [
+            -37.988939,
+            145.060143
+          ],
+          "end_latlng": [
+            -37.985877,
+            145.051963
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680418472666,
+        "resource_state": 2,
+        "name": "Col de Charman",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 78,
+        "moving_time": 78,
+        "start_date": "2020-09-14T05:25:00Z",
+        "start_date_local": "2020-09-14T15:25:00Z",
+        "distance": 525.08,
+        "start_index": 378,
+        "end_index": 427,
+        "device_watts": false,
+        "segment": {
+          "id": 3380501,
+          "resource_state": 2,
+          "name": "Col de Charman",
+          "activity_type": "Ride",
+          "distance": 525.08,
+          "average_grade": 1.3,
+          "maximum_grade": 6.4,
+          "elevation_high": 25.0,
+          "elevation_low": 18.2,
+          "start_latlng": [
+            -37.988762967288494,
+            145.05977159366012
+          ],
+          "end_latlng": [
+            -37.98638963140547,
+            145.05453944206238
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680416425690,
+        "resource_state": 2,
+        "name": "Beach Rd Climb",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 79,
+        "moving_time": 79,
+        "start_date": "2020-09-14T05:26:00Z",
+        "start_date_local": "2020-09-14T15:26:00Z",
+        "distance": 469.09,
+        "start_index": 416,
+        "end_index": 464,
+        "device_watts": false,
+        "segment": {
+          "id": 806400,
+          "resource_state": 2,
+          "name": "Beach Rd Climb",
+          "activity_type": "Ride",
+          "distance": 469.09,
+          "average_grade": -0.9,
+          "maximum_grade": 22.5,
+          "elevation_high": 20.7,
+          "elevation_low": 7.4,
+          "start_latlng": [
+            -37.98680713400245,
+            145.05569899454713
+          ],
+          "end_latlng": [
+            -37.98651083372533,
+            145.05084838718176
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680416888538,
+        "resource_state": 2,
+        "name": "Change of wind mordy return",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 237,
+        "moving_time": 237,
+        "start_date": "2020-09-14T05:27:03Z",
+        "start_date_local": "2020-09-14T15:27:03Z",
+        "distance": 1614.5,
+        "start_index": 454,
+        "end_index": 604,
+        "device_watts": false,
+        "segment": {
+          "id": 5325743,
+          "resource_state": 2,
+          "name": "Change of wind mordy return",
+          "activity_type": "Ride",
+          "distance": 1614.5,
+          "average_grade": -0.6,
+          "maximum_grade": 31.3,
+          "elevation_high": 20.7,
+          "elevation_low": 0.0,
+          "start_latlng": [
+            -37.985969,
+            145.051882
+          ],
+          "end_latlng": [
+            -37.995237,
+            145.038258
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Beaumaris",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3174237801608550424,
+        "resource_state": 2,
+        "name": "Carly's Crack Sprint",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 78,
+        "moving_time": 78,
+        "start_date": "2020-09-14T05:28:49Z",
+        "start_date_local": "2020-09-14T15:28:49Z",
+        "distance": 513.0,
+        "start_index": 521,
+        "end_index": 569,
+        "device_watts": false,
+        "segment": {
+          "id": 36028677,
+          "resource_state": 2,
+          "name": "Carly's Crack Sprint",
+          "activity_type": "Ride",
+          "distance": 513.0,
+          "average_grade": -0.2,
+          "maximum_grade": 4.6,
+          "elevation_high": 20.4,
+          "elevation_low": 17.4,
+          "start_latlng": [
+            -37.989406,
+            145.045076
+          ],
+          "end_latlng": [
+            -37.99281,
+            145.041419
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680419331802,
+        "resource_state": 2,
+        "name": "Tramway Pde crossing/peak to Keys St",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 106,
+        "moving_time": 106,
+        "start_date": "2020-09-14T05:33:53Z",
+        "start_date_local": "2020-09-14T15:33:53Z",
+        "distance": 785.7,
+        "start_index": 640,
+        "end_index": 709,
+        "device_watts": false,
+        "segment": {
+          "id": 8024497,
+          "resource_state": 2,
+          "name": "Tramway Pde crossing/peak to Keys St",
+          "activity_type": "Ride",
+          "distance": 785.7,
+          "average_grade": -0.6,
+          "maximum_grade": 22.1,
+          "elevation_high": 14.2,
+          "elevation_low": 0.0,
+          "start_latlng": [
+            -37.994417,
+            145.034644
+          ],
+          "end_latlng": [
+            -37.992335,
+            145.04178
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Beaumaris",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2748084241899542128,
+        "resource_state": 2,
+        "name": "Beach Road Banking",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 49,
+        "moving_time": 49,
+        "start_date": "2020-09-14T05:34:08Z",
+        "start_date_local": "2020-09-14T15:34:08Z",
+        "distance": 430.7,
+        "start_index": 651,
+        "end_index": 684,
+        "device_watts": false,
+        "segment": {
+          "id": 25956760,
+          "resource_state": 2,
+          "name": "Beach Road Banking",
+          "activity_type": "Ride",
+          "distance": 430.7,
+          "average_grade": -0.6,
+          "maximum_grade": 2.2,
+          "elevation_high": 15.7,
+          "elevation_low": 12.2,
+          "start_latlng": [
+            -37.994697,
+            145.035313
+          ],
+          "end_latlng": [
+            -37.994364,
+            145.039467
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Beaumaris",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680422834906,
+        "resource_state": 2,
+        "name": "Change of wind to mordy",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 225,
+        "moving_time": 225,
+        "start_date": "2020-09-14T05:34:37Z",
+        "start_date_local": "2020-09-14T15:34:37Z",
+        "distance": 1650.2,
+        "start_index": 671,
+        "end_index": 810,
+        "device_watts": false,
+        "segment": {
+          "id": 5325742,
+          "resource_state": 2,
+          "name": "Change of wind to mordy",
+          "activity_type": "Ride",
+          "distance": 1650.2,
+          "average_grade": 0.6,
+          "maximum_grade": 50.5,
+          "elevation_high": 21.4,
+          "elevation_low": 0.0,
+          "start_latlng": [
+            -37.995264,
+            145.037987
+          ],
+          "end_latlng": [
+            -37.985846,
+            145.051973
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Beaumaris",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680417986266,
+        "resource_state": 2,
+        "name": "Spark-Key's Sprint",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 47,
+        "moving_time": 47,
+        "start_date": "2020-09-14T05:34:56Z",
+        "start_date_local": "2020-09-14T15:34:56Z",
+        "distance": 341.4,
+        "start_index": 683,
+        "end_index": 712,
+        "device_watts": false,
+        "segment": {
+          "id": 8537978,
+          "resource_state": 2,
+          "name": "Spark-Key's Sprint",
+          "activity_type": "Ride",
+          "distance": 341.4,
+          "average_grade": 1.4,
+          "maximum_grade": 5.1,
+          "elevation_high": 59.0,
+          "elevation_low": 54.2,
+          "start_latlng": [
+            -37.994484,
+            145.039286
+          ],
+          "end_latlng": [
+            -37.992178,
+            145.041926
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Beaumaris",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680417274586,
+        "resource_state": 2,
+        "name": "Keys St to Deauville St",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 87,
+        "moving_time": 87,
+        "start_date": "2020-09-14T05:35:45Z",
+        "start_date_local": "2020-09-14T15:35:45Z",
+        "distance": 680.2,
+        "start_index": 714,
+        "end_index": 765,
+        "device_watts": false,
+        "segment": {
+          "id": 8024587,
+          "resource_state": 2,
+          "name": "Keys St to Deauville St",
+          "activity_type": "Ride",
+          "distance": 680.2,
+          "average_grade": -0.4,
+          "maximum_grade": 23.5,
+          "elevation_high": 17.5,
+          "elevation_low": 0.0,
+          "start_latlng": [
+            -37.992014,
+            145.041973
+          ],
+          "end_latlng": [
+            -37.988255,
+            145.047618
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Beaumaris",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3155842069753222694,
+        "resource_state": 2,
+        "name": "banksia to sea parade (d)",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 150,
+        "moving_time": 150,
+        "start_date": "2020-09-14T05:36:07Z",
+        "start_date_local": "2020-09-14T15:36:07Z",
+        "distance": 1067.4,
+        "start_index": 725,
+        "end_index": 819,
+        "device_watts": false,
+        "segment": {
+          "id": 34585176,
+          "resource_state": 2,
+          "name": "banksia to sea parade (d)",
+          "activity_type": "Ride",
+          "distance": 1067.4,
+          "average_grade": 0.8,
+          "maximum_grade": 6.4,
+          "elevation_high": 46.4,
+          "elevation_low": 36.4,
+          "start_latlng": [
+            -37.990609,
+            145.042761
+          ],
+          "end_latlng": [
+            -37.985849,
+            145.052973
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680422116058,
+        "resource_state": 2,
+        "name": "Deauville St to Cliff Gve peak",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 53,
+        "moving_time": 53,
+        "start_date": "2020-09-14T05:37:12Z",
+        "start_date_local": "2020-09-14T15:37:12Z",
+        "distance": 373.1,
+        "start_index": 765,
+        "end_index": 799,
+        "device_watts": false,
+        "segment": {
+          "id": 8026615,
+          "resource_state": 2,
+          "name": "Deauville St to Cliff Gve peak",
+          "activity_type": "Ride",
+          "distance": 373.1,
+          "average_grade": -0.5,
+          "maximum_grade": 36.3,
+          "elevation_high": 16.7,
+          "elevation_low": 0.0,
+          "start_latlng": [
+            -37.988255,
+            145.047618
+          ],
+          "end_latlng": [
+            -37.986307,
+            145.051002
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Beaumaris",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680421448410,
+        "resource_state": 2,
+        "name": "Col des Charman (west side)",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 68,
+        "moving_time": 68,
+        "start_date": "2020-09-14T05:37:22Z",
+        "start_date_local": "2020-09-14T15:37:22Z",
+        "distance": 422.5,
+        "start_index": 771,
+        "end_index": 815,
+        "device_watts": false,
+        "segment": {
+          "id": 5929030,
+          "resource_state": 2,
+          "name": "Col des Charman (west side)",
+          "activity_type": "Ride",
+          "distance": 422.5,
+          "average_grade": 1.4,
+          "maximum_grade": 3.4,
+          "elevation_high": 12.2,
+          "elevation_low": 6.4,
+          "start_latlng": [
+            -37.987876,
+            145.048433
+          ],
+          "end_latlng": [
+            -37.985861,
+            145.052481
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Beaumaris",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680421265114,
+        "resource_state": 2,
+        "name": "Cliff Gve to Kitchener St/Naples Rd crossing",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 120,
+        "moving_time": 120,
+        "start_date": "2020-09-14T05:38:05Z",
+        "start_date_local": "2020-09-14T15:38:05Z",
+        "distance": 873.6,
+        "start_index": 799,
+        "end_index": 876,
+        "device_watts": false,
+        "segment": {
+          "id": 8026645,
+          "resource_state": 2,
+          "name": "Cliff Gve to Kitchener St/Naples Rd crossing",
+          "activity_type": "Ride",
+          "distance": 873.6,
+          "average_grade": 0.1,
+          "maximum_grade": 13.5,
+          "elevation_high": 21.5,
+          "elevation_low": 8.1,
+          "start_latlng": [
+            -37.986307,
+            145.051002
+          ],
+          "end_latlng": [
+            -37.98867,
+            145.059814
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Beaumaris",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680420438746,
+        "resource_state": 2,
+        "name": "Charman to Dixon S'bound",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 209,
+        "moving_time": 209,
+        "start_date": "2020-09-14T05:38:24Z",
+        "start_date_local": "2020-09-14T15:38:24Z",
+        "distance": 1575.51,
+        "start_index": 811,
+        "end_index": 943,
+        "device_watts": false,
+        "segment": {
+          "id": 2509613,
+          "resource_state": 2,
+          "name": "Charman to Dixon S'bound",
+          "activity_type": "Ride",
+          "distance": 1575.51,
+          "average_grade": -0.8,
+          "maximum_grade": 6.4,
+          "elevation_high": 23.2,
+          "elevation_low": 9.8,
+          "start_latlng": [
+            -37.98569560982287,
+            145.05209175869823
+          ],
+          "end_latlng": [
+            -37.99296498298645,
+            145.0672896578908
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Beaumaris",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680420824794,
+        "resource_state": 2,
+        "name": "Marina to Naples",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 78,
+        "moving_time": 78,
+        "start_date": "2020-09-14T05:38:54Z",
+        "start_date_local": "2020-09-14T15:38:54Z",
+        "distance": 611.6,
+        "start_index": 830,
+        "end_index": 881,
+        "device_watts": false,
+        "segment": {
+          "id": 5240344,
+          "resource_state": 2,
+          "name": "Marina to Naples",
+          "activity_type": "Ride",
+          "distance": 611.6,
+          "average_grade": -0.9,
+          "maximum_grade": 12.6,
+          "elevation_high": 16.8,
+          "elevation_low": 8.1,
+          "start_latlng": [
+            -37.986204,
+            145.054306
+          ],
+          "end_latlng": [
+            -37.988919,
+            145.060337
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Beaumaris",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680423907034,
+        "resource_state": 2,
+        "name": "BB attack",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 97,
+        "moving_time": 97,
+        "start_date": "2020-09-14T05:39:28Z",
+        "start_date_local": "2020-09-14T15:39:28Z",
+        "distance": 688.8,
+        "start_index": 852,
+        "end_index": 913,
+        "device_watts": false,
+        "segment": {
+          "id": 4243458,
+          "resource_state": 2,
+          "name": "BB attack",
+          "activity_type": "Ride",
+          "distance": 688.8,
+          "average_grade": -0.1,
+          "maximum_grade": 3.3,
+          "elevation_high": 13.8,
+          "elevation_low": 7.6,
+          "start_latlng": [
+            -37.987511,
+            145.057146
+          ],
+          "end_latlng": [
+            -37.99092,
+            145.063676
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680423834330,
+        "resource_state": 2,
+        "name": "Kitchener St/Naples Rd crossing to peak (82 Beach Rd)",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 40,
+        "moving_time": 40,
+        "start_date": "2020-09-14T05:40:05Z",
+        "start_date_local": "2020-09-14T15:40:05Z",
+        "distance": 285.0,
+        "start_index": 876,
+        "end_index": 900,
+        "device_watts": false,
+        "segment": {
+          "id": 8026722,
+          "resource_state": 2,
+          "name": "Kitchener St/Naples Rd crossing to peak (82 Beach Rd)",
+          "activity_type": "Ride",
+          "distance": 285.0,
+          "average_grade": 1.8,
+          "maximum_grade": 4.2,
+          "elevation_high": 14.5,
+          "elevation_low": 9.5,
+          "start_latlng": [
+            -37.98867,
+            145.059814
+          ],
+          "end_latlng": [
+            -37.990118,
+            145.062425
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680422627034,
+        "resource_state": 2,
+        "name": "Mentone Girls Sprint",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 65,
+        "moving_time": 65,
+        "start_date": "2020-09-14T05:40:12Z",
+        "start_date_local": "2020-09-14T15:40:12Z",
+        "distance": 452.2,
+        "start_index": 881,
+        "end_index": 921,
+        "device_watts": false,
+        "segment": {
+          "id": 8207068,
+          "resource_state": 2,
+          "name": "Mentone Girls Sprint",
+          "activity_type": "Ride",
+          "distance": 452.2,
+          "average_grade": 1.5,
+          "maximum_grade": 5.6,
+          "elevation_high": 15.2,
+          "elevation_low": 8.2,
+          "start_latlng": [
+            -37.988935,
+            145.06041
+          ],
+          "end_latlng": [
+            -37.991355,
+            145.064523
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680423053018,
+        "resource_state": 2,
+        "name": "Napoli al pub",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 25,
+        "moving_time": 25,
+        "start_date": "2020-09-14T05:40:27Z",
+        "start_date_local": "2020-09-14T15:40:27Z",
+        "distance": 159.99,
+        "start_index": 890,
+        "end_index": 904,
+        "device_watts": false,
+        "segment": {
+          "id": 3491304,
+          "resource_state": 2,
+          "name": "Napoli al pub",
+          "activity_type": "Ride",
+          "distance": 159.99,
+          "average_grade": 4.4,
+          "maximum_grade": 6.3,
+          "elevation_high": 39.0,
+          "elevation_low": 32.0,
+          "start_latlng": [
+            -37.989491606131196,
+            145.06137304008007
+          ],
+          "end_latlng": [
+            -37.990320324897766,
+            145.06284113042057
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680420983514,
+        "resource_state": 2,
+        "name": "Parade to Parkers",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 163,
+        "moving_time": 163,
+        "start_date": "2020-09-14T05:41:34Z",
+        "start_date_local": "2020-09-14T15:41:34Z",
+        "distance": 1203.5,
+        "start_index": 931,
+        "end_index": 1038,
+        "device_watts": false,
+        "segment": {
+          "id": 9035488,
+          "resource_state": 2,
+          "name": "Parade to Parkers",
+          "activity_type": "Ride",
+          "distance": 1203.5,
+          "average_grade": -0.4,
+          "maximum_grade": 0.0,
+          "elevation_high": 28.4,
+          "elevation_low": 23.0,
+          "start_latlng": [
+            -37.992125,
+            145.065773
+          ],
+          "end_latlng": [
+            -37.999741,
+            145.075604
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680420395738,
+        "resource_state": 2,
+        "name": "Antibes/Birdwood St crossing to Parkers Rd crossing",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 82,
+        "moving_time": 82,
+        "start_date": "2020-09-14T05:42:55Z",
+        "start_date_local": "2020-09-14T15:42:55Z",
+        "distance": 595.4,
+        "start_index": 983,
+        "end_index": 1038,
+        "device_watts": false,
+        "segment": {
+          "id": 8026792,
+          "resource_state": 2,
+          "name": "Antibes/Birdwood St crossing to Parkers Rd crossing",
+          "activity_type": "Ride",
+          "distance": 595.4,
+          "average_grade": -0.2,
+          "maximum_grade": 3.0,
+          "elevation_high": 13.0,
+          "elevation_low": 9.9,
+          "start_latlng": [
+            -37.995841,
+            145.071162
+          ],
+          "end_latlng": [
+            -37.999777,
+            145.075711
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2740466680423440090,
+        "resource_state": 2,
+        "name": "Parkers cafe",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 102,
+        "moving_time": 102,
+        "start_date": "2020-09-14T05:44:15Z",
+        "start_date_local": "2020-09-14T15:44:15Z",
+        "distance": 578.8,
+        "start_index": 1037,
+        "end_index": 1100,
+        "device_watts": false,
+        "segment": {
+          "id": 6746001,
+          "resource_state": 2,
+          "name": "Parkers cafe",
+          "activity_type": "Ride",
+          "distance": 578.8,
+          "average_grade": 0.0,
+          "maximum_grade": 0.0,
+          "elevation_high": 10490.0,
+          "elevation_low": 10490.0,
+          "start_latlng": [
+            -37.99956,
+            145.075422
+          ],
+          "end_latlng": [
+            -37.994677,
+            145.076563
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1005.5,
+        "elapsed_time": 211,
+        "elevation_difference": -11.3,
+        "moving_time": 211,
+        "split": 1,
+        "average_speed": 4.77,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.7,
+        "elapsed_time": 151,
+        "elevation_difference": -1.1,
+        "moving_time": 151,
+        "split": 2,
+        "average_speed": 6.62,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.4,
+        "elapsed_time": 168,
+        "elevation_difference": 9.9,
+        "moving_time": 168,
+        "split": 3,
+        "average_speed": 5.98,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 992.7,
+        "elapsed_time": 149,
+        "elevation_difference": 3.9,
+        "moving_time": 149,
+        "split": 4,
+        "average_speed": 6.66,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.1,
+        "elapsed_time": 154,
+        "elevation_difference": -6.4,
+        "moving_time": 154,
+        "split": 5,
+        "average_speed": 6.48,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1005.6,
+        "elapsed_time": 146,
+        "elevation_difference": -2.7,
+        "moving_time": 146,
+        "split": 6,
+        "average_speed": 6.89,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1007.6,
+        "elapsed_time": 255,
+        "elevation_difference": 1.8,
+        "moving_time": 143,
+        "split": 7,
+        "average_speed": 7.05,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.2,
+        "elapsed_time": 136,
+        "elevation_difference": 7.4,
+        "moving_time": 136,
+        "split": 8,
+        "average_speed": 7.35,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 992.9,
+        "elapsed_time": 134,
+        "elevation_difference": -7.2,
+        "moving_time": 134,
+        "split": 9,
+        "average_speed": 7.41,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.5,
+        "elapsed_time": 134,
+        "elevation_difference": -6.2,
+        "moving_time": 134,
+        "split": 10,
+        "average_speed": 7.47,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.3,
+        "elapsed_time": 150,
+        "elevation_difference": 8.9,
+        "moving_time": 150,
+        "split": 11,
+        "average_speed": 6.64,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1003.0,
+        "elapsed_time": 203,
+        "elevation_difference": 4.4,
+        "moving_time": 203,
+        "split": 12,
+        "average_speed": 4.94,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 279.7,
+        "elapsed_time": 48,
+        "elevation_difference": -5.2,
+        "moving_time": 48,
+        "split": 13,
+        "average_speed": 5.83,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1610.2,
+        "elapsed_time": 305,
+        "elevation_difference": -12.4,
+        "moving_time": 305,
+        "split": 1,
+        "average_speed": 5.28,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1618.2,
+        "elapsed_time": 257,
+        "elevation_difference": 4.0,
+        "moving_time": 257,
+        "split": 2,
+        "average_speed": 6.3,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1600.1,
+        "elapsed_time": 244,
+        "elevation_difference": 3.3,
+        "moving_time": 244,
+        "split": 3,
+        "average_speed": 6.56,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1623.2,
+        "elapsed_time": 353,
+        "elevation_difference": -6.0,
+        "moving_time": 241,
+        "split": 4,
+        "average_speed": 6.74,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1605.9,
+        "elapsed_time": 218,
+        "elevation_difference": 13.2,
+        "moving_time": 218,
+        "split": 5,
+        "average_speed": 7.37,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1602.5,
+        "elapsed_time": 214,
+        "elevation_difference": -12.5,
+        "moving_time": 214,
+        "split": 6,
+        "average_speed": 7.49,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.0,
+        "elapsed_time": 246,
+        "elevation_difference": 10.4,
+        "moving_time": 246,
+        "split": 7,
+        "average_speed": 6.54,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1017.1,
+        "elapsed_time": 202,
+        "elevation_difference": -3.8,
+        "moving_time": 202,
+        "split": 8,
+        "average_speed": 5.04,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 13296985479,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 4057014005,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 2039,
+        "moving_time": 1927,
+        "start_date": "2020-09-14T05:15:25Z",
+        "start_date_local": "2020-09-14T15:15:25Z",
+        "distance": 12286.2,
+        "average_speed": 6.38,
+        "max_speed": 11.9,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1237,
+        "total_elevation_gain": 80.4,
+        "device_watts": false
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava Android App",
+    "embed_token": "e23689ecf054a134e77af25c9a5220600f2e0793",
+    "available_zones": []
+  }
+}

@@ -1,0 +1,808 @@
+{
+  "cached_at": "2025-10-06T18:16:52.229989",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Morning Run",
+    "distance": 5261.0,
+    "moving_time": 1737,
+    "elapsed_time": 1778,
+    "total_elevation_gain": 27.3,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 5687424324,
+    "start_date": "2021-07-25T22:03:48Z",
+    "start_date_local": "2021-07-26T08:03:48Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 6,
+    "kudos_count": 4,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a5687424324",
+      "polyline": "je}eFiq_tZCI@NGABKHEUOk@?SF_@KWCIEYGi@EQEa@BECQAG@IEK?k@KK@MMKe@UU]Mi@?CC@]EIDK?OCIBEACO?EEEA[AUGIGQ?GBWZODWPAJKLSBGJu@rBMfAEN@NARCF?TF^?LZ~AJ^ALBFBRDJBBCZT`BDp@DRB?@TB@AD?HNfAL^?^FFPdCARDjAMt@FZEZAn@E\\Ml@IRGZGx@@HKf@?RITCb@I`@ANBHMV?DM^?DO^Id@GHETINFTEP@JEP?`AK`@Gj@KPEl@k@vBGFCNQ`@u@rAi@t@IDSFIFe@NQNMPULKPOJGNc@\\MT]VOXe@`@GNa@\\STMBOTQJKNCJSHQTUPc@f@GCETQXE@GJg@f@MFGFKPIDCHE@[ZAFOHYZIBa@Zs@x@AFEBKV_@x@?FQZCTYz@?LEDCT@LCPY~A@TCX@GGABGCt@QpAOxBIl@EF?PI^C^M`@Ml@KRYz@EZGHOf@KRGT?INULe@L]BKBCX{@T_APoAB@Bg@Le@?MFc@FmADWF{@N_AF{AJMLc@L_A@]Lo@L[?KH@HMXq@TYBIT[RURGBMDIv@o@HOPKZa@JGDBDEHOVSDKh@w@TMRORDFc@b@k@BI^WFKZMNWRMHOTQd@o@PKPYNIXe@FA@Gb@[HQ`@]TEPQd@QPQv@iAf@eANs@JQDY@EJ?Fe@HUTYJEHIB_@Li@@WDS?IDCDg@HMFSAQNM?KDGCGC?DM@m@FWDm@BA@OLk@DGB[BK?ULs@@[D]J_@D_@@u@CCC?LM@Ul@uAGe@CGHI?SBK?a@Ks@Ii@I[WkBIS?i@CE@GGi@Cy@UuAKWGE@QIS@SG_@K]@GKQQu@@SCU@aAN{AHOAGB?BQHEFSPQDQDCRc@FQHODAHKDA@EPIBEJHTFJ?",
+      "resource_state": 3,
+      "summary_polyline": "je}eFiq_tZCI@NGABKHEUOk@?SF_@KWCIEYGi@EQEa@BECQAG@IEK?k@KK@MMKe@UU]Mi@?CC@]EIDK?OCIBEACO?EEEA[AUGIGQ?GBWZODWPAJKLSBGJu@rBMfAEN@NARCF?TF^?LZ~AJ^ALBFBRDJBBCZT`BDp@DRB?@TB@AD?HNfAL^?^FFPdCARDjAMt@FZEZAn@E\\Ml@IRGZGx@@HKf@?RITCb@I`@ANBHMV?DM^?DO^Id@GHETINFTEP@JEP?`AK`@Gj@KPEl@k@vBGFCNQ`@u@rAi@t@IDSFIFe@NQNMPULKPOJGNc@\\MT]VOXe@`@GNa@\\STMBOTQJKNCJSHQTUPc@f@GCETQXE@GJg@f@MFGFKPIDCHE@[ZAFOHYZIBa@Zs@x@AFEBKV_@x@?FQZCTYz@?LEDCT@LCPY~A@TCX@GGABGCt@QpAOxBIl@EF?PI^C^M`@Ml@KRYz@EZGHOf@KRGT?INULe@L]BKBCX{@T_APoAB@Bg@Le@?MFc@FmADWF{@N_AF{AJMLc@L_A@]Lo@L[?KH@HMXq@TYBIT[RURGBMDIv@o@HOPKZa@JGDBDEHOVSDKh@w@TMRORDFc@b@k@BI^WFKZMNWRMHOTQd@o@PKPYNIXe@FA@Gb@[HQ`@]TEPQd@QPQv@iAf@eANs@JQDY@EJ?Fe@HUTYJEHIB_@Li@@WDS?IDCDg@HMFSAQNM?KDGCGC?DM@m@FWDm@BA@OLk@DGB[BK?ULs@@[D]J_@D_@@u@CCC?LM@Ul@uAGe@CGHI?SBK?a@Ks@Ii@I[WkBIS?i@CE@GGi@Cy@UuAKWGE@QIS@SG_@K]@GKQQu@@SCU@aAN{AHOAGB?BQHEFSPQDQDCRc@FQHODAHKDA@EPIBEJHTFJ?"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.837811,
+      145.001333
+    ],
+    "end_latlng": [
+      -37.835117,
+      145.002656
+    ],
+    "average_speed": 3.029,
+    "max_speed": 5.8,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 32.7,
+    "elev_low": 9.2,
+    "upload_id": 6049933917,
+    "upload_id_str": "6049933917",
+    "external_id": "5ADEF4EF-A3A7-4FB4-9FEF-07482CBC6861-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 2,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 2854507439365851178,
+        "resource_state": 2,
+        "name": "Watch out for the prams",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 186,
+        "moving_time": 183,
+        "start_date": "2021-07-25T22:06:27Z",
+        "start_date_local": "2021-07-26T08:06:27Z",
+        "distance": 553.4,
+        "start_index": 157,
+        "end_index": 343,
+        "device_watts": false,
+        "segment": {
+          "id": 25294918,
+          "resource_state": 2,
+          "name": "Watch out for the prams",
+          "activity_type": "Run",
+          "distance": 553.4,
+          "average_grade": 0.8,
+          "maximum_grade": 5.9,
+          "elevation_high": 17.2,
+          "elevation_low": 10.8,
+          "start_latlng": [
+            -37.83472,
+            145.002611
+          ],
+          "end_latlng": [
+            -37.834949,
+            144.99689
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "South Yarra",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2854507439364550698,
+        "resource_state": 2,
+        "name": "Chapel to Anderson",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 408,
+        "moving_time": 406,
+        "start_date": "2021-07-25T22:09:49Z",
+        "start_date_local": "2021-07-26T08:09:49Z",
+        "distance": 1242.3,
+        "start_index": 359,
+        "end_index": 764,
+        "device_watts": false,
+        "segment": {
+          "id": 4610803,
+          "resource_state": 2,
+          "name": "Chapel to Anderson",
+          "activity_type": "Run",
+          "distance": 1242.3,
+          "average_grade": -0.2,
+          "maximum_grade": 8.1,
+          "elevation_high": 23.4,
+          "elevation_low": 10.5,
+          "start_latlng": [
+            -37.834576,
+            144.996306
+          ],
+          "end_latlng": [
+            -37.82837,
+            144.985538
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2854507439365577770,
+        "resource_state": 2,
+        "name": "Cremorne Street Climb",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 162,
+        "moving_time": 162,
+        "start_date": "2021-07-25T22:11:33Z",
+        "start_date_local": "2021-07-26T08:11:33Z",
+        "distance": 497.1,
+        "start_index": 463,
+        "end_index": 624,
+        "device_watts": false,
+        "segment": {
+          "id": 5750024,
+          "resource_state": 2,
+          "name": "Cremorne Street Climb",
+          "activity_type": "Run",
+          "distance": 497.1,
+          "average_grade": 14.2,
+          "maximum_grade": 49.4,
+          "elevation_high": 11491.6,
+          "elevation_low": 11421.0,
+          "start_latlng": [
+            -37.834042,
+            144.992833
+          ],
+          "end_latlng": [
+            -37.831436,
+            144.988495
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Cremorne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2854507439365113898,
+        "resource_state": 2,
+        "name": "Off ramp up hill",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 56,
+        "moving_time": 56,
+        "start_date": "2021-07-25T22:15:18Z",
+        "start_date_local": "2021-07-26T08:15:18Z",
+        "distance": 171.0,
+        "start_index": 686,
+        "end_index": 742,
+        "device_watts": false,
+        "segment": {
+          "id": 11358123,
+          "resource_state": 2,
+          "name": "Off ramp up hill",
+          "activity_type": "Run",
+          "distance": 171.0,
+          "average_grade": 3.4,
+          "maximum_grade": 3.9,
+          "elevation_high": 21.9,
+          "elevation_low": 16.0,
+          "start_latlng": [
+            -37.82988,
+            144.987431
+          ],
+          "end_latlng": [
+            -37.828737,
+            144.98609
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2854507439364462634,
+        "resource_state": 2,
+        "name": "Alexandra Avenue",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 276,
+        "moving_time": 263,
+        "start_date": "2021-07-25T22:22:03Z",
+        "start_date_local": "2021-07-26T08:22:03Z",
+        "distance": 806.9,
+        "start_index": 1088,
+        "end_index": 1360,
+        "device_watts": false,
+        "segment": {
+          "id": 14121177,
+          "resource_state": 2,
+          "name": "Alexandra Avenue",
+          "activity_type": "Run",
+          "distance": 806.9,
+          "average_grade": -0.2,
+          "maximum_grade": 9.5,
+          "elevation_high": 25.0,
+          "elevation_low": 15.0,
+          "start_latlng": [
+            -37.828185,
+            144.984865
+          ],
+          "end_latlng": [
+            -37.83341,
+            144.990957
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2854507439364938794,
+        "resource_state": 2,
+        "name": "Anderson to Chapel South Side",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 420,
+        "moving_time": 401,
+        "start_date": "2021-07-25T22:22:45Z",
+        "start_date_local": "2021-07-26T08:22:45Z",
+        "distance": 1228.9,
+        "start_index": 1130,
+        "end_index": 1544,
+        "device_watts": false,
+        "segment": {
+          "id": 4610785,
+          "resource_state": 2,
+          "name": "Anderson to Chapel South Side",
+          "activity_type": "Run",
+          "distance": 1228.9,
+          "average_grade": 0.1,
+          "maximum_grade": 9.4,
+          "elevation_high": 22.7,
+          "elevation_low": 10.5,
+          "start_latlng": [
+            -37.828457,
+            144.985653
+          ],
+          "end_latlng": [
+            -37.834608,
+            144.996443
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Cremorne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2854507439365234730,
+        "resource_state": 2,
+        "name": "Punt to rail bridge",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 221,
+        "moving_time": 221,
+        "start_date": "2021-07-25T22:24:12Z",
+        "start_date_local": "2021-07-26T08:24:12Z",
+        "distance": 670.7,
+        "start_index": 1213,
+        "end_index": 1433,
+        "device_watts": false,
+        "segment": {
+          "id": 8616931,
+          "resource_state": 2,
+          "name": "Punt to rail bridge",
+          "activity_type": "Run",
+          "distance": 670.7,
+          "average_grade": 0.3,
+          "maximum_grade": 7.5,
+          "elevation_high": 23.0,
+          "elevation_low": 15.0,
+          "start_latlng": [
+            -37.83018,
+            144.987768
+          ],
+          "end_latlng": [
+            -37.833808,
+            144.993323
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.9,
+        "elapsed_time": 335,
+        "elevation_difference": -13.0,
+        "moving_time": 335,
+        "split": 1,
+        "average_speed": 2.99,
+        "average_grade_adjusted_speed": 3.07,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.7,
+        "elapsed_time": 323,
+        "elevation_difference": -2.8,
+        "moving_time": 323,
+        "split": 2,
+        "average_speed": 3.1,
+        "average_grade_adjusted_speed": 3.1,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.3,
+        "elapsed_time": 362,
+        "elevation_difference": -0.6,
+        "moving_time": 339,
+        "split": 3,
+        "average_speed": 2.95,
+        "average_grade_adjusted_speed": 2.95,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.6,
+        "elapsed_time": 332,
+        "elevation_difference": 3.7,
+        "moving_time": 332,
+        "split": 4,
+        "average_speed": 3.0,
+        "average_grade_adjusted_speed": 3.05,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.8,
+        "elapsed_time": 334,
+        "elevation_difference": -1.4,
+        "moving_time": 316,
+        "split": 5,
+        "average_speed": 3.16,
+        "average_grade_adjusted_speed": 3.19,
+        "pace_zone": 0
+      },
+      {
+        "distance": 260.7,
+        "elapsed_time": 92,
+        "elevation_difference": 4.2,
+        "moving_time": 92,
+        "split": 6,
+        "average_speed": 2.83,
+        "average_grade_adjusted_speed": 2.99,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1610.9,
+        "elapsed_time": 529,
+        "elevation_difference": -13.4,
+        "moving_time": 529,
+        "split": 1,
+        "average_speed": 3.05,
+        "average_grade_adjusted_speed": 3.1,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.1,
+        "elapsed_time": 563,
+        "elevation_difference": -2.1,
+        "moving_time": 540,
+        "split": 2,
+        "average_speed": 2.98,
+        "average_grade_adjusted_speed": 2.98,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.1,
+        "elapsed_time": 541,
+        "elevation_difference": 1.9,
+        "moving_time": 523,
+        "split": 3,
+        "average_speed": 3.08,
+        "average_grade_adjusted_speed": 3.11,
+        "pace_zone": 0
+      },
+      {
+        "distance": 430.9,
+        "elapsed_time": 145,
+        "elevation_difference": 3.7,
+        "moving_time": 145,
+        "split": 4,
+        "average_speed": 2.97,
+        "average_grade_adjusted_speed": 3.06,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 18481768944,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1779,
+        "moving_time": 1779,
+        "start_date": "2021-07-25T22:03:48Z",
+        "start_date_local": "2021-07-26T08:03:48Z",
+        "distance": 5261.03,
+        "average_speed": 2.96,
+        "max_speed": 5.8,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1764,
+        "total_elevation_gain": 33.1,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941324,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 122,
+        "moving_time": 122,
+        "start_date": "2021-07-25T22:22:40Z",
+        "start_date_local": "2021-07-26T08:22:40Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1125,
+        "end_index": 1243
+      },
+      {
+        "id": 29111941450,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 253,
+        "moving_time": 253,
+        "start_date": "2021-07-25T22:22:44Z",
+        "start_date_local": "2021-07-26T08:22:44Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1129,
+        "end_index": 1378
+      },
+      {
+        "id": 29111941575,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 316,
+        "moving_time": 316,
+        "start_date": "2021-07-25T22:22:40Z",
+        "start_date_local": "2021-07-26T08:22:40Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1125,
+        "end_index": 1436
+      },
+      {
+        "id": 29111941704,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 519,
+        "moving_time": 519,
+        "start_date": "2021-07-25T22:06:10Z",
+        "start_date_local": "2021-07-26T08:06:10Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 140,
+        "end_index": 657
+      },
+      {
+        "id": 29111941830,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1087,
+        "moving_time": 1087,
+        "start_date": "2021-07-25T22:07:12Z",
+        "start_date_local": "2021-07-26T08:07:12Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 202,
+        "end_index": 1280
+      },
+      {
+        "id": 29111941934,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 5687424324,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1686,
+        "moving_time": 1686,
+        "start_date": "2021-07-25T22:03:48Z",
+        "start_date_local": "2021-07-26T08:03:48Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 0,
+        "end_index": 1672
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava iPhone App",
+    "embed_token": "6d15e62ef28167c9d71613a84262d2b34ca38432",
+    "similar_activities": {
+      "effort_count": 5,
+      "average_speed": 2.901558384547849,
+      "min_average_speed": 2.639870340356564,
+      "mid_average_speed": 2.8349949024410352,
+      "max_average_speed": 3.061266747868453,
+      "pr_rank": 2,
+      "frequency_milestone": 3,
+      "trend": {
+        "speeds": [
+          3.0612667478684528,
+          3.0329123245075063,
+          3.031535387867737,
+          2.92311327319744,
+          2.861444810510367
+        ],
+        "current_activity_index": 2,
+        "min_speed": 2.639870340356564,
+        "mid_speed": 2.8349949024410352,
+        "max_speed": 3.061266747868453,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

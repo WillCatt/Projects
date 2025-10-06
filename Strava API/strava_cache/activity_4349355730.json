@@ -1,0 +1,1022 @@
+{
+  "cached_at": "2025-10-06T18:17:21.464849",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Evening Run",
+    "distance": 4754.1,
+    "moving_time": 1765,
+    "elapsed_time": 1780,
+    "total_elevation_gain": 42.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": null,
+    "id": 4349355730,
+    "start_date": "2020-11-17T07:35:46Z",
+    "start_date_local": "2020-11-17T18:35:46Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 6,
+    "kudos_count": 4,
+    "comment_count": 0,
+    "athlete_count": 2,
+    "photo_count": 0,
+    "map": {
+      "id": "a4349355730",
+      "polyline": "jt|eFs~_tZEKSqAMe@OEMI_@y@a@q@QOMGi@ImB^mAH_ANk@?_@Ka@[q@}@Og@Ga@Co@?o@JqAT_AP{ANq@Ri@|@yAZUfD_B`@W^o@Po@Bq@Ei@Ke@MSa@e@aByA]QcAUiC[a@Kc@Y_@[U[u@qAUg@Mc@[c@E]R]j@ETD?HED@BCBU@oEe@e@KUe@Ge@Ds@Pc@z@y@r@i@HBBH]nDAj@@RJhANlAr@zBx@dCj@nAx@l@`@Jh@?^FRHNPRj@Dd@I|@Mj@BJN\\ANkBbCi@rAOh@c@pDGTKx@Qb@Oh@GxA?pACh@IZ?\\NZLjAANCHl@TRRRJf@h@P@DDp@zAr@lBp@lA`@lA`@bARhADNBRLD`@ZlApDJd@RlAXbDZvC@d@?^Un@?l@?BBCBPG??FBOL?rAD^CL_@DYOa@UaAAg@Kg@Cy@Oo@Is@Ao@EY?ODAJH@UL[A[[wBYuAEgAMaAAm@?q@Lo@Vo@`@g@Vc@J[Xg@^W`@Ab@DDD@RBHAr@FLDD^FTRp@|@TFZPv@Dv@N|@HfBHf@J",
+      "resource_state": 3,
+      "summary_polyline": "jt|eFs~_tZEKSqAMe@OEMI_@y@a@q@QOMGi@ImB^mAH_ANk@?_@Ka@[q@}@Og@Ga@Co@?o@JqAT_AP{ANq@Ri@|@yAZUfD_B`@W^o@Po@Bq@Ei@Ke@MSa@e@aByA]QcAUiC[a@Kc@Y_@[U[u@qAUg@Mc@[c@E]R]j@ETD?HED@BCBU@oEe@e@KUe@Ge@Ds@Pc@z@y@r@i@HBBH]nDAj@@RJhANlAr@zBx@dCj@nAx@l@`@Jh@?^FRHNPRj@Dd@I|@Mj@BJN\\ANkBbCi@rAOh@c@pDGTKx@Qb@Oh@GxA?pACh@IZ?\\NZLjAANCHl@TRRRJf@h@P@DDp@zAr@lBp@lA`@lA`@bARhADNBRLD`@ZlApDJd@RlAXbDZvC@d@?^Un@?l@?BBCBPG??FBOL?rAD^CL_@DYOa@UaAAg@Kg@Cy@Oo@Is@Ao@EY?ODAJH@UL[A[[wBYuAEgAMaAAm@?q@Lo@Vo@`@g@Vc@J[Xg@^W`@Ab@DDD@RBHAr@FLDD^FTRp@|@TFZPv@Dv@N|@HfBHf@J"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.835092,
+      145.003469
+    ],
+    "end_latlng": [
+      -37.837743,
+      145.001379
+    ],
+    "average_speed": 2.694,
+    "max_speed": 3.8,
+    "average_cadence": 81.3,
+    "has_heartrate": true,
+    "average_heartrate": 152.9,
+    "max_heartrate": 179.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 113.6,
+    "elev_low": 3.8,
+    "upload_id": 4649186727,
+    "upload_id_str": "4649186727",
+    "external_id": "garmin_push_5833326155",
+    "from_accepted_tag": false,
+    "pr_count": 5,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 327.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 2763699772213670332,
+        "resource_state": 2,
+        "name": "Sheds to Grange TT",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 343,
+        "moving_time": 343,
+        "start_date": "2020-11-17T07:38:12Z",
+        "start_date_local": "2020-11-17T18:38:12Z",
+        "distance": 1002.0,
+        "start_index": 38,
+        "end_index": 106,
+        "average_cadence": 81.8,
+        "device_watts": false,
+        "average_heartrate": 145.3,
+        "max_heartrate": 151.0,
+        "segment": {
+          "id": 4528803,
+          "resource_state": 2,
+          "name": "Sheds to Grange TT",
+          "activity_type": "Run",
+          "distance": 1002.0,
+          "average_grade": -0.2,
+          "maximum_grade": 0.0,
+          "elevation_high": 17.4,
+          "elevation_low": 15.4,
+          "start_latlng": [
+            -37.832464,
+            145.004567
+          ],
+          "end_latlng": [
+            -37.831043,
+            145.01205
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2763699772212184508,
+        "resource_state": 2,
+        "name": "Loop around MacRobertson bridge",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 270,
+        "moving_time": 260,
+        "start_date": "2020-11-17T07:43:01Z",
+        "start_date_local": "2020-11-17T18:43:01Z",
+        "distance": 731.0,
+        "start_index": 95,
+        "end_index": 161,
+        "average_cadence": 77.4,
+        "device_watts": false,
+        "average_heartrate": 147.6,
+        "max_heartrate": 156.0,
+        "segment": {
+          "id": 8781293,
+          "resource_state": 2,
+          "name": "Loop around MacRobertson bridge",
+          "activity_type": "Run",
+          "distance": 731.0,
+          "average_grade": -0.1,
+          "maximum_grade": 5.9,
+          "elevation_high": 17.2,
+          "elevation_low": 11.3,
+          "start_latlng": [
+            -37.832038,
+            145.010955
+          ],
+          "end_latlng": [
+            -37.830298,
+            145.012743
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Burnley",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2771237165038770636,
+        "resource_state": 2,
+        "name": "She\u2019ll send ya around the bend ",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 118,
+        "moving_time": 118,
+        "start_date": "2020-11-17T07:45:33Z",
+        "start_date_local": "2020-11-17T18:45:33Z",
+        "distance": 355.1,
+        "start_index": 130,
+        "end_index": 161,
+        "average_cadence": 81.9,
+        "device_watts": false,
+        "average_heartrate": 148.3,
+        "max_heartrate": 152.0,
+        "segment": {
+          "id": 26661913,
+          "resource_state": 2,
+          "name": "She\u2019ll send ya around the bend ",
+          "activity_type": "Run",
+          "distance": 355.1,
+          "average_grade": -2.9,
+          "maximum_grade": -0.2,
+          "elevation_high": 18.3,
+          "elevation_low": 8.0,
+          "start_latlng": [
+            -37.830276,
+            145.01269
+          ],
+          "end_latlng": [
+            -37.830289,
+            145.01274
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Burnley",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2763699772212916668,
+        "resource_state": 2,
+        "name": "Big Dipper",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 142,
+        "moving_time": 142,
+        "start_date": "2020-11-17T07:46:45Z",
+        "start_date_local": "2020-11-17T18:46:45Z",
+        "distance": 393.6,
+        "start_index": 145,
+        "end_index": 190,
+        "average_cadence": 82.2,
+        "device_watts": false,
+        "average_heartrate": 157.2,
+        "max_heartrate": 177.0,
+        "segment": {
+          "id": 15706329,
+          "resource_state": 2,
+          "name": "Big Dipper",
+          "activity_type": "Run",
+          "distance": 393.6,
+          "average_grade": 0.3,
+          "maximum_grade": 11.9,
+          "elevation_high": 16.1,
+          "elevation_low": 4.5,
+          "start_latlng": [
+            -37.830366,
+            145.014178
+          ],
+          "end_latlng": [
+            -37.831519,
+            145.010251
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2763699772214190524,
+        "resource_state": 2,
+        "name": "Down with the Sickness",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 48,
+        "moving_time": 48,
+        "start_date": "2020-11-17T07:46:50Z",
+        "start_date_local": "2020-11-17T18:46:50Z",
+        "distance": 132.3,
+        "start_index": 148,
+        "end_index": 163,
+        "average_cadence": 82.4,
+        "device_watts": false,
+        "average_heartrate": 147.0,
+        "max_heartrate": 152.0,
+        "segment": {
+          "id": 20686127,
+          "resource_state": 2,
+          "name": "Down with the Sickness",
+          "activity_type": "Run",
+          "distance": 132.3,
+          "average_grade": 1.3,
+          "maximum_grade": 1.7,
+          "elevation_high": 13.1,
+          "elevation_low": 11.4,
+          "start_latlng": [
+            -37.830458,
+            145.014124
+          ],
+          "end_latlng": [
+            -37.830279,
+            145.012584
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Toorak",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2928505274306364696,
+        "resource_state": 2,
+        "name": "Up the rise to freeway",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 82,
+        "moving_time": 82,
+        "start_date": "2020-11-17T07:47:31Z",
+        "start_date_local": "2020-11-17T18:47:31Z",
+        "distance": 228.4,
+        "start_index": 161,
+        "end_index": 186,
+        "average_cadence": 82.5,
+        "device_watts": false,
+        "average_heartrate": 160.8,
+        "max_heartrate": 177.0,
+        "segment": {
+          "id": 31036118,
+          "resource_state": 2,
+          "name": "Up the rise to freeway",
+          "activity_type": "Run",
+          "distance": 228.4,
+          "average_grade": 3.6,
+          "maximum_grade": 6.2,
+          "elevation_high": 17.2,
+          "elevation_low": 8.5,
+          "start_latlng": [
+            -37.830177,
+            145.012743
+          ],
+          "end_latlng": [
+            -37.83119,
+            145.01049
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Burnley",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2763699772216503740,
+        "resource_state": 2,
+        "name": "roundabout river run to da chapel",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 633,
+        "moving_time": 627,
+        "start_date": "2020-11-17T07:47:34Z",
+        "start_date_local": "2020-11-17T18:47:34Z",
+        "distance": 1717.9,
+        "start_index": 162,
+        "end_index": 326,
+        "average_cadence": 79.3,
+        "device_watts": false,
+        "average_heartrate": 161.0,
+        "max_heartrate": 179.0,
+        "segment": {
+          "id": 8647771,
+          "resource_state": 2,
+          "name": "roundabout river run to da chapel",
+          "activity_type": "Run",
+          "distance": 1717.9,
+          "average_grade": -0.0,
+          "maximum_grade": 10.1,
+          "elevation_high": 17.9,
+          "elevation_low": 3.8,
+          "start_latlng": [
+            -37.829864,
+            145.012545
+          ],
+          "end_latlng": [
+            -37.833808,
+            144.996615
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Burnley",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2763699772214965692,
+        "resource_state": 2,
+        "name": "FOZ 5th KM",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 375,
+        "moving_time": 374,
+        "start_date": "2020-11-17T07:49:33Z",
+        "start_date_local": "2020-11-17T18:49:33Z",
+        "distance": 1006.4,
+        "start_index": 197,
+        "end_index": 293,
+        "average_cadence": 79.6,
+        "device_watts": false,
+        "average_heartrate": 163.0,
+        "max_heartrate": 176.0,
+        "segment": {
+          "id": 23192519,
+          "resource_state": 2,
+          "name": "FOZ 5th KM",
+          "activity_type": "Run",
+          "distance": 1006.4,
+          "average_grade": -0.6,
+          "maximum_grade": 10.2,
+          "elevation_high": 22.4,
+          "elevation_low": 13.0,
+          "start_latlng": [
+            -37.832171,
+            145.010118
+          ],
+          "end_latlng": [
+            -37.833272,
+            145.000341
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Burnley",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2763699772214874556,
+        "resource_state": 2,
+        "name": "Run on the Water",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 102,
+        "moving_time": 97,
+        "start_date": "2020-11-17T07:55:53Z",
+        "start_date_local": "2020-11-17T18:55:53Z",
+        "distance": 280.9,
+        "start_index": 294,
+        "end_index": 319,
+        "average_cadence": 74.5,
+        "device_watts": false,
+        "average_heartrate": 151.2,
+        "max_heartrate": 166.0,
+        "segment": {
+          "id": 24876839,
+          "resource_state": 2,
+          "name": "Run on the Water",
+          "activity_type": "Run",
+          "distance": 280.9,
+          "average_grade": -0.2,
+          "maximum_grade": 2.3,
+          "elevation_high": 4.6,
+          "elevation_low": 3.2,
+          "start_latlng": [
+            -37.833354,
+            145.000285
+          ],
+          "end_latlng": [
+            -37.834111,
+            144.99728
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Richmond",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.3,
+        "elapsed_time": 353,
+        "elevation_difference": -101.8,
+        "moving_time": 353,
+        "split": 1,
+        "average_speed": 2.84,
+        "average_grade_adjusted_speed": 2.82,
+        "average_heartrate": 140.78977272727272,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.4,
+        "elapsed_time": 370,
+        "elevation_difference": -4.2,
+        "moving_time": 360,
+        "split": 2,
+        "average_speed": 2.78,
+        "average_grade_adjusted_speed": 2.81,
+        "average_heartrate": 147.6027777777778,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.9,
+        "elapsed_time": 369,
+        "elevation_difference": -2.8,
+        "moving_time": 369,
+        "split": 3,
+        "average_speed": 2.71,
+        "average_grade_adjusted_speed": 2.74,
+        "average_heartrate": 163.67934782608697,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.6,
+        "elapsed_time": 407,
+        "elevation_difference": 2.8,
+        "moving_time": 402,
+        "split": 4,
+        "average_speed": 2.49,
+        "average_grade_adjusted_speed": 2.62,
+        "average_heartrate": 156.9246231155779,
+        "pace_zone": 0
+      },
+      {
+        "distance": 753.9,
+        "elapsed_time": 281,
+        "elevation_difference": 14.8,
+        "moving_time": 281,
+        "split": 5,
+        "average_speed": 2.68,
+        "average_grade_adjusted_speed": 2.98,
+        "average_heartrate": 155.067615658363,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1613.0,
+        "elapsed_time": 589,
+        "elevation_difference": -96.8,
+        "moving_time": 579,
+        "split": 1,
+        "average_speed": 2.79,
+        "average_grade_adjusted_speed": 2.82,
+        "average_heartrate": 143.29584775086505,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1620.6,
+        "elapsed_time": 593,
+        "elevation_difference": -11.2,
+        "moving_time": 593,
+        "split": 2,
+        "average_speed": 2.73,
+        "average_grade_adjusted_speed": 2.73,
+        "average_heartrate": 160.2939189189189,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1520.5,
+        "elapsed_time": 598,
+        "elevation_difference": 16.8,
+        "moving_time": 593,
+        "split": 3,
+        "average_speed": 2.56,
+        "average_grade_adjusted_speed": 2.79,
+        "average_heartrate": 154.90662139219015,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 14220297212,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 351,
+        "moving_time": 351,
+        "start_date": "2020-11-17T07:35:46Z",
+        "start_date_local": "2020-11-17T18:35:46Z",
+        "distance": 1000.0,
+        "average_speed": 2.85,
+        "max_speed": 3.6,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 78,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 81.9,
+        "device_watts": false,
+        "average_heartrate": 140.8,
+        "max_heartrate": 151.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 14220297215,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 369,
+        "moving_time": 369,
+        "start_date": "2020-11-17T07:41:40Z",
+        "start_date_local": "2020-11-17T18:41:40Z",
+        "distance": 1000.0,
+        "average_speed": 2.71,
+        "max_speed": 3.4,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 79,
+        "end_index": 166,
+        "total_elevation_gain": 5.0,
+        "average_cadence": 82.0,
+        "device_watts": false,
+        "average_heartrate": 147.6,
+        "max_heartrate": 156.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 14220297217,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 368,
+        "moving_time": 368,
+        "start_date": "2020-11-17T07:47:54Z",
+        "start_date_local": "2020-11-17T18:47:54Z",
+        "distance": 1000.0,
+        "average_speed": 2.72,
+        "max_speed": 3.6,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 167,
+        "end_index": 266,
+        "total_elevation_gain": 10.0,
+        "average_cadence": 81.8,
+        "device_watts": false,
+        "average_heartrate": 163.9,
+        "max_heartrate": 179.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 14220297219,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 407,
+        "moving_time": 407,
+        "start_date": "2020-11-17T07:53:59Z",
+        "start_date_local": "2020-11-17T18:53:59Z",
+        "distance": 1000.0,
+        "average_speed": 2.46,
+        "max_speed": 3.8,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 267,
+        "end_index": 378,
+        "total_elevation_gain": 9.0,
+        "average_cadence": 79.8,
+        "device_watts": false,
+        "average_heartrate": 156.9,
+        "max_heartrate": 173.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 14220297221,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 280,
+        "moving_time": 280,
+        "start_date": "2020-11-17T08:00:46Z",
+        "start_date_local": "2020-11-17T19:00:46Z",
+        "distance": 754.07,
+        "average_speed": 2.69,
+        "max_speed": 3.8,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 379,
+        "end_index": 455,
+        "total_elevation_gain": 18.0,
+        "average_cadence": 81.3,
+        "device_watts": false,
+        "average_heartrate": 155.1,
+        "max_heartrate": 161.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941350,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 135,
+        "moving_time": 135,
+        "start_date": "2020-11-17T07:40:02Z",
+        "start_date_local": "2020-11-17T18:40:02Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 58,
+        "end_index": 87
+      },
+      {
+        "id": 29111941477,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 275,
+        "moving_time": 275,
+        "start_date": "2020-11-17T07:37:28Z",
+        "start_date_local": "2020-11-17T18:37:28Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 27,
+        "end_index": 84
+      },
+      {
+        "id": 29111941609,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 347,
+        "moving_time": 347,
+        "start_date": "2020-11-17T07:36:23Z",
+        "start_date_local": "2020-11-17T18:36:23Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 10,
+        "end_index": 86
+      },
+      {
+        "id": 29111941744,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 578,
+        "moving_time": 578,
+        "start_date": "2020-11-17T07:38:21Z",
+        "start_date_local": "2020-11-17T18:38:21Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 40,
+        "end_index": 168
+      },
+      {
+        "id": 29111941861,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 4349355730,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1171,
+        "moving_time": 1171,
+        "start_date": "2020-11-17T07:37:06Z",
+        "start_date_local": "2020-11-17T18:37:06Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 23,
+        "end_index": 306
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin v\u00edvoactive 3",
+    "embed_token": "0148d784e4eada6991f091cbe48a539454bf3055",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.6935410764872523,
+      "min_average_speed": 2.6935410764872523,
+      "mid_average_speed": 2.6935410764872523,
+      "max_average_speed": 2.6935410764872523,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.6935410764872523
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.6935410764872523,
+        "mid_speed": 2.6935410764872523,
+        "max_speed": 2.6935410764872523,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

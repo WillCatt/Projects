@@ -1,0 +1,600 @@
+{
+  "cached_at": "2025-10-06T18:45:02.221833",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Wind wind wind",
+    "distance": 14031.0,
+    "moving_time": 2699,
+    "elapsed_time": 2886,
+    "total_elevation_gain": 85.9,
+    "type": "Ride",
+    "sport_type": "Ride",
+    "workout_type": 10,
+    "id": 4017897763,
+    "start_date": "2020-09-05T23:43:26Z",
+    "start_date_local": "2020-09-06T09:43:26Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 7,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a4017897763",
+      "polyline": "ly{fF}sotZ@ABF^QtAGh@KjAAHOHiCJ}@FsANuANmEJ}@?g@P}BBKBELAPFXFHAlAPbCRBI?MV}C@_@AMJMVuCPcDLyAFgA?e@OSKAi@?oASkFk@{@GkAQcAI]GGKi@?y@Ki@CgBS{AI_AUw@GSEi@CIBw@Wi@Kq@?e@GGDa@Ee@?o@KSPYnAA`AS`BIlA?h@Kt@IfAS~GGl@GZORaCYi@M}BGe@Ge@Ag@AE@IjAAxAIl@Cf@Or@K~DQzB@bCGbAB`@Ez@Ht@Id@It@?RGv@It@ITBp@ER?j@EfBEd@Mb@Eb@G^@dACJKB{@IUAGBcBa@]?q@EwAOSESn@Dh@AHG@A[Z}DDY?]LiAJgCB}AFq@?iBCMIC_@Aq@Es@USCOBIDGZCt@Gf@Ab@It@HTPtAIt@?^KfA?r@Gb@C^@|@Gj@SbA@HD?Ju@AMG@f@cGBm@JuA?OC]WeA?OJ{@?_@F{@?_@?GJIh@B^Hv@Fp@HTRFZQp@ALA\\Gt@AzAWnB?h@Gt@@x@AvAHLLD~@?tEl@~ANRFDFE@DPFdAA`@?FDBNGd@m@fAy@zAe@n@a@nBaAVUPKdBs@`@Kn@[BMg@}Am@aCGYAk@ES]}ACg@J_CDWRIBBp@FdAPDAdANLABCPGDBABB@LQf@Tv@NHHNABBDG@a@FYAa@B@ECC@VLDNOt@Cv@BTGXMvACv@@d@Ej@@^E\\?JHNLIRA`@Mb@ULSTKD?@BGFMHSFAF`@fADPDFTIJI?A[HEDEHB@l@U\\SNEJDv@vAp@v@j@fAt@hAtAdB^x@vAvB^^ENF@JOPOPVBL?JDDR?zCh@z@Dp@JbBJ~ATnAL|@N`BLfEj@hBN|ATbAFZYBMFBCRMVgAxAeAhAa@\\cAnA}AtB@Du@r@cApA[XY\\g@x@y@~@EB[d@aBpBe@^e@t@e@f@e@n@q@r@q@`A]NaArAu@z@o@`Ai@r@]Z{@hAe@d@mA`B}AzCe@r@q@rAm@`AcAlBAEC?e@lADBSTQXMTKb@MNe@z@e@dAo@hA[d@GDMTGT_AzAi@lA?Hy@bBC@OXIV_@t@@Du@hAB?CUPs@n@cBlCsFxAoCPk@|@oAd@w@tAuC~@_BxA_CLY~AuCf@kAp@aAN_@vA_B`AqAx@aAR[|@y@rAmBbBkBtCqDdBoB|AyBdAeAvCmDHOD@v@kAjDmE`@_@zCqDTS\\i@pBwBb@m@v@y@h@s@JSCIOEeBEKC@Gy@@SF]OqBY_AGg@IIEq@EO@sAOMFKLGTOPYj@m@bAO^MLM@iBU_@E]?u@IoAQSGa@?SESy@KQI[]s@IIICUNUZWTE@S^g@d@W`@g@l@GHICKLUb@a@b@[^G?AKBG?GKU?@ECAKQRG@GC@IACEG[QSY_B_Ca@u@gAgBQSkBsCQOIMIEUWIOOGy@^MBECCK@EDE\\IFFFLKPK@QKGIQ]KEGGEKASBOHKZE?AMCYF_@VeAf@G?IEHw@E_@?QHq@D{@JmAHUNwBCk@SO",
+      "resource_state": 3,
+      "summary_polyline": "ly{fF}sotZ@ABF^QtAGh@KjAAHOHiCJ}@FsANuANmEJ}@?g@TiCPGj@NvANbCRZuD?m@JMFk@`@mGLyAFmBOSu@AoASwLoA]GGKi@?kEc@{AIkCc@i@CIBw@Wi@Kq@?e@GGDgAEo@KSPYnAA`AS`BIlA?h@U|BS~GOhAORaCYi@MiEQm@?IjAAxAMtAOr@K~DQzB@bCGbAB`@Ez@Ht@SzAGjASjABp@ER?j@EfBEd@Mb@MbA@dACJgAE]@cBa@oAEkBUSn@Dh@AHG@A[n@_INeFFq@?iBCMICqAGgAYYHGZWvDHTPtAIt@KfB?r@KbA@|@Gj@SbA@HD?Ju@AMG@f@cGBm@JuACm@WeA?OJ{@F{A?_@JQrD^TRFZS~@IrAAzAWnBG~A?pCHLLD~@?tEl@~ANRFDFE@DPFdAA`@?FDBNGd@m@fAy@zAe@n@a@nBaAh@a@vD{ABMg@}Am@aCGYG_A]}ACg@PwCRIfEj@b@MFHLQf@TtAZDG@a@FYAa@B@ECC@VLDNOt@Cv@BTGXMvAGhC@^E\\?JHNLIt@Ob@ULSZKEJa@PAF`@fADPDF`@S[FKNB@l@U\\SNEJDv@vAp@v@j@fAt@hAtAdB^x@vAvB^^ENF@\\_@PVBXDDR?zCh@lBPbBJ~UrCbAFZYBMFBCRMVgAxAgBfBcAnA}AtB@Du@r@_BjBaAvA_AbA[d@aBpBe@^e@t@}BjCq@`A]NqEdG_CjCmA`B}AzCe@r@q@rAm@`AcAlBEEe@lADBe@n@Yx@s@jAe@dAo@hAc@j@Uj@_AzAi@vAwBlE@Du@hAB?CUPs@n@cBlCsFxAoCPk@bBgCtAuCxC_FlBoDf@kAp@aAN_@vA_BnCoD|@y@rAmBbBkBtCqDdBoB|AyBdAeA`D}DD@v@kAjDmE|DqETS\\i@pBwBb@m@v@y@t@gACIOEeBEKC@Gy@@SF]OqBY_AGq@OaACsAOMFKLGTwA`CO^MLM@iBUsBOcBYa@?SE_@kAI[]s@SMUNUZ]VS^g@d@W`@g@l@GHICa@p@}@bAG?AKBOKUEAAKQROA?Ma@YSY_B_CiB}C}BgDe@c@_@g@OGy@^S?CK@Eb@ONTKPK@YUQ]SMG_@BOHKZGMCYF_@VeAf@QEHw@Eq@Hq@PiCHUNwBCk@SO"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.994628,
+      145.083675
+    ],
+    "end_latlng": [
+      -37.992062,
+      145.084872
+    ],
+    "average_speed": 5.199,
+    "max_speed": 9.8,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 29.2,
+    "elev_low": 7.6,
+    "upload_id": 4300430766,
+    "upload_id_str": "4300430766",
+    "external_id": "e9ff389f-7142-4639-95e1-852df18f7d49-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 1,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 0,
+    "perceived_exertion": 8.0,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [
+      {
+        "id": 2737486898125086508,
+        "resource_state": 2,
+        "name": "Parade to Parkers",
+        "activity": {
+          "id": 4017897763,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 152,
+        "moving_time": 152,
+        "start_date": "2020-09-06T00:18:47Z",
+        "start_date_local": "2020-09-06T10:18:47Z",
+        "distance": 1203.5,
+        "start_index": 1321,
+        "end_index": 1421,
+        "device_watts": false,
+        "segment": {
+          "id": 9035488,
+          "resource_state": 2,
+          "name": "Parade to Parkers",
+          "activity_type": "Ride",
+          "distance": 1203.5,
+          "average_grade": -0.4,
+          "maximum_grade": 0.0,
+          "elevation_high": 28.4,
+          "elevation_low": 23.0,
+          "start_latlng": [
+            -37.992125,
+            145.065773
+          ],
+          "end_latlng": [
+            -37.999741,
+            145.075604
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2737486898128204588,
+        "resource_state": 2,
+        "name": "Antibes/Birdwood St crossing to Parkers Rd crossing",
+        "activity": {
+          "id": 4017897763,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 73,
+        "moving_time": 73,
+        "start_date": "2020-09-06T00:20:08Z",
+        "start_date_local": "2020-09-06T10:20:08Z",
+        "distance": 595.4,
+        "start_index": 1374,
+        "end_index": 1422,
+        "device_watts": false,
+        "segment": {
+          "id": 8026792,
+          "resource_state": 2,
+          "name": "Antibes/Birdwood St crossing to Parkers Rd crossing",
+          "activity_type": "Ride",
+          "distance": 595.4,
+          "average_grade": -0.2,
+          "maximum_grade": 3.0,
+          "elevation_high": 13.0,
+          "elevation_low": 9.9,
+          "start_latlng": [
+            -37.995841,
+            145.071162
+          ],
+          "end_latlng": [
+            -37.999777,
+            145.075711
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2737486898125048620,
+        "resource_state": 2,
+        "name": "The Flats",
+        "activity": {
+          "id": 4017897763,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 51,
+        "moving_time": 51,
+        "start_date": "2020-09-06T00:21:53Z",
+        "start_date_local": "2020-09-06T10:21:53Z",
+        "distance": 405.5,
+        "start_index": 1442,
+        "end_index": 1476,
+        "device_watts": false,
+        "segment": {
+          "id": 4014601,
+          "resource_state": 2,
+          "name": "The Flats",
+          "activity_type": "Ride",
+          "distance": 405.5,
+          "average_grade": -0.1,
+          "maximum_grade": 4.6,
+          "elevation_high": 2.8,
+          "elevation_low": 0.8,
+          "start_latlng": [
+            -38.000349,
+            145.076321
+          ],
+          "end_latlng": [
+            -38.003027,
+            145.079418
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2737486898125772588,
+        "resource_state": 2,
+        "name": "Rosella",
+        "activity": {
+          "id": 4017897763,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 78,
+        "moving_time": 77,
+        "start_date": "2020-09-06T00:22:54Z",
+        "start_date_local": "2020-09-06T10:22:54Z",
+        "distance": 378.575,
+        "start_index": 1482,
+        "end_index": 1537,
+        "device_watts": false,
+        "segment": {
+          "id": 3430168,
+          "resource_state": 2,
+          "name": "Rosella",
+          "activity_type": "Ride",
+          "distance": 378.575,
+          "average_grade": 1.1,
+          "maximum_grade": 4.9,
+          "elevation_high": 17.1,
+          "elevation_low": 9.3,
+          "start_latlng": [
+            -38.00351659,
+            145.08000884
+          ],
+          "end_latlng": [
+            -38.00061973,
+            145.08060274
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1004.2,
+        "elapsed_time": 188,
+        "elevation_difference": -14.2,
+        "moving_time": 188,
+        "split": 1,
+        "average_speed": 5.34,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.2,
+        "elapsed_time": 172,
+        "elevation_difference": 6.5,
+        "moving_time": 172,
+        "split": 2,
+        "average_speed": 5.79,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1007.1,
+        "elapsed_time": 167,
+        "elevation_difference": 4.5,
+        "moving_time": 167,
+        "split": 3,
+        "average_speed": 6.03,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.1,
+        "elapsed_time": 182,
+        "elevation_difference": -0.4,
+        "moving_time": 182,
+        "split": 4,
+        "average_speed": 5.47,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1006.4,
+        "elapsed_time": 275,
+        "elevation_difference": 2.1,
+        "moving_time": 185,
+        "split": 5,
+        "average_speed": 5.44,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 990.0,
+        "elapsed_time": 175,
+        "elevation_difference": -3.7,
+        "moving_time": 175,
+        "split": 6,
+        "average_speed": 5.66,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.7,
+        "elapsed_time": 373,
+        "elevation_difference": -1.1,
+        "moving_time": 299,
+        "split": 7,
+        "average_speed": 3.36,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.1,
+        "elapsed_time": 172,
+        "elevation_difference": -8.0,
+        "moving_time": 172,
+        "split": 8,
+        "average_speed": 5.81,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.9,
+        "elapsed_time": 177,
+        "elevation_difference": 2.7,
+        "moving_time": 177,
+        "split": 9,
+        "average_speed": 5.65,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.3,
+        "elapsed_time": 210,
+        "elevation_difference": 8.5,
+        "moving_time": 210,
+        "split": 10,
+        "average_speed": 4.75,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.9,
+        "elapsed_time": 128,
+        "elevation_difference": -9.1,
+        "moving_time": 128,
+        "split": 11,
+        "average_speed": 7.85,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.6,
+        "elapsed_time": 147,
+        "elevation_difference": -3.4,
+        "moving_time": 147,
+        "split": 12,
+        "average_speed": 6.81,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.0,
+        "elapsed_time": 231,
+        "elevation_difference": 12.5,
+        "moving_time": 231,
+        "split": 13,
+        "average_speed": 4.35,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 995.7,
+        "elapsed_time": 275,
+        "elevation_difference": 0.0,
+        "moving_time": 275,
+        "split": 14,
+        "average_speed": 3.62,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 22.8,
+        "elapsed_time": 13,
+        "elevation_difference": -0.6,
+        "moving_time": 13,
+        "split": 15,
+        "average_speed": 1.75,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1614.5,
+        "elapsed_time": 286,
+        "elevation_difference": -11.8,
+        "moving_time": 286,
+        "split": 1,
+        "average_speed": 5.65,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1605.4,
+        "elapsed_time": 285,
+        "elevation_difference": 14.9,
+        "moving_time": 285,
+        "split": 2,
+        "average_speed": 5.63,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.5,
+        "elapsed_time": 385,
+        "elevation_difference": -6.2,
+        "moving_time": 295,
+        "split": 3,
+        "average_speed": 5.46,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.2,
+        "elapsed_time": 446,
+        "elevation_difference": 2.5,
+        "moving_time": 372,
+        "split": 4,
+        "average_speed": 4.33,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.2,
+        "elapsed_time": 309,
+        "elevation_difference": -13.4,
+        "moving_time": 309,
+        "split": 5,
+        "average_speed": 5.2,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.8,
+        "elapsed_time": 290,
+        "elevation_difference": 9.6,
+        "moving_time": 290,
+        "split": 6,
+        "average_speed": 5.55,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1614.5,
+        "elapsed_time": 251,
+        "elevation_difference": -7.8,
+        "moving_time": 251,
+        "split": 7,
+        "average_speed": 6.43,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1606.3,
+        "elapsed_time": 319,
+        "elevation_difference": 9.0,
+        "moving_time": 319,
+        "split": 8,
+        "average_speed": 5.04,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1152.6,
+        "elapsed_time": 314,
+        "elevation_difference": -0.5,
+        "moving_time": 314,
+        "split": 9,
+        "average_speed": 3.67,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 13174483964,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 4017897763,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 2886,
+        "moving_time": 2699,
+        "start_date": "2020-09-05T23:43:26Z",
+        "start_date_local": "2020-09-06T09:43:26Z",
+        "distance": 14031.0,
+        "average_speed": 5.2,
+        "max_speed": 9.8,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1853,
+        "total_elevation_gain": 91.2,
+        "device_watts": false
+      }
+    ],
+    "photos": {
+      "primary": {
+        "unique_id": "aec89495-4671-43bf-94ab-0a0732f5ab7b",
+        "urls": {
+          "600": "https://dgtzuqphqg23d.cloudfront.net/yjdANdYqWgSsVJ_O4YKyZq4pCkj84hD9NTcFzh5khRQ-373x768.jpg",
+          "100": "https://dgtzuqphqg23d.cloudfront.net/yjdANdYqWgSsVJ_O4YKyZq4pCkj84hD9NTcFzh5khRQ-62x128.jpg"
+        },
+        "source": 1,
+        "media_type": 1
+      },
+      "use_primary_photo": true,
+      "count": 1
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava Android App",
+    "embed_token": "df1ba17f6d3e5c04c0712f9cc07bc29be870051c",
+    "available_zones": []
+  }
+}

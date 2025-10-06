@@ -1,0 +1,128 @@
+{
+  "cached_at": "2025-10-06T17:15:00.606267",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Soccer",
+    "distance": 0.0,
+    "moving_time": 4806,
+    "elapsed_time": 4806,
+    "total_elevation_gain": 0,
+    "type": "Workout",
+    "sport_type": "Workout",
+    "workout_type": null,
+    "id": 9952208226,
+    "start_date": "2023-09-25T07:14:35Z",
+    "start_date_local": "2023-09-25T17:14:35Z",
+    "timezone": "(GMT+10:00) Antarctica/DumontDUrville",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 1,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a9952208226",
+      "polyline": "",
+      "resource_state": 3,
+      "summary_polyline": ""
+    },
+    "trainer": true,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [],
+    "end_latlng": [],
+    "average_speed": 0.0,
+    "max_speed": 0.0,
+    "has_heartrate": true,
+    "average_heartrate": 168.5,
+    "max_heartrate": 191.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 0.0,
+    "elev_low": 0.0,
+    "upload_id": 10665387733,
+    "upload_id_str": "10665387733",
+    "external_id": "F9E21255-9F0B-404A-A6B2-20064CDE5EC8.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "",
+    "calories": 923.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [],
+    "laps": [
+      {
+        "id": 34106045717,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 9952208226,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 4806,
+        "moving_time": 4806,
+        "start_date": "2023-09-25T07:14:35Z",
+        "start_date_local": "2023-09-25T17:14:35Z",
+        "distance": 0.0,
+        "average_speed": 0.0,
+        "max_speed": 0.0,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 841,
+        "total_elevation_gain": 0,
+        "device_watts": false,
+        "average_heartrate": 168.5,
+        "max_heartrate": 191.0
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Apple Watch Series 6",
+    "embed_token": "7891cb1a8f70b546151f3763922add834c0fc55b",
+    "available_zones": []
+  }
+}

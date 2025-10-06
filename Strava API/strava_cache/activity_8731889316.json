@@ -1,0 +1,1779 @@
+{
+  "cached_at": "2025-10-06T17:21:26.756348",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Albert Park ParkRun ",
+    "distance": 5132.6,
+    "moving_time": 1646,
+    "elapsed_time": 1658,
+    "total_elevation_gain": 0.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 8731889316,
+    "start_date": "2023-03-17T21:02:16Z",
+    "start_date_local": "2023-03-18T08:02:16Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 8,
+    "kudos_count": 9,
+    "comment_count": 0,
+    "athlete_count": 34,
+    "photo_count": 0,
+    "map": {
+      "id": "a8731889316",
+      "polyline": "h_~eFwrxsZFB?F?f@Bb@Ar@BvAFR@VFLNn@Rd@t@hA\\Vx@d@TFPBBE?C@DZCXKTYTe@HINe@`@k@?GJQBa@d@iABSHMBO`@iABKd@mANo@J]JOX{@JOb@c@NI`@@FE@QLYJg@HE@[@ICOUc@EOAOJWx@kAFGb@u@V[JIDMHGDKJCFYJKHURQHSPSDAJWj@s@HQVSHWHIZk@JGDOHKJCFQLKJSJEJQVUJO^WXKHKV_@Jg@^m@FQXYj@s@DCDGh@k@LQf@k@b@c@LGFKPMBI`@i@f@]r@y@`Aw@FG@GDC@GDARWd@[VUpAaAR[LGNQn@aALWRWPc@RYLa@CQBUCGDM?WKm@Yg@Oi@IICKMOO_@_@KgAXc@^m@\\UXe@FOLQHGAGDI@g@XQRQFGHG@c@VUAIBULM@IJ[DCDOBe@Ta@\\UHWRQ^IHCPGR[`B?ZIPAhAIj@EJA`@MVC\\Qb@ANOV?FUn@UZKVk@x@KVQPiCfEi@l@EJMLEH_@XCHIDIJa@ZE?e@XSHKBu@Z_B\\U?k@HWAOBo@?MEe@Cm@Iu@Q_@EQEGDOIk@Ea@Is@I?BkA[g@IQKK?GCK?UGeAQ_CUQ?u@IK@UAE@ANGOQAs@FWFGA{@f@UR_@b@IDIPMNa@`AI`@CDIh@ILCbABRGdC?p@BRAH?f@JdA@~@?VBH@f@HN?XHZD@ALDX^j@NLPB\\?vAa@hAMP?FET?@CB@DE\\DBETEJDH@VLZZTv@@N\\p@NPFTHHRl@JLJ^?\\FVD@JN\\XRj@?F@JBFDB@PF@^r@f@t@|@n@ATA@?CGPQFED",
+      "resource_state": 3,
+      "summary_polyline": "h_~eFwrxsZFB?n@Bb@Ar@BvAFR@VFLNn@Rd@t@hA\\Vx@d@JDZDBE?C@DB?^ERKRWTe@HINe@`@k@?GJQBa@d@iABSHMBO`@iABKd@mANo@J]JOX{@JOb@c@NI`@@FE@QLYJg@HE@[@ICOUc@EOAOJWx@kAFGb@u@V[JIDMHGDKJCFYJKHURQHSPSDAJWj@s@HQVSHWHIZk@JGDOHKJCFQLKJSJEJQVUJO^WXKHKV_@Jg@^m@FQXYj@s@DCDGh@k@LQf@k@b@c@LGFKPMBI`@i@f@]r@y@`Aw@FG@GDC@GDARWd@[VUpAaAR[LGNQn@aALWRWPc@RYLa@CQBUCGDM?WKm@Yg@Oi@IICKMOO_@_@KgAXc@^m@\\UXe@FOLQHGAGDI@g@XQRQFGHG@c@VUAIBULM@IJ[DCDOBe@Ta@\\UHWRQ^IHCPGR[`B?ZIPAhAIj@EJA`@MVC\\Qb@ANOV?FUn@UZKVk@x@KVQPiCfEi@l@EJMLEH_@XCHIDIJa@ZE?e@XSHKBu@Z_B\\U?k@HWAOBo@?MEe@Cm@Iu@Q_@EQEGDOIk@Ea@Is@I?BkA[g@IQKK?GCK?UGeAQ_CUQ?u@IK@UAE@ANGOQAs@FWFGA{@f@UR_@b@IDIPMNa@`AI`@CDIh@ILCbABRGdC?p@BRAH?f@JdA@~@?VBH@f@HN?XHZD@ALDX^j@NLPB\\?vAa@hAMP?FET?@CB@DE\\DBETEJDH@VLZZTv@@N\\p@NPFTHHRl@JLJ^?\\FVD@JN\\XRj@?F@JBFDB@PF@^r@f@t@|@n@ATA@?CGPQFED"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.84196449443698,
+      144.96572789736092
+    ],
+    "end_latlng": [
+      -37.84273085184395,
+      144.9629777111113
+    ],
+    "average_speed": 3.118,
+    "max_speed": 5.138,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 14.5,
+    "elev_low": 12.9,
+    "upload_id": 9371909858,
+    "upload_id_str": "9371909858",
+    "external_id": "002FD636-9511-44AE-A1BC-94B30E491037-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 7,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "Alec Shaw Michael Nelson Nathan Palmer",
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3071954432979425684,
+        "resource_state": 2,
+        "name": "parkrun Albert Park",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1625,
+        "moving_time": 1613,
+        "start_date": "2023-03-17T21:02:16Z",
+        "start_date_local": "2023-03-18T08:02:16Z",
+        "distance": 5015.93,
+        "start_index": 0,
+        "end_index": 1619,
+        "device_watts": false,
+        "segment": {
+          "id": 1865493,
+          "resource_state": 2,
+          "name": "parkrun Albert Park",
+          "activity_type": "Run",
+          "distance": 5015.93,
+          "average_grade": -0.4,
+          "maximum_grade": 13.4,
+          "elevation_high": 25.7,
+          "elevation_low": 2.7,
+          "start_latlng": [
+            -37.8419808,
+            144.9660462
+          ],
+          "end_latlng": [
+            -37.8429023,
+            144.9632817
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Albert Park",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3135517257211225474,
+        "resource_state": 2,
+        "name": "Albert parkrun 1st kilometer ",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 335,
+        "moving_time": 333,
+        "start_date": "2023-03-17T21:02:16Z",
+        "start_date_local": "2023-03-18T08:02:16Z",
+        "distance": 1001.5,
+        "start_index": 0,
+        "end_index": 334,
+        "device_watts": false,
+        "segment": {
+          "id": 35388214,
+          "resource_state": 2,
+          "name": "Albert parkrun 1st kilometer ",
+          "activity_type": "Run",
+          "distance": 1001.5,
+          "average_grade": 0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 15.0,
+          "elevation_low": 13.6,
+          "start_latlng": [
+            -37.841941,
+            144.966023
+          ],
+          "end_latlng": [
+            -37.846412,
+            144.968981
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432980950420,
+        "resource_state": 2,
+        "name": "Mud Island Interval",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 115,
+        "moving_time": 115,
+        "start_date": "2023-03-17T21:02:49Z",
+        "start_date_local": "2023-03-18T08:02:49Z",
+        "distance": 316.2,
+        "start_index": 33,
+        "end_index": 148,
+        "device_watts": false,
+        "segment": {
+          "id": 11160458,
+          "resource_state": 2,
+          "name": "Mud Island Interval",
+          "activity_type": "Run",
+          "distance": 316.2,
+          "average_grade": 0.2,
+          "maximum_grade": 2.7,
+          "elevation_high": 10.4,
+          "elevation_low": 6.7,
+          "start_latlng": [
+            -37.842036,
+            144.964526
+          ],
+          "end_latlng": [
+            -37.844039,
+            144.964135
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "South Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432982739348,
+        "resource_state": 2,
+        "name": "Albert Parkerun finsh",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 43,
+        "moving_time": 43,
+        "start_date": "2023-03-17T21:03:00Z",
+        "start_date_local": "2023-03-18T08:03:00Z",
+        "distance": 117.4,
+        "start_index": 44,
+        "end_index": 87,
+        "device_watts": false,
+        "segment": {
+          "id": 7576220,
+          "resource_state": 2,
+          "name": "Albert Parkerun finsh",
+          "activity_type": "Run",
+          "distance": 117.4,
+          "average_grade": 0.1,
+          "maximum_grade": 3.2,
+          "elevation_high": 7.9,
+          "elevation_low": 6.8,
+          "start_latlng": [
+            -37.842196,
+            144.96427
+          ],
+          "end_latlng": [
+            -37.842879,
+            144.963275
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "South Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432983178644,
+        "resource_state": 2,
+        "name": "1K repeats Behind cafe",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 343,
+        "moving_time": 339,
+        "start_date": "2023-03-17T21:03:34Z",
+        "start_date_local": "2023-03-18T08:03:34Z",
+        "distance": 1004.4,
+        "start_index": 78,
+        "end_index": 420,
+        "device_watts": false,
+        "segment": {
+          "id": 7397214,
+          "resource_state": 2,
+          "name": "1K repeats Behind cafe",
+          "activity_type": "Run",
+          "distance": 1004.4,
+          "average_grade": -0.1,
+          "maximum_grade": 2.8,
+          "elevation_high": 22.0,
+          "elevation_low": 20.0,
+          "start_latlng": [
+            -37.842681,
+            144.963452
+          ],
+          "end_latlng": [
+            -37.848021,
+            144.971099
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "South Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432981957012,
+        "resource_state": 2,
+        "name": "RLC South Melb 500m",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 172,
+        "moving_time": 172,
+        "start_date": "2023-03-17T21:03:37Z",
+        "start_date_local": "2023-03-18T08:03:37Z",
+        "distance": 501.3,
+        "start_index": 81,
+        "end_index": 253,
+        "device_watts": false,
+        "segment": {
+          "id": 12050456,
+          "resource_state": 2,
+          "name": "RLC South Melb 500m",
+          "activity_type": "Run",
+          "distance": 501.3,
+          "average_grade": 0.1,
+          "maximum_grade": 1.6,
+          "elevation_high": 18.6,
+          "elevation_low": 17.0,
+          "start_latlng": [
+            -37.842755,
+            144.963441
+          ],
+          "end_latlng": [
+            -37.84564,
+            144.966801
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Albert Park",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432980878740,
+        "resource_state": 2,
+        "name": "Albert Park Lake - West",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 523,
+        "moving_time": 517,
+        "start_date": "2023-03-17T21:04:27Z",
+        "start_date_local": "2023-03-18T08:04:27Z",
+        "distance": 1542.7,
+        "start_index": 131,
+        "end_index": 652,
+        "device_watts": false,
+        "segment": {
+          "id": 12244744,
+          "resource_state": 2,
+          "name": "Albert Park Lake - West",
+          "activity_type": "Run",
+          "distance": 1542.7,
+          "average_grade": 0.0,
+          "maximum_grade": 6.1,
+          "elevation_high": 14.6,
+          "elevation_low": 5.0,
+          "start_latlng": [
+            -37.843839,
+            144.963625
+          ],
+          "end_latlng": [
+            -37.852861,
+            144.976296
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Albert Park",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432981168532,
+        "resource_state": 2,
+        "name": "hello mr g",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 61,
+        "moving_time": 60,
+        "start_date": "2023-03-17T21:06:11Z",
+        "start_date_local": "2023-03-18T08:06:11Z",
+        "distance": 175.3,
+        "start_index": 235,
+        "end_index": 295,
+        "device_watts": false,
+        "segment": {
+          "id": 20291533,
+          "resource_state": 2,
+          "name": "hello mr g",
+          "activity_type": "Run",
+          "distance": 175.3,
+          "average_grade": 0.1,
+          "maximum_grade": 1.5,
+          "elevation_high": 16.0,
+          "elevation_low": 14.6,
+          "start_latlng": [
+            -37.845221,
+            144.966708
+          ],
+          "end_latlng": [
+            -37.845689,
+            144.968098
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Albert Park",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432984598932,
+        "resource_state": 2,
+        "name": "Past Carousel Cafe",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 234,
+        "moving_time": 230,
+        "start_date": "2023-03-17T21:07:05Z",
+        "start_date_local": "2023-03-18T08:07:05Z",
+        "distance": 712.0,
+        "start_index": 288,
+        "end_index": 522,
+        "device_watts": false,
+        "segment": {
+          "id": 26214913,
+          "resource_state": 2,
+          "name": "Past Carousel Cafe",
+          "activity_type": "Run",
+          "distance": 712.0,
+          "average_grade": -0.0,
+          "maximum_grade": 5.9,
+          "elevation_high": 3.4,
+          "elevation_low": 2.2,
+          "start_latlng": [
+            -37.845547,
+            144.967749
+          ],
+          "end_latlng": [
+            -37.850017,
+            144.973404
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Albert Park",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432981936532,
+        "resource_state": 2,
+        "name": "Lake Run South Sprint",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 406,
+        "moving_time": 401,
+        "start_date": "2023-03-17T21:07:11Z",
+        "start_date_local": "2023-03-18T08:07:11Z",
+        "distance": 1242.0,
+        "start_index": 294,
+        "end_index": 699,
+        "device_watts": false,
+        "segment": {
+          "id": 7074760,
+          "resource_state": 2,
+          "name": "Lake Run South Sprint",
+          "activity_type": "Run",
+          "distance": 1242.0,
+          "average_grade": 0.1,
+          "maximum_grade": 5.9,
+          "elevation_high": 14.9,
+          "elevation_low": 5.0,
+          "start_latlng": [
+            -37.845687,
+            144.968005
+          ],
+          "end_latlng": [
+            -37.852932,
+            144.977727
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Albert Park",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432981071252,
+        "resource_state": 2,
+        "name": "Levy's 1-4m Albert Park",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 962,
+        "moving_time": 954,
+        "start_date": "2023-03-17T21:08:00Z",
+        "start_date_local": "2023-03-18T08:08:00Z",
+        "distance": 3005.1,
+        "start_index": 343,
+        "end_index": 1300,
+        "device_watts": false,
+        "segment": {
+          "id": 24917086,
+          "resource_state": 2,
+          "name": "Levy's 1-4m Albert Park",
+          "activity_type": "Run",
+          "distance": 3005.1,
+          "average_grade": 0.0,
+          "maximum_grade": 0.7,
+          "elevation_high": 12.5,
+          "elevation_low": 11.4,
+          "start_latlng": [
+            -37.846561,
+            144.969186
+          ],
+          "end_latlng": [
+            -37.839075,
+            144.97072
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Albert Park",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432983370132,
+        "resource_state": 2,
+        "name": "400M TIME TRIAL ALBERT PARK LAKE ANTI-CLOCKWISE IN RUN",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 131,
+        "moving_time": 130,
+        "start_date": "2023-03-17T21:10:03Z",
+        "start_date_local": "2023-03-18T08:10:03Z",
+        "distance": 414.1,
+        "start_index": 466,
+        "end_index": 597,
+        "device_watts": false,
+        "segment": {
+          "id": 20515925,
+          "resource_state": 2,
+          "name": "400M TIME TRIAL ALBERT PARK LAKE ANTI-CLOCKWISE IN RUN",
+          "activity_type": "Run",
+          "distance": 414.1,
+          "average_grade": 0.1,
+          "maximum_grade": 0.6,
+          "elevation_high": 9.7,
+          "elevation_low": 9.2,
+          "start_latlng": [
+            -37.848938,
+            144.972052
+          ],
+          "end_latlng": [
+            -37.851718,
+            144.975098
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Albert Park",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432981099924,
+        "resource_state": 2,
+        "name": "Albert Park - Nth Playground 2-3km Segment",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 315,
+        "moving_time": 314,
+        "start_date": "2023-03-17T21:11:16Z",
+        "start_date_local": "2023-03-18T08:11:16Z",
+        "distance": 1002.7,
+        "start_index": 539,
+        "end_index": 852,
+        "device_watts": false,
+        "segment": {
+          "id": 6636302,
+          "resource_state": 2,
+          "name": "Albert Park - Nth Playground 2-3km Segment",
+          "activity_type": "Run",
+          "distance": 1002.7,
+          "average_grade": 0.0,
+          "maximum_grade": 4.8,
+          "elevation_high": 12.9,
+          "elevation_low": 5.0,
+          "start_latlng": [
+            -37.850371,
+            144.973827
+          ],
+          "end_latlng": [
+            -37.849175,
+            144.976137
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Albert Park",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432984651156,
+        "resource_state": 2,
+        "name": "Albert Melbourne parkrun 2-3km verified",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 308,
+        "moving_time": 307,
+        "start_date": "2023-03-17T21:13:31Z",
+        "start_date_local": "2023-03-18T08:13:31Z",
+        "distance": 989.9,
+        "start_index": 673,
+        "end_index": 979,
+        "device_watts": false,
+        "segment": {
+          "id": 21426232,
+          "resource_state": 2,
+          "name": "Albert Melbourne parkrun 2-3km verified",
+          "activity_type": "Run",
+          "distance": 989.9,
+          "average_grade": 0.3,
+          "maximum_grade": 10.0,
+          "elevation_high": 15.4,
+          "elevation_low": 6.4,
+          "start_latlng": [
+            -37.853127,
+            144.976858
+          ],
+          "end_latlng": [
+            -37.847511,
+            144.972163
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "St Kilda",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432982617492,
+        "resource_state": 2,
+        "name": "First and Last 300 m on 5km",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 81,
+        "moving_time": 81,
+        "start_date": "2023-03-17T21:13:45Z",
+        "start_date_local": "2023-03-18T08:13:45Z",
+        "distance": 270.9,
+        "start_index": 687,
+        "end_index": 767,
+        "device_watts": false,
+        "segment": {
+          "id": 9000047,
+          "resource_state": 2,
+          "name": "First and Last 300 m on 5km",
+          "activity_type": "Run",
+          "distance": 270.9,
+          "average_grade": -1.9,
+          "maximum_grade": 4.8,
+          "elevation_high": 12.6,
+          "elevation_low": 5.0,
+          "start_latlng": [
+            -37.853206,
+            144.977409
+          ],
+          "end_latlng": [
+            -37.851317,
+            144.977674
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Albert Park",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432981257620,
+        "resource_state": 2,
+        "name": "1KM TIME TRIAL ALBERT PARK LAKE ANTI CLOCKWISE",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 314,
+        "moving_time": 312,
+        "start_date": "2023-03-17T21:15:20Z",
+        "start_date_local": "2023-03-18T08:15:20Z",
+        "distance": 1006.7,
+        "start_index": 781,
+        "end_index": 1093,
+        "device_watts": false,
+        "segment": {
+          "id": 13705797,
+          "resource_state": 2,
+          "name": "1KM TIME TRIAL ALBERT PARK LAKE ANTI CLOCKWISE",
+          "activity_type": "Run",
+          "distance": 1006.7,
+          "average_grade": 0.5,
+          "maximum_grade": 10.1,
+          "elevation_high": 19.7,
+          "elevation_low": 5.0,
+          "start_latlng": [
+            -37.850929,
+            144.97739
+          ],
+          "end_latlng": [
+            -37.844689,
+            144.970376
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432982540692,
+        "resource_state": 2,
+        "name": "Albert Park - Powerhouse to MSAC",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 783,
+        "moving_time": 778,
+        "start_date": "2023-03-17T21:16:05Z",
+        "start_date_local": "2023-03-18T08:16:05Z",
+        "distance": 2442.82,
+        "start_index": 826,
+        "end_index": 1606,
+        "device_watts": false,
+        "segment": {
+          "id": 1740317,
+          "resource_state": 2,
+          "name": "Albert Park - Powerhouse to MSAC",
+          "activity_type": "Run",
+          "distance": 2442.82,
+          "average_grade": 0.1,
+          "maximum_grade": 12.3,
+          "elevation_high": 17.7,
+          "elevation_low": 2.7,
+          "start_latlng": [
+            -37.8496883,
+            144.9769185
+          ],
+          "end_latlng": [
+            -37.8426082,
+            144.9635687
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432984373652,
+        "resource_state": 2,
+        "name": "Lake Run North Sprint",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 500,
+        "moving_time": 496,
+        "start_date": "2023-03-17T21:16:32Z",
+        "start_date_local": "2023-03-18T08:16:32Z",
+        "distance": 1569.1,
+        "start_index": 853,
+        "end_index": 1350,
+        "device_watts": false,
+        "segment": {
+          "id": 7074762,
+          "resource_state": 2,
+          "name": "Lake Run North Sprint",
+          "activity_type": "Run",
+          "distance": 1569.1,
+          "average_grade": 0.4,
+          "maximum_grade": 14.1,
+          "elevation_high": 19.0,
+          "elevation_low": 2.8,
+          "start_latlng": [
+            -37.849145,
+            144.976121
+          ],
+          "end_latlng": [
+            -37.83864,
+            144.969157
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3135517400266573742,
+        "resource_state": 2,
+        "name": "Albert parkrun 4th kilometer ",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 318,
+        "moving_time": 315,
+        "start_date": "2023-03-17T21:18:30Z",
+        "start_date_local": "2023-03-18T08:18:30Z",
+        "distance": 997.6,
+        "start_index": 970,
+        "end_index": 1286,
+        "device_watts": false,
+        "segment": {
+          "id": 35388227,
+          "resource_state": 2,
+          "name": "Albert parkrun 4th kilometer ",
+          "activity_type": "Run",
+          "distance": 997.6,
+          "average_grade": -0.1,
+          "maximum_grade": 0.9,
+          "elevation_high": 14.3,
+          "elevation_low": 13.7,
+          "start_latlng": [
+            -37.847658,
+            144.972386
+          ],
+          "end_latlng": [
+            -37.839387,
+            144.971047
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3243978042523451884,
+        "resource_state": 2,
+        "name": "AP Lakeside Stretch",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 152,
+        "moving_time": 150,
+        "start_date": "2023-03-17T21:20:30Z",
+        "start_date_local": "2023-03-18T08:20:30Z",
+        "distance": 495.7,
+        "start_index": 1089,
+        "end_index": 1240,
+        "device_watts": false,
+        "segment": {
+          "id": 37246767,
+          "resource_state": 2,
+          "name": "AP Lakeside Stretch",
+          "activity_type": "Run",
+          "distance": 495.7,
+          "average_grade": -0.0,
+          "maximum_grade": 1.2,
+          "elevation_high": 9.6,
+          "elevation_low": 8.8,
+          "start_latlng": [
+            -37.844813,
+            144.970446
+          ],
+          "end_latlng": [
+            -37.840638,
+            144.971349
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432982464916,
+        "resource_state": 2,
+        "name": "Last 700m to Playground",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 222,
+        "moving_time": 222,
+        "start_date": "2023-03-17T21:21:49Z",
+        "start_date_local": "2023-03-18T08:21:49Z",
+        "distance": 690.6,
+        "start_index": 1167,
+        "end_index": 1389,
+        "device_watts": false,
+        "segment": {
+          "id": 6636279,
+          "resource_state": 2,
+          "name": "Last 700m to Playground",
+          "activity_type": "Run",
+          "distance": 690.6,
+          "average_grade": 0.7,
+          "maximum_grade": 12.0,
+          "elevation_high": 14.6,
+          "elevation_low": 2.6,
+          "start_latlng": [
+            -37.842638,
+            144.970894
+          ],
+          "end_latlng": [
+            -37.838701,
+            144.967774
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432981310868,
+        "resource_state": 2,
+        "name": "Albert Melbourne parkrun 4-5km verified",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 308,
+        "moving_time": 307,
+        "start_date": "2023-03-17T21:24:12Z",
+        "start_date_local": "2023-03-18T08:24:12Z",
+        "distance": 959.0,
+        "start_index": 1310,
+        "end_index": 1618,
+        "device_watts": false,
+        "segment": {
+          "id": 21426246,
+          "resource_state": 2,
+          "name": "Albert Melbourne parkrun 4-5km verified",
+          "activity_type": "Run",
+          "distance": 959.0,
+          "average_grade": -0.4,
+          "maximum_grade": 7.4,
+          "elevation_high": 10.6,
+          "elevation_low": 6.0,
+          "start_latlng": [
+            -37.838867,
+            144.970524
+          ],
+          "end_latlng": [
+            -37.842846,
+            144.963281
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Albert Park",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432981882260,
+        "resource_state": 2,
+        "name": "Lake Run Finish Stretch",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 146,
+        "moving_time": 145,
+        "start_date": "2023-03-17T21:26:23Z",
+        "start_date_local": "2023-03-18T08:26:23Z",
+        "distance": 454.4,
+        "start_index": 1441,
+        "end_index": 1587,
+        "device_watts": false,
+        "segment": {
+          "id": 7074072,
+          "resource_state": 2,
+          "name": "Lake Run Finish Stretch",
+          "activity_type": "Run",
+          "distance": 454.4,
+          "average_grade": -0.9,
+          "maximum_grade": 4.0,
+          "elevation_high": 11.0,
+          "elevation_low": 6.8,
+          "start_latlng": [
+            -37.839185,
+            144.966182
+          ],
+          "end_latlng": [
+            -37.842198,
+            144.964046
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432982844820,
+        "resource_state": 2,
+        "name": "Sprint Boathouse to Albert Park Run Finish",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 81,
+        "moving_time": 81,
+        "start_date": "2023-03-17T21:27:27Z",
+        "start_date_local": "2023-03-18T08:27:27Z",
+        "distance": 259.5,
+        "start_index": 1505,
+        "end_index": 1586,
+        "device_watts": false,
+        "segment": {
+          "id": 6911407,
+          "resource_state": 2,
+          "name": "Sprint Boathouse to Albert Park Run Finish",
+          "activity_type": "Run",
+          "distance": 259.5,
+          "average_grade": -0.4,
+          "maximum_grade": 7.4,
+          "elevation_high": 11.6,
+          "elevation_low": 7.3,
+          "start_latlng": [
+            -37.840952,
+            144.966548
+          ],
+          "end_latlng": [
+            -37.842232,
+            144.964144
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3071954432984162708,
+        "resource_state": 2,
+        "name": "Albert Parkerun finsh",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 38,
+        "moving_time": 38,
+        "start_date": "2023-03-17T21:28:43Z",
+        "start_date_local": "2023-03-18T08:28:43Z",
+        "distance": 117.4,
+        "start_index": 1581,
+        "end_index": 1619,
+        "device_watts": false,
+        "segment": {
+          "id": 7576220,
+          "resource_state": 2,
+          "name": "Albert Parkerun finsh",
+          "activity_type": "Run",
+          "distance": 117.4,
+          "average_grade": 0.1,
+          "maximum_grade": 3.2,
+          "elevation_high": 7.9,
+          "elevation_low": 6.8,
+          "start_latlng": [
+            -37.842196,
+            144.96427
+          ],
+          "end_latlng": [
+            -37.842879,
+            144.963275
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "South Melbourne",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1002.9,
+        "elapsed_time": 342,
+        "elevation_difference": -0.1,
+        "moving_time": 342,
+        "split": 1,
+        "average_speed": 2.93,
+        "average_grade_adjusted_speed": 2.93,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.9,
+        "elapsed_time": 322,
+        "elevation_difference": 0.4,
+        "moving_time": 322,
+        "split": 2,
+        "average_speed": 3.11,
+        "average_grade_adjusted_speed": 3.11,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.5,
+        "elapsed_time": 304,
+        "elevation_difference": 0.0,
+        "moving_time": 304,
+        "split": 3,
+        "average_speed": 3.28,
+        "average_grade_adjusted_speed": 3.29,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.2,
+        "elapsed_time": 315,
+        "elevation_difference": -0.6,
+        "moving_time": 315,
+        "split": 4,
+        "average_speed": 3.18,
+        "average_grade_adjusted_speed": 3.18,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.5,
+        "elapsed_time": 314,
+        "elevation_difference": 0.0,
+        "moving_time": 314,
+        "split": 5,
+        "average_speed": 3.19,
+        "average_grade_adjusted_speed": 3.19,
+        "pace_zone": 0
+      },
+      {
+        "distance": 129.6,
+        "elapsed_time": 61,
+        "elevation_difference": 0.2,
+        "moving_time": 49,
+        "split": 6,
+        "average_speed": 2.64,
+        "average_grade_adjusted_speed": 2.65,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1610.6,
+        "elapsed_time": 539,
+        "elevation_difference": 0.6,
+        "moving_time": 539,
+        "split": 1,
+        "average_speed": 2.99,
+        "average_grade_adjusted_speed": 2.99,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.5,
+        "elapsed_time": 498,
+        "elevation_difference": -0.4,
+        "moving_time": 498,
+        "split": 2,
+        "average_speed": 3.23,
+        "average_grade_adjusted_speed": 3.23,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.7,
+        "elapsed_time": 506,
+        "elevation_difference": -0.1,
+        "moving_time": 506,
+        "split": 3,
+        "average_speed": 3.18,
+        "average_grade_adjusted_speed": 3.18,
+        "pace_zone": 0
+      },
+      {
+        "distance": 303.8,
+        "elapsed_time": 115,
+        "elevation_difference": -0.2,
+        "moving_time": 103,
+        "split": 4,
+        "average_speed": 2.95,
+        "average_grade_adjusted_speed": 2.95,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 29587081851,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1660,
+        "moving_time": 1660,
+        "start_date": "2023-03-17T21:02:16Z",
+        "start_date_local": "2023-03-18T08:02:16Z",
+        "distance": 5132.61,
+        "average_speed": 3.09,
+        "max_speed": 5.138,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1652,
+        "total_elevation_gain": 0.0,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941319,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 119,
+        "moving_time": 119,
+        "start_date": "2023-03-17T21:14:58Z",
+        "start_date_local": "2023-03-18T08:14:58Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 759,
+        "end_index": 878
+      },
+      {
+        "id": 29111941438,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 244,
+        "moving_time": 244,
+        "start_date": "2023-03-17T21:13:23Z",
+        "start_date_local": "2023-03-18T08:13:23Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 665,
+        "end_index": 907
+      },
+      {
+        "id": 29111941566,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 304,
+        "moving_time": 304,
+        "start_date": "2023-03-17T21:12:57Z",
+        "start_date_local": "2023-03-18T08:12:57Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 639,
+        "end_index": 941
+      },
+      {
+        "id": 29111941692,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 496,
+        "moving_time": 496,
+        "start_date": "2023-03-17T21:12:59Z",
+        "start_date_local": "2023-03-18T08:12:59Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 641,
+        "end_index": 1134
+      },
+      {
+        "id": 29111941811,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1004,
+        "moving_time": 1004,
+        "start_date": "2023-03-17T21:11:17Z",
+        "start_date_local": "2023-03-18T08:11:17Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 540,
+        "end_index": 1539
+      },
+      {
+        "id": 29111941923,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 8731889316,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1597,
+        "moving_time": 1597,
+        "start_date": "2023-03-17T21:02:16Z",
+        "start_date_local": "2023-03-18T08:02:16Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 0,
+        "end_index": 1591
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava iPhone App",
+    "embed_token": "945fa2cb7260910bd8f47f378a196078168d9f9a",
+    "similar_activities": {
+      "effort_count": 4,
+      "average_speed": 2.7463103991596642,
+      "min_average_speed": 2.3735510579576817,
+      "mid_average_speed": 2.6954002486388395,
+      "max_average_speed": 3.118226002430134,
+      "pr_rank": 1,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          3.118226002430134,
+          3.0178592043973307,
+          2.767448263506414,
+          2.7431200957979316
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.3735510579576817,
+        "mid_speed": 2.6954002486388395,
+        "max_speed": 3.118226002430134,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

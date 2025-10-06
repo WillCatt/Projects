@@ -1,0 +1,496 @@
+{
+  "cached_at": "2025-10-06T18:45:21.942897",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Lunch Run",
+    "distance": 3058.3,
+    "moving_time": 1158,
+    "elapsed_time": 1158,
+    "total_elevation_gain": 10.6,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 3798742613,
+    "start_date": "2020-07-22T02:33:03Z",
+    "start_date_local": "2020-07-22T12:33:03Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 4,
+    "kudos_count": 1,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a3798742613",
+      "polyline": "zi{fFg{otZKA@BF?AZOj@Ad@Gn@JTFBIl@KzCERKxABRJ?XYb@SrAy@BHCHKFa@HK^Nh@@TDJZFJCj@a@Q@YJGPBFH@JEb@]\\SH?DDVh@xAzB\\r@Z^l@lAb@h@Zv@x@~@RXP`@Zb@LJFBZ@?DBBHKJUDALPF\\ENHLHBPAJGVAVLZBF@JEf@Fn@@\\Hr@D`AN\\Jj@DVCN?d@Nj@ArAVbAFVDNHDAh@Jd@BZJ`@Cn@R\\?f@HHAX@zBVRKh@iA^a@VO\\c@\\i@f@i@DAL?RJHCZa@HQpAwAAILELMZe@hBqBLWzAeB^]h@Oj@[V?DBJLFBDCXWjA}@^Wh@WT[l@g@RGf@a@b@Kj@YZQ`@_@^WhAg@DE?MSg@Ck@S[Uo@S_@Ia@DMd@Y`@_@Tm@?KROTW`@OXs@JOJi@AeAGUCUKWUY",
+      "resource_state": 3,
+      "summary_polyline": "zi{fFg{otZKA@BF?AZOj@Ad@Gn@JTFBIl@KzCERKxABRJ?XYb@SrAy@BHCHKFa@HK^Nh@@TDJZFJCj@a@Q@YJGPBFH@JEb@]\\SH?DDVh@xAzB\\r@Z^l@lAb@h@Zv@x@~@RXP`@Zb@LJFBZ@?DBBHKJUDALPF\\ENHLHBPAJGVAVLZBF@JEf@Fn@@\\Hr@D`AN\\Jj@DVCN?d@Nj@ArAVbAFVDNHDAh@Jd@BZJ`@Cn@R\\?f@HHAX@zBVRKh@iA^a@VO\\c@\\i@f@i@DAL?RJHCZa@HQpAwAAILELMZe@hBqBLWzAeB^]h@Oj@[V?DBJLFBDCXWjA}@^Wh@WT[l@g@RGf@a@b@Kj@YZQ`@_@^WhAg@DE?MSg@Ck@S[Uo@S_@Ia@DMd@Y`@_@Tm@?KROTW`@OXs@JOJi@AeAGUCUKWUY"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.992138,
+      145.084841
+    ],
+    "end_latlng": [
+      -38.009068,
+      145.087233
+    ],
+    "average_speed": 2.641,
+    "max_speed": 6.6,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 24.8,
+    "elev_low": 6.4,
+    "upload_id": 4060587301,
+    "upload_id_str": "4060587301",
+    "external_id": "687a090a-8f07-4902-ac8e-63ff358c5f3e-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 4,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [
+      {
+        "id": 2720851534837043930,
+        "resource_state": 2,
+        "name": "McIndoe Parade downhill",
+        "activity": {
+          "id": 3798742613,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 210,
+        "moving_time": 199,
+        "start_date": "2020-07-22T02:38:53Z",
+        "start_date_local": "2020-07-22T12:38:53Z",
+        "distance": 635.3,
+        "start_index": 281,
+        "end_index": 441,
+        "device_watts": false,
+        "segment": {
+          "id": 11321703,
+          "resource_state": 2,
+          "name": "McIndoe Parade downhill",
+          "activity_type": "Run",
+          "distance": 635.3,
+          "average_grade": -1.0,
+          "maximum_grade": 6.3,
+          "elevation_high": 22.7,
+          "elevation_low": 10.2,
+          "start_latlng": [
+            -37.995863,
+            145.079049
+          ],
+          "end_latlng": [
+            -38.001495,
+            145.077889
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2720851534838440666,
+        "resource_state": 2,
+        "name": "Heroic Push",
+        "activity": {
+          "id": 3798742613,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 51,
+        "moving_time": 49,
+        "start_date": "2020-07-22T02:42:26Z",
+        "start_date_local": "2020-07-22T12:42:26Z",
+        "distance": 131.5,
+        "start_index": 444,
+        "end_index": 483,
+        "device_watts": false,
+        "segment": {
+          "id": 22810031,
+          "resource_state": 2,
+          "name": "Heroic Push",
+          "activity_type": "Run",
+          "distance": 131.5,
+          "average_grade": 0.1,
+          "maximum_grade": 2.0,
+          "elevation_high": 11.4,
+          "elevation_low": 11.0,
+          "start_latlng": [
+            -38.00161,
+            145.077975
+          ],
+          "end_latlng": [
+            -38.002507,
+            145.078932
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mordialloc",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2720851534839970522,
+        "resource_state": 2,
+        "name": "Bay Trail - Horse -> MLSC",
+        "activity": {
+          "id": 3798742613,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 149,
+        "moving_time": 142,
+        "start_date": "2020-07-22T02:45:02Z",
+        "start_date_local": "2020-07-22T12:45:02Z",
+        "distance": 394.4,
+        "start_index": 561,
+        "end_index": 677,
+        "device_watts": false,
+        "segment": {
+          "id": 16367829,
+          "resource_state": 2,
+          "name": "Bay Trail - Horse -> MLSC",
+          "activity_type": "Run",
+          "distance": 394.4,
+          "average_grade": -0.5,
+          "maximum_grade": 1.2,
+          "elevation_high": -198.6,
+          "elevation_low": -201.8,
+          "start_latlng": [
+            -38.004452,
+            145.080766
+          ],
+          "end_latlng": [
+            -38.007429,
+            145.08299
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mordialloc",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1002.0,
+        "elapsed_time": 329,
+        "elevation_difference": -1.8,
+        "moving_time": 326,
+        "split": 1,
+        "average_speed": 3.07,
+        "average_grade_adjusted_speed": 3.09,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.0,
+        "elapsed_time": 351,
+        "elevation_difference": -10.0,
+        "moving_time": 351,
+        "split": 2,
+        "average_speed": 2.85,
+        "average_grade_adjusted_speed": 2.81,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.6,
+        "elapsed_time": 431,
+        "elevation_difference": -0.6,
+        "moving_time": 424,
+        "split": 3,
+        "average_speed": 2.36,
+        "average_grade_adjusted_speed": 2.36,
+        "pace_zone": 0
+      },
+      {
+        "distance": 55.7,
+        "elapsed_time": 44,
+        "elevation_difference": -0.2,
+        "moving_time": 39,
+        "split": 4,
+        "average_speed": 1.43,
+        "average_grade_adjusted_speed": 1.42,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1609.9,
+        "elapsed_time": 533,
+        "elevation_difference": -8.5,
+        "moving_time": 530,
+        "split": 1,
+        "average_speed": 3.04,
+        "average_grade_adjusted_speed": 3.03,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1448.4,
+        "elapsed_time": 622,
+        "elevation_difference": -4.1,
+        "moving_time": 610,
+        "split": 2,
+        "average_speed": 2.37,
+        "average_grade_adjusted_speed": 2.37,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 12506019236,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 3798742613,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1158,
+        "moving_time": 1158,
+        "start_date": "2020-07-22T02:33:03Z",
+        "start_date_local": "2020-07-22T12:33:03Z",
+        "distance": 3058.28,
+        "average_speed": 2.64,
+        "max_speed": 6.6,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 888,
+        "total_elevation_gain": 11.5,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941294,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 3798742613,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 109,
+        "moving_time": 109,
+        "start_date": "2020-07-22T02:35:21Z",
+        "start_date_local": "2020-07-22T12:35:21Z",
+        "distance": 400,
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "start_index": 109,
+        "end_index": 198
+      },
+      {
+        "id": 29111941442,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 3798742613,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 247,
+        "moving_time": 247,
+        "start_date": "2020-07-22T02:33:35Z",
+        "start_date_local": "2020-07-22T12:33:35Z",
+        "distance": 805,
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "start_index": 25,
+        "end_index": 223
+      },
+      {
+        "id": 29111941587,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 3798742613,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 329,
+        "moving_time": 329,
+        "start_date": "2020-07-22T02:33:03Z",
+        "start_date_local": "2020-07-22T12:33:03Z",
+        "distance": 1000,
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "start_index": 0,
+        "end_index": 265
+      },
+      {
+        "id": 29111941709,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 3798742613,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 529,
+        "moving_time": 529,
+        "start_date": "2020-07-22T02:33:35Z",
+        "start_date_local": "2020-07-22T12:33:35Z",
+        "distance": 1609,
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "start_index": 25,
+        "end_index": 442
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava Android App",
+    "embed_token": "a6640f618ee86fe4c47983f217e87d9e6cc03817",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.641018998272884,
+      "min_average_speed": 2.641018998272884,
+      "mid_average_speed": 2.641018998272884,
+      "max_average_speed": 2.641018998272884,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.641018998272884
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.641018998272884,
+        "mid_speed": 2.641018998272884,
+        "max_speed": 2.641018998272884,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

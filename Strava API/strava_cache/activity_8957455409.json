@@ -1,0 +1,185 @@
+{
+  "cached_at": "2025-10-06T17:21:49.913651",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Afternoon Tennis",
+    "distance": 1905.3,
+    "moving_time": 2687,
+    "elapsed_time": 3553,
+    "total_elevation_gain": 52.0,
+    "type": "Workout",
+    "sport_type": "Tennis",
+    "workout_type": null,
+    "id": 8957455409,
+    "start_date": "2022-11-12T04:37:17Z",
+    "start_date_local": "2022-11-12T15:37:17Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a8957455409",
+      "polyline": "~tqfFayftZFMBHDACAAEHMLBJFBAAB@EID@BDAG?A@B@CCBDBEGD@?D?GCFB?IAFIBBA@D?CI?E@JGHACEABIFHHDG?EBAKBKKI@KHCFDMB?AIFHM@FDAIF@MBFBBEEDAADACCC@AAL?DI?JC??GDCKFDCAF@EHEBJIDBE?K?LCAB?CFIGFEGJA@ACHBAOFCB@ABD@BF?FC?AIBFHEAF@BKKF@FA?EQF@?HLAC?@@?BEAICDGB@IH??NKG@CHEM?EKG@IJE@B??@@KC??BL?QDB?GGB?NBCA?KFCW\\DGPBOAACBCPDI?IE@G@?PBGCK@?EN@EFOB@LAODI@?JFMDNIGJD?CACJEAAELO@B?CIDFHCODEHLJFA?@A?DAA@AECDEDAB@IFK?F?DEC@@BEBFAG@HD?BAQEDD@IAFABECFBHEBEIGA?QADI?KF?BD?CC@EHDD?I?AAD@O@DEADDC@QGFFHDMB@ABDLI?CGFD@K?BA??ABCACGAB?@PC?FOIHHFGIDGEBKCHHECHMTVFB@E@BI@AE?BB@@BAIEBCAFBAAB?C?@B@EA?DAE??BF?QCJBC?BAE@F?@CC@B@KDHDGCGE@CD?BCF?I@?FBDBCABC@IGCQYJ?CD?CBF@EMJDACG@CABDACJ@KFDA?CFCB@YDFA@BC?AE@BRBAAK?EEP@QGBEL?MBCETACBCAACC@GRE?ABC^DFTFACG@IJOHAFKFQ@@A@BCCF?ABCCCP",
+      "resource_state": 3,
+      "summary_polyline": "~tqfFayftZFMBHDACAAEHMLBJFBAAB@EID@BDAG?A@B@CCBDBEGD@?D?GCFB?IAFIBBA@D?CI?E@JGHACEABIFHHDG?EBAKBKKI@KHCFDMB?AIFHM@FDAIF@MBFBBEEDAADACCC@AAL?DI?JC??GDCKFDCAF@EHEBJIDBE?K?LCAB?CFIGFEGJA@ACHBAOFCB@ABD@BF?FC?AIBFHEAF@BKKF@FA?EQF@?HLAC?@@?BEAICDGB@IH??NKG@CHEM?EKG@IJE@B??@@KC??BL?QDB?GGB?NBCA?KFCW\\DGPBOAACBCPDI?IE@G@?PBGCK@?EN@EFOB@LAODI@?JFMDNIGJD?CACJEAAELO@B?CIDFHCODEHLJFA?@A?DAA@AECDEDAB@IFK?F?DEC@@BEBFAG@HD?BAQEDD@IAFABECFBHEBEIGA?QADI?KF?BD?CC@EHDD?I?AAD@O@DEADDC@QGFFHDMB@ABDLI?CGFD@K?BA??ABCACGAB?@PC?FOIHHFGIDGEBKCHHECHMTVFB@E@BI@AE?BB@@BAIEBCAFBAAB?C?@B@EA?DAE??BF?QCJBC?BAE@F?@CC@B@KDHDGCGE@CD?BCF?I@?FBDBCABC@IGCQYJ?CD?CBF@EMJDACG@CABDACJ@KFDA?CFCB@YDFA@BC?AE@BRBAAK?EEP@QGBEL?MBCETACBCAACC@GRE?ABC^DFTFACG@IJOHAFKFQ@@A@BCCF?ABCCCP"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.942713713273406,
+      145.03841006197035
+    ],
+    "end_latlng": [
+      -37.94246912933886,
+      145.03792139701545
+    ],
+    "average_speed": 0.709,
+    "max_speed": 2.138,
+    "average_cadence": 56.4,
+    "average_temp": 26,
+    "has_heartrate": true,
+    "average_heartrate": 115.4,
+    "max_heartrate": 133.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 51.8,
+    "elev_low": 33.8,
+    "upload_id": 9610874083,
+    "upload_id_str": "9610874083",
+    "external_id": "garmin_ping_271088755683",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 385.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [],
+    "splits_metric": [
+      {
+        "distance": 1004.0,
+        "elapsed_time": 1936,
+        "elevation_difference": 15.8,
+        "moving_time": 1392,
+        "split": 1,
+        "average_speed": 0.52,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 119.53813914501258,
+        "pace_zone": 0
+      },
+      {
+        "distance": 901.3,
+        "elapsed_time": 1617,
+        "elevation_difference": -2.4,
+        "moving_time": 1295,
+        "split": 2,
+        "average_speed": 0.56,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 111.04382120946538,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1613.4,
+        "elapsed_time": 3079,
+        "elevation_difference": 15.0,
+        "moving_time": 2253,
+        "split": 1,
+        "average_speed": 0.52,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 117.2246043899949,
+        "pace_zone": 0
+      },
+      {
+        "distance": 291.9,
+        "elapsed_time": 474,
+        "elevation_difference": -1.6,
+        "moving_time": 434,
+        "split": 2,
+        "average_speed": 0.62,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 105.77866666666667,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 30456259495,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 8957455409,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 3553,
+        "moving_time": 3553,
+        "start_date": "2022-11-12T04:37:17Z",
+        "start_date_local": "2022-11-12T15:37:17Z",
+        "distance": 1905.28,
+        "average_speed": 0.54,
+        "max_speed": 2.138,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 878,
+        "total_elevation_gain": 88.8,
+        "average_cadence": 56.4,
+        "device_watts": false,
+        "average_heartrate": 115.4,
+        "max_heartrate": 133.0
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "5f80cfdcb50bc1d2d6ca33c4ca1e242e3943efae",
+    "available_zones": []
+  }
+}

@@ -1,0 +1,1602 @@
+{
+  "cached_at": "2025-10-06T18:44:17.743137",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Interval \u274c",
+    "distance": 3728.7,
+    "moving_time": 1043,
+    "elapsed_time": 1043,
+    "total_elevation_gain": 12.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 4143190874,
+    "start_date": "2020-10-02T23:56:43Z",
+    "start_date_local": "2020-10-03T09:56:43Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 11,
+    "kudos_count": 7,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a4143190874",
+      "polyline": "rc{fFwkotZP?l@MJGPMXk@J}@@[CQI_@KWQQQOc@Oq@CS?a@L_@\\U^Mj@Av@BNNh@^d@f@Vv@B^K`@Sb@q@Lq@?s@Qq@]c@GCe@Mm@Go@Lc@VY^Qf@Ch@Bd@Vp@\\\\f@VZD\\Ah@Kd@_@R]Lc@Bu@A[COYi@a@Ye@O_@C[Bi@R_@^Wn@En@Dr@Tj@f@`@^Lt@?f@O\\UNSLYJg@@c@Gi@MY[_@]S_@K_@Ac@Ba@PURMPMXETC^?ZFb@FNVb@PNb@Td@B^Ab@O^U^m@Nq@Ao@Oi@_@e@g@Ya@IYAc@Da@PSLWXQn@El@Lv@Vf@\\Zh@T^@\\Cb@KLG`@a@Vy@BQ@i@AUIWWa@UQYM{@Oi@B]Ng@b@KTKf@@d@Hn@Th@^^ZRPDh@Bd@Ip@]\\o@Jo@Aq@Me@QYYWa@U]Ii@?a@HWTY^M\\G\\?p@Jj@LVd@b@XLb@HTA`@KZQj@{@H[B]Ai@Me@Ya@o@_@c@I]?WBa@NY\\Q`@Mj@At@Hd@\\j@^VZNPBT?l@IPIZWVa@Nc@F_A",
+      "resource_state": 3,
+      "summary_polyline": "rc{fFwkotZP?l@MJGPMXk@J}@@[CQI_@KWQQQOc@Oq@CS?a@L_@\\U^Mj@Av@BNNh@^d@f@Vv@B^K`@Sb@q@Lq@?s@Qq@]c@GCe@Mm@Go@Lc@VY^Qf@Ch@Bd@Vp@\\\\f@VZD\\Ah@Kd@_@R]Lc@Bu@A[COYi@a@Ye@O_@C[Bi@R_@^Wn@En@Dr@Tj@f@`@^Lt@?f@O\\UNSLYJg@@c@Gi@MY[_@]S_@K_@Ac@Ba@PURMPMXETC^?ZFb@FNVb@PNb@Td@B^Ab@O^U^m@Nq@Ao@Oi@_@e@g@Ya@IYAc@Da@PSLWXQn@El@Lv@Vf@\\Zh@T^@\\Cb@KLG`@a@Vy@BQ@i@AUIWWa@UQYM{@Oi@B]Ng@b@KTKf@@d@Hn@Th@^^ZRPDh@Bd@Ip@]\\o@Jo@Aq@Me@QYYWa@U]Ii@?a@HWTY^M\\G\\?p@Jj@LVd@b@XLb@HTA`@KZQj@{@H[B]Ai@Me@Ya@o@_@c@I]?WBa@NY\\Q`@Mj@At@Hd@\\j@^VZNPBT?l@IPIZWVa@Nc@F_A"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.991134,
+      145.082362
+    ],
+    "end_latlng": [
+      -37.991822,
+      145.083181
+    ],
+    "average_speed": 3.575,
+    "max_speed": 4.7,
+    "average_cadence": 83.9,
+    "has_heartrate": true,
+    "average_heartrate": 171.6,
+    "max_heartrate": 183.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 27.6,
+    "elev_low": -1.6,
+    "upload_id": 4433150278,
+    "upload_id_str": "4433150278",
+    "external_id": "garmin_push_5623511132",
+    "from_accepted_tag": false,
+    "pr_count": 6,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "Feet didn't feel good called it early\nMaybe went too hard at start\nShould keep interval pace 4:30-5 :00 we learn",
+    "calories": 211.0,
+    "perceived_exertion": 9.0,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [
+      {
+        "id": 2747267828820353704,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise (2 lapper)",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 225,
+        "moving_time": 225,
+        "start_date": "2020-10-02T23:56:58Z",
+        "start_date_local": "2020-10-03T09:56:58Z",
+        "distance": 865.0,
+        "start_index": 8,
+        "end_index": 75,
+        "average_cadence": 85.2,
+        "device_watts": false,
+        "average_heartrate": 166.1,
+        "max_heartrate": 177.0,
+        "segment": {
+          "id": 25103091,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise (2 lapper)",
+          "activity_type": "Run",
+          "distance": 865.0,
+          "average_grade": 0.0,
+          "maximum_grade": 8.4,
+          "elevation_high": 24.4,
+          "elevation_low": 19.8,
+          "start_latlng": [
+            -37.991553,
+            145.082686
+          ],
+          "end_latlng": [
+            -37.991524,
+            145.082638
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2747267828820584104,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 111,
+        "moving_time": 111,
+        "start_date": "2020-10-02T23:58:12Z",
+        "start_date_local": "2020-10-03T09:58:12Z",
+        "distance": 444.1,
+        "start_index": 29,
+        "end_index": 62,
+        "average_cadence": 84.7,
+        "device_watts": false,
+        "average_heartrate": 169.9,
+        "max_heartrate": 176.0,
+        "segment": {
+          "id": 8404578,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise",
+          "activity_type": "Run",
+          "distance": 444.1,
+          "average_grade": -0.0,
+          "maximum_grade": 3.2,
+          "elevation_high": 23.8,
+          "elevation_low": 20.1,
+          "start_latlng": [
+            -37.990501,
+            145.083011
+          ],
+          "end_latlng": [
+            -37.9905,
+            145.083032
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2912645465229940802,
+        "resource_state": 2,
+        "name": "Parkdale Members' Wing 200",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 48,
+        "moving_time": 48,
+        "start_date": "2020-10-02T23:58:14Z",
+        "start_date_local": "2020-10-03T09:58:14Z",
+        "distance": 209.0,
+        "start_index": 30,
+        "end_index": 44,
+        "average_cadence": 85.1,
+        "device_watts": false,
+        "average_heartrate": 168.5,
+        "max_heartrate": 169.0,
+        "segment": {
+          "id": 30698522,
+          "resource_state": 2,
+          "name": "Parkdale Members' Wing 200",
+          "activity_type": "Run",
+          "distance": 209.0,
+          "average_grade": -1.1,
+          "maximum_grade": 1.6,
+          "elevation_high": 32.0,
+          "elevation_low": 28.8,
+          "start_latlng": [
+            -37.990403,
+            145.082915
+          ],
+          "end_latlng": [
+            -37.991772,
+            145.082994
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2747267828820548264,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 112,
+        "moving_time": 112,
+        "start_date": "2020-10-03T00:00:03Z",
+        "start_date_local": "2020-10-03T10:00:03Z",
+        "distance": 444.1,
+        "start_index": 62,
+        "end_index": 95,
+        "average_cadence": 84.8,
+        "device_watts": false,
+        "average_heartrate": 176.9,
+        "max_heartrate": 179.0,
+        "segment": {
+          "id": 8404578,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise",
+          "activity_type": "Run",
+          "distance": 444.1,
+          "average_grade": -0.0,
+          "maximum_grade": 3.2,
+          "elevation_high": 23.8,
+          "elevation_low": 20.1,
+          "start_latlng": [
+            -37.990501,
+            145.083011
+          ],
+          "end_latlng": [
+            -37.9905,
+            145.083032
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2912645465230424130,
+        "resource_state": 2,
+        "name": "Parkdale Members' Wing 200",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 48,
+        "moving_time": 48,
+        "start_date": "2020-10-03T00:00:06Z",
+        "start_date_local": "2020-10-03T10:00:06Z",
+        "distance": 209.0,
+        "start_index": 63,
+        "end_index": 79,
+        "average_cadence": 85.5,
+        "device_watts": false,
+        "average_heartrate": 175.5,
+        "max_heartrate": 177.0,
+        "segment": {
+          "id": 30698522,
+          "resource_state": 2,
+          "name": "Parkdale Members' Wing 200",
+          "activity_type": "Run",
+          "distance": 209.0,
+          "average_grade": -1.1,
+          "maximum_grade": 1.6,
+          "elevation_high": 32.0,
+          "elevation_low": 28.8,
+          "start_latlng": [
+            -37.990403,
+            145.082915
+          ],
+          "end_latlng": [
+            -37.991772,
+            145.082994
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2747267828819403432,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise (2 lapper)",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 256,
+        "moving_time": 256,
+        "start_date": "2020-10-03T00:00:45Z",
+        "start_date_local": "2020-10-03T10:00:45Z",
+        "distance": 865.0,
+        "start_index": 76,
+        "end_index": 147,
+        "average_cadence": 84.2,
+        "device_watts": false,
+        "average_heartrate": 174.1,
+        "max_heartrate": 181.0,
+        "segment": {
+          "id": 25103091,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise (2 lapper)",
+          "activity_type": "Run",
+          "distance": 865.0,
+          "average_grade": 0.0,
+          "maximum_grade": 8.4,
+          "elevation_high": 24.4,
+          "elevation_low": 19.8,
+          "start_latlng": [
+            -37.991553,
+            145.082686
+          ],
+          "end_latlng": [
+            -37.991524,
+            145.082638
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2747267828820786856,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 147,
+        "moving_time": 147,
+        "start_date": "2020-10-03T00:01:55Z",
+        "start_date_local": "2020-10-03T10:01:55Z",
+        "distance": 444.1,
+        "start_index": 95,
+        "end_index": 132,
+        "average_cadence": 83.4,
+        "device_watts": false,
+        "average_heartrate": 172.9,
+        "max_heartrate": 181.0,
+        "segment": {
+          "id": 8404578,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise",
+          "activity_type": "Run",
+          "distance": 444.1,
+          "average_grade": -0.0,
+          "maximum_grade": 3.2,
+          "elevation_high": 23.8,
+          "elevation_low": 20.1,
+          "start_latlng": [
+            -37.990501,
+            145.083011
+          ],
+          "end_latlng": [
+            -37.9905,
+            145.083032
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2912645465228577858,
+        "resource_state": 2,
+        "name": "Parkdale Members' Wing 200",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 53,
+        "moving_time": 53,
+        "start_date": "2020-10-03T00:02:01Z",
+        "start_date_local": "2020-10-03T10:02:01Z",
+        "distance": 209.0,
+        "start_index": 96,
+        "end_index": 110,
+        "average_cadence": 84.6,
+        "device_watts": false,
+        "average_heartrate": 178.5,
+        "max_heartrate": 179.0,
+        "segment": {
+          "id": 30698522,
+          "resource_state": 2,
+          "name": "Parkdale Members' Wing 200",
+          "activity_type": "Run",
+          "distance": 209.0,
+          "average_grade": -1.1,
+          "maximum_grade": 1.6,
+          "elevation_high": 32.0,
+          "elevation_low": 28.8,
+          "start_latlng": [
+            -37.990403,
+            145.082915
+          ],
+          "end_latlng": [
+            -37.991772,
+            145.082994
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2747267828820706984,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 109,
+        "moving_time": 109,
+        "start_date": "2020-10-03T00:04:22Z",
+        "start_date_local": "2020-10-03T10:04:22Z",
+        "distance": 444.1,
+        "start_index": 132,
+        "end_index": 172,
+        "average_cadence": 86.3,
+        "device_watts": false,
+        "average_heartrate": 175.1,
+        "max_heartrate": 180.0,
+        "segment": {
+          "id": 8404578,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise",
+          "activity_type": "Run",
+          "distance": 444.1,
+          "average_grade": -0.0,
+          "maximum_grade": 3.2,
+          "elevation_high": 23.8,
+          "elevation_low": 20.1,
+          "start_latlng": [
+            -37.990501,
+            145.083011
+          ],
+          "end_latlng": [
+            -37.9905,
+            145.083032
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2912645465228761154,
+        "resource_state": 2,
+        "name": "Parkdale Members' Wing 200",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 50,
+        "moving_time": 50,
+        "start_date": "2020-10-03T00:04:22Z",
+        "start_date_local": "2020-10-03T10:04:22Z",
+        "distance": 209.0,
+        "start_index": 132,
+        "end_index": 150,
+        "average_cadence": 86.5,
+        "device_watts": false,
+        "average_heartrate": 172.3,
+        "max_heartrate": 176.0,
+        "segment": {
+          "id": 30698522,
+          "resource_state": 2,
+          "name": "Parkdale Members' Wing 200",
+          "activity_type": "Run",
+          "distance": 209.0,
+          "average_grade": -1.1,
+          "maximum_grade": 1.6,
+          "elevation_high": 32.0,
+          "elevation_low": 28.8,
+          "start_latlng": [
+            -37.990403,
+            145.082915
+          ],
+          "end_latlng": [
+            -37.991772,
+            145.082994
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2747267828817993384,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise (2 lapper)",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 228,
+        "moving_time": 228,
+        "start_date": "2020-10-03T00:05:05Z",
+        "start_date_local": "2020-10-03T10:05:05Z",
+        "distance": 865.0,
+        "start_index": 148,
+        "end_index": 228,
+        "average_cadence": 85.3,
+        "device_watts": false,
+        "average_heartrate": 179.5,
+        "max_heartrate": 183.0,
+        "segment": {
+          "id": 25103091,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise (2 lapper)",
+          "activity_type": "Run",
+          "distance": 865.0,
+          "average_grade": 0.0,
+          "maximum_grade": 8.4,
+          "elevation_high": 24.4,
+          "elevation_low": 19.8,
+          "start_latlng": [
+            -37.991553,
+            145.082686
+          ],
+          "end_latlng": [
+            -37.991524,
+            145.082638
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2747267828821095080,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 116,
+        "moving_time": 116,
+        "start_date": "2020-10-03T00:06:11Z",
+        "start_date_local": "2020-10-03T10:06:11Z",
+        "distance": 444.1,
+        "start_index": 172,
+        "end_index": 214,
+        "average_cadence": 85.1,
+        "device_watts": false,
+        "average_heartrate": 180.9,
+        "max_heartrate": 183.0,
+        "segment": {
+          "id": 8404578,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise",
+          "activity_type": "Run",
+          "distance": 444.1,
+          "average_grade": -0.0,
+          "maximum_grade": 3.2,
+          "elevation_high": 23.8,
+          "elevation_low": 20.1,
+          "start_latlng": [
+            -37.990501,
+            145.083011
+          ],
+          "end_latlng": [
+            -37.9905,
+            145.083032
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2912645465230753858,
+        "resource_state": 2,
+        "name": "Parkdale Members' Wing 200",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 47,
+        "moving_time": 47,
+        "start_date": "2020-10-03T00:06:16Z",
+        "start_date_local": "2020-10-03T10:06:16Z",
+        "distance": 209.0,
+        "start_index": 173,
+        "end_index": 190,
+        "average_cadence": 85.8,
+        "device_watts": false,
+        "average_heartrate": 181.6,
+        "max_heartrate": 183.0,
+        "segment": {
+          "id": 30698522,
+          "resource_state": 2,
+          "name": "Parkdale Members' Wing 200",
+          "activity_type": "Run",
+          "distance": 209.0,
+          "average_grade": -1.1,
+          "maximum_grade": 1.6,
+          "elevation_high": 32.0,
+          "elevation_low": 28.8,
+          "start_latlng": [
+            -37.990403,
+            145.082915
+          ],
+          "end_latlng": [
+            -37.991772,
+            145.082994
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2747267828818651816,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 126,
+        "moving_time": 126,
+        "start_date": "2020-10-03T00:08:07Z",
+        "start_date_local": "2020-10-03T10:08:07Z",
+        "distance": 444.1,
+        "start_index": 214,
+        "end_index": 258,
+        "average_cadence": 84.2,
+        "device_watts": false,
+        "average_heartrate": 179.5,
+        "max_heartrate": 180.0,
+        "segment": {
+          "id": 8404578,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise",
+          "activity_type": "Run",
+          "distance": 444.1,
+          "average_grade": -0.0,
+          "maximum_grade": 3.2,
+          "elevation_high": 23.8,
+          "elevation_low": 20.1,
+          "start_latlng": [
+            -37.990501,
+            145.083011
+          ],
+          "end_latlng": [
+            -37.9905,
+            145.083032
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2912645465227095106,
+        "resource_state": 2,
+        "name": "Parkdale Members' Wing 200",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 54,
+        "moving_time": 54,
+        "start_date": "2020-10-03T00:08:12Z",
+        "start_date_local": "2020-10-03T10:08:12Z",
+        "distance": 209.0,
+        "start_index": 215,
+        "end_index": 231,
+        "average_cadence": 84.5,
+        "device_watts": false,
+        "average_heartrate": 179.6,
+        "max_heartrate": 180.0,
+        "segment": {
+          "id": 30698522,
+          "resource_state": 2,
+          "name": "Parkdale Members' Wing 200",
+          "activity_type": "Run",
+          "distance": 209.0,
+          "average_grade": -1.1,
+          "maximum_grade": 1.6,
+          "elevation_high": 32.0,
+          "elevation_low": 28.8,
+          "start_latlng": [
+            -37.990403,
+            145.082915
+          ],
+          "end_latlng": [
+            -37.991772,
+            145.082994
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2747267828819259048,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise (2 lapper)",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 295,
+        "moving_time": 295,
+        "start_date": "2020-10-03T00:08:53Z",
+        "start_date_local": "2020-10-03T10:08:53Z",
+        "distance": 865.0,
+        "start_index": 228,
+        "end_index": 323,
+        "average_cadence": 81.4,
+        "device_watts": false,
+        "average_heartrate": 169.4,
+        "max_heartrate": 180.0,
+        "segment": {
+          "id": 25103091,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise (2 lapper)",
+          "activity_type": "Run",
+          "distance": 865.0,
+          "average_grade": 0.0,
+          "maximum_grade": 8.4,
+          "elevation_high": 24.4,
+          "elevation_low": 19.8,
+          "start_latlng": [
+            -37.991553,
+            145.082686
+          ],
+          "end_latlng": [
+            -37.991524,
+            145.082638
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2747267828817947304,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 169,
+        "moving_time": 169,
+        "start_date": "2020-10-03T00:10:13Z",
+        "start_date_local": "2020-10-03T10:10:13Z",
+        "distance": 444.1,
+        "start_index": 258,
+        "end_index": 307,
+        "average_cadence": 79.1,
+        "device_watts": false,
+        "average_heartrate": 164.4,
+        "max_heartrate": 180.0,
+        "segment": {
+          "id": 8404578,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise",
+          "activity_type": "Run",
+          "distance": 444.1,
+          "average_grade": -0.0,
+          "maximum_grade": 3.2,
+          "elevation_high": 23.8,
+          "elevation_low": 20.1,
+          "start_latlng": [
+            -37.990501,
+            145.083011
+          ],
+          "end_latlng": [
+            -37.9905,
+            145.083032
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2912645465230152770,
+        "resource_state": 2,
+        "name": "Parkdale Members' Wing 200",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 94,
+        "moving_time": 94,
+        "start_date": "2020-10-03T00:10:16Z",
+        "start_date_local": "2020-10-03T10:10:16Z",
+        "distance": 209.0,
+        "start_index": 259,
+        "end_index": 283,
+        "average_cadence": 74.5,
+        "device_watts": false,
+        "average_heartrate": 164.5,
+        "max_heartrate": 179.0,
+        "segment": {
+          "id": 30698522,
+          "resource_state": 2,
+          "name": "Parkdale Members' Wing 200",
+          "activity_type": "Run",
+          "distance": 209.0,
+          "average_grade": -1.1,
+          "maximum_grade": 1.6,
+          "elevation_high": 32.0,
+          "elevation_low": 28.8,
+          "start_latlng": [
+            -37.990403,
+            145.082915
+          ],
+          "end_latlng": [
+            -37.991772,
+            145.082994
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2912645465230830658,
+        "resource_state": 2,
+        "name": "Parkdale Members' Wing 200",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 57,
+        "moving_time": 57,
+        "start_date": "2020-10-03T00:13:03Z",
+        "start_date_local": "2020-10-03T10:13:03Z",
+        "distance": 209.0,
+        "start_index": 308,
+        "end_index": 328,
+        "average_cadence": 85.0,
+        "device_watts": false,
+        "average_heartrate": 170.0,
+        "max_heartrate": 171.0,
+        "segment": {
+          "id": 30698522,
+          "resource_state": 2,
+          "name": "Parkdale Members' Wing 200",
+          "activity_type": "Run",
+          "distance": 209.0,
+          "average_grade": -1.1,
+          "maximum_grade": 1.6,
+          "elevation_high": 32.0,
+          "elevation_low": 28.8,
+          "start_latlng": [
+            -37.990403,
+            145.082915
+          ],
+          "end_latlng": [
+            -37.991772,
+            145.082994
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1000.1,
+        "elapsed_time": 251,
+        "elevation_difference": 22.4,
+        "moving_time": 251,
+        "split": 1,
+        "average_speed": 3.98,
+        "average_grade_adjusted_speed": 4.02,
+        "average_heartrate": 164.66533864541833,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1002.3,
+        "elapsed_time": 285,
+        "elevation_difference": -3.4,
+        "moving_time": 285,
+        "split": 2,
+        "average_speed": 3.52,
+        "average_grade_adjusted_speed": 3.52,
+        "average_heartrate": 174.1263157894737,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.0,
+        "elapsed_time": 262,
+        "elevation_difference": 1.8,
+        "moving_time": 262,
+        "split": 3,
+        "average_speed": 3.82,
+        "average_grade_adjusted_speed": 3.9,
+        "average_heartrate": 180.09541984732823,
+        "pace_zone": 0
+      },
+      {
+        "distance": 726.7,
+        "elapsed_time": 245,
+        "elevation_difference": 2.2,
+        "moving_time": 245,
+        "split": 4,
+        "average_speed": 2.97,
+        "average_grade_adjusted_speed": 3.06,
+        "average_heartrate": 166.6326530612245,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1618.2,
+        "elapsed_time": 440,
+        "elevation_difference": 20.4,
+        "moving_time": 440,
+        "split": 1,
+        "average_speed": 3.68,
+        "average_grade_adjusted_speed": 3.69,
+        "average_heartrate": 169.23636363636365,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1618.2,
+        "elapsed_time": 460,
+        "elevation_difference": 0.8,
+        "moving_time": 460,
+        "split": 2,
+        "average_speed": 3.52,
+        "average_grade_adjusted_speed": 3.59,
+        "average_heartrate": 175.50434782608696,
+        "pace_zone": 0
+      },
+      {
+        "distance": 493.7,
+        "elapsed_time": 143,
+        "elevation_difference": 1.8,
+        "moving_time": 143,
+        "split": 3,
+        "average_speed": 3.45,
+        "average_grade_adjusted_speed": 3.56,
+        "average_heartrate": 166.23076923076923,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 13563914682,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 251,
+        "moving_time": 251,
+        "start_date": "2020-10-02T23:56:43Z",
+        "start_date_local": "2020-10-03T09:56:43Z",
+        "distance": 1000.0,
+        "average_speed": 3.98,
+        "max_speed": 4.3,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 79,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 85.4,
+        "device_watts": false,
+        "average_heartrate": 164.7,
+        "max_heartrate": 177.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 13563914684,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 284,
+        "moving_time": 284,
+        "start_date": "2020-10-03T00:00:57Z",
+        "start_date_local": "2020-10-03T10:00:57Z",
+        "distance": 1000.0,
+        "average_speed": 3.52,
+        "max_speed": 4.7,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 80,
+        "end_index": 160,
+        "total_elevation_gain": 8.0,
+        "average_cadence": 84.4,
+        "device_watts": false,
+        "average_heartrate": 174.1,
+        "max_heartrate": 181.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 13563914685,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 261,
+        "moving_time": 261,
+        "start_date": "2020-10-03T00:05:42Z",
+        "start_date_local": "2020-10-03T10:05:42Z",
+        "distance": 1000.0,
+        "average_speed": 3.83,
+        "max_speed": 4.4,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 161,
+        "end_index": 254,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 84.8,
+        "device_watts": false,
+        "average_heartrate": 180.1,
+        "max_heartrate": 183.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 13563914686,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 245,
+        "moving_time": 245,
+        "start_date": "2020-10-03T00:10:03Z",
+        "start_date_local": "2020-10-03T10:10:03Z",
+        "distance": 730.15,
+        "average_speed": 2.98,
+        "max_speed": 4.0,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 255,
+        "end_index": 329,
+        "total_elevation_gain": 4.0,
+        "average_cadence": 80.9,
+        "device_watts": false,
+        "average_heartrate": 166.5,
+        "max_heartrate": 180.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941263,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 96,
+        "moving_time": 96,
+        "start_date": "2020-10-03T00:04:41Z",
+        "start_date_local": "2020-10-03T10:04:41Z",
+        "distance": 400,
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "start_index": 140,
+        "end_index": 174
+      },
+      {
+        "id": 29111941389,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 197,
+        "moving_time": 197,
+        "start_date": "2020-10-03T00:04:19Z",
+        "start_date_local": "2020-10-03T10:04:19Z",
+        "distance": 805,
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "start_index": 131,
+        "end_index": 203
+      },
+      {
+        "id": 29111941519,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 250,
+        "moving_time": 250,
+        "start_date": "2020-10-03T00:04:15Z",
+        "start_date_local": "2020-10-03T10:04:15Z",
+        "distance": 1000,
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "start_index": 130,
+        "end_index": 219
+      },
+      {
+        "id": 29111941660,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 432,
+        "moving_time": 432,
+        "start_date": "2020-10-02T23:59:41Z",
+        "start_date_local": "2020-10-03T09:59:41Z",
+        "distance": 1609,
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "start_index": 54,
+        "end_index": 184
+      },
+      {
+        "id": 29111941786,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 4143190874,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 896,
+        "moving_time": 896,
+        "start_date": "2020-10-02T23:56:47Z",
+        "start_date_local": "2020-10-03T09:56:47Z",
+        "distance": 3219,
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "start_index": 2,
+        "end_index": 281
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin v\u00edvoactive 3",
+    "embed_token": "701ff7a5ea1973f8ffa88a22b43d6ac13913f0e5",
+    "similar_activities": {
+      "effort_count": 8,
+      "average_speed": 2.69213514519732,
+      "min_average_speed": 2.0769274376417233,
+      "mid_average_speed": 2.627421309881684,
+      "max_average_speed": 3.5749760306807286,
+      "pr_rank": 1,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          3.2940795559666975,
+          3.4287844397788567,
+          2.8174898679104055,
+          2.84432790173269,
+          2.7478816208799657
+        ],
+        "current_activity_index": 1,
+        "min_speed": 2.0769274376417233,
+        "mid_speed": 2.627421309881684,
+        "max_speed": 3.5749760306807286,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "cached_at": "2025-10-06T17:14:40.100605",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Morning Hike",
+    "distance": 8478.7,
+    "moving_time": 7862,
+    "elapsed_time": 10648,
+    "total_elevation_gain": 304.0,
+    "type": "Hike",
+    "sport_type": "Hike",
+    "id": 10272065335,
+    "start_date": "2023-11-21T23:56:01Z",
+    "start_date_local": "2023-11-22T10:56:01Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 3,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a10272065335",
+      "polyline": "dl{aFw{ydZ^DNLb@L^BPDNFRBVHDDh@?MPULEA[Fi@b@SXOFG@INCLGCCJa@j@Sf@ORMHEHQFOJCD]HM?_AVS\\_@b@a@~@Mj@Eh@@RAl@Oz@?l@Vv@?HCZ@f@LD`@?HDPNf@EJ?jA^FAt@DFCJBDANFFVLJDNJNFRTTh@\\\\PXVTFr@\\NPjB^b@HJALBl@Cb@@DCH@FE^@^JF?FKZOd@MLMHSJIFBFNr@x@N@LIFIVGDGp@QPO`@e@LSD[D?LJ\\NDHF@JD@TNPDLHDZ^^DR?RNtAEr@W\\a@JW@FDILCDKLK@SBCJELHZIB@AVACD@@VLVH?JS?EMOKa@BAKBQAGBSEQFM`@E@MPECOPJGUNHCKNI^GLA^Sb@SLa@LQJS?UBa@R]J]?KHOD_@ZO^CPA|@D@C@NJRLXj@FRCPFHDp@HP?RIf@?f@If@E`@@HQd@AZGT?JDFB\\Jh@?DFPBPIh@?FBB?`@HXVb@FZATDD?DCDGp@BJB^NLACB?ODED@BPODSKs@Cc@JO@IIc@IKIS?EECE?OKEGKCS?OEYWWIQa@GII]Ma@KIIUCOa@aACWIO@OWY@WPYDOAS@e@UmA?[DSAMSa@BI?EGGK]@GEIDa@AKQa@CQ@KOYCYCAAc@SOIQUSEAABAG[?MECCUBg@EGCa@?GCY?WDa@AI?EBSCI@O?QCg@Sg@IEEWIGIw@WUQIIQCYUe@QS_@IC?Kc@c@GWSKAA[?cAIEAUAo@Ui@B]Oa@AMECEA[@MDWOu@AYDy@FWF{A^{ANY^e@NKHC@Eh@Sn@MZWNEn@w@HQLMT_@TUd@_@PGBIHGD?FIF?PKf@OVYHAr@`@B??BJFNFNRHDDHZR@?DGDU`@o@DYJMNa@d@{@FGHSXaBLOh@RJCVQJERA`@a@FM?QHWD_@n@wAh@{@Pu@d@a@b@U\\_@ZQFCXSLCFMAFA@^Gj@UR?\\Mv@GLGZYRGNEJ@BBH?JHPBRCNGRW^q@HSDU?UUg@DU@]`@UZD@A@BPSN_@^AvAY^@VSVCV?l@QD?BCPAJEHQHINe@LSP_@?ENa@h@i@\\Uh@q@VQ^m@JK@GTOPUJKBAHMLIJUDEDMDCTk@?UL{@HS?MBQAWFOBWCUGQII?GBSX_@?MQGIQBLGG@A?RWN@C?@VGHIPFA@E@Qh@IL?BLNDLDRCV@BIV@RCNBJ]tAC@@HCJYn@KDMTMPC?ANY\\]Vc@|@]Tq@p@SHOLGBKPOLOt@Yp@e@n@g@PUBGDQDMASB]P_@?iB^M?IFOXMLMCM?GFQDMv@@FTXBLC^KVY\\GRWXUDQ?o@KWFk@ZOFS@}@Ta@AYJS@MDIJWLURc@JU`@QBc@\\YZIZCTMNcAvBGRCb@GNCRSNMRSDa@TU?]IQBELCTYhAW^Uh@_@t@Ib@Y`@GPCPICi@w@ABa@Q_@MYQQA]DYGKIQCOIK?{@UOC[QOEG@QG_@Ac@FWAWGG?]b@OLEA",
+      "resource_state": 3,
+      "summary_polyline": "dl{aFw{ydZ^DNLb@LtAT\\Nh@?MPULa@Di@b@SXWHM\\GCe@v@Sf@c@f@e@XkB`@s@`Aa@~@Mj@Eh@?`AOz@?l@Vv@AlAn@DZTr@EjA^vA@NFFVLJXr@vB|AhAd@NPjB^|@J`BCFEfALFKZOd@Mb@k@NRr@x@N@TSnAa@PO`@e@LSD[D?j@ZDHRF@TT^d@d@r@DRNtAEr@W\\a@JW@FRMRWDWJELH^GCRD@@VLVH?JYMOKa@BAe@DSEQFM`@SR_@THCKNQl@A^Sb@gAf@i@B_A^]?[N_@ZO^EnAd@\\Xj@FRCPFHDp@HPIz@?f@If@Cj@Qd@AZGTT`BJb@Ih@Bl@HXVb@FZATDJKv@Fj@NL@EUNRMDSKs@Cc@JO@IIc@Yi@g@Wc@EYWWIYk@W_AKIMe@a@aACWIO@OWY@WVi@?y@UmADo@AMSa@BOSe@CQDa@AKQa@A]Wu@Ac@SO_@e@G@]GQIUByAMqCDy@Wg@Ie@Yw@W_@[QCYUe@QS_@IC?Kc@c@GWUM{BMo@Ui@B]Oo@GCEA[Fe@Ou@AYTmD^{An@_AZUxAa@j@]|AwBTUrAcA`A[VYHArAt@^b@\\RJ]`@o@DYZo@l@cAHSXaBLOh@RJCVQ^G`@a@FM?QNw@n@wAh@{@Pu@hAw@\\_@jAm@FMCH^Gj@UR?\\Mv@G|@i@ZCj@Pb@Kr@iANi@?UUg@DU@]`@U\\B@B`@s@^AvAY^@VSn@CtA]R[\\y@`@gAfA_Ah@q@VQl@aAv@s@t@eATk@?UL{@HSB_@AWFOBWCUQ[?GBSX_@?MQGIQBLEI?RWNb@SPFGB[v@R`@DRAZIV@n@a@vA@HCJYn@KD_@f@ANw@t@c@|@]Tq@p@k@Z[^Ot@Yp@e@n@wA`@a@@]P_@?iB^M?g@n@[CYLMv@Zn@C^KVy@jAg@Do@KWF{@b@qAVa@Am@LeAr@c@JU`@QBc@\\YZIZCTMNcAvBGROfAa@b@u@Zs@IQBc@lBW^Uh@_@t@Ib@a@r@CPICi@w@}Am@o@BgA_@sBk@i@KcADw@I]b@OLEA"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.17330705374479,
+      142.51468297094107
+    ],
+    "end_latlng": [
+      -37.17247230000794,
+      142.51446973532438
+    ],
+    "average_speed": 1.078,
+    "max_speed": 2.23,
+    "average_cadence": 52.4,
+    "average_temp": 30,
+    "has_heartrate": true,
+    "average_heartrate": 104.6,
+    "max_heartrate": 140.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 825.8,
+    "elev_low": 617.8,
+    "upload_id": 10998859063,
+    "upload_id_str": "10998859063",
+    "external_id": "garmin_ping_306376527838",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 740.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3163017186878990040,
+        "resource_state": 2,
+        "name": "Sundial Road Climb",
+        "activity": {
+          "id": 10272065335,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 507,
+        "moving_time": 310,
+        "start_date": "2023-11-22T02:18:30Z",
+        "start_date_local": "2023-11-22T13:18:30Z",
+        "distance": 377.3,
+        "start_index": 1800,
+        "end_index": 1911,
+        "average_cadence": 13.7,
+        "device_watts": false,
+        "average_heartrate": 93.6,
+        "max_heartrate": 123.0,
+        "segment": {
+          "id": 5747829,
+          "resource_state": 2,
+          "name": "Sundial Road Climb",
+          "activity_type": "Hike",
+          "distance": 377.3,
+          "average_grade": 12.3,
+          "maximum_grade": 49.0,
+          "elevation_high": 771.7,
+          "elevation_low": 723.8,
+          "start_latlng": [
+            -37.185048,
+            142.52444
+          ],
+          "end_latlng": [
+            -37.184063,
+            142.521953
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Bellfield",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.9,
+        "elapsed_time": 1015,
+        "elevation_difference": 8.6,
+        "moving_time": 1015,
+        "split": 1,
+        "average_speed": 0.99,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 104.86308871851041,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.4,
+        "elapsed_time": 1116,
+        "elevation_difference": -59.4,
+        "moving_time": 1116,
+        "split": 2,
+        "average_speed": 0.9,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 93.0111111111111,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1002.5,
+        "elapsed_time": 1231,
+        "elevation_difference": -33.0,
+        "moving_time": 1231,
+        "split": 3,
+        "average_speed": 0.81,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 92.72784019975032,
+        "pace_zone": 0
+      },
+      {
+        "distance": 996.9,
+        "elapsed_time": 1214,
+        "elevation_difference": 112.6,
+        "moving_time": 1214,
+        "split": 4,
+        "average_speed": 0.82,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 121.2907580477674,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1002.8,
+        "elapsed_time": 899,
+        "elevation_difference": 4.8,
+        "moving_time": 899,
+        "split": 5,
+        "average_speed": 1.12,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 109.01936218678816,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.4,
+        "elapsed_time": 1231,
+        "elevation_difference": 46.2,
+        "moving_time": 1231,
+        "split": 6,
+        "average_speed": 0.81,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 113.59254947613505,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.3,
+        "elapsed_time": 2583,
+        "elevation_difference": -2.4,
+        "moving_time": 2580,
+        "split": 7,
+        "average_speed": 0.39,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 105.92932187201528,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1004.2,
+        "elapsed_time": 944,
+        "elevation_difference": -55.0,
+        "moving_time": 944,
+        "split": 8,
+        "average_speed": 1.06,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 97.40149094781682,
+        "pace_zone": 0
+      },
+      {
+        "distance": 474.3,
+        "elapsed_time": 415,
+        "elevation_difference": -23.4,
+        "moving_time": 415,
+        "split": 9,
+        "average_speed": 1.14,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 97.12433862433862,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1610.0,
+        "elapsed_time": 1640,
+        "elevation_difference": -37.6,
+        "moving_time": 1640,
+        "split": 1,
+        "average_speed": 0.98,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 100.16506849315068,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1611.0,
+        "elapsed_time": 1903,
+        "elevation_difference": -30.6,
+        "moving_time": 1903,
+        "split": 2,
+        "average_speed": 0.85,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 95.42846441947566,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.8,
+        "elapsed_time": 1790,
+        "elevation_difference": 92.4,
+        "moving_time": 1790,
+        "split": 3,
+        "average_speed": 0.9,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 115.98814229249012,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1606.9,
+        "elapsed_time": 2088,
+        "elevation_difference": 88.4,
+        "moving_time": 2088,
+        "split": 4,
+        "average_speed": 0.77,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 114.54452753229096,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1614.4,
+        "elapsed_time": 2855,
+        "elevation_difference": -92.6,
+        "moving_time": 2852,
+        "split": 5,
+        "average_speed": 0.57,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 97.58242463117384,
+        "pace_zone": 0
+      },
+      {
+        "distance": 426.6,
+        "elapsed_time": 372,
+        "elevation_difference": -21.0,
+        "moving_time": 372,
+        "split": 6,
+        "average_speed": 1.15,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 97.22388059701493,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 35321223326,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 10272065335,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 8717,
+        "moving_time": 8717,
+        "start_date": "2023-11-21T23:56:01Z",
+        "start_date_local": "2023-11-22T10:56:01Z",
+        "distance": 6506.09,
+        "average_speed": 0.75,
+        "max_speed": 2.196,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1822,
+        "total_elevation_gain": 301.0,
+        "average_cadence": 52.0,
+        "device_watts": false,
+        "average_heartrate": 106.8,
+        "max_heartrate": 140.0
+      },
+      {
+        "id": 35321223330,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 10272065335,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1926,
+        "moving_time": 1923,
+        "start_date": "2023-11-22T02:21:22Z",
+        "start_date_local": "2023-11-22T13:21:22Z",
+        "distance": 1972.6,
+        "average_speed": 1.03,
+        "max_speed": 2.23,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 1823,
+        "end_index": 2308,
+        "total_elevation_gain": 10.4,
+        "average_cadence": 53.8,
+        "device_watts": false,
+        "average_heartrate": 97.6,
+        "max_heartrate": 124.0
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "a51b167f4d261ad06efd4a13fa1cd1e72092ec1c",
+    "available_zones": []
+  }
+}

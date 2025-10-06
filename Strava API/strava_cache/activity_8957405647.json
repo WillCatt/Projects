@@ -1,0 +1,331 @@
+{
+  "cached_at": "2025-10-06T17:29:21.746753",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Evening Run",
+    "distance": 1998.1,
+    "moving_time": 699,
+    "elapsed_time": 699,
+    "total_elevation_gain": 23.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": null,
+    "id": 8957405647,
+    "start_date": "2022-04-13T08:59:04Z",
+    "start_date_local": "2022-04-13T18:59:04Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a8957405647",
+      "polyline": "deafF{ngtZK?EFGZANH~@CFCnAId@GrAMn@DnAS|@OjA[dE@p@OhACl@Gj@Ep@QxAQxDQtBG|AEHG@[_@Ui@W[]MK?EDCZINEA?INs@B[K_@BMIW[QY_@Sc@OOE[FIJA^Lh@Id@R^Ff@Ob@ENTVNDIDiBXyDJyBRcBVgFL_ALe@Co@DY@o@D{@H_@UKe@Ao@K?GDIVKn@FZJBAHUFgDB[H?NN@FC`ABXr@Py@W@M",
+      "resource_state": 3,
+      "summary_polyline": "deafF{ngtZK?EFGZANH~@CFCnAId@GrAMn@DnAS|@OjA[dE@p@OhACl@Gj@Ep@QxAQxDQtBG|AEHG@[_@Ui@W[]MK?EDCZINEA?INs@B[K_@BMIW[QY_@Sc@OOE[FIJA^Lh@Id@R^Ff@Ob@ENTVNDIDiBXyDJyBRcBVgFL_ALe@Co@DY@o@D{@H_@UKe@Ao@K?GDIVKn@FZJBAHUFgDB[H?NN@FC`ABXr@Py@W@M"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.85826084204018,
+      145.04190338775516
+    ],
+    "end_latlng": [
+      -37.85831364803016,
+      145.041905650869
+    ],
+    "average_speed": 2.858,
+    "max_speed": 3.726,
+    "average_cadence": 77.8,
+    "average_temp": 23,
+    "has_heartrate": true,
+    "average_heartrate": 153.9,
+    "max_heartrate": 179.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 55.6,
+    "elev_low": 36.8,
+    "upload_id": 9610822387,
+    "upload_id_str": "9610822387",
+    "external_id": "garmin_ping_271087420882",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 154.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [],
+    "splits_metric": [
+      {
+        "distance": 1003.7,
+        "elapsed_time": 357,
+        "elevation_difference": 10.0,
+        "moving_time": 357,
+        "split": 1,
+        "average_speed": 2.81,
+        "average_grade_adjusted_speed": 2.94,
+        "average_heartrate": 145.50420168067228,
+        "pace_zone": 0
+      },
+      {
+        "distance": 994.4,
+        "elapsed_time": 342,
+        "elevation_difference": -8.4,
+        "moving_time": 342,
+        "split": 2,
+        "average_speed": 2.91,
+        "average_grade_adjusted_speed": 2.89,
+        "average_heartrate": 162.80588235294118,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1616.7,
+        "elapsed_time": 564,
+        "elevation_difference": 5.2,
+        "moving_time": 564,
+        "split": 1,
+        "average_speed": 2.87,
+        "average_grade_adjusted_speed": 2.93,
+        "average_heartrate": 149.7677304964539,
+        "pace_zone": 0
+      },
+      {
+        "distance": 381.4,
+        "elapsed_time": 135,
+        "elevation_difference": -3.6,
+        "moving_time": 135,
+        "split": 2,
+        "average_speed": 2.83,
+        "average_grade_adjusted_speed": 2.84,
+        "average_heartrate": 171.65413533834587,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 30456099191,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 8957405647,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 356,
+        "moving_time": 356,
+        "start_date": "2022-04-13T08:59:04Z",
+        "start_date_local": "2022-04-13T18:59:04Z",
+        "distance": 1000.0,
+        "average_speed": 2.81,
+        "max_speed": 3.629,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 101,
+        "total_elevation_gain": 17.8,
+        "average_cadence": 76.4,
+        "device_watts": false,
+        "average_heartrate": 145.5,
+        "max_heartrate": 160.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 30456099192,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 8957405647,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 342,
+        "moving_time": 342,
+        "start_date": "2022-04-13T09:05:02Z",
+        "start_date_local": "2022-04-13T19:05:02Z",
+        "distance": 998.06,
+        "average_speed": 2.92,
+        "max_speed": 3.726,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 102,
+        "end_index": 201,
+        "total_elevation_gain": 6.0,
+        "average_cadence": 79.2,
+        "device_watts": false,
+        "average_heartrate": 162.8,
+        "max_heartrate": 179.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941348,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 8957405647,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 133,
+        "moving_time": 133,
+        "start_date": "2022-04-13T09:04:56Z",
+        "start_date_local": "2022-04-13T19:04:56Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 98,
+        "end_index": 133
+      },
+      {
+        "id": 29111941473,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 8957405647,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 271,
+        "moving_time": 271,
+        "start_date": "2022-04-13T09:04:17Z",
+        "start_date_local": "2022-04-13T19:04:17Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 86,
+        "end_index": 160
+      },
+      {
+        "id": 29111941603,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 8957405647,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 339,
+        "moving_time": 339,
+        "start_date": "2022-04-13T09:03:58Z",
+        "start_date_local": "2022-04-13T19:03:58Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 80,
+        "end_index": 176
+      },
+      {
+        "id": 29111941730,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 8957405647,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 558,
+        "moving_time": 558,
+        "start_date": "2022-04-13T08:59:39Z",
+        "start_date_local": "2022-04-13T18:59:39Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 15,
+        "end_index": 164
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "56edd3f4902047e0748232844cdf5c57541196fe",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.8585121602288983,
+      "min_average_speed": 2.8585121602288983,
+      "mid_average_speed": 2.8585121602288983,
+      "max_average_speed": 2.8585121602288983,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.8585121602288983
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.8585121602288983,
+        "mid_speed": 2.8585121602288983,
+        "max_speed": 2.8585121602288983,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

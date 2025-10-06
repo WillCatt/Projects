@@ -1,0 +1,848 @@
+{
+  "cached_at": "2025-10-06T17:20:47.550712",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Afternoon Run",
+    "distance": 2498.7,
+    "moving_time": 950,
+    "elapsed_time": 953,
+    "total_elevation_gain": 39.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": null,
+    "id": 8969991987,
+    "start_date": "2023-04-28T03:07:42Z",
+    "start_date_local": "2023-04-28T13:07:42Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 14,
+    "kudos_count": 4,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a8969991987",
+      "polyline": "rrbfFwwhtZ?PLb@JLLF`@Jd@BRAp@S`@[Za@Pm@F]GcAGg@Se@g@i@cBS_@HSN}@JWP]r@In@Bn@V`AXd@v@n@RFb@B^?d@Gt@[ZYVg@Lu@Co@M{@Wm@]_@]Uy@Qa@FWPOPo@L_@NS^Uv@?p@Lx@Rf@Z`@f@Zb@Hr@DN?b@Kr@]Z[Vs@Hy@Eo@Os@Uc@[]WMo@Qc@Ey@Be@La@d@WPIJMh@CTA`@Bp@Pt@Vd@b@\\`A^^B\\A`@If@Q\\[JONa@Lm@@SIiAK_@Uc@k@i@o@Yu@Gg@@e@DCBa@n@ULOVI`@Cf@@p@F^Pj@JRb@d@XPp@Nn@An@I\\ULYOOOG",
+      "resource_state": 3,
+      "summary_polyline": "rrbfFwwhtZ?PLb@JLLF`@Jd@BRAp@S`@[Za@Pm@F]GcAGg@Se@g@i@cBS_@HSN}@JWP]r@In@Bn@V`AXd@v@n@RFb@B^?d@Gt@[ZYVg@Lu@Co@M{@Wm@]_@]Uy@Qa@FWPOPo@L_@NS^Uv@?p@Lx@Rf@Z`@f@Zb@Hr@DN?b@Kr@]Z[Vs@Hy@Eo@Os@Uc@[]WMo@Qc@Ey@Be@La@d@WPIJMh@CTA`@Bp@Pt@Vd@b@\\`A^^B\\A`@If@Q\\[JONa@Lm@@SIiAK_@Uc@k@i@o@Yu@Gg@@e@DCBa@n@ULOVI`@Cf@@p@F^Pj@JRb@d@XPp@Nn@An@I\\ULYOOOG"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.86553801037371,
+      145.04844395443797
+    ],
+    "end_latlng": [
+      -37.866375697776675,
+      145.0483404379338
+    ],
+    "average_speed": 2.63,
+    "max_speed": 3.468,
+    "average_cadence": 81.7,
+    "average_temp": 26,
+    "has_heartrate": true,
+    "average_heartrate": 147.3,
+    "max_heartrate": 157.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 74.8,
+    "elev_low": 70.0,
+    "upload_id": 9624103650,
+    "upload_id_str": "9624103650",
+    "external_id": "garmin_ping_271440699460",
+    "from_accepted_tag": false,
+    "pr_count": 1,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 177.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3086875704429086822,
+        "resource_state": 2,
+        "name": "CP Oval - Greenhouse lap",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 211,
+        "moving_time": 211,
+        "start_date": "2023-04-28T03:09:03Z",
+        "start_date_local": "2023-04-28T13:09:03Z",
+        "distance": 593.3,
+        "start_index": 27,
+        "end_index": 73,
+        "average_cadence": 81.8,
+        "device_watts": false,
+        "average_heartrate": 144.9,
+        "max_heartrate": 149.0,
+        "segment": {
+          "id": 15230886,
+          "resource_state": 2,
+          "name": "CP Oval - Greenhouse lap",
+          "activity_type": "Run",
+          "distance": 593.3,
+          "average_grade": 0.0,
+          "maximum_grade": 12.8,
+          "elevation_high": 57.0,
+          "elevation_low": 51.8,
+          "start_latlng": [
+            -37.866876,
+            145.048744
+          ],
+          "end_latlng": [
+            -37.866885,
+            145.0488
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086875704429765734,
+        "resource_state": 2,
+        "name": "2km around the oval",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 762,
+        "moving_time": 751,
+        "start_date": "2023-04-28T03:10:40Z",
+        "start_date_local": "2023-04-28T13:10:40Z",
+        "distance": 2011.2,
+        "start_index": 48,
+        "end_index": 209,
+        "average_cadence": 79.8,
+        "device_watts": false,
+        "average_heartrate": 149.5,
+        "max_heartrate": 157.0,
+        "segment": {
+          "id": 6899586,
+          "resource_state": 2,
+          "name": "2km around the oval",
+          "activity_type": "Run",
+          "distance": 2011.2,
+          "average_grade": 0.0,
+          "maximum_grade": 1.5,
+          "elevation_high": 55.9,
+          "elevation_low": 53.7,
+          "start_latlng": [
+            -37.865207,
+            145.049291
+          ],
+          "end_latlng": [
+            -37.866864,
+            145.048815
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086875704431818854,
+        "resource_state": 2,
+        "name": "CP Oval Tap lap",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 216,
+        "moving_time": 216,
+        "start_date": "2023-04-28T03:10:45Z",
+        "start_date_local": "2023-04-28T13:10:45Z",
+        "distance": 610.9,
+        "start_index": 49,
+        "end_index": 96,
+        "average_cadence": 81.5,
+        "device_watts": false,
+        "average_heartrate": 146.7,
+        "max_heartrate": 149.0,
+        "segment": {
+          "id": 7330896,
+          "resource_state": 2,
+          "name": "CP Oval Tap lap",
+          "activity_type": "Run",
+          "distance": 610.9,
+          "average_grade": 0.0,
+          "maximum_grade": 2.0,
+          "elevation_high": 55.9,
+          "elevation_low": 53.6,
+          "start_latlng": [
+            -37.865048,
+            145.049226
+          ],
+          "end_latlng": [
+            -37.865174,
+            145.049236
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086875704430079078,
+        "resource_state": 2,
+        "name": "CP Oval - Greenhouse lap",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 220,
+        "moving_time": 220,
+        "start_date": "2023-04-28T03:12:34Z",
+        "start_date_local": "2023-04-28T13:12:34Z",
+        "distance": 593.3,
+        "start_index": 73,
+        "end_index": 121,
+        "average_cadence": 81.8,
+        "device_watts": false,
+        "average_heartrate": 146.7,
+        "max_heartrate": 153.0,
+        "segment": {
+          "id": 15230886,
+          "resource_state": 2,
+          "name": "CP Oval - Greenhouse lap",
+          "activity_type": "Run",
+          "distance": 593.3,
+          "average_grade": 0.0,
+          "maximum_grade": 12.8,
+          "elevation_high": 57.0,
+          "elevation_low": 51.8,
+          "start_latlng": [
+            -37.866876,
+            145.048744
+          ],
+          "end_latlng": [
+            -37.866885,
+            145.0488
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086875704430997606,
+        "resource_state": 2,
+        "name": "CP Oval Tap lap",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 214,
+        "moving_time": 214,
+        "start_date": "2023-04-28T03:14:21Z",
+        "start_date_local": "2023-04-28T13:14:21Z",
+        "distance": 610.9,
+        "start_index": 96,
+        "end_index": 142,
+        "average_cadence": 81.5,
+        "device_watts": false,
+        "average_heartrate": 149.2,
+        "max_heartrate": 154.0,
+        "segment": {
+          "id": 7330896,
+          "resource_state": 2,
+          "name": "CP Oval Tap lap",
+          "activity_type": "Run",
+          "distance": 610.9,
+          "average_grade": 0.0,
+          "maximum_grade": 2.0,
+          "elevation_high": 55.9,
+          "elevation_low": 53.6,
+          "start_latlng": [
+            -37.865048,
+            145.049226
+          ],
+          "end_latlng": [
+            -37.865174,
+            145.049236
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086875704430594150,
+        "resource_state": 2,
+        "name": "CP Oval - Greenhouse lap",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 219,
+        "moving_time": 219,
+        "start_date": "2023-04-28T03:16:14Z",
+        "start_date_local": "2023-04-28T13:16:14Z",
+        "distance": 593.3,
+        "start_index": 121,
+        "end_index": 163,
+        "average_cadence": 81.0,
+        "device_watts": false,
+        "average_heartrate": 151.7,
+        "max_heartrate": 156.0,
+        "segment": {
+          "id": 15230886,
+          "resource_state": 2,
+          "name": "CP Oval - Greenhouse lap",
+          "activity_type": "Run",
+          "distance": 593.3,
+          "average_grade": 0.0,
+          "maximum_grade": 12.8,
+          "elevation_high": 57.0,
+          "elevation_low": 51.8,
+          "start_latlng": [
+            -37.866876,
+            145.048744
+          ],
+          "end_latlng": [
+            -37.866885,
+            145.0488
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086875704431317094,
+        "resource_state": 2,
+        "name": "CP Oval Tap lap",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 229,
+        "moving_time": 218,
+        "start_date": "2023-04-28T03:17:55Z",
+        "start_date_local": "2023-04-28T13:17:55Z",
+        "distance": 610.9,
+        "start_index": 142,
+        "end_index": 189,
+        "average_cadence": 76.0,
+        "device_watts": false,
+        "average_heartrate": 152.4,
+        "max_heartrate": 157.0,
+        "segment": {
+          "id": 7330896,
+          "resource_state": 2,
+          "name": "CP Oval Tap lap",
+          "activity_type": "Run",
+          "distance": 610.9,
+          "average_grade": 0.0,
+          "maximum_grade": 2.0,
+          "elevation_high": 55.9,
+          "elevation_low": 53.6,
+          "start_latlng": [
+            -37.865048,
+            145.049226
+          ],
+          "end_latlng": [
+            -37.865174,
+            145.049236
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086875704429660262,
+        "resource_state": 2,
+        "name": "CP Oval - Greenhouse lap",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 209,
+        "moving_time": 198,
+        "start_date": "2023-04-28T03:19:53Z",
+        "start_date_local": "2023-04-28T13:19:53Z",
+        "distance": 593.3,
+        "start_index": 163,
+        "end_index": 209,
+        "average_cadence": 75.6,
+        "device_watts": false,
+        "average_heartrate": 151.3,
+        "max_heartrate": 157.0,
+        "segment": {
+          "id": 15230886,
+          "resource_state": 2,
+          "name": "CP Oval - Greenhouse lap",
+          "activity_type": "Run",
+          "distance": 593.3,
+          "average_grade": 0.0,
+          "maximum_grade": 12.8,
+          "elevation_high": 57.0,
+          "elevation_low": 51.8,
+          "start_latlng": [
+            -37.866876,
+            145.048744
+          ],
+          "end_latlng": [
+            -37.866885,
+            145.0488
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1002.2,
+        "elapsed_time": 376,
+        "elevation_difference": 4.4,
+        "moving_time": 376,
+        "split": 1,
+        "average_speed": 2.67,
+        "average_grade_adjusted_speed": 2.72,
+        "average_heartrate": 142.48924731182797,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.7,
+        "elapsed_time": 373,
+        "elevation_difference": -3.0,
+        "moving_time": 373,
+        "split": 2,
+        "average_speed": 2.68,
+        "average_grade_adjusted_speed": 2.68,
+        "average_heartrate": 150.31099195710456,
+        "pace_zone": 0
+      },
+      {
+        "distance": 496.8,
+        "elapsed_time": 205,
+        "elevation_difference": 0.0,
+        "moving_time": 203,
+        "split": 3,
+        "average_speed": 2.45,
+        "average_grade_adjusted_speed": 2.48,
+        "average_heartrate": 150.78534031413614,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1610.7,
+        "elapsed_time": 603,
+        "elevation_difference": 3.0,
+        "moving_time": 603,
+        "split": 1,
+        "average_speed": 2.67,
+        "average_grade_adjusted_speed": 2.7,
+        "average_heartrate": 144.92821368948248,
+        "pace_zone": 0
+      },
+      {
+        "distance": 888.0,
+        "elapsed_time": 351,
+        "elevation_difference": -1.6,
+        "moving_time": 349,
+        "split": 2,
+        "average_speed": 2.54,
+        "average_grade_adjusted_speed": 2.56,
+        "average_heartrate": 151.513353115727,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 30502154839,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 374,
+        "moving_time": 374,
+        "start_date": "2023-04-28T03:07:42Z",
+        "start_date_local": "2023-04-28T13:07:42Z",
+        "distance": 1000.0,
+        "average_speed": 2.67,
+        "max_speed": 3.468,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 92,
+        "total_elevation_gain": 6.6,
+        "average_cadence": 82.2,
+        "device_watts": false,
+        "average_heartrate": 142.5,
+        "max_heartrate": 149.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 30502154841,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 373,
+        "moving_time": 373,
+        "start_date": "2023-04-28T03:14:05Z",
+        "start_date_local": "2023-04-28T13:14:05Z",
+        "distance": 1000.0,
+        "average_speed": 2.68,
+        "max_speed": 3.049,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 93,
+        "end_index": 167,
+        "total_elevation_gain": 8.6,
+        "average_cadence": 81.4,
+        "device_watts": false,
+        "average_heartrate": 150.4,
+        "max_heartrate": 157.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 30502154842,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 205,
+        "moving_time": 203,
+        "start_date": "2023-04-28T03:20:19Z",
+        "start_date_local": "2023-04-28T13:20:19Z",
+        "distance": 498.66,
+        "average_speed": 2.46,
+        "max_speed": 3.06,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 168,
+        "end_index": 213,
+        "total_elevation_gain": 6.2,
+        "average_cadence": 81.4,
+        "device_watts": false,
+        "average_heartrate": 150.7,
+        "max_heartrate": 156.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941370,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 142,
+        "moving_time": 142,
+        "start_date": "2023-04-28T03:08:52Z",
+        "start_date_local": "2023-04-28T13:08:52Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 24,
+        "end_index": 56
+      },
+      {
+        "id": 29111941502,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 294,
+        "moving_time": 294,
+        "start_date": "2023-04-28T03:07:58Z",
+        "start_date_local": "2023-04-28T13:07:58Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 5,
+        "end_index": 76
+      },
+      {
+        "id": 29111941629,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 369,
+        "moving_time": 369,
+        "start_date": "2023-04-28T03:15:06Z",
+        "start_date_local": "2023-04-28T13:15:06Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 105,
+        "end_index": 181
+      },
+      {
+        "id": 29111941755,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 8969991987,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 595,
+        "moving_time": 595,
+        "start_date": "2023-04-28T03:07:53Z",
+        "start_date_local": "2023-04-28T13:07:53Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 3,
+        "end_index": 141
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "2bd0893eeab6920a7dc8d9a18e56064cbfc377ca",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.630210526315789,
+      "min_average_speed": 2.630210526315789,
+      "mid_average_speed": 2.630210526315789,
+      "max_average_speed": 2.630210526315789,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.630210526315789
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.630210526315789,
+        "mid_speed": 2.630210526315789,
+        "max_speed": 2.630210526315789,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

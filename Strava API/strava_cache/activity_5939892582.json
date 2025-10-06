@@ -1,0 +1,176 @@
+{
+  "cached_at": "2025-10-06T18:16:26.939080",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Anyone got shin splints advice???",
+    "distance": 124.8,
+    "moving_time": 52,
+    "elapsed_time": 60,
+    "total_elevation_gain": 0.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 5939892582,
+    "start_date": "2021-09-11T03:20:36Z",
+    "start_date_local": "2021-09-11T13:20:36Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 2,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a5939892582",
+      "polyline": "v||eFss_tZO?_@GOG@ABDD?KBSGO@QOMYW[B?LL",
+      "resource_state": 3,
+      "summary_polyline": "v||eFss_tZO?_@GOG@ABDD?KBSGO@QOMYW[B?LL"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.836434,
+      145.001703
+    ],
+    "end_latlng": [
+      -37.835742,
+      145.00205
+    ],
+    "average_speed": 2.4,
+    "max_speed": 3.6,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 32.5,
+    "elev_low": 31.5,
+    "upload_id": 6314297782,
+    "upload_id_str": "6314297782",
+    "external_id": "BBAF5C88-2171-4024-8527-2B9A879ED7F2-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [],
+    "splits_metric": [
+      {
+        "distance": 124.8,
+        "elapsed_time": 60,
+        "elevation_difference": -0.5,
+        "moving_time": 52,
+        "split": 1,
+        "average_speed": 2.4,
+        "average_grade_adjusted_speed": 2.38,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 124.8,
+        "elapsed_time": 60,
+        "elevation_difference": -0.5,
+        "moving_time": 52,
+        "split": 1,
+        "average_speed": 2.4,
+        "average_grade_adjusted_speed": 2.38,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 19284108636,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 5939892582,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 60,
+        "moving_time": 60,
+        "start_date": "2021-09-11T03:20:36Z",
+        "start_date_local": "2021-09-11T13:20:36Z",
+        "distance": 124.85,
+        "average_speed": 2.08,
+        "max_speed": 3.6,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 60,
+        "total_elevation_gain": 0.0,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava iPhone App",
+    "embed_token": "5d2b9b4f5be602fb99e1dc42a32171f1b0fbff99",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.4,
+      "min_average_speed": 2.4,
+      "mid_average_speed": 2.4,
+      "max_average_speed": 2.4,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.4
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.4,
+        "mid_speed": 2.4,
+        "max_speed": 2.4,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

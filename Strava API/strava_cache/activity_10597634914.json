@@ -1,0 +1,1446 @@
+{
+  "cached_at": "2025-10-06T17:13:35.915624",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Morning Run",
+    "distance": 8055.1,
+    "moving_time": 2876,
+    "elapsed_time": 2976,
+    "total_elevation_gain": 34.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": null,
+    "id": 10597634914,
+    "start_date": "2024-01-20T22:05:06Z",
+    "start_date_local": "2024-01-21T09:05:06Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 9,
+    "comment_count": 0,
+    "athlete_count": 2,
+    "photo_count": 0,
+    "map": {
+      "id": "a10597634914",
+      "polyline": "tzqfFup_tZe@REJI?[Ni@f@e@Xi@H}@d@u@Tg@VmANK?sANsATc@@o@LiA`@WDe@Py@j@q@\\_A\\sAp@s@bA]Ve@d@_BpAyFjF[`@mB`B{@~@m@f@oCzCkB`Bk@^m@h@MH]Z_C`Bq@n@g@ZaHnGkBtB[l@MZa@f@yBxBgDrD]h@kAvA{@|@e@p@_A~@k@^o@Fm@Em@Mm@YuB_@o@GU@]Eq@WqA[_ASYCk@AsABc@AcCWmEk@q@@_DPoABuAPg@Tg@LmAf@e@ZYC{Bn@aBC}AHc@Hk@CyARmATk@`@w@b@a@Ls@LQH{BbAc@N_@Ti@Pq@Bs@L_@QUIG?TFt@Z\\MhAGz@Wx@e@vBgAjAY|@a@fAm@jC_@h@BVCVGvAEdB@VGbBi@f@C\\Y|Ae@v@[d@Ij@EnF[v@A~C\\rC^l@DhDDb@FhD~@xDh@j@NLH`@Jr@Dn@I^Sz@s@h@k@jA{A|@aAt@gA|AcBl@k@pAuAnAmAl@qAX_@rCyCfGiFpAaAZ[`As@xBiBv@i@|AwAt@{@|AyA~@cAjAiAtBmBh@a@~DmDtBuBx@q@d@[dAg@p@UPMrB{@nAo@j@MhEo@bBQd@KzCsAb@E^QZUJMZOj@Sn@Of@EJA\\L",
+      "resource_state": 3,
+      "summary_polyline": "tzqfFup_tZe@REJI?[Ni@f@e@Xi@H}@d@u@Tg@VmANK?sANsATc@@o@LiA`@WDe@Py@j@q@\\_A\\sAp@s@bA]Ve@d@_BpAyFjF[`@mB`B{@~@m@f@oCzCkB`Bk@^m@h@MH]Z_C`Bq@n@g@ZaHnGkBtB[l@MZa@f@yBxBgDrD]h@kAvA{@|@e@p@_A~@k@^o@Fm@Em@Mm@YuB_@o@GU@]Eq@WqA[_ASYCk@AsABc@AcCWmEk@q@@_DPoABuAPg@Tg@LmAf@e@ZYC{Bn@aBC}AHc@Hk@CyARmATk@`@w@b@a@Ls@LQH{BbAc@N_@Ti@Pq@Bs@L_@QUIG?TFt@Z\\MhAGz@Wx@e@vBgAjAY|@a@fAm@jC_@h@BVCVGvAEdB@VGbBi@f@C\\Y|Ae@v@[d@Ij@EnF[v@A~C\\rC^l@DhDDb@FhD~@xDh@j@NLH`@Jr@Dn@I^Sz@s@h@k@jA{A|@aAt@gA|AcBl@k@pAuAnAmAl@qAX_@rCyCfGiFpAaAZ[`As@xBiBv@i@|AwAt@{@|AyA~@cAjAiAtBmBh@a@~DmDtBuBx@q@d@[dAg@p@UPMrB{@nAo@j@MhEo@bBQd@KzCsAb@E^QZUJMZOj@Sn@Of@EJA\\L"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.943620132282376,
+      145.00123171135783
+    ],
+    "end_latlng": [
+      -37.94412178918719,
+      145.00099835917354
+    ],
+    "average_speed": 2.801,
+    "max_speed": 3.39,
+    "average_cadence": 83.4,
+    "average_temp": 24,
+    "has_heartrate": true,
+    "average_heartrate": 165.7,
+    "max_heartrate": 184.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 20.0,
+    "elev_low": 1.6,
+    "upload_id": 11337633103,
+    "upload_id_str": "11337633103",
+    "external_id": "garmin_ping_316444560880",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 584.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3183927846850729396,
+        "resource_state": 2,
+        "name": "Challenge Melbourne - Run North bound ",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 755,
+        "moving_time": 754,
+        "start_date": "2024-01-20T22:06:14Z",
+        "start_date_local": "2024-01-21T09:06:14Z",
+        "distance": 2144.6,
+        "start_index": 20,
+        "end_index": 172,
+        "average_cadence": 82.8,
+        "device_watts": false,
+        "average_heartrate": 155.3,
+        "max_heartrate": 163.0,
+        "segment": {
+          "id": 8833764,
+          "resource_state": 2,
+          "name": "Challenge Melbourne - Run North bound ",
+          "activity_type": "Run",
+          "distance": 2144.6,
+          "average_grade": 0.0,
+          "maximum_grade": 26.4,
+          "elevation_high": 17.7,
+          "elevation_low": 7.6,
+          "start_latlng": [
+            -37.942102,
+            145.000297
+          ],
+          "end_latlng": [
+            -37.926404,
+            144.987223
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Hampton",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846851498420,
+        "resource_state": 2,
+        "name": "Beach - Linacre to New",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 452,
+        "moving_time": 451,
+        "start_date": "2024-01-20T22:06:25Z",
+        "start_date_local": "2024-01-21T09:06:25Z",
+        "distance": 1257.4,
+        "start_index": 23,
+        "end_index": 113,
+        "average_cadence": 82.7,
+        "device_watts": false,
+        "average_heartrate": 152.6,
+        "max_heartrate": 162.0,
+        "segment": {
+          "id": 6817646,
+          "resource_state": 2,
+          "name": "Beach - Linacre to New",
+          "activity_type": "Run",
+          "distance": 1257.4,
+          "average_grade": 0.1,
+          "maximum_grade": 8.4,
+          "elevation_high": 17.8,
+          "elevation_low": 7.9,
+          "start_latlng": [
+            -37.941762,
+            144.999986
+          ],
+          "end_latlng": [
+            -37.932069,
+            144.993028
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Hampton",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846852826548,
+        "resource_state": 2,
+        "name": "Hampton Beach Ramp - Green Point Car Park",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 467,
+        "moving_time": 466,
+        "start_date": "2024-01-20T22:08:22Z",
+        "start_date_local": "2024-01-21T09:08:22Z",
+        "distance": 1280.95,
+        "start_index": 48,
+        "end_index": 139,
+        "average_cadence": 82.7,
+        "device_watts": false,
+        "average_heartrate": 155.9,
+        "max_heartrate": 163.0,
+        "segment": {
+          "id": 932881,
+          "resource_state": 2,
+          "name": "Hampton Beach Ramp - Green Point Car Park",
+          "activity_type": "Run",
+          "distance": 1280.95,
+          "average_grade": -0.6,
+          "maximum_grade": 4.7,
+          "elevation_high": 16.8,
+          "elevation_low": 7.3,
+          "start_latlng": [
+            -37.939006984233856,
+            144.9987288750708
+          ],
+          "end_latlng": [
+            -37.9295240342617,
+            144.9905571900308
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Hampton",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846852303284,
+        "resource_state": 2,
+        "name": "Hampton Beach to Dendy St",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 902,
+        "moving_time": 901,
+        "start_date": "2024-01-20T22:08:35Z",
+        "start_date_local": "2024-01-21T09:08:35Z",
+        "distance": 2543.0,
+        "start_index": 50,
+        "end_index": 239,
+        "average_cadence": 82.9,
+        "device_watts": false,
+        "average_heartrate": 159.3,
+        "max_heartrate": 170.0,
+        "segment": {
+          "id": 7817724,
+          "resource_state": 2,
+          "name": "Hampton Beach to Dendy St",
+          "activity_type": "Run",
+          "distance": 2543.0,
+          "average_grade": -0.2,
+          "maximum_grade": 35.1,
+          "elevation_high": 16.5,
+          "elevation_low": 4.5,
+          "start_latlng": [
+            -37.938645,
+            144.998817
+          ],
+          "end_latlng": [
+            -37.919138,
+            144.987913
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Hampton",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846852019636,
+        "resource_state": 2,
+        "name": "Bayside  Cross Country - Hampton Beach Top Section",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 199,
+        "moving_time": 198,
+        "start_date": "2024-01-20T22:08:36Z",
+        "start_date_local": "2024-01-21T09:08:36Z",
+        "distance": 540.9,
+        "start_index": 51,
+        "end_index": 90,
+        "average_cadence": 82.6,
+        "device_watts": false,
+        "average_heartrate": 152.6,
+        "max_heartrate": 157.0,
+        "segment": {
+          "id": 15051461,
+          "resource_state": 2,
+          "name": "Bayside  Cross Country - Hampton Beach Top Section",
+          "activity_type": "Run",
+          "distance": 540.9,
+          "average_grade": -0.7,
+          "maximum_grade": 8.3,
+          "elevation_high": 20.6,
+          "elevation_low": 16.4,
+          "start_latlng": [
+            -37.93864,
+            144.998693
+          ],
+          "end_latlng": [
+            -37.934709,
+            144.995125
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Hampton",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846854143412,
+        "resource_state": 2,
+        "name": "Holyrood to Memorial",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 378,
+        "moving_time": 378,
+        "start_date": "2024-01-20T22:12:59Z",
+        "start_date_local": "2024-01-21T09:12:59Z",
+        "distance": 1037.4,
+        "start_index": 102,
+        "end_index": 178,
+        "average_cadence": 82.9,
+        "device_watts": false,
+        "average_heartrate": 159.8,
+        "max_heartrate": 163.0,
+        "segment": {
+          "id": 25366331,
+          "resource_state": 2,
+          "name": "Holyrood to Memorial",
+          "activity_type": "Run",
+          "distance": 1037.4,
+          "average_grade": -0.1,
+          "maximum_grade": 4.3,
+          "elevation_high": 0.8,
+          "elevation_low": -3.8,
+          "start_latlng": [
+            -37.933247,
+            144.99405
+          ],
+          "end_latlng": [
+            -37.925706,
+            144.986896
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Brighton",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846852104628,
+        "resource_state": 2,
+        "name": "Beach path New St to South Rd",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 239,
+        "moving_time": 239,
+        "start_date": "2024-01-20T22:13:47Z",
+        "start_date_local": "2024-01-21T09:13:47Z",
+        "distance": 668.5,
+        "start_index": 111,
+        "end_index": 158,
+        "average_cadence": 82.8,
+        "device_watts": false,
+        "average_heartrate": 160.2,
+        "max_heartrate": 163.0,
+        "segment": {
+          "id": 25533747,
+          "resource_state": 2,
+          "name": "Beach path New St to South Rd",
+          "activity_type": "Run",
+          "distance": 668.5,
+          "average_grade": 0.1,
+          "maximum_grade": 1.2,
+          "elevation_high": 6.4,
+          "elevation_low": 5.6,
+          "start_latlng": [
+            -37.932477,
+            144.992936
+          ],
+          "end_latlng": [
+            -37.927654,
+            144.988409
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Brighton",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846853605812,
+        "resource_state": 2,
+        "name": "Hampton Lookout to Dendy",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 257,
+        "moving_time": 257,
+        "start_date": "2024-01-20T22:19:26Z",
+        "start_date_local": "2024-01-21T09:19:26Z",
+        "distance": 738.1,
+        "start_index": 180,
+        "end_index": 241,
+        "average_cadence": 83.2,
+        "device_watts": false,
+        "average_heartrate": 165.0,
+        "max_heartrate": 170.0,
+        "segment": {
+          "id": 25366390,
+          "resource_state": 2,
+          "name": "Hampton Lookout to Dendy",
+          "activity_type": "Run",
+          "distance": 738.1,
+          "average_grade": 0.1,
+          "maximum_grade": 4.2,
+          "elevation_high": 3.4,
+          "elevation_low": -3.6,
+          "start_latlng": [
+            -37.925526,
+            144.986928
+          ],
+          "end_latlng": [
+            -37.919023,
+            144.987899
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Brighton",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846852911540,
+        "resource_state": 2,
+        "name": "Were to Gould Up",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 53,
+        "moving_time": 53,
+        "start_date": "2024-01-20T22:20:35Z",
+        "start_date_local": "2024-01-21T09:20:35Z",
+        "distance": 159.5,
+        "start_index": 194,
+        "end_index": 208,
+        "average_cadence": 83.2,
+        "device_watts": false,
+        "average_heartrate": 166.2,
+        "max_heartrate": 169.0,
+        "segment": {
+          "id": 23907215,
+          "resource_state": 2,
+          "name": "Were to Gould Up",
+          "activity_type": "Run",
+          "distance": 159.5,
+          "average_grade": 3.4,
+          "maximum_grade": 9.8,
+          "elevation_high": 19.4,
+          "elevation_low": 12.6,
+          "start_latlng": [
+            -37.923794,
+            144.987671
+          ],
+          "end_latlng": [
+            -37.922377,
+            144.987857
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Brighton",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846854421940,
+        "resource_state": 2,
+        "name": "Brighton SLSC to the Fork",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 541,
+        "moving_time": 541,
+        "start_date": "2024-01-20T22:34:20Z",
+        "start_date_local": "2024-01-21T09:34:20Z",
+        "distance": 1505.5,
+        "start_index": 373,
+        "end_index": 482,
+        "average_cadence": 83.8,
+        "device_watts": false,
+        "average_heartrate": 172.9,
+        "max_heartrate": 178.0,
+        "segment": {
+          "id": 18617346,
+          "resource_state": 2,
+          "name": "Brighton SLSC to the Fork",
+          "activity_type": "Run",
+          "distance": 1505.5,
+          "average_grade": 0.5,
+          "maximum_grade": 4.8,
+          "elevation_high": 10.8,
+          "elevation_low": -1.0,
+          "start_latlng": [
+            -37.917049,
+            144.987148
+          ],
+          "end_latlng": [
+            -37.929393,
+            144.990441
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": null,
+          "state": null,
+          "country": null,
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846854235572,
+        "resource_state": 2,
+        "name": "Dendy to Were uphill",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 199,
+        "moving_time": 199,
+        "start_date": "2024-01-20T22:35:44Z",
+        "start_date_local": "2024-01-21T09:35:44Z",
+        "distance": 575.6,
+        "start_index": 389,
+        "end_index": 432,
+        "average_cadence": 83.9,
+        "device_watts": false,
+        "average_heartrate": 173.0,
+        "max_heartrate": 176.0,
+        "segment": {
+          "id": 4201446,
+          "resource_state": 2,
+          "name": "Dendy to Were uphill",
+          "activity_type": "Run",
+          "distance": 575.6,
+          "average_grade": 0.3,
+          "maximum_grade": 16.2,
+          "elevation_high": 4.4,
+          "elevation_low": -1.8,
+          "start_latlng": [
+            -37.919013,
+            144.988174
+          ],
+          "end_latlng": [
+            -37.924106,
+            144.987639
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Brighton",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846851997108,
+        "resource_state": 2,
+        "name": "The Golden 1500m",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 541,
+        "moving_time": 541,
+        "start_date": "2024-01-20T22:37:51Z",
+        "start_date_local": "2024-01-21T09:37:51Z",
+        "distance": 1509.2,
+        "start_index": 417,
+        "end_index": 520,
+        "average_cadence": 83.6,
+        "device_watts": false,
+        "average_heartrate": 174.9,
+        "max_heartrate": 178.0,
+        "segment": {
+          "id": 26417694,
+          "resource_state": 2,
+          "name": "The Golden 1500m",
+          "activity_type": "Run",
+          "distance": 1509.2,
+          "average_grade": -0.5,
+          "maximum_grade": 0.6,
+          "elevation_high": 16.9,
+          "elevation_low": 9.7,
+          "start_latlng": [
+            -37.92223,
+            144.987737
+          ],
+          "end_latlng": [
+            -37.933716,
+            144.994521
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Brighton",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3183927846852022708,
+        "resource_state": 2,
+        "name": "South rd to Small St",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 549,
+        "moving_time": 549,
+        "start_date": "2024-01-20T22:42:06Z",
+        "start_date_local": "2024-01-21T09:42:06Z",
+        "distance": 1766.54,
+        "start_index": 468,
+        "end_index": 576,
+        "average_cadence": 83.7,
+        "device_watts": false,
+        "average_heartrate": 176.7,
+        "max_heartrate": 180.0,
+        "segment": {
+          "id": 1766384,
+          "resource_state": 2,
+          "name": "South rd to Small St",
+          "activity_type": "Run",
+          "distance": 1766.54,
+          "average_grade": 0.2,
+          "maximum_grade": 11.0,
+          "elevation_high": 13.9,
+          "elevation_low": 6.5,
+          "start_latlng": [
+            -37.9276912,
+            144.9892553
+          ],
+          "end_latlng": [
+            -37.939281,
+            144.9987932
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Hampton",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.0,
+        "elapsed_time": 353,
+        "elevation_difference": -8.2,
+        "moving_time": 353,
+        "split": 1,
+        "average_speed": 2.84,
+        "average_grade_adjusted_speed": 2.79,
+        "average_heartrate": 146.56657223796034,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.4,
+        "elapsed_time": 358,
+        "elevation_difference": 0.6,
+        "moving_time": 358,
+        "split": 2,
+        "average_speed": 2.79,
+        "average_grade_adjusted_speed": 2.8,
+        "average_heartrate": 158.36694677871148,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.9,
+        "elapsed_time": 349,
+        "elevation_difference": 1.8,
+        "moving_time": 349,
+        "split": 3,
+        "average_speed": 2.87,
+        "average_grade_adjusted_speed": 2.88,
+        "average_heartrate": 163.2406876790831,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.0,
+        "elapsed_time": 364,
+        "elevation_difference": -7.2,
+        "moving_time": 364,
+        "split": 4,
+        "average_speed": 2.75,
+        "average_grade_adjusted_speed": 2.71,
+        "average_heartrate": 162.4368131868132,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.3,
+        "elapsed_time": 465,
+        "elevation_difference": 4.4,
+        "moving_time": 365,
+        "split": 5,
+        "average_speed": 2.74,
+        "average_grade_adjusted_speed": 2.82,
+        "average_heartrate": 165.42739726027398,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1016.8,
+        "elapsed_time": 362,
+        "elevation_difference": -3.4,
+        "moving_time": 362,
+        "split": 6,
+        "average_speed": 2.81,
+        "average_grade_adjusted_speed": 2.8,
+        "average_heartrate": 173.77624309392266,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.9,
+        "elapsed_time": 353,
+        "elevation_difference": -2.0,
+        "moving_time": 353,
+        "split": 7,
+        "average_speed": 2.83,
+        "average_grade_adjusted_speed": 2.82,
+        "average_heartrate": 176.70821529745044,
+        "pace_zone": 0
+      },
+      {
+        "distance": 984.7,
+        "elapsed_time": 352,
+        "elevation_difference": 9.4,
+        "moving_time": 352,
+        "split": 8,
+        "average_speed": 2.8,
+        "average_grade_adjusted_speed": 2.87,
+        "average_heartrate": 178.65625,
+        "pace_zone": 0
+      },
+      {
+        "distance": 52.1,
+        "elapsed_time": 20,
+        "elevation_difference": 0.6,
+        "moving_time": 20,
+        "split": 9,
+        "average_speed": 2.61,
+        "average_grade_adjusted_speed": 2.68,
+        "average_heartrate": 180.1,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1617.4,
+        "elapsed_time": 574,
+        "elevation_difference": -6.8,
+        "moving_time": 574,
+        "split": 1,
+        "average_speed": 2.82,
+        "average_grade_adjusted_speed": 2.8,
+        "average_heartrate": 150.5933682373473,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1603.5,
+        "elapsed_time": 566,
+        "elevation_difference": -1.6,
+        "moving_time": 566,
+        "split": 2,
+        "average_speed": 2.83,
+        "average_grade_adjusted_speed": 2.84,
+        "average_heartrate": 162.35335689045937,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1622.9,
+        "elapsed_time": 692,
+        "elevation_difference": -1.8,
+        "moving_time": 592,
+        "split": 3,
+        "average_speed": 2.74,
+        "average_grade_adjusted_speed": 2.77,
+        "average_heartrate": 163.67567567567568,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1611.7,
+        "elapsed_time": 575,
+        "elevation_difference": -2.6,
+        "moving_time": 575,
+        "split": 4,
+        "average_speed": 2.8,
+        "average_grade_adjusted_speed": 2.8,
+        "average_heartrate": 173.9791304347826,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1599.6,
+        "elapsed_time": 569,
+        "elevation_difference": 8.8,
+        "moving_time": 569,
+        "split": 5,
+        "average_speed": 2.81,
+        "average_grade_adjusted_speed": 2.86,
+        "average_heartrate": 178.22847100175747,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 36614754304,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 352,
+        "moving_time": 352,
+        "start_date": "2024-01-20T22:05:06Z",
+        "start_date_local": "2024-01-21T09:05:06Z",
+        "distance": 1000.0,
+        "average_speed": 2.84,
+        "max_speed": 3.39,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 78,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 82.9,
+        "device_watts": false,
+        "average_heartrate": 146.6,
+        "max_heartrate": 154.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 36614754306,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 358,
+        "moving_time": 358,
+        "start_date": "2024-01-20T22:11:06Z",
+        "start_date_local": "2024-01-21T09:11:06Z",
+        "distance": 1000.0,
+        "average_speed": 2.79,
+        "max_speed": 3.014,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 79,
+        "end_index": 150,
+        "total_elevation_gain": 3.0,
+        "average_cadence": 82.8,
+        "device_watts": false,
+        "average_heartrate": 158.5,
+        "max_heartrate": 163.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 36614754308,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 349,
+        "moving_time": 349,
+        "start_date": "2024-01-20T22:17:12Z",
+        "start_date_local": "2024-01-21T09:17:12Z",
+        "distance": 1000.0,
+        "average_speed": 2.87,
+        "max_speed": 3.072,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 151,
+        "end_index": 230,
+        "total_elevation_gain": 6.4,
+        "average_cadence": 83.2,
+        "device_watts": false,
+        "average_heartrate": 163.4,
+        "max_heartrate": 170.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 36614754310,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 363,
+        "moving_time": 363,
+        "start_date": "2024-01-20T22:22:50Z",
+        "start_date_local": "2024-01-21T09:22:50Z",
+        "distance": 1000.0,
+        "average_speed": 2.75,
+        "max_speed": 2.97,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 231,
+        "end_index": 306,
+        "total_elevation_gain": 3.0,
+        "average_cadence": 83.5,
+        "device_watts": false,
+        "average_heartrate": 162.4,
+        "max_heartrate": 166.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 36614754311,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 464,
+        "moving_time": 464,
+        "start_date": "2024-01-20T22:28:57Z",
+        "start_date_local": "2024-01-21T09:28:57Z",
+        "distance": 1000.0,
+        "average_speed": 2.16,
+        "max_speed": 3.184,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 307,
+        "end_index": 401,
+        "total_elevation_gain": 9.6,
+        "average_cadence": 84.2,
+        "device_watts": false,
+        "average_heartrate": 165.6,
+        "max_heartrate": 177.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 36614754313,
+        "resource_state": 2,
+        "name": "Lap 6",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 331,
+        "moving_time": 331,
+        "start_date": "2024-01-20T22:36:46Z",
+        "start_date_local": "2024-01-21T09:36:46Z",
+        "distance": 932.53,
+        "average_speed": 2.82,
+        "max_speed": 2.997,
+        "lap_index": 6,
+        "split": 6,
+        "start_index": 402,
+        "end_index": 469,
+        "total_elevation_gain": 4.0,
+        "average_cadence": 83.7,
+        "device_watts": false,
+        "average_heartrate": 173.7,
+        "max_heartrate": 176.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 36614754315,
+        "resource_state": 2,
+        "name": "Lap 7",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 354,
+        "moving_time": 354,
+        "start_date": "2024-01-20T22:42:14Z",
+        "start_date_local": "2024-01-21T09:42:14Z",
+        "distance": 1000.0,
+        "average_speed": 2.82,
+        "max_speed": 2.987,
+        "lap_index": 7,
+        "split": 7,
+        "start_index": 470,
+        "end_index": 534,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 83.5,
+        "device_watts": false,
+        "average_heartrate": 176.5,
+        "max_heartrate": 180.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 36614754320,
+        "resource_state": 2,
+        "name": "Lap 8",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 357,
+        "moving_time": 357,
+        "start_date": "2024-01-20T22:48:04Z",
+        "start_date_local": "2024-01-21T09:48:04Z",
+        "distance": 1000.0,
+        "average_speed": 2.8,
+        "max_speed": 2.957,
+        "lap_index": 8,
+        "split": 8,
+        "start_index": 535,
+        "end_index": 611,
+        "total_elevation_gain": 11.2,
+        "average_cadence": 84.0,
+        "device_watts": false,
+        "average_heartrate": 178.7,
+        "max_heartrate": 184.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 36614754322,
+        "resource_state": 2,
+        "name": "Lap 9",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 44,
+        "moving_time": 44,
+        "start_date": "2024-01-20T22:54:05Z",
+        "start_date_local": "2024-01-21T09:54:05Z",
+        "distance": 122.59,
+        "average_speed": 2.79,
+        "max_speed": 2.884,
+        "lap_index": 9,
+        "split": 9,
+        "start_index": 612,
+        "end_index": 619,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 83.0,
+        "device_watts": false,
+        "average_heartrate": 179.6,
+        "max_heartrate": 181.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 45661737087,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 138,
+        "moving_time": 138,
+        "start_date": "2024-01-20T22:05:06Z",
+        "start_date_local": "2024-01-21T09:05:06Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 33,
+        "end_index": 62
+      },
+      {
+        "id": 45661737088,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 280,
+        "moving_time": 280,
+        "start_date": "2024-01-20T22:05:06Z",
+        "start_date_local": "2024-01-21T09:05:06Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 159,
+        "end_index": 223
+      },
+      {
+        "id": 45661737089,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 349,
+        "moving_time": 349,
+        "start_date": "2024-01-20T22:05:06Z",
+        "start_date_local": "2024-01-21T09:05:06Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 147,
+        "end_index": 228
+      },
+      {
+        "id": 45661737084,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 567,
+        "moving_time": 567,
+        "start_date": "2024-01-20T22:05:06Z",
+        "start_date_local": "2024-01-21T09:05:06Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 101,
+        "end_index": 222
+      },
+      {
+        "id": 45661737085,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1139,
+        "moving_time": 1139,
+        "start_date": "2024-01-20T22:05:06Z",
+        "start_date_local": "2024-01-21T09:05:06Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 3,
+        "end_index": 247
+      },
+      {
+        "id": 45661737086,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 10597634914,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1887,
+        "moving_time": 1887,
+        "start_date": "2024-01-20T22:05:06Z",
+        "start_date_local": "2024-01-21T09:05:06Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 147,
+        "end_index": 538
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "dd0fc7d71d24350a2e695b130022eb2f1d934d99",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.800799721835883,
+      "min_average_speed": 2.800799721835883,
+      "mid_average_speed": 2.800799721835883,
+      "max_average_speed": 2.800799721835883,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.800799721835883
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.800799721835883,
+        "mid_speed": 2.800799721835883,
+        "max_speed": 2.800799721835883,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

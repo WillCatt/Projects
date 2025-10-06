@@ -1,0 +1,1018 @@
+{
+  "cached_at": "2025-10-06T17:29:03.968260",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Evening Run",
+    "distance": 4035.6,
+    "moving_time": 1511,
+    "elapsed_time": 1607,
+    "total_elevation_gain": 25.0,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": null,
+    "id": 8957412462,
+    "start_date": "2022-04-21T08:20:21Z",
+    "start_date_local": "2022-04-21T18:20:21Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 2,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 2,
+    "photo_count": 0,
+    "map": {
+      "id": "a8957412462",
+      "polyline": "pcafFidgtZ@RKnBWfBUdCIdBO`BCt@SnBKpC[nEWlCYxDShDOdAKhBKLs@a@YW]I[Cc@@WFEJAPTf@Ll@ZfAHH`@RR@TGJKTg@Be@?YMq@Wg@o@Sa@Ag@HQXIbBJh@FPVXLH^Jd@C^[La@F}@Ko@Wc@c@Qk@Ee@FGBMXEn@Dp@Nn@\\^XHL@b@C^]FOJk@Ay@Qm@[Wi@Ke@CKB_@TKb@Cl@B~@Pf@ZT`@PH@\\CRMZc@HUBaAAOOm@]_@i@Kg@Bg@XITCP?z@Jr@Vf@VLJDl@Ab@]HMJYDg@A_@EWM_@GG_@Qu@Ga@DS\\Ed@?^DVLh@\\f@d@H^I\\[Pq@@c@AQQg@a@Yc@KIA_@HQPMp@Dr@Nr@Xd@`@Hd@KRSHUHq@Cq@Me@[Wg@Ie@DY\\Il@@`@X|ARV\\@d@IXWT{@As@Mq@Ya@k@U_@?]LM^Il@@r@@NH^T`@HHd@JL?f@MZ_@FMBOBa@Em@Sk@c@]c@KOAYHOLIRIn@@j@RtARNh@Jd@MXe@TqAL]",
+      "resource_state": 3,
+      "summary_polyline": "pcafFidgtZ@RKnBWfBUdCIdBO`BCt@SnBKpC[nEWlCYxDShDOdAKhBKLs@a@YW]I[Cc@@WFEJAPTf@Ll@ZfAHH`@RR@TGJKTg@Be@?YMq@Wg@o@Sa@Ag@HQXIbBJh@FPVXLH^Jd@C^[La@F}@Ko@Wc@c@Qk@Ee@FGBMXEn@Dp@Nn@\\^XHL@b@C^]FOJk@Ay@Qm@[Wi@Ke@CKB_@TKb@Cl@B~@Pf@ZT`@PH@\\CRMZc@HUBaAAOOm@]_@i@Kg@Bg@XITCP?z@Jr@Vf@VLJDl@Ab@]HMJYDg@A_@EWM_@GG_@Qu@Ga@DS\\Ed@?^DVLh@\\f@d@H^I\\[Pq@@c@AQQg@a@Yc@KIA_@HQPMp@Dr@Nr@Xd@`@Hd@KRSHUHq@Cq@Me@[Wg@Ie@DY\\Il@@`@X|ARV\\@d@IXWT{@As@Mq@Ya@k@U_@?]LM^Il@@r@@NH^T`@HHd@JL?f@MZ_@FMBOBa@Em@Sk@c@]c@KOAYHOLIRIn@@j@RtARNh@Jd@MXe@TqAL]"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.85800946876407,
+      145.04021485336125
+    ],
+    "end_latlng": [
+      -37.85664992406964,
+      145.03126029856503
+    ],
+    "average_speed": 2.671,
+    "max_speed": 4.309,
+    "average_cadence": 80.9,
+    "average_temp": 20,
+    "has_heartrate": true,
+    "average_heartrate": 155.3,
+    "max_heartrate": 185.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 73.4,
+    "elev_low": 47.2,
+    "upload_id": 9610829556,
+    "upload_id_str": "9610829556",
+    "external_id": "garmin_ping_271087612196",
+    "from_accepted_tag": false,
+    "pr_count": 1,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 364.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3086083793235787314,
+        "resource_state": 2,
+        "name": "MCG Lap",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 121,
+        "moving_time": 121,
+        "start_date": "2022-04-21T08:30:24Z",
+        "start_date_local": "2022-04-21T18:30:24Z",
+        "distance": 373.3,
+        "start_index": 135,
+        "end_index": 163,
+        "average_cadence": 80.5,
+        "device_watts": false,
+        "average_heartrate": 150.3,
+        "max_heartrate": 157.0,
+        "segment": {
+          "id": 11975613,
+          "resource_state": 2,
+          "name": "MCG Lap",
+          "activity_type": "Run",
+          "distance": 373.3,
+          "average_grade": -0.2,
+          "maximum_grade": 3.8,
+          "elevation_high": 239.2,
+          "elevation_low": 236.6,
+          "start_latlng": [
+            -37.856135,
+            145.03185
+          ],
+          "end_latlng": [
+            -37.856198,
+            145.031751
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086083793235704370,
+        "resource_state": 2,
+        "name": "MCG Lap",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 116,
+        "moving_time": 116,
+        "start_date": "2022-04-21T08:32:26Z",
+        "start_date_local": "2022-04-21T18:32:26Z",
+        "distance": 373.3,
+        "start_index": 164,
+        "end_index": 190,
+        "average_cadence": 82.1,
+        "device_watts": false,
+        "average_heartrate": 154.5,
+        "max_heartrate": 161.0,
+        "segment": {
+          "id": 11975613,
+          "resource_state": 2,
+          "name": "MCG Lap",
+          "activity_type": "Run",
+          "distance": 373.3,
+          "average_grade": -0.2,
+          "maximum_grade": 3.8,
+          "elevation_high": 239.2,
+          "elevation_low": 236.6,
+          "start_latlng": [
+            -37.856135,
+            145.03185
+          ],
+          "end_latlng": [
+            -37.856198,
+            145.031751
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086083793234050610,
+        "resource_state": 2,
+        "name": "MCG Lap",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 122,
+        "moving_time": 122,
+        "start_date": "2022-04-21T08:34:22Z",
+        "start_date_local": "2022-04-21T18:34:22Z",
+        "distance": 373.3,
+        "start_index": 190,
+        "end_index": 220,
+        "average_cadence": 79.1,
+        "device_watts": false,
+        "average_heartrate": 158.9,
+        "max_heartrate": 162.0,
+        "segment": {
+          "id": 11975613,
+          "resource_state": 2,
+          "name": "MCG Lap",
+          "activity_type": "Run",
+          "distance": 373.3,
+          "average_grade": -0.2,
+          "maximum_grade": 3.8,
+          "elevation_high": 239.2,
+          "elevation_low": 236.6,
+          "start_latlng": [
+            -37.856135,
+            145.03185
+          ],
+          "end_latlng": [
+            -37.856198,
+            145.031751
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086083793233136178,
+        "resource_state": 2,
+        "name": "MCG Lap",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 110,
+        "moving_time": 110,
+        "start_date": "2022-04-21T08:36:24Z",
+        "start_date_local": "2022-04-21T18:36:24Z",
+        "distance": 373.3,
+        "start_index": 220,
+        "end_index": 245,
+        "average_cadence": 79.3,
+        "device_watts": false,
+        "average_heartrate": 154.6,
+        "max_heartrate": 158.0,
+        "segment": {
+          "id": 11975613,
+          "resource_state": 2,
+          "name": "MCG Lap",
+          "activity_type": "Run",
+          "distance": 373.3,
+          "average_grade": -0.2,
+          "maximum_grade": 3.8,
+          "elevation_high": 239.2,
+          "elevation_low": 236.6,
+          "start_latlng": [
+            -37.856135,
+            145.03185
+          ],
+          "end_latlng": [
+            -37.856198,
+            145.031751
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086083793233287730,
+        "resource_state": 2,
+        "name": "MCG Lap",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 112,
+        "moving_time": 112,
+        "start_date": "2022-04-21T08:38:22Z",
+        "start_date_local": "2022-04-21T18:38:22Z",
+        "distance": 373.3,
+        "start_index": 246,
+        "end_index": 270,
+        "average_cadence": 79.3,
+        "device_watts": false,
+        "average_heartrate": 168.2,
+        "max_heartrate": 172.0,
+        "segment": {
+          "id": 11975613,
+          "resource_state": 2,
+          "name": "MCG Lap",
+          "activity_type": "Run",
+          "distance": 373.3,
+          "average_grade": -0.2,
+          "maximum_grade": 3.8,
+          "elevation_high": 239.2,
+          "elevation_low": 236.6,
+          "start_latlng": [
+            -37.856135,
+            145.03185
+          ],
+          "end_latlng": [
+            -37.856198,
+            145.031751
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086083793235278386,
+        "resource_state": 2,
+        "name": "MCG Lap",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 110,
+        "moving_time": 110,
+        "start_date": "2022-04-21T08:40:14Z",
+        "start_date_local": "2022-04-21T18:40:14Z",
+        "distance": 373.3,
+        "start_index": 270,
+        "end_index": 291,
+        "average_cadence": 79.9,
+        "device_watts": false,
+        "average_heartrate": 170.5,
+        "max_heartrate": 174.0,
+        "segment": {
+          "id": 11975613,
+          "resource_state": 2,
+          "name": "MCG Lap",
+          "activity_type": "Run",
+          "distance": 373.3,
+          "average_grade": -0.2,
+          "maximum_grade": 3.8,
+          "elevation_high": 239.2,
+          "elevation_low": 236.6,
+          "start_latlng": [
+            -37.856135,
+            145.03185
+          ],
+          "end_latlng": [
+            -37.856198,
+            145.031751
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086083793233397298,
+        "resource_state": 2,
+        "name": "MCG Lap",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 111,
+        "moving_time": 111,
+        "start_date": "2022-04-21T08:42:04Z",
+        "start_date_local": "2022-04-21T18:42:04Z",
+        "distance": 373.3,
+        "start_index": 291,
+        "end_index": 311,
+        "average_cadence": 79.7,
+        "device_watts": false,
+        "average_heartrate": 171.8,
+        "max_heartrate": 175.0,
+        "segment": {
+          "id": 11975613,
+          "resource_state": 2,
+          "name": "MCG Lap",
+          "activity_type": "Run",
+          "distance": 373.3,
+          "average_grade": -0.2,
+          "maximum_grade": 3.8,
+          "elevation_high": 239.2,
+          "elevation_low": 236.6,
+          "start_latlng": [
+            -37.856135,
+            145.03185
+          ],
+          "end_latlng": [
+            -37.856198,
+            145.031751
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086083793236049458,
+        "resource_state": 2,
+        "name": "MCG Lap",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 94,
+        "moving_time": 94,
+        "start_date": "2022-04-21T08:43:56Z",
+        "start_date_local": "2022-04-21T18:43:56Z",
+        "distance": 373.3,
+        "start_index": 312,
+        "end_index": 338,
+        "average_cadence": 83.2,
+        "device_watts": false,
+        "average_heartrate": 176.8,
+        "max_heartrate": 179.0,
+        "segment": {
+          "id": 11975613,
+          "resource_state": 2,
+          "name": "MCG Lap",
+          "activity_type": "Run",
+          "distance": 373.3,
+          "average_grade": -0.2,
+          "maximum_grade": 3.8,
+          "elevation_high": 239.2,
+          "elevation_low": 236.6,
+          "start_latlng": [
+            -37.856135,
+            145.03185
+          ],
+          "end_latlng": [
+            -37.856198,
+            145.031751
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3086083793235274290,
+        "resource_state": 2,
+        "name": "MCG Lap",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 96,
+        "moving_time": 96,
+        "start_date": "2022-04-21T08:45:30Z",
+        "start_date_local": "2022-04-21T18:45:30Z",
+        "distance": 373.3,
+        "start_index": 338,
+        "end_index": 358,
+        "average_cadence": 78.5,
+        "device_watts": false,
+        "average_heartrate": 178.6,
+        "max_heartrate": 185.0,
+        "segment": {
+          "id": 11975613,
+          "resource_state": 2,
+          "name": "MCG Lap",
+          "activity_type": "Run",
+          "distance": 373.3,
+          "average_grade": -0.2,
+          "maximum_grade": 3.8,
+          "elevation_high": 239.2,
+          "elevation_low": 236.6,
+          "start_latlng": [
+            -37.856135,
+            145.03185
+          ],
+          "end_latlng": [
+            -37.856198,
+            145.031751
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.1,
+        "elapsed_time": 544,
+        "elevation_difference": 24.2,
+        "moving_time": 448,
+        "split": 1,
+        "average_speed": 2.23,
+        "average_grade_adjusted_speed": 2.43,
+        "average_heartrate": 137.02027027027026,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.3,
+        "elapsed_time": 357,
+        "elevation_difference": -0.4,
+        "moving_time": 357,
+        "split": 2,
+        "average_speed": 2.8,
+        "average_grade_adjusted_speed": 2.81,
+        "average_heartrate": 151.75350140056022,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.9,
+        "elapsed_time": 360,
+        "elevation_difference": 0.4,
+        "moving_time": 360,
+        "split": 3,
+        "average_speed": 2.78,
+        "average_grade_adjusted_speed": 2.79,
+        "average_heartrate": 162.425,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.1,
+        "elapsed_time": 328,
+        "elevation_difference": -0.6,
+        "moving_time": 328,
+        "split": 4,
+        "average_speed": 3.05,
+        "average_grade_adjusted_speed": 3.06,
+        "average_heartrate": 175.08536585365854,
+        "pace_zone": 0
+      },
+      {
+        "distance": 33.2,
+        "elapsed_time": 18,
+        "elevation_difference": 0.2,
+        "moving_time": 18,
+        "split": 5,
+        "average_speed": 1.84,
+        "average_grade_adjusted_speed": 1.85,
+        "average_heartrate": 174.0,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1616.5,
+        "elapsed_time": 769,
+        "elevation_difference": 23.8,
+        "moving_time": 673,
+        "split": 1,
+        "average_speed": 2.4,
+        "average_grade_adjusted_speed": 2.53,
+        "average_heartrate": 141.1644245142003,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1620.7,
+        "elapsed_time": 578,
+        "elevation_difference": 0.0,
+        "moving_time": 578,
+        "split": 2,
+        "average_speed": 2.8,
+        "average_grade_adjusted_speed": 2.81,
+        "average_heartrate": 162.44117647058823,
+        "pace_zone": 0
+      },
+      {
+        "distance": 798.4,
+        "elapsed_time": 260,
+        "elevation_difference": 0.0,
+        "moving_time": 260,
+        "split": 3,
+        "average_speed": 3.07,
+        "average_grade_adjusted_speed": 3.08,
+        "average_heartrate": 175.84496124031008,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 30456120612,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 543,
+        "moving_time": 448,
+        "start_date": "2022-04-21T08:20:21Z",
+        "start_date_local": "2022-04-21T18:20:21Z",
+        "distance": 1000.0,
+        "average_speed": 2.23,
+        "max_speed": 2.584,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 121,
+        "total_elevation_gain": 25.8,
+        "average_cadence": 82.6,
+        "device_watts": false,
+        "average_heartrate": 137.0,
+        "max_heartrate": 154.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 30456120615,
+        "resource_state": 2,
+        "name": "Lap 2",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 357,
+        "moving_time": 357,
+        "start_date": "2022-04-21T08:29:30Z",
+        "start_date_local": "2022-04-21T18:29:30Z",
+        "distance": 1000.0,
+        "average_speed": 2.8,
+        "max_speed": 3.1,
+        "lap_index": 2,
+        "split": 2,
+        "start_index": 122,
+        "end_index": 204,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 80.8,
+        "device_watts": false,
+        "average_heartrate": 152.0,
+        "max_heartrate": 161.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 30456120617,
+        "resource_state": 2,
+        "name": "Lap 3",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 359,
+        "moving_time": 359,
+        "start_date": "2022-04-21T08:35:23Z",
+        "start_date_local": "2022-04-21T18:35:23Z",
+        "distance": 1000.0,
+        "average_speed": 2.79,
+        "max_speed": 3.119,
+        "lap_index": 3,
+        "split": 3,
+        "start_index": 205,
+        "end_index": 284,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 79.4,
+        "device_watts": false,
+        "average_heartrate": 162.4,
+        "max_heartrate": 174.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 30456120619,
+        "resource_state": 2,
+        "name": "Lap 4",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 328,
+        "moving_time": 328,
+        "start_date": "2022-04-21T08:41:26Z",
+        "start_date_local": "2022-04-21T18:41:26Z",
+        "distance": 1000.0,
+        "average_speed": 3.05,
+        "max_speed": 4.309,
+        "lap_index": 4,
+        "split": 4,
+        "start_index": 285,
+        "end_index": 356,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 80.5,
+        "device_watts": false,
+        "average_heartrate": 175.1,
+        "max_heartrate": 185.0,
+        "pace_zone": 0
+      },
+      {
+        "id": 30456120620,
+        "resource_state": 2,
+        "name": "Lap 5",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 18,
+        "moving_time": 18,
+        "start_date": "2022-04-21T08:46:58Z",
+        "start_date_local": "2022-04-21T18:46:58Z",
+        "distance": 35.61,
+        "average_speed": 1.98,
+        "max_speed": 2.36,
+        "lap_index": 5,
+        "split": 5,
+        "start_index": 357,
+        "end_index": 359,
+        "total_elevation_gain": 0.0,
+        "average_cadence": 78.0,
+        "device_watts": false,
+        "average_heartrate": 173.0,
+        "max_heartrate": 175.0,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941304,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 113,
+        "moving_time": 113,
+        "start_date": "2022-04-21T08:43:56Z",
+        "start_date_local": "2022-04-21T18:43:56Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 312,
+        "end_index": 345
+      },
+      {
+        "id": 29111941454,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 256,
+        "moving_time": 256,
+        "start_date": "2022-04-21T08:41:41Z",
+        "start_date_local": "2022-04-21T18:41:41Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 287,
+        "end_index": 347
+      },
+      {
+        "id": 29111941586,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 326,
+        "moving_time": 326,
+        "start_date": "2022-04-21T08:40:30Z",
+        "start_date_local": "2022-04-21T18:40:30Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 274,
+        "end_index": 346
+      },
+      {
+        "id": 29111941724,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 544,
+        "moving_time": 544,
+        "start_date": "2022-04-21T08:36:45Z",
+        "start_date_local": "2022-04-21T18:36:45Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 224,
+        "end_index": 345
+      },
+      {
+        "id": 29111941856,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 8957412462,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1150,
+        "moving_time": 1150,
+        "start_date": "2022-04-21T08:27:56Z",
+        "start_date_local": "2022-04-21T18:27:56Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 98,
+        "end_index": 358
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "3c1e7bd3b117279cb892cdf0f5caa731eb3b177b",
+    "similar_activities": {
+      "effort_count": 2,
+      "average_speed": 2.74693009118541,
+      "min_average_speed": 2.670814030443415,
+      "mid_average_speed": 2.739389642658659,
+      "max_average_speed": 2.8115795390668916,
+      "pr_rank": 1,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.670814030443415,
+          2.739389642658659
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.670814030443415,
+        "mid_speed": 2.739389642658659,
+        "max_speed": 2.8115795390668916,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

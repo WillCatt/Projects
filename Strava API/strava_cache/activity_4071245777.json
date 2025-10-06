@@ -1,0 +1,1408 @@
+{
+  "cached_at": "2025-10-06T18:44:40.374511",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Uphill Intervals",
+    "distance": 5876.2,
+    "moving_time": 2239,
+    "elapsed_time": 2304,
+    "total_elevation_gain": 107.8,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 4071245777,
+    "start_date": "2020-09-17T01:46:30Z",
+    "start_date_local": "2020-09-17T11:46:30Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 6,
+    "kudos_count": 7,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a4071245777",
+      "polyline": "vg{fFi|otZ~@`@A\\GRMNYBQLs@`Aa@\\ODe@F]L[HWLQVS`@GTE^Bl@Pl@d@j@LJd@N`@Dh@Ib@S`@m@Rk@Hg@Cq@Um@]]c@S]KYCg@Fi@VQNU^IVGd@?p@Nl@JRXRPTv@Tt@Ih@WV[Vg@Nu@Fm@HqBJu@Dy@?KqAAa@FW\\Yh@ON[V{@d@MJU^c@f@a@RUXe@Ts@TuAn@g@NQ?k@KGICG?SHu@Bo@BKFsBH{@HcBDUDGNAr@P~@Jp@DRJBPOpB?VBXf@lB?JAFGD_Bn@[RI?GBI@i@XOBWA]@MECc@LaB?QFc@X}FBQFER@`@L\\F`BLNLDPKbACbAl@nCe@ZiAd@g@Zo@VUBw@GKICQ@SRcCZ{FBUFE|@RnBLHDLJ@^KlA?d@p@xCEFOFaAT_Ah@}@\\W?_@YM@CCGW@a@VwC@qAHe@By@Fk@BEBADAPFd@HpBTNFHH@H?LOzAA`@Ln@XbADVAHGJeA`@iAl@q@TeAEQKCM@QNyAb@qH@OBCr@LX?z@Ld@BJBJHDL?PKdCBRZlAJl@AFeAX}@f@BEi@PSJKHSBQ?g@KFBE@IECQ?SL{A@UDD@GAq@@GHMFa@AaBDiAF_@FA^Nj@JlBRFDBH?HKrACp@VtAXdACFMHWDg@Ps@h@Q@YNc@J[Ak@MKO@OF_ANcBBeALuBFu@FMJAlAV|APTDJJJLBN?NObA?X@JRn@P~@FN`@[DG",
+      "resource_state": 3,
+      "summary_polyline": "vg{fFi|otZ~@`@A\\GRMNYBQLs@`Aa@\\ODe@F]L[HWLQVS`@GTE^Bl@Pl@d@j@LJd@N`@Dn@M\\O`@m@Rk@Hg@Cq@Um@]]c@S]KYCg@Fi@VQNU^IVGd@?p@Nl@JRXRPTv@Tt@Ih@WV[Vg@Nu@Fm@HqBJu@Dy@?KqAAa@FW\\Yh@ON[V{@d@MJU^c@f@a@RUXe@Ts@TuAn@g@NQ?k@KGICG?SHu@Bo@BKFsBH{@HcBDUDGNAr@P~@Jp@DRJBPOpB?VBXf@lB?JAFGD_Bn@[RI?GBI@i@XOBWA]@MECc@LaB?QFc@X}FBQFER@`@L\\F`BLNLDPKbACbAl@nCe@ZiAd@g@Zo@VUBw@GKICQ@SRcCZ{FBUFE|@RnBLHDLJ@^KlA?d@p@xCEFOFaAT_Ah@}@\\W?_@YM@CCGW@a@VwC@qAHe@By@Fk@BEBADAPFd@HpBTNFHH@H?LOzAA`@Ln@XbADVAHGJeA`@iAl@q@TeAEQKCM@QNyAb@qH@OBCr@LX?z@Ld@BJBJHDL?PKdCBRZlAJl@AFeAX}@f@BEi@PSJKHSBQ?g@KFBE@IECQ?SL{A@UDD@GAq@@GHMFa@AaBDiAF_@FA^Nj@JlBRFDBH?HKrACp@VtAXdACFMHWDg@Ps@h@Q@YNc@J[Ak@MKO@OF_ANcBBeALuBFu@FMJAlAV|APTDJJJLBN?NObA?X@JRn@P~@FN`@[DG"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.991797,
+      145.085014
+    ],
+    "end_latlng": [
+      -37.990402,
+      145.083347
+    ],
+    "average_speed": 2.624,
+    "max_speed": 8.2,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 29.4,
+    "elev_low": 16.4,
+    "upload_id": 4356844753,
+    "upload_id_str": "4356844753",
+    "external_id": "8b3d501d-cbf7-4c9e-a1b3-fd8a721fee57-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 1,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "10min warm-up 5min/2min interval x4",
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [
+      {
+        "id": 2741501479338428876,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 233,
+        "moving_time": 202,
+        "start_date": "2020-09-17T01:48:51Z",
+        "start_date_local": "2020-09-17T11:48:51Z",
+        "distance": 444.1,
+        "start_index": 119,
+        "end_index": 303,
+        "device_watts": false,
+        "segment": {
+          "id": 8404578,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise",
+          "activity_type": "Run",
+          "distance": 444.1,
+          "average_grade": -0.0,
+          "maximum_grade": 3.2,
+          "elevation_high": 23.8,
+          "elevation_low": 20.1,
+          "start_latlng": [
+            -37.990501,
+            145.083011
+          ],
+          "end_latlng": [
+            -37.9905,
+            145.083032
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2912645646231295042,
+        "resource_state": 2,
+        "name": "Parkdale Members' Wing 200",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 105,
+        "moving_time": 90,
+        "start_date": "2020-09-17T01:48:55Z",
+        "start_date_local": "2020-09-17T11:48:55Z",
+        "distance": 209.0,
+        "start_index": 122,
+        "end_index": 205,
+        "device_watts": false,
+        "segment": {
+          "id": 30698522,
+          "resource_state": 2,
+          "name": "Parkdale Members' Wing 200",
+          "activity_type": "Run",
+          "distance": 209.0,
+          "average_grade": -1.1,
+          "maximum_grade": 1.6,
+          "elevation_high": 32.0,
+          "elevation_low": 28.8,
+          "start_latlng": [
+            -37.990403,
+            145.082915
+          ],
+          "end_latlng": [
+            -37.991772,
+            145.082994
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2741501479339103692,
+        "resource_state": 2,
+        "name": "Gerry Green anti-clockwise",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 242,
+        "moving_time": 212,
+        "start_date": "2020-09-17T01:52:45Z",
+        "start_date_local": "2020-09-17T11:52:45Z",
+        "distance": 444.1,
+        "start_index": 304,
+        "end_index": 498,
+        "device_watts": false,
+        "segment": {
+          "id": 8404578,
+          "resource_state": 2,
+          "name": "Gerry Green anti-clockwise",
+          "activity_type": "Run",
+          "distance": 444.1,
+          "average_grade": -0.0,
+          "maximum_grade": 3.2,
+          "elevation_high": 23.8,
+          "elevation_low": 20.1,
+          "start_latlng": [
+            -37.990501,
+            145.083011
+          ],
+          "end_latlng": [
+            -37.9905,
+            145.083032
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2912645646229964866,
+        "resource_state": 2,
+        "name": "Parkdale Members' Wing 200",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 102,
+        "moving_time": 88,
+        "start_date": "2020-09-17T01:52:49Z",
+        "start_date_local": "2020-09-17T11:52:49Z",
+        "distance": 209.0,
+        "start_index": 307,
+        "end_index": 385,
+        "device_watts": false,
+        "segment": {
+          "id": 30698522,
+          "resource_state": 2,
+          "name": "Parkdale Members' Wing 200",
+          "activity_type": "Run",
+          "distance": 209.0,
+          "average_grade": -1.1,
+          "maximum_grade": 1.6,
+          "elevation_high": 32.0,
+          "elevation_low": 28.8,
+          "start_latlng": [
+            -37.990403,
+            145.082915
+          ],
+          "end_latlng": [
+            -37.991772,
+            145.082994
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2741501479335888332,
+        "resource_state": 2,
+        "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 203,
+        "moving_time": 202,
+        "start_date": "2020-09-17T01:57:03Z",
+        "start_date_local": "2020-09-17T11:57:03Z",
+        "distance": 611.5,
+        "start_index": 511,
+        "end_index": 680,
+        "device_watts": false,
+        "segment": {
+          "id": 24580233,
+          "resource_state": 2,
+          "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+          "activity_type": "Run",
+          "distance": 611.5,
+          "average_grade": -0.4,
+          "maximum_grade": 20.0,
+          "elevation_high": 31.2,
+          "elevation_low": 16.2,
+          "start_latlng": [
+            -37.989938,
+            145.082992
+          ],
+          "end_latlng": [
+            -37.989978,
+            145.083039
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [
+          {
+            "type_id": 2,
+            "type": "overall",
+            "rank": 5
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2823044132776036924,
+        "resource_state": 2,
+        "name": "Hills aren't real",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 38,
+        "moving_time": 38,
+        "start_date": "2020-09-17T01:59:42Z",
+        "start_date_local": "2020-09-17T11:59:42Z",
+        "distance": 128.0,
+        "start_index": 644,
+        "end_index": 675,
+        "device_watts": false,
+        "segment": {
+          "id": 28238887,
+          "resource_state": 2,
+          "name": "Hills aren't real",
+          "activity_type": "Run",
+          "distance": 128.0,
+          "average_grade": 5.5,
+          "maximum_grade": 12.8,
+          "elevation_high": 24.9,
+          "elevation_low": 17.8,
+          "start_latlng": [
+            -37.990113,
+            145.084569
+          ],
+          "end_latlng": [
+            -37.990219,
+            145.083278
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2741501479336383948,
+        "resource_state": 2,
+        "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 253,
+        "moving_time": 207,
+        "start_date": "2020-09-17T02:00:28Z",
+        "start_date_local": "2020-09-17T12:00:28Z",
+        "distance": 611.5,
+        "start_index": 682,
+        "end_index": 877,
+        "device_watts": false,
+        "segment": {
+          "id": 24580233,
+          "resource_state": 2,
+          "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+          "activity_type": "Run",
+          "distance": 611.5,
+          "average_grade": -0.4,
+          "maximum_grade": 20.0,
+          "elevation_high": 31.2,
+          "elevation_low": 16.2,
+          "start_latlng": [
+            -37.989938,
+            145.082992
+          ],
+          "end_latlng": [
+            -37.989978,
+            145.083039
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2823044132776815164,
+        "resource_state": 2,
+        "name": "Hills aren't real",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 44,
+        "moving_time": 42,
+        "start_date": "2020-09-17T02:03:51Z",
+        "start_date_local": "2020-09-17T12:03:51Z",
+        "distance": 128.0,
+        "start_index": 835,
+        "end_index": 872,
+        "device_watts": false,
+        "segment": {
+          "id": 28238887,
+          "resource_state": 2,
+          "name": "Hills aren't real",
+          "activity_type": "Run",
+          "distance": 128.0,
+          "average_grade": 5.5,
+          "maximum_grade": 12.8,
+          "elevation_high": 24.9,
+          "elevation_low": 17.8,
+          "start_latlng": [
+            -37.990113,
+            145.084569
+          ],
+          "end_latlng": [
+            -37.990219,
+            145.083278
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2741501479339113932,
+        "resource_state": 2,
+        "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 223,
+        "moving_time": 214,
+        "start_date": "2020-09-17T02:04:44Z",
+        "start_date_local": "2020-09-17T12:04:44Z",
+        "distance": 611.5,
+        "start_index": 880,
+        "end_index": 1065,
+        "device_watts": false,
+        "segment": {
+          "id": 24580233,
+          "resource_state": 2,
+          "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+          "activity_type": "Run",
+          "distance": 611.5,
+          "average_grade": -0.4,
+          "maximum_grade": 20.0,
+          "elevation_high": 31.2,
+          "elevation_low": 16.2,
+          "start_latlng": [
+            -37.989938,
+            145.082992
+          ],
+          "end_latlng": [
+            -37.989978,
+            145.083039
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2823044132775761468,
+        "resource_state": 2,
+        "name": "Hills aren't real",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 45,
+        "moving_time": 44,
+        "start_date": "2020-09-17T02:07:34Z",
+        "start_date_local": "2020-09-17T12:07:34Z",
+        "distance": 128.0,
+        "start_index": 1022,
+        "end_index": 1059,
+        "device_watts": false,
+        "segment": {
+          "id": 28238887,
+          "resource_state": 2,
+          "name": "Hills aren't real",
+          "activity_type": "Run",
+          "distance": 128.0,
+          "average_grade": 5.5,
+          "maximum_grade": 12.8,
+          "elevation_high": 24.9,
+          "elevation_low": 17.8,
+          "start_latlng": [
+            -37.990113,
+            145.084569
+          ],
+          "end_latlng": [
+            -37.990219,
+            145.083278
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2741501479341173196,
+        "resource_state": 2,
+        "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 266,
+        "moving_time": 218,
+        "start_date": "2020-09-17T02:08:28Z",
+        "start_date_local": "2020-09-17T12:08:28Z",
+        "distance": 611.5,
+        "start_index": 1066,
+        "end_index": 1267,
+        "device_watts": false,
+        "segment": {
+          "id": 24580233,
+          "resource_state": 2,
+          "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+          "activity_type": "Run",
+          "distance": 611.5,
+          "average_grade": -0.4,
+          "maximum_grade": 20.0,
+          "elevation_high": 31.2,
+          "elevation_low": 16.2,
+          "start_latlng": [
+            -37.989938,
+            145.082992
+          ],
+          "end_latlng": [
+            -37.989978,
+            145.083039
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2823044132777654844,
+        "resource_state": 2,
+        "name": "Hills aren't real",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 42,
+        "moving_time": 40,
+        "start_date": "2020-09-17T02:12:03Z",
+        "start_date_local": "2020-09-17T12:12:03Z",
+        "distance": 128.0,
+        "start_index": 1226,
+        "end_index": 1260,
+        "device_watts": false,
+        "segment": {
+          "id": 28238887,
+          "resource_state": 2,
+          "name": "Hills aren't real",
+          "activity_type": "Run",
+          "distance": 128.0,
+          "average_grade": 5.5,
+          "maximum_grade": 12.8,
+          "elevation_high": 24.9,
+          "elevation_low": 17.8,
+          "start_latlng": [
+            -37.990113,
+            145.084569
+          ],
+          "end_latlng": [
+            -37.990219,
+            145.083278
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2741501479343601100,
+        "resource_state": 2,
+        "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 209,
+        "moving_time": 202,
+        "start_date": "2020-09-17T02:12:55Z",
+        "start_date_local": "2020-09-17T12:12:55Z",
+        "distance": 611.5,
+        "start_index": 1268,
+        "end_index": 1441,
+        "device_watts": false,
+        "segment": {
+          "id": 24580233,
+          "resource_state": 2,
+          "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+          "activity_type": "Run",
+          "distance": 611.5,
+          "average_grade": -0.4,
+          "maximum_grade": 20.0,
+          "elevation_high": 31.2,
+          "elevation_low": 16.2,
+          "start_latlng": [
+            -37.989938,
+            145.082992
+          ],
+          "end_latlng": [
+            -37.989978,
+            145.083039
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2823044132775020092,
+        "resource_state": 2,
+        "name": "Hills aren't real",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 36,
+        "moving_time": 36,
+        "start_date": "2020-09-17T02:15:40Z",
+        "start_date_local": "2020-09-17T12:15:40Z",
+        "distance": 128.0,
+        "start_index": 1406,
+        "end_index": 1434,
+        "device_watts": false,
+        "segment": {
+          "id": 28238887,
+          "resource_state": 2,
+          "name": "Hills aren't real",
+          "activity_type": "Run",
+          "distance": 128.0,
+          "average_grade": 5.5,
+          "maximum_grade": 12.8,
+          "elevation_high": 24.9,
+          "elevation_low": 17.8,
+          "start_latlng": [
+            -37.990113,
+            145.084569
+          ],
+          "end_latlng": [
+            -37.990219,
+            145.083278
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2741501479339755980,
+        "resource_state": 2,
+        "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 277,
+        "moving_time": 218,
+        "start_date": "2020-09-17T02:16:27Z",
+        "start_date_local": "2020-09-17T12:16:27Z",
+        "distance": 611.5,
+        "start_index": 1443,
+        "end_index": 1640,
+        "device_watts": false,
+        "segment": {
+          "id": 24580233,
+          "resource_state": 2,
+          "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+          "activity_type": "Run",
+          "distance": 611.5,
+          "average_grade": -0.4,
+          "maximum_grade": 20.0,
+          "elevation_high": 31.2,
+          "elevation_low": 16.2,
+          "start_latlng": [
+            -37.989938,
+            145.082992
+          ],
+          "end_latlng": [
+            -37.989978,
+            145.083039
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2823044132777942588,
+        "resource_state": 2,
+        "name": "Hills aren't real",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 44,
+        "moving_time": 42,
+        "start_date": "2020-09-17T02:20:12Z",
+        "start_date_local": "2020-09-17T12:20:12Z",
+        "distance": 128.0,
+        "start_index": 1600,
+        "end_index": 1634,
+        "device_watts": false,
+        "segment": {
+          "id": 28238887,
+          "resource_state": 2,
+          "name": "Hills aren't real",
+          "activity_type": "Run",
+          "distance": 128.0,
+          "average_grade": 5.5,
+          "maximum_grade": 12.8,
+          "elevation_high": 24.9,
+          "elevation_low": 17.8,
+          "start_latlng": [
+            -37.990113,
+            145.084569
+          ],
+          "end_latlng": [
+            -37.990219,
+            145.083278
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2741501479342815692,
+        "resource_state": 2,
+        "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 214,
+        "moving_time": 204,
+        "start_date": "2020-09-17T02:21:06Z",
+        "start_date_local": "2020-09-17T12:21:06Z",
+        "distance": 611.5,
+        "start_index": 1642,
+        "end_index": 1802,
+        "device_watts": false,
+        "segment": {
+          "id": 24580233,
+          "resource_state": 2,
+          "name": "Beacon, Marriott, Chandler Imes St Hill Loop",
+          "activity_type": "Run",
+          "distance": 611.5,
+          "average_grade": -0.4,
+          "maximum_grade": 20.0,
+          "elevation_high": 31.2,
+          "elevation_low": 16.2,
+          "start_latlng": [
+            -37.989938,
+            145.082992
+          ],
+          "end_latlng": [
+            -37.989978,
+            145.083039
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2823044132775305788,
+        "resource_state": 2,
+        "name": "Hills aren't real",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 38,
+        "moving_time": 38,
+        "start_date": "2020-09-17T02:24:01Z",
+        "start_date_local": "2020-09-17T12:24:01Z",
+        "distance": 128.0,
+        "start_index": 1775,
+        "end_index": 1801,
+        "device_watts": false,
+        "segment": {
+          "id": 28238887,
+          "resource_state": 2,
+          "name": "Hills aren't real",
+          "activity_type": "Run",
+          "distance": 128.0,
+          "average_grade": 5.5,
+          "maximum_grade": 12.8,
+          "elevation_high": 24.9,
+          "elevation_low": 17.8,
+          "start_latlng": [
+            -37.990113,
+            145.084569
+          ],
+          "end_latlng": [
+            -37.990219,
+            145.083278
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.4,
+        "elapsed_time": 483,
+        "elevation_difference": 0.6,
+        "moving_time": 480,
+        "split": 1,
+        "average_speed": 2.09,
+        "average_grade_adjusted_speed": 2.2,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.0,
+        "elapsed_time": 341,
+        "elevation_difference": 1.0,
+        "moving_time": 338,
+        "split": 2,
+        "average_speed": 2.96,
+        "average_grade_adjusted_speed": 3.05,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.8,
+        "elapsed_time": 390,
+        "elevation_difference": -6.5,
+        "moving_time": 373,
+        "split": 3,
+        "average_speed": 2.68,
+        "average_grade_adjusted_speed": 2.74,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.1,
+        "elapsed_time": 395,
+        "elevation_difference": 11.7,
+        "moving_time": 382,
+        "split": 4,
+        "average_speed": 2.62,
+        "average_grade_adjusted_speed": 2.81,
+        "pace_zone": 0
+      },
+      {
+        "distance": 997.8,
+        "elapsed_time": 395,
+        "elevation_difference": -12.6,
+        "moving_time": 370,
+        "split": 5,
+        "average_speed": 2.7,
+        "average_grade_adjusted_speed": 2.71,
+        "pace_zone": 0
+      },
+      {
+        "distance": 875.1,
+        "elapsed_time": 300,
+        "elevation_difference": 7.7,
+        "moving_time": 296,
+        "split": 6,
+        "average_speed": 2.96,
+        "average_grade_adjusted_speed": 3.14,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1611.8,
+        "elapsed_time": 706,
+        "elevation_difference": 1.1,
+        "moving_time": 700,
+        "split": 1,
+        "average_speed": 2.3,
+        "average_grade_adjusted_speed": 2.41,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.7,
+        "elapsed_time": 580,
+        "elevation_difference": -2.7,
+        "moving_time": 563,
+        "split": 2,
+        "average_speed": 2.86,
+        "average_grade_adjusted_speed": 2.95,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.2,
+        "elapsed_time": 665,
+        "elevation_difference": 0.4,
+        "moving_time": 630,
+        "split": 3,
+        "average_speed": 2.56,
+        "average_grade_adjusted_speed": 2.67,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1045.5,
+        "elapsed_time": 353,
+        "elevation_difference": 3.1,
+        "moving_time": 346,
+        "split": 4,
+        "average_speed": 3.02,
+        "average_grade_adjusted_speed": 3.15,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 13339192692,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 2307,
+        "moving_time": 2307,
+        "start_date": "2020-09-17T01:46:30Z",
+        "start_date_local": "2020-09-17T11:46:30Z",
+        "distance": 5876.24,
+        "average_speed": 2.55,
+        "max_speed": 8.2,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1811,
+        "total_elevation_gain": 111.6,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941321,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 120,
+        "moving_time": 120,
+        "start_date": "2020-09-17T02:19:15Z",
+        "start_date_local": "2020-09-17T12:19:15Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1554,
+        "end_index": 1649
+      },
+      {
+        "id": 29111941451,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 255,
+        "moving_time": 255,
+        "start_date": "2020-09-17T01:55:42Z",
+        "start_date_local": "2020-09-17T11:55:42Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 446,
+        "end_index": 656
+      },
+      {
+        "id": 29111941584,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 325,
+        "moving_time": 325,
+        "start_date": "2020-09-17T01:55:24Z",
+        "start_date_local": "2020-09-17T11:55:24Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 431,
+        "end_index": 700
+      },
+      {
+        "id": 29111941737,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 567,
+        "moving_time": 567,
+        "start_date": "2020-09-17T01:55:40Z",
+        "start_date_local": "2020-09-17T11:55:40Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 444,
+        "end_index": 898
+      },
+      {
+        "id": 29111941862,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1181,
+        "moving_time": 1181,
+        "start_date": "2020-09-17T01:55:42Z",
+        "start_date_local": "2020-09-17T11:55:42Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 446,
+        "end_index": 1392
+      },
+      {
+        "id": 29111941956,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 4071245777,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1882,
+        "moving_time": 1882,
+        "start_date": "2020-09-17T01:53:30Z",
+        "start_date_local": "2020-09-17T11:53:30Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 340,
+        "end_index": 1810
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava Android App",
+    "embed_token": "c80eb5ad9dc9fe0171991738b5fef26d9df80fb2",
+    "similar_activities": {
+      "effort_count": 29,
+      "average_speed": 2.766822885814837,
+      "min_average_speed": 2.1518228279386715,
+      "mid_average_speed": 2.652912693379158,
+      "max_average_speed": 3.4582202111613873,
+      "pr_rank": 1,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.6244752121482806,
+          2.960203730262142,
+          3.109468016968688,
+          3.14857921084568,
+          3.2635984122009414
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.1518228279386715,
+        "mid_speed": 2.652912693379158,
+        "max_speed": 3.4582202111613873,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

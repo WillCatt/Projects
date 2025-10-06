@@ -1,0 +1,173 @@
+{
+  "cached_at": "2025-10-06T18:17:16.845497",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Work Dog Walk",
+    "distance": 1819.1,
+    "moving_time": 1203,
+    "elapsed_time": 1675,
+    "total_elevation_gain": 12.7,
+    "type": "Walk",
+    "sport_type": "Walk",
+    "id": 5332647846,
+    "start_date": "2021-05-21T03:32:48Z",
+    "start_date_local": "2021-05-21T13:32:48Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 3,
+    "comment_count": 2,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a5332647846",
+      "polyline": "|opfFyw~tZk@f@i@r@c@f@EHADA?@ECDAAaAlAG@EFILUd@IIAFSX{@~@KHAADBABIB?@@AWRADBGMIWc@OKKWEAKOEFQIMCGBk@MI?@Bb@HL?JCTJVBTZNb@JHNT?DB@N[NODI?BB@JGRa@b@_@CDAELQLE?IRSDM@@DGFAJKJQb@a@`@e@pAuA@GEMIGWa@IEI?I@OHAPYRAAEJLEj@k@HAHFXb@HF@E@BB?DQ`@[b@m@RKJOBBIBd@g@^q@XW@HHCd@s@JKAC@CRQFCAGBD@ACCRQBOr@w@ZYE@pAwAEB@MVQd@e@NQJSJAI@_@d@C??AU\\AFCD]Zu@~@IH@CC@U^GRA@ACGBABMHELAGGF?FIJE?S\\@CMJEAIJI@]WQIY?MB?DC?S?YCGB?NFLAFKYA@EA@B",
+      "resource_state": 3,
+      "summary_polyline": "|opfFyw~tZk@f@i@r@c@f@EHADA?@ECDAAaAlAG@EFILUd@IIAFSX{@~@KHAADBABIB?@@AWRADBGMIWc@OKKWEAKOEFQIMCGBk@MI?@Bb@HL?JCTJVBTZNb@JHNT?DB@N[NODI?BB@JGRa@b@_@CDAELQLE?IRSDM@@DGFAJKJQb@a@`@e@pAuA@GEMIGWa@IEI?I@OHAPYRAAEJLEj@k@HAHFXb@HF@E@BB?DQ`@[b@m@RKJOBBIBd@g@^q@XW@HHCd@s@JKAC@CRQFCAGBD@ACCRQBOr@w@ZYE@pAwAEB@MVQd@e@NQJSJAI@_@d@C??AU\\AFCD]Zu@~@IH@CC@U^GRA@ACGBABMHELAGGF?FIJE?S\\@CMJEAIJI@]WQIY?MB?DC?S?YCGB?NFLAFKYA@EA@B"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.936787,
+      145.161091
+    ],
+    "end_latlng": [
+      -37.937071,
+      145.162476
+    ],
+    "average_speed": 1.512,
+    "max_speed": 6.0,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 75.6,
+    "elev_low": 64.9,
+    "upload_id": 5679888167,
+    "upload_id_str": "5679888167",
+    "external_id": "c2ae29f5-4583-4a49-b8d8-bfea122e6373-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": "Hibiki ",
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": false,
+    "segment_efforts": [],
+    "splits_metric": [
+      {
+        "distance": 1001.5,
+        "elapsed_time": 902,
+        "elevation_difference": 0.1,
+        "moving_time": 653,
+        "split": 1,
+        "average_speed": 1.53,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 817.6,
+        "elapsed_time": 773,
+        "elevation_difference": -2.8,
+        "moving_time": 550,
+        "split": 2,
+        "average_speed": 1.49,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1610.2,
+        "elapsed_time": 1386,
+        "elevation_difference": -5.8,
+        "moving_time": 1037,
+        "split": 1,
+        "average_speed": 1.55,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      },
+      {
+        "distance": 208.9,
+        "elapsed_time": 289,
+        "elevation_difference": 3.1,
+        "moving_time": 166,
+        "split": 2,
+        "average_speed": 1.26,
+        "average_grade_adjusted_speed": null,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 17367924672,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 5332647846,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1674,
+        "moving_time": 1674,
+        "start_date": "2021-05-21T03:32:48Z",
+        "start_date_local": "2021-05-21T13:32:48Z",
+        "distance": 1819.05,
+        "average_speed": 1.09,
+        "max_speed": 6.0,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 1139,
+        "total_elevation_gain": 13.1,
+        "device_watts": false
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava Android App",
+    "embed_token": "16becef49c1bf6c5fca382917d602f09330a5773",
+    "available_zones": []
+  }
+}

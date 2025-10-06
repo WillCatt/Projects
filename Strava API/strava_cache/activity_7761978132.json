@@ -1,0 +1,652 @@
+{
+  "cached_at": "2025-10-06T17:22:00.047908",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Afternoon Run",
+    "distance": 3093.4,
+    "moving_time": 845,
+    "elapsed_time": 849,
+    "total_elevation_gain": 18.2,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 7761978132,
+    "start_date": "2022-09-06T05:33:16Z",
+    "start_date_local": "2022-09-06T15:33:16Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 6,
+    "kudos_count": 2,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a7761978132",
+      "polyline": "zykfFgbztZ?G\\`@BEp@b@~@NFI^GXQVg@BM@OFMDaAA]E]Ka@MYOUa@a@SKg@KU@a@LMPAPGPKh@G`ADn@Ln@R\\Z`@f@T\\DVI^UL[Ja@FsBMi@M]a@i@e@Y]E_@F[PSj@Ox@Ab@Dp@Ff@N^NPB@F?NP\\RZFJ@REVOLOPa@Jq@?KD_@Ai@EWUk@W_@SQOQI?WG]?YHULENGFOt@Gt@B`@AJJ`@AJPb@`@h@XNd@LP@JAXKHI@GJILUHc@FeAAi@EWEOQYEOY[YU]Oc@@UHKHE?MPENQv@Gn@Bh@Jn@@BJ^Zb@`@Rh@LXARGNIRWNk@JaAGcAEQUg@_@i@a@YWG[@c@NOPMXQ|@Ex@?VPt@N\\ZZVRh@NR@FCN@HCZ[Pe@JiA?GCCDWCCOeA]k@SU]Q]I[@YHIFKNQb@CXIZAh@?PFd@HVJXX`@TPv@XRAb@SRWJWHk@Dk@EcAGUO[Wc@q@c@WIM@EC@A",
+      "resource_state": 3,
+      "summary_polyline": "zykfFgbztZ?G\\`@BEp@b@~@NFI^GXQVg@BM@OFMDaAA]E]Ka@MYOUa@a@SKg@KU@a@LMPAPGPKh@G`ADn@Ln@R\\Z`@f@T\\DVI^UL[Ja@FsBMi@M]a@i@e@Y]E_@F[PSj@Ox@Ab@Dp@Ff@N^NPB@F?NP\\RZFJ@REVOLOPa@Jq@?KD_@Ai@EWUk@W_@SQOQI?WG]?YHULENGFOt@Gt@B`@AJJ`@AJPb@`@h@XNd@LP@JAXKHI@GJILUHc@FeAAi@EWEOQYEOY[YU]Oc@@UHKHE?MPENQv@Gn@Bh@Jn@@BJ^Zb@`@Rh@LXARGNIRWNk@JaAGcAEQUg@_@i@a@YWG[@c@NOPMXQ|@Ex@?VPt@N\\ZZVRh@NR@FCN@HCZ[Pe@JiA?GCCDWCCOeA]k@SU]Q]I[@YHIFKNQb@CXIZAh@?PFd@HVJXX`@TPv@XRAb@SRWJWHk@Dk@EcAGUO[Wc@q@c@WIM@EC@A"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.912778835743666,
+      145.13715994544327
+    ],
+    "end_latlng": [
+      -37.91329080238938,
+      145.1387005392462
+    ],
+    "average_speed": 3.661,
+    "max_speed": 8.416,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 93.8,
+    "elev_low": 89.1,
+    "upload_id": 8289033635,
+    "upload_id_str": "8289033635",
+    "external_id": "817D4CBC-93AF-4AE2-A13C-72E13FDCCC2D-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 2,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3002108623944439416,
+        "resource_state": 2,
+        "name": "Monash Clayton Laps (Anticlockwise)",
+        "activity": {
+          "id": 7761978132,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 131,
+        "moving_time": 131,
+        "start_date": "2022-09-06T05:33:17Z",
+        "start_date_local": "2022-09-06T15:33:17Z",
+        "distance": 411.396,
+        "start_index": 1,
+        "end_index": 131,
+        "device_watts": false,
+        "segment": {
+          "id": 2740480,
+          "resource_state": 2,
+          "name": "Monash Clayton Laps (Anticlockwise)",
+          "activity_type": "Run",
+          "distance": 411.396,
+          "average_grade": -0.2,
+          "maximum_grade": 4.4,
+          "elevation_high": 92.4,
+          "elevation_low": 84.3,
+          "start_latlng": [
+            -37.91291893925518,
+            145.13729036785662
+          ],
+          "end_latlng": [
+            -37.91280649602413,
+            145.13755573891103
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Clayton",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3002108623945528952,
+        "resource_state": 2,
+        "name": "Monash Clayton Laps (Anticlockwise)",
+        "activity": {
+          "id": 7761978132,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 121,
+        "moving_time": 121,
+        "start_date": "2022-09-06T05:35:35Z",
+        "start_date_local": "2022-09-06T15:35:35Z",
+        "distance": 411.396,
+        "start_index": 138,
+        "end_index": 258,
+        "device_watts": false,
+        "segment": {
+          "id": 2740480,
+          "resource_state": 2,
+          "name": "Monash Clayton Laps (Anticlockwise)",
+          "activity_type": "Run",
+          "distance": 411.396,
+          "average_grade": -0.2,
+          "maximum_grade": 4.4,
+          "elevation_high": 92.4,
+          "elevation_low": 84.3,
+          "start_latlng": [
+            -37.91291893925518,
+            145.13729036785662
+          ],
+          "end_latlng": [
+            -37.91280649602413,
+            145.13755573891103
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Clayton",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3002108623946534520,
+        "resource_state": 2,
+        "name": "Monash Clayton Laps (Anticlockwise)",
+        "activity": {
+          "id": 7761978132,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 116,
+        "moving_time": 116,
+        "start_date": "2022-09-06T05:37:41Z",
+        "start_date_local": "2022-09-06T15:37:41Z",
+        "distance": 411.396,
+        "start_index": 263,
+        "end_index": 379,
+        "device_watts": false,
+        "segment": {
+          "id": 2740480,
+          "resource_state": 2,
+          "name": "Monash Clayton Laps (Anticlockwise)",
+          "activity_type": "Run",
+          "distance": 411.396,
+          "average_grade": -0.2,
+          "maximum_grade": 4.4,
+          "elevation_high": 92.4,
+          "elevation_low": 84.3,
+          "start_latlng": [
+            -37.91291893925518,
+            145.13729036785662
+          ],
+          "end_latlng": [
+            -37.91280649602413,
+            145.13755573891103
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Clayton",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3002108623944857208,
+        "resource_state": 2,
+        "name": "Monash Clayton Laps (Anticlockwise)",
+        "activity": {
+          "id": 7761978132,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 115,
+        "moving_time": 115,
+        "start_date": "2022-09-06T05:39:44Z",
+        "start_date_local": "2022-09-06T15:39:44Z",
+        "distance": 411.396,
+        "start_index": 385,
+        "end_index": 500,
+        "device_watts": false,
+        "segment": {
+          "id": 2740480,
+          "resource_state": 2,
+          "name": "Monash Clayton Laps (Anticlockwise)",
+          "activity_type": "Run",
+          "distance": 411.396,
+          "average_grade": -0.2,
+          "maximum_grade": 4.4,
+          "elevation_high": 92.4,
+          "elevation_low": 84.3,
+          "start_latlng": [
+            -37.91291893925518,
+            145.13729036785662
+          ],
+          "end_latlng": [
+            -37.91280649602413,
+            145.13755573891103
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Clayton",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3002108623946279544,
+        "resource_state": 2,
+        "name": "Monash Clayton Laps (Anticlockwise)",
+        "activity": {
+          "id": 7761978132,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 118,
+        "moving_time": 118,
+        "start_date": "2022-09-06T05:41:47Z",
+        "start_date_local": "2022-09-06T15:41:47Z",
+        "distance": 411.396,
+        "start_index": 507,
+        "end_index": 625,
+        "device_watts": false,
+        "segment": {
+          "id": 2740480,
+          "resource_state": 2,
+          "name": "Monash Clayton Laps (Anticlockwise)",
+          "activity_type": "Run",
+          "distance": 411.396,
+          "average_grade": -0.2,
+          "maximum_grade": 4.4,
+          "elevation_high": 92.4,
+          "elevation_low": 84.3,
+          "start_latlng": [
+            -37.91291893925518,
+            145.13729036785662
+          ],
+          "end_latlng": [
+            -37.91280649602413,
+            145.13755573891103
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Clayton",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3002108623943644792,
+        "resource_state": 2,
+        "name": "Monash Clayton Laps (Anticlockwise)",
+        "activity": {
+          "id": 7761978132,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 115,
+        "moving_time": 115,
+        "start_date": "2022-09-06T05:43:52Z",
+        "start_date_local": "2022-09-06T15:43:52Z",
+        "distance": 411.396,
+        "start_index": 632,
+        "end_index": 744,
+        "device_watts": false,
+        "segment": {
+          "id": 2740480,
+          "resource_state": 2,
+          "name": "Monash Clayton Laps (Anticlockwise)",
+          "activity_type": "Run",
+          "distance": 411.396,
+          "average_grade": -0.2,
+          "maximum_grade": 4.4,
+          "elevation_high": 92.4,
+          "elevation_low": 84.3,
+          "start_latlng": [
+            -37.91291893925518,
+            145.13729036785662
+          ],
+          "end_latlng": [
+            -37.91280649602413,
+            145.13755573891103
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Clayton",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1002.2,
+        "elapsed_time": 280,
+        "elevation_difference": -0.6,
+        "moving_time": 280,
+        "split": 1,
+        "average_speed": 3.58,
+        "average_grade_adjusted_speed": 3.71,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.8,
+        "elapsed_time": 266,
+        "elevation_difference": -0.6,
+        "moving_time": 266,
+        "split": 2,
+        "average_speed": 3.76,
+        "average_grade_adjusted_speed": 3.88,
+        "pace_zone": 0
+      },
+      {
+        "distance": 998.5,
+        "elapsed_time": 269,
+        "elevation_difference": -0.1,
+        "moving_time": 269,
+        "split": 3,
+        "average_speed": 3.71,
+        "average_grade_adjusted_speed": 3.84,
+        "pace_zone": 0
+      },
+      {
+        "distance": 92.9,
+        "elapsed_time": 34,
+        "elevation_difference": 0.0,
+        "moving_time": 30,
+        "split": 4,
+        "average_speed": 3.1,
+        "average_grade_adjusted_speed": 3.09,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1610.1,
+        "elapsed_time": 440,
+        "elevation_difference": -1.3,
+        "moving_time": 440,
+        "split": 1,
+        "average_speed": 3.66,
+        "average_grade_adjusted_speed": 3.78,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1483.3,
+        "elapsed_time": 409,
+        "elevation_difference": 0.0,
+        "moving_time": 405,
+        "split": 2,
+        "average_speed": 3.66,
+        "average_grade_adjusted_speed": 3.78,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 25854140450,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 7761978132,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 851,
+        "moving_time": 851,
+        "start_date": "2022-09-06T05:33:16Z",
+        "start_date_local": "2022-09-06T15:33:16Z",
+        "distance": 3093.38,
+        "average_speed": 3.63,
+        "max_speed": 8.416,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 841,
+        "total_elevation_gain": 18.2,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941285,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 7761978132,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 104,
+        "moving_time": 104,
+        "start_date": "2022-09-06T05:39:01Z",
+        "start_date_local": "2022-09-06T15:39:01Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 343,
+        "end_index": 446
+      },
+      {
+        "id": 29111941406,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 7761978132,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 211,
+        "moving_time": 211,
+        "start_date": "2022-09-06T05:37:33Z",
+        "start_date_local": "2022-09-06T15:37:33Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 255,
+        "end_index": 465
+      },
+      {
+        "id": 29111941538,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 7761978132,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 266,
+        "moving_time": 266,
+        "start_date": "2022-09-06T05:36:17Z",
+        "start_date_local": "2022-09-06T15:36:17Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 180,
+        "end_index": 444
+      },
+      {
+        "id": 29111941659,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 7761978132,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 428,
+        "moving_time": 428,
+        "start_date": "2022-09-06T05:37:33Z",
+        "start_date_local": "2022-09-06T15:37:33Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 255,
+        "end_index": 678
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava iPhone App",
+    "embed_token": "f2e4e3e7df61d28dc07184861fadcb67bc95c0cf",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 3.660828402366864,
+      "min_average_speed": 3.660828402366864,
+      "mid_average_speed": 3.660828402366864,
+      "max_average_speed": 3.660828402366864,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          3.660828402366864
+        ],
+        "current_activity_index": 0,
+        "min_speed": 3.660828402366864,
+        "mid_speed": 3.660828402366864,
+        "max_speed": 3.660828402366864,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

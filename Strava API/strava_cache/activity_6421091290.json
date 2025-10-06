@@ -1,0 +1,644 @@
+{
+  "cached_at": "2025-10-06T18:15:59.558302",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Evening Run",
+    "distance": 6839.2,
+    "moving_time": 2408,
+    "elapsed_time": 2454,
+    "total_elevation_gain": 46.4,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 6421091290,
+    "start_date": "2021-12-24T07:16:57Z",
+    "start_date_local": "2021-12-24T18:16:57Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 2,
+    "kudos_count": 2,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a6421091290",
+      "polyline": "fi{fFixotZE\\FDOd@CR@NGNBJGTCdAGv@@F?LIb@BDCD?PBFJLNFB?VM@GH@NIFGHE^E^_@BFE?KBILI?FJJp@FRF@ANBLPMNEBGAAKHI@EFAPEF?ID@r@a@f@ILF?NBFPJHRh@p@DRNPBNH@DLVT?FFLf@r@FPJHLXXZDFFDLX^j@@DTXFRHDJXJBDDDPDDFDD?BTAFg@b@KPIDYZW^GRM?EDAJMHKP]^MP?HE?MNG?CHE@CCIVMJODCVE?ILKDGNIJ?DNVLHT^N?HRJNLH@HJFNGF@J?NKb@TLARRPFN@RLXH`@BHERCDDFA`@LVARBFCFBFJHFd@BLDJADBl@DDFPAJDLADBD@fBL^HP?JFJAP@JAHHdAJVFdAJX?LBHAXNDCHBFA`@HCJKFa@d@?FDNBZABWRKRYRGRGDu@|@MJe@f@c@l@a@p@_A|@_@h@CJsAvAKRKDSVa@l@k@l@EJg@h@G@SZQPAFWRORQNEHo@p@GREDG@S\\IFKP]Zg@x@a@b@IRIHOVGRSRGHKb@IFS\\AJg@r@CLKJe@bAOPADGH[h@STG??B]HK?GRI?EMQWKSOSWq@GKECMYGAK_@Yc@Ma@UY]s@GEG?GES]SUEIIIMQI?c@KI?QCO@ICG?ICSCG?aAMM?OCQ@EAGG[?m@OC@KEM@]Au@OO?s@MIGOBCCABKAGBIL@ACIg@Kv@JLATDJ?z@HJ?PD^@XDHALHr@DNHR@@@XBDC\\FBCF@j@HBDHAT?ZJN@LDN?ZDP?`@L^p@Nd@Z`@Th@b@r@Rf@NPTj@FDLXj@`APb@JQJU@GHGHMDWLEL_@HGICPIDIf@gAJIL[PUFSNKLe@HIIAAGDGFADEFCHOHEHK?IJKFABEAMFMFCP_@f@e@@IFMLCJSDABGHCV[HUXUPYLKFONIHOHER[FA@KJMZ[PKD??MHCJSV[ZYD@DWDAFOHEV_@RSDOd@c@BOD?FGJQHCDG@GDCBGNMDIHGHK?CVS@GNKFQFCVWPYBIHOJCJOJGH?J[PS`@a@FKVQHSAEBGJGDMJMF?^[DKJKFQa@GIGGDKEQ@g@KK@GC]C]MEBKGQDIAQEg@GEAGSUWECEGSBq@GK?o@MWAa@GO@EEM@IEEEGBi@@UGG@[EGCEDS@MIWGGASBc@SQ?MAIGYAQGE@QE[ACCSAQ?IFO@GCE@[MQBEGQAEIAO_@_@IUKKEMk@k@_@g@]{@WWGOa@i@M[OMGSm@w@m@cAAGq@aAGC?GOQEUQQ?GGGCGECE?ECCMSYCOUYIES[MOUa@?MEI?IEO?IOg@?GN_@FEAC`@Gn@_@\\G^URIHKH?FI@WAGDOAQBQBE?mADSAKDKAGFQ@m@CGBE",
+      "resource_state": 3,
+      "summary_polyline": "fi{fFixotZE\\FDOd@CR@NGNBJGTCdAGv@@TIb@BDCD?PBFJLRFVM@GH@NIFGh@K^_@BFQBILI?FJJp@FRF@@\\`@SBGWHEFAPEF?ID@r@a@f@ILF?NBFPJHRh@p@DRNPBNH@DLVT?FFLf@r@FPJHLX^b@FDLXv@jAFRHDJXPHDPDDLDBTAFg@b@KPc@`@W^GRM?EDAJw@z@MP?HE?MNG?CHIAIVMJODCVE?ILKDGNIJ?DNVLHT^N?HRXX@HJFNGR@NKb@TLARR`@HRLXH`@B\\IDDFA`@Lj@@FCFBPRrBPDFPAXBJDfBLp@HJFh@AHHbD^p@@XNDCP@`@HCJKFa@d@?FHj@ABWRKRYRGRGDu@|@MJe@f@c@l@a@p@_A|@_@h@CJsAvAKRKDSVa@l@yAbBG@g@t@g@f@QNEHo@p@GRMFS\\s@t@g@x@a@b@IRY`@GRSRSl@IFS\\AJg@r@CLKJe@bAOPADGH[h@STG??Bi@HGRI?EMQWKSOSWq@MOMYGAK_@Yc@Ma@UY]s@WKeAyAm@Kk@AyBYo@AMI[?m@O{@CeAO}@UOBCCM@GBIL@ACIg@Kv@JLATDhDTLHr@DNHn@FDC\\FJAj@HBD^AZJzAL`@L^p@Nd@Z`@Th@b@r@Rf@NPTj@FDx@zAPb@JQL]HGHMDWLEL_@HGICPIDIf@gAJIL[PUFSNKLe@HIIAAGDGTK\\a@?IVSAMFMFCP_@f@e@@IFMLCJSDABGHCV[HUXU^e@FONIHOHER[FA@KJMZ[PKD??MHCb@o@ZYD@DWDAPUV_@RSDOd@c@BOLGJQHCDG@Gh@k@HK?CX[NKFQ^[PYLYJCJOJGH?J[PS`@a@FKVQHSAEBGJGP[F?^[PWFQk@OGDeAOq@E]MEBKG[By@MEAGSa@c@SB}@Go@My@IO@EEM@IEEEGBi@@UGG@c@IEDS@e@Q[@c@SQ?WIYAQGE@m@GWEk@Hi@OQBEGQAEIAO_@_@IUKKEMk@k@_@g@]{@WWGOa@i@M[OMGSm@w@o@kAq@aAGC?GOQEUQQ?GKOQGCMSYCOUYIES[MOUa@?MEI?IEO?IOg@?GN_@FEAC`@Gn@_@\\Gr@_@HKH?FI@WAGDOAQBQBE?mADSAKDKAGFQ@m@CGBE"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.9920332506299,
+      145.0843738205731
+    ],
+    "end_latlng": [
+      -37.991945995017886,
+      145.08380049839616
+    ],
+    "average_speed": 2.84,
+    "max_speed": 4.362,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 29.6,
+    "elev_low": 11.2,
+    "upload_id": 6826318479,
+    "upload_id_str": "6826318479",
+    "external_id": "9D5D6848-5E8D-4591-B038-E52B8E5F33AE-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 2909370053448934830,
+        "resource_state": 2,
+        "name": "Boss of Dixon",
+        "activity": {
+          "id": 6421091290,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 84,
+        "moving_time": 84,
+        "start_date": "2021-12-24T07:41:08Z",
+        "start_date_local": "2021-12-24T18:41:08Z",
+        "distance": 236.2,
+        "start_index": 1446,
+        "end_index": 1530,
+        "device_watts": false,
+        "segment": {
+          "id": 29812958,
+          "resource_state": 2,
+          "name": "Boss of Dixon",
+          "activity_type": "Run",
+          "distance": 236.2,
+          "average_grade": -0.8,
+          "maximum_grade": 8.0,
+          "elevation_high": 0.0,
+          "elevation_low": -5.0,
+          "start_latlng": [
+            -37.991595,
+            145.069381
+          ],
+          "end_latlng": [
+            -37.992909,
+            145.067276
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Mentone",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2909370053448932782,
+        "resource_state": 2,
+        "name": "Parkers Road Hill",
+        "activity": {
+          "id": 6421091290,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 207,
+        "moving_time": 205,
+        "start_date": "2021-12-24T07:49:21Z",
+        "start_date_local": "2021-12-24T18:49:21Z",
+        "distance": 599.001,
+        "start_index": 1938,
+        "end_index": 2145,
+        "device_watts": false,
+        "segment": {
+          "id": 3305648,
+          "resource_state": 2,
+          "name": "Parkers Road Hill",
+          "activity_type": "Run",
+          "distance": 599.001,
+          "average_grade": 1.9,
+          "maximum_grade": 5.7,
+          "elevation_high": 22.5,
+          "elevation_low": 11.3,
+          "start_latlng": [
+            -37.999467,
+            145.075769
+          ],
+          "end_latlng": [
+            -37.994157,
+            145.076699
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3207589480014530170,
+        "resource_state": 2,
+        "name": "All the way up Parkers",
+        "activity": {
+          "id": 6421091290,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 395,
+        "moving_time": 391,
+        "start_date": "2021-12-24T07:49:21Z",
+        "start_date_local": "2021-12-24T18:49:21Z",
+        "distance": 1142.0,
+        "start_index": 1938,
+        "end_index": 2333,
+        "device_watts": false,
+        "segment": {
+          "id": 36548561,
+          "resource_state": 2,
+          "name": "All the way up Parkers",
+          "activity_type": "Run",
+          "distance": 1142.0,
+          "average_grade": 1.2,
+          "maximum_grade": 8.1,
+          "elevation_high": 23.8,
+          "elevation_low": 9.8,
+          "start_latlng": [
+            -37.999511,
+            145.075779
+          ],
+          "end_latlng": [
+            -37.990926,
+            145.081124
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 2909370053448253870,
+        "resource_state": 2,
+        "name": "Parker's hill part 2",
+        "activity": {
+          "id": 6421091290,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 153,
+        "moving_time": 151,
+        "start_date": "2021-12-24T07:53:22Z",
+        "start_date_local": "2021-12-24T18:53:22Z",
+        "distance": 455.8,
+        "start_index": 2179,
+        "end_index": 2332,
+        "device_watts": false,
+        "segment": {
+          "id": 4654995,
+          "resource_state": 2,
+          "name": "Parker's hill part 2",
+          "activity_type": "Run",
+          "distance": 455.8,
+          "average_grade": 0.0,
+          "maximum_grade": 3.0,
+          "elevation_high": 21.7,
+          "elevation_low": 18.9,
+          "start_latlng": [
+            -37.993527,
+            145.077356
+          ],
+          "end_latlng": [
+            -37.990869,
+            145.081101
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Parkdale",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1001.3,
+        "elapsed_time": 376,
+        "elevation_difference": 0.3,
+        "moving_time": 365,
+        "split": 1,
+        "average_speed": 2.74,
+        "average_grade_adjusted_speed": 2.8,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.4,
+        "elapsed_time": 350,
+        "elevation_difference": -9.5,
+        "moving_time": 350,
+        "split": 2,
+        "average_speed": 2.86,
+        "average_grade_adjusted_speed": 2.81,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.0,
+        "elapsed_time": 364,
+        "elevation_difference": 3.3,
+        "moving_time": 364,
+        "split": 3,
+        "average_speed": 2.75,
+        "average_grade_adjusted_speed": 2.77,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1000.4,
+        "elapsed_time": 374,
+        "elevation_difference": 2.0,
+        "moving_time": 357,
+        "split": 4,
+        "average_speed": 2.8,
+        "average_grade_adjusted_speed": 2.85,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.3,
+        "elapsed_time": 349,
+        "elevation_difference": -4.5,
+        "moving_time": 349,
+        "split": 5,
+        "average_speed": 2.86,
+        "average_grade_adjusted_speed": 2.84,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.8,
+        "elapsed_time": 352,
+        "elevation_difference": 10.7,
+        "moving_time": 334,
+        "split": 6,
+        "average_speed": 2.99,
+        "average_grade_adjusted_speed": 3.1,
+        "pace_zone": 0
+      },
+      {
+        "distance": 838.0,
+        "elapsed_time": 289,
+        "elevation_difference": -1.1,
+        "moving_time": 289,
+        "split": 7,
+        "average_speed": 2.9,
+        "average_grade_adjusted_speed": 2.92,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1611.9,
+        "elapsed_time": 592,
+        "elevation_difference": -4.4,
+        "moving_time": 581,
+        "split": 1,
+        "average_speed": 2.77,
+        "average_grade_adjusted_speed": 2.8,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1607.4,
+        "elapsed_time": 580,
+        "elevation_difference": 0.6,
+        "moving_time": 580,
+        "split": 2,
+        "average_speed": 2.77,
+        "average_grade_adjusted_speed": 2.78,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1608.8,
+        "elapsed_time": 579,
+        "elevation_difference": -5.1,
+        "moving_time": 562,
+        "split": 3,
+        "average_speed": 2.86,
+        "average_grade_adjusted_speed": 2.86,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.6,
+        "elapsed_time": 561,
+        "elevation_difference": 11.3,
+        "moving_time": 543,
+        "split": 4,
+        "average_speed": 2.97,
+        "average_grade_adjusted_speed": 3.04,
+        "pace_zone": 0
+      },
+      {
+        "distance": 400.5,
+        "elapsed_time": 142,
+        "elevation_difference": -1.2,
+        "moving_time": 142,
+        "split": 5,
+        "average_speed": 2.82,
+        "average_grade_adjusted_speed": 2.83,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 20973613078,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 6421091290,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 2455,
+        "moving_time": 2455,
+        "start_date": "2021-12-24T07:16:57Z",
+        "start_date_local": "2021-12-24T18:16:57Z",
+        "distance": 6839.17,
+        "average_speed": 2.79,
+        "max_speed": 4.362,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 2447,
+        "total_elevation_gain": 46.4,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941342,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 6421091290,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 131,
+        "moving_time": 131,
+        "start_date": "2021-12-24T07:51:08Z",
+        "start_date_local": "2021-12-24T18:51:08Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 2045,
+        "end_index": 2176
+      },
+      {
+        "id": 29111941469,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 6421091290,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 268,
+        "moving_time": 268,
+        "start_date": "2021-12-24T07:50:57Z",
+        "start_date_local": "2021-12-24T18:50:57Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 2034,
+        "end_index": 2302
+      },
+      {
+        "id": 29111941593,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 6421091290,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 333,
+        "moving_time": 333,
+        "start_date": "2021-12-24T07:49:18Z",
+        "start_date_local": "2021-12-24T18:49:18Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1935,
+        "end_index": 2268
+      },
+      {
+        "id": 29111941728,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 6421091290,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 552,
+        "moving_time": 552,
+        "start_date": "2021-12-24T07:39:02Z",
+        "start_date_local": "2021-12-24T18:39:02Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1320,
+        "end_index": 1871
+      },
+      {
+        "id": 29111941838,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 6421091290,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1111,
+        "moving_time": 1111,
+        "start_date": "2021-12-24T07:39:02Z",
+        "start_date_local": "2021-12-24T18:39:02Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1320,
+        "end_index": 2429
+      },
+      {
+        "id": 29111941946,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 6421091290,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1778,
+        "moving_time": 1778,
+        "start_date": "2021-12-24T07:26:21Z",
+        "start_date_local": "2021-12-24T18:26:21Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 561,
+        "end_index": 2336
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava iPhone App",
+    "embed_token": "9b72c55f1091a187ef9df24af31304245657e19a",
+    "similar_activities": {
+      "effort_count": 1,
+      "average_speed": 2.8401993355481725,
+      "min_average_speed": 2.8401993355481725,
+      "mid_average_speed": 2.8401993355481725,
+      "max_average_speed": 2.8401993355481725,
+      "pr_rank": null,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.8401993355481725
+        ],
+        "current_activity_index": 0,
+        "min_speed": 2.8401993355481725,
+        "mid_speed": 2.8401993355481725,
+        "max_speed": 2.8401993355481725,
+        "direction": 0
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

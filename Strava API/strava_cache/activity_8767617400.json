@@ -1,0 +1,1555 @@
+{
+  "cached_at": "2025-10-06T17:21:18.136791",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Afternoon Run",
+    "distance": 7046.9,
+    "moving_time": 2459,
+    "elapsed_time": 2574,
+    "total_elevation_gain": 48.7,
+    "type": "Run",
+    "sport_type": "Run",
+    "workout_type": 0,
+    "id": 8767617400,
+    "start_date": "2023-03-24T06:05:49Z",
+    "start_date_local": "2023-03-24T17:05:49Z",
+    "timezone": "(GMT+10:00) Australia/Melbourne",
+    "utc_offset": 39600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 12,
+    "kudos_count": 4,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a8767617400",
+      "polyline": "peafFepgtZDy@FM?ICIDO@i@Hk@AOHc@AQDQ@[DM?mAHq@AID_@BEAODSDaA?QHq@EILYC[JyABMFGD@EOCSBQCw@@QDGAAF@?a@Jq@?MBECCBM@i@BOAEDg@DQAQHY@UCIFOHmBBGAg@BED{@@aAV{CAo@DEDAPDTCRHj@JP?JDJ?BDHARFp@@NFR?\\B`@FP?JDn@HDALFL?j@JJ?RBRCHDPBJBVDNATFHAB@F?LHR@p@JX@RD\\AZF\\?FBd@FNFZCPBPJN@DAN?VPD@NCDGLANVPF?NFF@ZHPEPBJEJCBG\\KZAj@@\\Hb@Rh@FBXh@d@^XHN?@BV@f@Cj@IZHNJFJ^Sl@EFBRNLGFPJD^B^KVO`@KHAJBVNF`@HAHHRl@EYLC@GDoAUuABMASHOBe@HOFYFGAEe@EE?i@MI?IG_@Ia@BIEI@IDQB]GY@c@SGGOB[MSCOEWAo@UQ?QC[Dk@PO@SF_@R_@h@Kd@Ah@Fj@JZb@v@^\\^Lb@HPCPBj@GRBNA^Rf@Qf@@t@`@H@x@Eh@YVCN?JBj@`ANFFICS@UAG?[BUOeA?_@Fg@DE?KZm@@QGGSF[?KA[KO?OEYBKAO@a@?OBIAKBOIYEMMKSM@Q?IEw@Ag@M]CEDY?[DaAXK?_@RE?KEFROZG^Bp@Jj@R`@\\`@\\XPHd@Fv@?BEP?`@OD?NL@HDCL?NLVOb@@t@\\D?JDP@ZEPMb@O\\EFBLLHj@@AB@HHJ?FFD@DOA_@@QKiAAw@CM@QGQ@GJIPYDO?KCEG?MCM@GG_@GGBe@Ec@@IECDIBW@UCCJQIEDQO_@WMQk@CMGe@EYGYC[@oAZa@D[TMPMb@A`@?n@EFFBPh@\\d@PPd@X\\H|@Cl@IL@PLLTD@DIRIV?HAXDRFZTT@b@Et@]b@ERRJZRVJFBJNWDQCCC[@]MgABq@AQHc@\\w@FA?CGEI?KDc@BAESACEI@MGI?CBKEQAEB[AGDQCGDc@AQKE?QG_@_@KGOCMBK?ABUI_@Gk@QeAMm@AOUQGSSGCWCGFSC[OE@SIIFG?Q@QGKAEKKASQQAGBECM@a@CKCOBUCEEKBeBMc@Kk@EKCc@EUGW?MGMBA@WIk@CYKuAIUEIGMEe@BWMw@EE@MES?sB_@e@?GDSbDExACFMxBIXBTO|ACz@KhACZ@LEb@?RGZ@VEP@XCb@Ir@GdA@RER?RCLIbAA~@Kl@QDAFYXI?YICEYE",
+      "resource_state": 3,
+      "summary_polyline": "peafFepgtZDy@FM?ICIDO@i@Hk@AOHc@AQDQ@[DM?mAHq@AID_@BEAODSDaA?QHq@EILYC[JyABMFGD@EOCSBQCw@@QDGAAF@?a@Jq@?MBECCBM@i@BOAEDg@DQAQHY@UCIFOHmBBGAg@BED{@@aAV{CAo@DEDAPDTCRHtAPBDHARFp@@NFp@B`@FP?JDn@HDALFL?j@JJ?RBRCHD\\FVDNATFHAXJR@p@Jl@F\\AZF\\?FBd@FNFZCPBPJd@?\\RNCDGLANVPF?NFF@ZHPEPBJEJCBG\\KZAj@@\\Hb@Rh@FBXh@d@^j@LV@f@Cj@IZHNJFJ^Sl@EZRLGFPJD^B^KVOj@MJBVNF`@HAHHRl@EYLC@GDoAUuABMASHOBe@HOFYFGAEk@Ei@MI?IG_@Ia@BIEI@IDQB]GY@c@SGGOB[MSCOEWAo@Uc@C[Dk@PO@SF_@R_@h@Kd@Ah@Fj@JZb@v@^\\^Lb@HPCPBj@GRBNA^Rf@Qf@@t@`@H@x@Eh@Yf@CJBj@`ANFFICS@UAG?[BUOeA?_@Fg@DE?KZm@@QGGSF[?KA[K_@EYBKAq@@e@DOIYEMMKS_@@IEw@Ag@M]CEDY?}A^K?_@RQEFROZG^Bp@Jj@R`@\\`@\\XPHd@Fv@?BEP?`@OD?NL@HDCL?NLVOb@@t@\\PDP@ZEPMb@O\\EFBLLHj@D?HHJ?FFD@DOA_@@QKiAAw@CM@QGQ@GJIPYDO?KCEG?MCM@GG_@GGBiACIECDIBm@ACJQIEDQO_@WMQk@CMGe@EYGYC[@oAZa@D[TMPMb@A`@?n@EFFBPh@\\d@PPd@X\\H|@Cl@IL@PLLTD@DIRI`@AXDRFZTT@b@Et@]b@ERRJZRVJFBJNWDQCCC[@]MgABq@AQHc@\\w@FA?CQEKDc@BAESACEI@MGMBKEQAEB[AGDQCGDc@AQKWG_@_@KGOCYBABaBc@eAMm@AOUQGSSGCWCGFSC[OE@SIIFY@QGKAEKKASQQAGBECM@m@GOBUCEEKBeBMc@Kk@EeAQW?MGODWIk@CYKuAIUEWMe@BWM}@CMES?sB_@e@?GDSbDExACFMxBIXBTO|ACz@KhACZ@LEb@?RGZ@VEP@XCb@Ir@GdA@RER?RCLIbAA~@Kl@QDAFYXI?]OYE"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      -37.85833024419844,
+      145.04211293533444
+    ],
+    "end_latlng": [
+      -37.85794509574771,
+      145.0447971560061
+    ],
+    "average_speed": 2.866,
+    "max_speed": 7.95,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 55.5,
+    "elev_low": 30.1,
+    "upload_id": 9409456640,
+    "upload_id_str": "9409456640",
+    "external_id": "1BEBF3CB-8605-4E48-9E26-BDC5B3FFC622-activity.fit",
+    "from_accepted_tag": false,
+    "pr_count": 4,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+      {
+        "id": 3074240431698122378,
+        "resource_state": 2,
+        "name": "High St Hill (Ellis to Burke)",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 173,
+        "moving_time": 167,
+        "start_date": "2023-03-24T06:08:06Z",
+        "start_date_local": "2023-03-24T17:08:06Z",
+        "distance": 439.3,
+        "start_index": 137,
+        "end_index": 309,
+        "device_watts": false,
+        "segment": {
+          "id": 7499612,
+          "resource_state": 2,
+          "name": "High St Hill (Ellis to Burke)",
+          "activity_type": "Run",
+          "distance": 439.3,
+          "average_grade": 4.0,
+          "maximum_grade": 6.1,
+          "elevation_high": 52.1,
+          "elevation_low": 34.0,
+          "start_latlng": [
+            -37.858917,
+            145.046357
+          ],
+          "end_latlng": [
+            -37.85945,
+            145.051226
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Glen Iris",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431699368586,
+        "resource_state": 2,
+        "name": "400 intervals ",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 151,
+        "moving_time": 145,
+        "start_date": "2023-03-24T06:15:29Z",
+        "start_date_local": "2023-03-24T17:15:29Z",
+        "distance": 415.6,
+        "start_index": 577,
+        "end_index": 727,
+        "device_watts": false,
+        "segment": {
+          "id": 27585288,
+          "resource_state": 2,
+          "name": "400 intervals ",
+          "activity_type": "Run",
+          "distance": 415.6,
+          "average_grade": -0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 54.3,
+          "elevation_low": 52.9,
+          "start_latlng": [
+            -37.865155,
+            145.049272
+          ],
+          "end_latlng": [
+            -37.868014,
+            145.047973
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431700442762,
+        "resource_state": 2,
+        "name": "1K repeats",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 367,
+        "moving_time": 335,
+        "start_date": "2023-03-24T06:16:02Z",
+        "start_date_local": "2023-03-24T17:16:02Z",
+        "distance": 992.5,
+        "start_index": 610,
+        "end_index": 952,
+        "device_watts": false,
+        "segment": {
+          "id": 7161763,
+          "resource_state": 2,
+          "name": "1K repeats",
+          "activity_type": "Run",
+          "distance": 992.5,
+          "average_grade": -0.0,
+          "maximum_grade": 3.9,
+          "elevation_high": 56.8,
+          "elevation_low": 50.6,
+          "start_latlng": [
+            -37.865349,
+            145.048257
+          ],
+          "end_latlng": [
+            -37.865097,
+            145.048816
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431698483850,
+        "resource_state": 2,
+        "name": "Central Park 3 Laps",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1163,
+        "moving_time": 1053,
+        "start_date": "2023-03-24T06:18:45Z",
+        "start_date_local": "2023-03-24T17:18:45Z",
+        "distance": 3169.1,
+        "start_index": 748,
+        "end_index": 1816,
+        "device_watts": false,
+        "segment": {
+          "id": 8423642,
+          "resource_state": 2,
+          "name": "Central Park 3 Laps",
+          "activity_type": "Run",
+          "distance": 3169.1,
+          "average_grade": 0.0,
+          "maximum_grade": 4.6,
+          "elevation_high": 56.9,
+          "elevation_low": 50.0,
+          "start_latlng": [
+            -37.868452,
+            145.047632
+          ],
+          "end_latlng": [
+            -37.868379,
+            145.047613
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431699004042,
+        "resource_state": 2,
+        "name": "bottom central",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 50,
+        "moving_time": 50,
+        "start_date": "2023-03-24T06:18:46Z",
+        "start_date_local": "2023-03-24T17:18:46Z",
+        "distance": 156.8,
+        "start_index": 749,
+        "end_index": 799,
+        "device_watts": false,
+        "segment": {
+          "id": 7025225,
+          "resource_state": 2,
+          "name": "bottom central",
+          "activity_type": "Run",
+          "distance": 156.8,
+          "average_grade": -2.5,
+          "maximum_grade": -0.7,
+          "elevation_high": 54.2,
+          "elevation_low": 50.3,
+          "start_latlng": [
+            -37.868485,
+            145.047593
+          ],
+          "end_latlng": [
+            -37.868633,
+            145.049272
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431700396682,
+        "resource_state": 2,
+        "name": "central short rise",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 73,
+        "moving_time": 72,
+        "start_date": "2023-03-24T06:19:36Z",
+        "start_date_local": "2023-03-24T17:19:36Z",
+        "distance": 219.0,
+        "start_index": 799,
+        "end_index": 872,
+        "device_watts": false,
+        "segment": {
+          "id": 7025229,
+          "resource_state": 2,
+          "name": "central short rise",
+          "activity_type": "Run",
+          "distance": 219.0,
+          "average_grade": 2.0,
+          "maximum_grade": 4.8,
+          "elevation_high": 56.0,
+          "elevation_low": 50.3,
+          "start_latlng": [
+            -37.868633,
+            145.049272
+          ],
+          "end_latlng": [
+            -37.866814,
+            145.049723
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431699000970,
+        "resource_state": 2,
+        "name": "CP 1 Lap",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 395,
+        "moving_time": 357,
+        "start_date": "2023-03-24T06:19:37Z",
+        "start_date_local": "2023-03-24T17:19:37Z",
+        "distance": 1027.72,
+        "start_index": 800,
+        "end_index": 1161,
+        "device_watts": false,
+        "segment": {
+          "id": 999221,
+          "resource_state": 2,
+          "name": "CP 1 Lap",
+          "activity_type": "Run",
+          "distance": 1027.72,
+          "average_grade": 0.3,
+          "maximum_grade": 9.0,
+          "elevation_high": 34.6,
+          "elevation_low": 28.4,
+          "start_latlng": [
+            -37.868583323433995,
+            145.0492466893047
+          ],
+          "end_latlng": [
+            -37.86859271116555,
+            145.04926638677716
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431698411146,
+        "resource_state": 2,
+        "name": "400 intervals ",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 151,
+        "moving_time": 150,
+        "start_date": "2023-03-24T06:21:56Z",
+        "start_date_local": "2023-03-24T17:21:56Z",
+        "distance": 415.6,
+        "start_index": 939,
+        "end_index": 1090,
+        "device_watts": false,
+        "segment": {
+          "id": 27585288,
+          "resource_state": 2,
+          "name": "400 intervals ",
+          "activity_type": "Run",
+          "distance": 415.6,
+          "average_grade": -0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 54.3,
+          "elevation_low": 52.9,
+          "start_latlng": [
+            -37.865155,
+            145.049272
+          ],
+          "end_latlng": [
+            -37.868014,
+            145.047973
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431701964426,
+        "resource_state": 2,
+        "name": "1K repeats",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 384,
+        "moving_time": 344,
+        "start_date": "2023-03-24T06:22:29Z",
+        "start_date_local": "2023-03-24T17:22:29Z",
+        "distance": 992.5,
+        "start_index": 972,
+        "end_index": 1321,
+        "device_watts": false,
+        "segment": {
+          "id": 7161763,
+          "resource_state": 2,
+          "name": "1K repeats",
+          "activity_type": "Run",
+          "distance": 992.5,
+          "average_grade": -0.0,
+          "maximum_grade": 3.9,
+          "elevation_high": 56.8,
+          "elevation_low": 50.6,
+          "start_latlng": [
+            -37.865349,
+            145.048257
+          ],
+          "end_latlng": [
+            -37.865097,
+            145.048816
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431700642442,
+        "resource_state": 2,
+        "name": "bottom central",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 53,
+        "moving_time": 53,
+        "start_date": "2023-03-24T06:25:18Z",
+        "start_date_local": "2023-03-24T17:25:18Z",
+        "distance": 156.8,
+        "start_index": 1107,
+        "end_index": 1160,
+        "device_watts": false,
+        "segment": {
+          "id": 7025225,
+          "resource_state": 2,
+          "name": "bottom central",
+          "activity_type": "Run",
+          "distance": 156.8,
+          "average_grade": -2.5,
+          "maximum_grade": -0.7,
+          "elevation_high": 54.2,
+          "elevation_low": 50.3,
+          "start_latlng": [
+            -37.868485,
+            145.047593
+          ],
+          "end_latlng": [
+            -37.868633,
+            145.049272
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431698316938,
+        "resource_state": 2,
+        "name": "central short rise",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 78,
+        "moving_time": 77,
+        "start_date": "2023-03-24T06:26:11Z",
+        "start_date_local": "2023-03-24T17:26:11Z",
+        "distance": 219.0,
+        "start_index": 1160,
+        "end_index": 1237,
+        "device_watts": false,
+        "segment": {
+          "id": 7025229,
+          "resource_state": 2,
+          "name": "central short rise",
+          "activity_type": "Run",
+          "distance": 219.0,
+          "average_grade": 2.0,
+          "maximum_grade": 4.8,
+          "elevation_high": 56.0,
+          "elevation_low": 50.3,
+          "start_latlng": [
+            -37.868633,
+            145.049272
+          ],
+          "end_latlng": [
+            -37.866814,
+            145.049723
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431700062858,
+        "resource_state": 2,
+        "name": "CP 1 Lap",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 409,
+        "moving_time": 370,
+        "start_date": "2023-03-24T06:26:12Z",
+        "start_date_local": "2023-03-24T17:26:12Z",
+        "distance": 1027.72,
+        "start_index": 1161,
+        "end_index": 1540,
+        "device_watts": false,
+        "segment": {
+          "id": 999221,
+          "resource_state": 2,
+          "name": "CP 1 Lap",
+          "activity_type": "Run",
+          "distance": 1027.72,
+          "average_grade": 0.3,
+          "maximum_grade": 9.0,
+          "elevation_high": 34.6,
+          "elevation_low": 28.4,
+          "start_latlng": [
+            -37.868583323433995,
+            145.0492466893047
+          ],
+          "end_latlng": [
+            -37.86859271116555,
+            145.04926638677716
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431701056138,
+        "resource_state": 2,
+        "name": "400 intervals ",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 158,
+        "moving_time": 155,
+        "start_date": "2023-03-24T06:28:39Z",
+        "start_date_local": "2023-03-24T17:28:39Z",
+        "distance": 415.6,
+        "start_index": 1307,
+        "end_index": 1464,
+        "device_watts": false,
+        "segment": {
+          "id": 27585288,
+          "resource_state": 2,
+          "name": "400 intervals ",
+          "activity_type": "Run",
+          "distance": 415.6,
+          "average_grade": -0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 54.3,
+          "elevation_low": 52.9,
+          "start_latlng": [
+            -37.865155,
+            145.049272
+          ],
+          "end_latlng": [
+            -37.868014,
+            145.047973
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431699784330,
+        "resource_state": 2,
+        "name": "1K repeats",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 363,
+        "moving_time": 326,
+        "start_date": "2023-03-24T06:29:14Z",
+        "start_date_local": "2023-03-24T17:29:14Z",
+        "distance": 992.5,
+        "start_index": 1342,
+        "end_index": 1675,
+        "device_watts": false,
+        "segment": {
+          "id": 7161763,
+          "resource_state": 2,
+          "name": "1K repeats",
+          "activity_type": "Run",
+          "distance": 992.5,
+          "average_grade": -0.0,
+          "maximum_grade": 3.9,
+          "elevation_high": 56.8,
+          "elevation_low": 50.6,
+          "start_latlng": [
+            -37.865349,
+            145.048257
+          ],
+          "end_latlng": [
+            -37.865097,
+            145.048816
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431698668170,
+        "resource_state": 2,
+        "name": "bottom central",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 51,
+        "moving_time": 51,
+        "start_date": "2023-03-24T06:32:09Z",
+        "start_date_local": "2023-03-24T17:32:09Z",
+        "distance": 156.8,
+        "start_index": 1488,
+        "end_index": 1539,
+        "device_watts": false,
+        "segment": {
+          "id": 7025225,
+          "resource_state": 2,
+          "name": "bottom central",
+          "activity_type": "Run",
+          "distance": 156.8,
+          "average_grade": -2.5,
+          "maximum_grade": -0.7,
+          "elevation_high": 54.2,
+          "elevation_low": 50.3,
+          "start_latlng": [
+            -37.868485,
+            145.047593
+          ],
+          "end_latlng": [
+            -37.868633,
+            145.049272
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431699845770,
+        "resource_state": 2,
+        "name": "central short rise",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 64,
+        "moving_time": 63,
+        "start_date": "2023-03-24T06:33:00Z",
+        "start_date_local": "2023-03-24T17:33:00Z",
+        "distance": 219.0,
+        "start_index": 1539,
+        "end_index": 1603,
+        "device_watts": false,
+        "segment": {
+          "id": 7025229,
+          "resource_state": 2,
+          "name": "central short rise",
+          "activity_type": "Run",
+          "distance": 219.0,
+          "average_grade": 2.0,
+          "maximum_grade": 4.8,
+          "elevation_high": 56.0,
+          "elevation_low": 50.3,
+          "start_latlng": [
+            -37.868633,
+            145.049272
+          ],
+          "end_latlng": [
+            -37.866814,
+            145.049723
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 2,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 2
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431699851914,
+        "resource_state": 2,
+        "name": "CP 1 Lap",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 364,
+        "moving_time": 331,
+        "start_date": "2023-03-24T06:33:01Z",
+        "start_date_local": "2023-03-24T17:33:01Z",
+        "distance": 1027.72,
+        "start_index": 1540,
+        "end_index": 1873,
+        "device_watts": false,
+        "segment": {
+          "id": 999221,
+          "resource_state": 2,
+          "name": "CP 1 Lap",
+          "activity_type": "Run",
+          "distance": 1027.72,
+          "average_grade": 0.3,
+          "maximum_grade": 9.0,
+          "elevation_high": 34.6,
+          "elevation_low": 28.4,
+          "start_latlng": [
+            -37.868583323433995,
+            145.0492466893047
+          ],
+          "end_latlng": [
+            -37.86859271116555,
+            145.04926638677716
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431701965450,
+        "resource_state": 2,
+        "name": "400 intervals ",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 137,
+        "moving_time": 136,
+        "start_date": "2023-03-24T06:35:04Z",
+        "start_date_local": "2023-03-24T17:35:04Z",
+        "distance": 415.6,
+        "start_index": 1663,
+        "end_index": 1799,
+        "device_watts": false,
+        "segment": {
+          "id": 27585288,
+          "resource_state": 2,
+          "name": "400 intervals ",
+          "activity_type": "Run",
+          "distance": 415.6,
+          "average_grade": -0.0,
+          "maximum_grade": 1.9,
+          "elevation_high": 54.3,
+          "elevation_low": 52.9,
+          "start_latlng": [
+            -37.865155,
+            145.049272
+          ],
+          "end_latlng": [
+            -37.868014,
+            145.047973
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "Victoria",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 1,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 1
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431701887626,
+        "resource_state": 2,
+        "name": "bottom central",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 52,
+        "moving_time": 52,
+        "start_date": "2023-03-24T06:38:12Z",
+        "start_date_local": "2023-03-24T17:38:12Z",
+        "distance": 156.8,
+        "start_index": 1820,
+        "end_index": 1872,
+        "device_watts": false,
+        "segment": {
+          "id": 7025225,
+          "resource_state": 2,
+          "name": "bottom central",
+          "activity_type": "Run",
+          "distance": 156.8,
+          "average_grade": -2.5,
+          "maximum_grade": -0.7,
+          "elevation_high": 54.2,
+          "elevation_low": 50.3,
+          "start_latlng": [
+            -37.868485,
+            145.047593
+          ],
+          "end_latlng": [
+            -37.868633,
+            145.049272
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": null,
+        "achievements": [],
+        "visibility": "everyone",
+        "hidden": false
+      },
+      {
+        "id": 3074240431698342538,
+        "resource_state": 2,
+        "name": "central short rise",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 65,
+        "moving_time": 65,
+        "start_date": "2023-03-24T06:39:04Z",
+        "start_date_local": "2023-03-24T17:39:04Z",
+        "distance": 219.0,
+        "start_index": 1872,
+        "end_index": 1936,
+        "device_watts": false,
+        "segment": {
+          "id": 7025229,
+          "resource_state": 2,
+          "name": "central short rise",
+          "activity_type": "Run",
+          "distance": 219.0,
+          "average_grade": 2.0,
+          "maximum_grade": 4.8,
+          "elevation_high": 56.0,
+          "elevation_low": 50.3,
+          "start_latlng": [
+            -37.868633,
+            145.049272
+          ],
+          "end_latlng": [
+            -37.866814,
+            145.049723
+          ],
+          "elevation_profile": null,
+          "elevation_profiles": null,
+          "climb_category": 0,
+          "city": "Malvern East",
+          "state": "VIC",
+          "country": "Australia",
+          "private": false,
+          "hazardous": false,
+          "starred": false
+        },
+        "pr_rank": 3,
+        "achievements": [
+          {
+            "type_id": 3,
+            "type": "pr",
+            "rank": 3
+          }
+        ],
+        "visibility": "everyone",
+        "hidden": false
+      }
+    ],
+    "splits_metric": [
+      {
+        "distance": 1002.1,
+        "elapsed_time": 364,
+        "elevation_difference": 11.3,
+        "moving_time": 364,
+        "split": 1,
+        "average_speed": 2.75,
+        "average_grade_adjusted_speed": 2.92,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.0,
+        "elapsed_time": 365,
+        "elevation_difference": 2.8,
+        "moving_time": 365,
+        "split": 2,
+        "average_speed": 2.74,
+        "average_grade_adjusted_speed": 2.76,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.8,
+        "elapsed_time": 373,
+        "elevation_difference": 0.5,
+        "moving_time": 350,
+        "split": 3,
+        "average_speed": 2.86,
+        "average_grade_adjusted_speed": 2.87,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.3,
+        "elapsed_time": 401,
+        "elevation_difference": 0.2,
+        "moving_time": 367,
+        "split": 4,
+        "average_speed": 2.72,
+        "average_grade_adjusted_speed": 2.73,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.5,
+        "elapsed_time": 360,
+        "elevation_difference": 0.0,
+        "moving_time": 332,
+        "split": 5,
+        "average_speed": 3.02,
+        "average_grade_adjusted_speed": 3.03,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1001.0,
+        "elapsed_time": 354,
+        "elevation_difference": -4.2,
+        "moving_time": 324,
+        "split": 6,
+        "average_speed": 3.09,
+        "average_grade_adjusted_speed": 3.08,
+        "pace_zone": 0
+      },
+      {
+        "distance": 999.5,
+        "elapsed_time": 340,
+        "elevation_difference": -20.4,
+        "moving_time": 340,
+        "split": 7,
+        "average_speed": 2.94,
+        "average_grade_adjusted_speed": 2.84,
+        "pace_zone": 0
+      },
+      {
+        "distance": 44.7,
+        "elapsed_time": 16,
+        "elevation_difference": -0.6,
+        "moving_time": 16,
+        "split": 8,
+        "average_speed": 2.79,
+        "average_grade_adjusted_speed": 2.73,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 1609.7,
+        "elapsed_time": 587,
+        "elevation_difference": 13.7,
+        "moving_time": 587,
+        "split": 1,
+        "average_speed": 2.74,
+        "average_grade_adjusted_speed": 2.86,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1609.0,
+        "elapsed_time": 626,
+        "elevation_difference": -2.7,
+        "moving_time": 569,
+        "split": 2,
+        "average_speed": 2.83,
+        "average_grade_adjusted_speed": 2.83,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.1,
+        "elapsed_time": 592,
+        "elevation_difference": 2.7,
+        "moving_time": 564,
+        "split": 3,
+        "average_speed": 2.85,
+        "average_grade_adjusted_speed": 2.88,
+        "pace_zone": 0
+      },
+      {
+        "distance": 1610.9,
+        "elapsed_time": 567,
+        "elevation_difference": -0.5,
+        "moving_time": 537,
+        "split": 4,
+        "average_speed": 3.0,
+        "average_grade_adjusted_speed": 3.01,
+        "pace_zone": 0
+      },
+      {
+        "distance": 607.2,
+        "elapsed_time": 201,
+        "elevation_difference": -23.6,
+        "moving_time": 201,
+        "split": 5,
+        "average_speed": 3.02,
+        "average_grade_adjusted_speed": 2.81,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 29727296805,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 2574,
+        "moving_time": 2459,
+        "start_date": "2023-03-24T06:05:49Z",
+        "start_date_local": "2023-03-24T17:05:49Z",
+        "distance": 7046.89,
+        "average_speed": 2.87,
+        "max_speed": 7.95,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 2445,
+        "total_elevation_gain": 48.8,
+        "device_watts": false,
+        "pace_zone": 0
+      }
+    ],
+    "best_efforts": [
+      {
+        "id": 29111941325,
+        "resource_state": 2,
+        "name": "400m",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 122,
+        "moving_time": 122,
+        "start_date": "2023-03-24T06:38:08Z",
+        "start_date_local": "2023-03-24T17:38:08Z",
+        "distance": 400,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1816,
+        "end_index": 1937
+      },
+      {
+        "id": 29111941455,
+        "resource_state": 2,
+        "name": "1/2 mile",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 257,
+        "moving_time": 257,
+        "start_date": "2023-03-24T06:38:08Z",
+        "start_date_local": "2023-03-24T17:38:08Z",
+        "distance": 805,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1816,
+        "end_index": 2071
+      },
+      {
+        "id": 29111941576,
+        "resource_state": 2,
+        "name": "1K",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 321,
+        "moving_time": 321,
+        "start_date": "2023-03-24T06:38:06Z",
+        "start_date_local": "2023-03-24T17:38:06Z",
+        "distance": 1000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1814,
+        "end_index": 2133
+      },
+      {
+        "id": 29111941711,
+        "resource_state": 2,
+        "name": "1 mile",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 532,
+        "moving_time": 532,
+        "start_date": "2023-03-24T06:38:08Z",
+        "start_date_local": "2023-03-24T17:38:08Z",
+        "distance": 1609,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1816,
+        "end_index": 2344
+      },
+      {
+        "id": 29111941852,
+        "resource_state": 2,
+        "name": "2 mile",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1136,
+        "moving_time": 1136,
+        "start_date": "2023-03-24T06:29:40Z",
+        "start_date_local": "2023-03-24T17:29:40Z",
+        "distance": 3219,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 1368,
+        "end_index": 2439
+      },
+      {
+        "id": 29111941949,
+        "resource_state": 2,
+        "name": "5K",
+        "activity": {
+          "id": 8767617400,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 1800,
+        "moving_time": 1800,
+        "start_date": "2023-03-24T06:18:37Z",
+        "start_date_local": "2023-03-24T17:18:37Z",
+        "distance": 5000,
+        "pr_rank": null,
+        "achievements": [],
+        "start_index": 740,
+        "end_index": 2440
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Strava iPhone App",
+    "embed_token": "ef729d70876984bb435c34dfe21c1610fad065e4",
+    "similar_activities": {
+      "effort_count": 2,
+      "average_speed": 2.9168640350877193,
+      "min_average_speed": 2.865758438389589,
+      "mid_average_speed": 2.920165197180535,
+      "max_average_speed": 2.9766777724892908,
+      "pr_rank": 2,
+      "frequency_milestone": null,
+      "trend": {
+        "speeds": [
+          2.9766777724892908,
+          2.920165197180535
+        ],
+        "current_activity_index": 1,
+        "min_speed": 2.865758438389589,
+        "mid_speed": 2.920165197180535,
+        "max_speed": 2.9766777724892908,
+        "direction": -1
+      },
+      "resource_state": 2
+    },
+    "available_zones": []
+  }
+}

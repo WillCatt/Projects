@@ -1,0 +1,157 @@
+{
+  "cached_at": "2025-10-06T17:22:19.138149",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Morning Tennis",
+    "distance": 359.8,
+    "moving_time": 3600,
+    "elapsed_time": 3600,
+    "total_elevation_gain": 0,
+    "type": "Workout",
+    "sport_type": "Tennis",
+    "workout_type": null,
+    "id": 8957448456,
+    "start_date": "2022-08-22T00:41:43Z",
+    "start_date_local": "2022-08-22T10:41:43Z",
+    "timezone": "(GMT+10:00) Antarctica/DumontDUrville",
+    "utc_offset": 36000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 0,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a8957448456",
+      "polyline": "",
+      "resource_state": 3,
+      "summary_polyline": ""
+    },
+    "trainer": true,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [],
+    "end_latlng": [],
+    "average_speed": 0.1,
+    "max_speed": 1.627,
+    "average_cadence": 55.5,
+    "average_temp": 22,
+    "has_heartrate": true,
+    "average_heartrate": 110.7,
+    "max_heartrate": 132.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 110.0,
+    "elev_low": 99.6,
+    "upload_id": 9610866809,
+    "upload_id_str": "9610866809",
+    "external_id": "garmin_ping_271088570243",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 363.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [],
+    "splits_metric": [
+      {
+        "distance": 359.8,
+        "elapsed_time": 3600,
+        "elevation_difference": 9.2,
+        "moving_time": 3600,
+        "split": 1,
+        "average_speed": 0.1,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 110.68138888888889,
+        "pace_zone": 0
+      }
+    ],
+    "splits_standard": [
+      {
+        "distance": 359.8,
+        "elapsed_time": 3600,
+        "elevation_difference": 9.2,
+        "moving_time": 3600,
+        "split": 1,
+        "average_speed": 0.1,
+        "average_grade_adjusted_speed": null,
+        "average_heartrate": 110.68138888888889,
+        "pace_zone": 0
+      }
+    ],
+    "laps": [
+      {
+        "id": 30456236078,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 8957448456,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 3600,
+        "moving_time": 3600,
+        "start_date": "2022-08-22T00:41:43Z",
+        "start_date_local": "2022-08-22T10:41:43Z",
+        "distance": 359.83,
+        "average_speed": 0.1,
+        "max_speed": 1.627,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 271,
+        "total_elevation_gain": 0,
+        "average_cadence": 55.5,
+        "device_watts": false,
+        "average_heartrate": 110.7,
+        "max_heartrate": 132.0
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "e245eef54b1583ae186668ad547494e9b1804b85",
+    "available_zones": []
+  }
+}

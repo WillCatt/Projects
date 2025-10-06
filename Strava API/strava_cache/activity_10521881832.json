@@ -1,0 +1,129 @@
+{
+  "cached_at": "2025-10-06T17:14:02.894069",
+  "activity": {
+    "resource_state": 3,
+    "athlete": {
+      "id": 64341718,
+      "resource_state": 1
+    },
+    "name": "Afternoon Rock Climb",
+    "distance": 0.0,
+    "moving_time": 4460,
+    "elapsed_time": 4460,
+    "total_elevation_gain": 0,
+    "type": "RockClimbing",
+    "sport_type": "RockClimbing",
+    "workout_type": 28,
+    "id": 10521881832,
+    "start_date": "2024-01-09T02:00:33Z",
+    "start_date_local": "2024-01-09T13:00:33Z",
+    "timezone": "(GMT+11:00) Antarctica/Casey",
+    "utc_offset": 39600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 0,
+    "kudos_count": 2,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a10521881832",
+      "polyline": "",
+      "resource_state": 3,
+      "summary_polyline": ""
+    },
+    "trainer": true,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [],
+    "end_latlng": [],
+    "average_speed": 0.0,
+    "max_speed": 0.0,
+    "average_temp": 31,
+    "has_heartrate": true,
+    "average_heartrate": 122.0,
+    "max_heartrate": 155.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 81.4,
+    "elev_low": 68.6,
+    "upload_id": 11258722140,
+    "upload_id_str": "11258722140",
+    "external_id": "garmin_ping_314270421400",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "description": null,
+    "calories": 451.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [],
+    "laps": [
+      {
+        "id": 36309949763,
+        "resource_state": 2,
+        "name": "Lap 1",
+        "activity": {
+          "id": 10521881832,
+          "visibility": "everyone",
+          "resource_state": 1
+        },
+        "athlete": {
+          "id": 64341718,
+          "resource_state": 1
+        },
+        "elapsed_time": 4460,
+        "moving_time": 4460,
+        "start_date": "2024-01-09T02:00:33Z",
+        "start_date_local": "2024-01-09T13:00:33Z",
+        "distance": 0.0,
+        "average_speed": 0.0,
+        "max_speed": 0.0,
+        "lap_index": 1,
+        "split": 1,
+        "start_index": 0,
+        "end_index": 2209,
+        "total_elevation_gain": 0,
+        "device_watts": false,
+        "average_heartrate": 122.0,
+        "max_heartrate": 155.0
+      }
+    ],
+    "photos": {
+      "primary": null,
+      "count": 0
+    },
+    "stats_visibility": [
+      {
+        "type": "heart_rate",
+        "visibility": "everyone"
+      },
+      {
+        "type": "pace",
+        "visibility": "everyone"
+      },
+      {
+        "type": "power",
+        "visibility": "everyone"
+      },
+      {
+        "type": "speed",
+        "visibility": "everyone"
+      },
+      {
+        "type": "calories",
+        "visibility": "everyone"
+      }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Forerunner 745",
+    "embed_token": "698e7a2f196cc164e1629f7e4813c7b4525b0f6f",
+    "available_zones": []
+  }
+}
